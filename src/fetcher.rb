@@ -1,20 +1,34 @@
 require 'nokogiri'
 require 'open-uri'
 require 'yaml'
+require 'colorize'
+
+$stdout.sync = true
 
 class Fetcher
+
+  def ignore_progress?
+    ENV['FETCHER_IGNORE_PROGRESS'].to_i == 1
+  end
 
   def fetch!
     @headlines = current_contents.uniq
     @progress  = YAML.load_file(progress_file_path)[id] || 0
+    @progress  = 0 if ignore_progress?
 
-    puts "Starting from progress #{@progress} with #{@headlines.uniq.count} unique headlines."
+    @start_headline_count = @headlines.length
+
+    puts "Starting from progress #{@progress} with #{@headlines.uniq.count} unique headlines.".yellow
 
     # Subclass me!
   end
 
+  def new_headlines_this_run
+    @headlines.uniq.select{|x| is_valid?(x) }.length - @start_headline_count
+  end
+
   def dictionary_path
-    File.expand_path("../db/#{id}.txt", __FILE__)
+    File.expand_path("../../db/#{id}.txt", __FILE__)
   end
 
   def current_contents
@@ -35,7 +49,7 @@ class Fetcher
   def add_headline!(headline)
     headline = headline.chomp.strip
     unless @headlines.include?(headline)
-      puts "-> " + headline
+      puts "-> " + headline unless ENV['FETCHER_QUIET'].to_i == 1
       @headlines << headline
     end
   end
@@ -47,7 +61,7 @@ class Fetcher
   def write_file
     headlines = @headlines.uniq.select{|x| is_valid?(x) }
     File.open(dictionary_path, 'w') {|f| f.write(headlines.join("\n")) }
-    write_progress
+    write_progress unless ignore_progress?
   end
 
   def progress_file_path
