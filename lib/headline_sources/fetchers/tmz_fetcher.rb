@@ -1,7 +1,7 @@
 require "headline_sources/scraper"
 
 module HeadlineSources
-  class TMZFetcher < Scraper
+  class TmzFetcher < Scraper
 
     def scrape_page(i)
       doc = Nokogiri::HTML(open("http://www.tmz.com/page/#{i}/"))

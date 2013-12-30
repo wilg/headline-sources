@@ -1,5 +1,4 @@
 require "headline_sources/version"
-
-module HeadlineSources
-
-end
+require "headline_sources/fetcher"
+require "headline_sources/reddit_fetcher"
+require "headline_sources/scraper"

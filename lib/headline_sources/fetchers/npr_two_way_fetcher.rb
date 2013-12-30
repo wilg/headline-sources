@@ -1,7 +1,7 @@
 require "headline_sources/scraper"
 
 module HeadlineSources
-  class NPRTwoWayFetcher < Scraper
+  class NprTwoWayFetcher < Scraper
 
     def scrape_page(i)
       doc = Nokogiri::HTML(open("http://www.npr.org/aggregation/103943429/storylist?page=#{i}&live=1"))

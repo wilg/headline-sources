@@ -1,7 +1,7 @@
 require "headline_sources/scraper"
 
 module HeadlineSources
-  class NYTimesLedeFetcher < Scraper
+  class NytimesLedeFetcher < Scraper
 
     def scrape_page(i)
       doc = Nokogiri::HTML(open("http://thelede.blogs.nytimes.com/page/#{i}/"))

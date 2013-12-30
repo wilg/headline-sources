@@ -8,7 +8,7 @@ module HeadlineSources
       ''
     end
 
-    def fetch!
+    def perform_fetch!
       super
 
       reddit = Snoo::Client.new

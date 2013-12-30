@@ -2,25 +2,41 @@ require 'nokogiri'
 require 'open-uri'
 require 'yaml'
 require 'colorize'
-
-# $stdout.sync = true
+require 'active_support/inflector'
+require 'active_support/core_ext/string'
 
 module HeadlineSources
   class Fetcher
 
-    def ignore_progress?
-      ENV['FETCHER_IGNORE_PROGRESS'].to_i == 1
+    def self.find(name)
+      require "headline_sources/fetchers/#{name}_fetcher"
+      "headline_sources/#{name}_fetcher".camelize.constantize.new
     end
 
-    def fetch!
-      @headlines = current_contents.uniq
-      @progress  = YAML.load_file(progress_file_path)[id] || 0
-      @progress  = 0 if ignore_progress?
+    def self.all
+      ls = []
+      Dir.glob(File.expand_path("../fetchers/*", __FILE__)).each do |x|
+        ls << Fetcher.id_from_path(x)
+      end
+      ls
+    end
 
+    def fetch!(options = {})
+      saved_progress = YAML.load_file(progress_file_path)[id] || 1
+      options = {start_at: saved_progress, write_progress: true}.merge(options)
+
+      @dont_write_progress = true if options[:write_progress] == false
+      @progress = options[:start_at]
+
+      @headlines = current_contents.uniq
       @start_headline_count = @headlines.length
 
-      puts "Starting from progress #{@progress} with #{@headlines.uniq.count} unique headlines.".yellow
+      puts "Fetching from progress #{@progress} with #{@headlines.uniq.count} unique headlines.".yellow
 
+      perform_fetch!
+    end
+
+    def perform_fetch!
       # Subclass me!
     end
 
@@ -29,7 +45,7 @@ module HeadlineSources
     end
 
     def dictionary_path
-      File.expand_path("../../db/#{id}.txt", __FILE__)
+      File.expand_path("../../../db/#{id}.txt", __FILE__)
     end
 
     def current_contents
@@ -40,11 +56,15 @@ module HeadlineSources
       end
     end
 
+    def self.id_from_path(path)
+      File.basename(path).split("_fetcher").first
+    end
+
     def id
       path = self.class.instance_methods(false).map { |m|
         self.class.instance_method(m).source_location.first
       }.uniq.first
-      File.basename(path).split("_fetcher").first
+      Fetcher.id_from_path(path)
     end
 
     def add_headline!(headline)
@@ -62,11 +82,11 @@ module HeadlineSources
     def write_file
       headlines = @headlines.uniq.select{|x| is_valid?(x) }
       File.open(dictionary_path, 'w') {|f| f.write(headlines.join("\n")) }
-      write_progress unless ignore_progress?
+      write_progress unless @dont_write_progress == true
     end
 
     def progress_file_path
-      File.expand_path("../db/fetch_progress.yml", File.dirname(__FILE__))
+      File.expand_path("../../db/fetch_progress.yml", File.dirname(__FILE__))
     end
 
     def write_progress

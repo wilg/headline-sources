@@ -1,7 +1,7 @@
 require "headline_sources/scraper"
 
 module HeadlineSources
-  class CNNBlogsFetcher < Scraper
+  class CnnBlogFetcher < Scraper
 
     def scrape_page(i)
       doc = Nokogiri::HTML(open("http://news.blogs.cnn.com/page/#{i}/"))

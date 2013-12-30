@@ -1,7 +1,7 @@
 require "headline_sources/scraper"
 
 module HeadlineSources
-  class ThinkProgressFetcher < Scraper
+  class ThinkprogressFetcher < Scraper
 
     def scrape_page(i)
       doc = Nokogiri::HTML(open("http://thinkprogress.org/page/5#{i}/"))

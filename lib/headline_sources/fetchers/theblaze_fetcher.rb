@@ -1,7 +1,7 @@
 require "headline_sources/scraper"
 
 module HeadlineSources
-  class TheBlazeFetcher < Scraper
+  class TheblazeFetcher < Scraper
 
     def scrape_page(i)
       doc = Nokogiri::HTML(open("http://www.theblaze.com/stories/page/#{i}/"))
