@@ -1,8 +1,4 @@
 source 'https://rubygems.org'
 
-ruby "2.0.0"
-
-gem 'nokogiri'
-gem 'snoo'
-gem 'foreman'
-gem 'colorize'
+# Specify your gem's dependencies in headline-sources.gemspec
+gemspec
