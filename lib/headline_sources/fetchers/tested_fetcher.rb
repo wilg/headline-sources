@@ -10,5 +10,16 @@ module HeadlineSources
       end
     end
 
+    def excluded_matches
+      [
+        "The Inventern",
+        "This Is Only a Test",
+        "Tour Bus Diaries",
+        "Episode",
+        "Totally Unauthorized Commentary",
+        "Tested"
+      ]
+    end
+
   end
 end
