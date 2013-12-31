@@ -5,7 +5,8 @@ module HeadlineSources
   class CommandLine < Thor
 
     desc "fetch SOURCE", "fetch headlines from a sources"
-    method_option :continue, :default => false, type: :boolean
+    method_option :continue, :default => false, type: :boolean, aliases: "-c"
+    method_option :progress, type: :numeric, aliases: "-p"
     def fetch(source)
       $stdout.sync = true
 
@@ -17,12 +18,15 @@ module HeadlineSources
       end
       puts "Fetching with #{fetcher.class.to_s}"
 
-      if options[:continue] == true
+      if options[:progress]
+        puts "Starting at progress #{options[:progress]}."
+        fetcher.fetch!({start_at: options[:progress], write_progress: false})
+      elsif options[:continue] == true
         puts "Continuing from last progress."
         fetcher.fetch!
       else
         puts "Starting at beginning."
-        fetcher.fetch!(start_at: 0, write_progress: false)
+        fetcher.fetch!({start_at: 0, write_progress: false})
       end
 
     end
