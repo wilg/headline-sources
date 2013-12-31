@@ -9,11 +9,11 @@ module HeadlineSources
   class Fetcher
 
     def fetch!(options = {})
-      saved_progress = YAML.load_file(progress_file_path)[id] || 1
+      saved_progress = YAML.load_file(progress_file_path)[id]
       options = {start_at: saved_progress, write_progress: true}.merge(options)
 
-      @dont_write_progress = true if options[:write_progress] == false
-      @progress = options[:start_at]
+      @dont_write_progress = true if !saved_progress.nil? && options[:write_progress] == false
+      @progress = options[:start_at] || 1
 
       @headlines = current_contents.uniq
       @start_headline_count = @headlines.length
@@ -63,7 +63,12 @@ module HeadlineSources
     end
 
     def is_valid?(headline)
-      headline[-1, 1] != "…" # We don't want pre-truncated headlines
+      # We don't want pre-truncated headlines
+      headline[-1, 1] != "…" && !excluded_matches.map{|m| headline.include?(m) }.include?(true)
+    end
+
+    def excluded_matches
+      []
     end
 
     def write_file
