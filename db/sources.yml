@@ -10,6 +10,14 @@ faith_it:
   name: FaithIt
   category: Religion
   default: true
+lifehacker:
+  name: Lifehacker
+  category: Tech
+  default: false
+deadspin:
+  name: Deadspin
+  category: Sports
+  default: false
 nypost:
   name: New York Post
   category: Opinion
@@ -42,6 +50,10 @@ college_humor:
   name: CollegeHumor
   category: Trash
   default: true
+the_chive:
+  name: The Chive
+  category: Trash
+  default: false
 upworthy:
   name: Upworthy
   category: Trash
