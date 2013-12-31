@@ -64,15 +64,22 @@ module HeadlineSources
 
     def is_valid?(headline)
       # We don't want pre-truncated headlines
+      # Override me!
       headline[-1, 1] != "…" && !excluded_matches.map{|m| headline.include?(m) }.include?(true)
     end
 
     def excluded_matches
+      # Override me!
       []
     end
 
+    def format_headline(headline)
+      # Override me!
+      headline
+    end
+
     def write_file
-      headlines = @headlines.uniq.select{|x| is_valid?(x) }
+      headlines = @headlines.uniq.select{|x| is_valid?(x) }.map{|h| format_headline(h) }
       File.open(dictionary_path, 'w') {|f| f.write(headlines.join("\n")) }
       write_progress unless @dont_write_progress == true
     end
