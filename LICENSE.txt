@@ -1,5 +1,5 @@
 Copyright (c) 2013 Wil Gieseler
-Headline Content (and all content under /db/) is (c) Copyright Their Respective Owners
+Headline Content (and all content under the /db and /vendor/assets/images folders) is (c) Copyright Their Respective Owners
 
 MIT License
 

@@ -5,11 +5,16 @@ module HeadlineSources
   class CommandLine < Thor
 
     desc "fetch SOURCE", "fetch headlines from a sources"
-    method_option :continue, :default => false
+    method_option :continue, :default => false, type: :boolean
     def fetch(source)
       $stdout.sync = true
 
-      fetcher = Fetcher.find(source)
+      begin
+        fetcher = Source.find(source).fetcher
+      rescue Exception
+        puts "Couldn't find the source '#{source}'".red
+        return
+      end
       puts "Fetching with #{fetcher.class.to_s}"
 
       if options[:continue] == true
@@ -24,8 +29,14 @@ module HeadlineSources
 
     desc "list", "list available sources"
     def list
-      Fetcher.all.each do |f|
-        puts f
+      max_id = 0
+      Source.all.each do |f|
+        max_id = f.id.length if f.id.length > max_id
+        r = ""
+        (max_id - f.id.length).times do
+          r << " "
+        end
+        puts "#{f.id}#{r}\t#{f.name.cyan}"
       end
     end
 

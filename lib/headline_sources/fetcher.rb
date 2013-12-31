@@ -8,19 +8,6 @@ require 'active_support/core_ext/string'
 module HeadlineSources
   class Fetcher
 
-    def self.find(name)
-      require "headline_sources/fetchers/#{name}_fetcher"
-      "headline_sources/#{name}_fetcher".camelize.constantize.new
-    end
-
-    def self.all
-      ls = []
-      Dir.glob(File.expand_path("../fetchers/*", __FILE__)).each do |x|
-        ls << Fetcher.id_from_path(x)
-      end
-      ls
-    end
-
     def fetch!(options = {})
       saved_progress = YAML.load_file(progress_file_path)[id] || 1
       options = {start_at: saved_progress, write_progress: true}.merge(options)
