@@ -3,9 +3,9 @@ module HeadlineSources
 
     attr_accessor :name, :default, :id, :category
 
-    def self.load(hash)
+    def self.load_hash(hash)
       hash.map do |k, v|
-        s = Source.new
+        s = new
         s.id = k.to_sym
         s.name = v['name']
         s.category = v['category']
@@ -28,7 +28,7 @@ module HeadlineSources
 
     @@all_sources = nil
     def self.all
-      @@all_sources ||= Source.load(YAML.load_file(File.expand_path("../../../db/sources.yml", __FILE__)))
+      @@all_sources ||= load_hash(YAML.load_file(File.expand_path("../../../db/sources.yml", __FILE__)))
     end
 
     def fetcher
