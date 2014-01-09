@@ -54,6 +54,10 @@ the_chive:
   name: The Chive
   category: Trash
   default: false
+bro_bible:
+  name: BroBible
+  category: Trash
+  default: false
 upworthy:
   name: Upworthy
   category: Trash

@@ -36,5 +36,13 @@ module HeadlineSources
       "headline_sources/#{id}_fetcher".camelize.constantize.new
     end
 
+    def hash
+      id.hash
+    end
+
+    def eql?(other)
+      id.eql?(other)
+    end
+
   end
 end
