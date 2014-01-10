@@ -9,6 +9,7 @@ module HeadlineSources
   class Fetcher
 
     def reformat!
+      @dont_write_progress = true
       @headlines = current_contents
       write_file
     end
