@@ -7,6 +7,8 @@ module HeadlineSources
     desc "fetch SOURCE", "fetch headlines from a sources"
     method_option :continue, :default => false, type: :boolean, aliases: "-c"
     method_option :progress, type: :numeric, aliases: "-p"
+    method_option :push_through_repeats, type: :boolean, default: false, aliases: "-r"
+    method_option :push_through_failures, type: :boolean, default: false, aliases: "-f"
     def fetch(source)
       $stdout.sync = true
 
@@ -18,15 +20,17 @@ module HeadlineSources
       end
       puts "Fetching with #{fetcher.class.to_s}".cyan
 
+      default_options = {push_through_repeats: options[:push_through_repeats], push_through_failures: options[:push_through_failures]}
+
       if options[:progress]
         puts "Starting at progress #{options[:progress]}.".green
-        fetcher.fetch!({start_at: options[:progress], write_progress: false})
+        fetcher.fetch!(default_options.merge({start_at: options[:progress], write_progress: false}))
       elsif options[:continue] == true
         puts "Continuing from last progress.".green
-        fetcher.fetch!
+        fetcher.fetch!(default_options)
       else
         puts "Starting at beginning.".green
-        fetcher.fetch!({start_at: 0, write_progress: false})
+        fetcher.fetch!(default_options.merge({start_at: 0, write_progress: false}))
       end
 
     end

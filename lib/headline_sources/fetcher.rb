@@ -18,6 +18,9 @@ module HeadlineSources
       saved_progress = YAML.load_file(progress_file_path)[id]
       options = {start_at: saved_progress, write_progress: true}.merge(options)
 
+      @push_through_repeats = true if options[:push_through_repeats] == true
+      @push_through_failures = true if options[:push_through_failures] == true
+
       @dont_write_progress = true if !saved_progress.nil? && options[:write_progress] == false
       @progress = options[:start_at] || 1
 
@@ -50,7 +53,7 @@ module HeadlineSources
 
           write_file
 
-          if @repeated_page_count == REPEAT_PAGE_LIMIT
+          if @repeated_page_count == REPEAT_PAGE_LIMIT && !@push_through_repeats
             puts "#{REPEAT_PAGE_LIMIT} fetches without new headlines, done.".yellow
             return
           end
@@ -59,7 +62,7 @@ module HeadlineSources
           @failure_count += 1
           puts "*** Failed on #{@progress} (#{@failure_count} / #{FAILURE_LIMIT})".red
           puts e.to_s.red
-          return if @failure_count >= FAILURE_LIMIT
+          return if @failure_count >= FAILURE_LIMIT && !@push_through_failures
         end
       end
     end
