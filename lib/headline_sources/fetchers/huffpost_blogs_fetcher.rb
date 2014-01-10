@@ -3,13 +3,20 @@ require "headline_sources/scraper"
 module HeadlineSources
   class HuffpostBlogsFetcher < Scraper
 
-    def scrape_page_and_progress(date)
-      date = Date.today if date == 0
-      doc = Nokogiri::HTML(open("http://www.huffingtonpost.com/politics/the-blog/#{date.strftime("%Y/%m/%d")}/"))
-      doc.css('.entry_right h3 a').each do |link|
-        add_headline! link.content
-      end
-      return date.prev_day
+    def initial_progress
+      Date.today
+    end
+
+    def next_progress(progress)
+      progress.prev_day
+    end
+
+    def url_for_progress(i)
+      "http://www.huffingtonpost.com/politics/the-blog/#{i.strftime("%Y/%m/%d")}/"
+    end
+
+    def headline_css_selector
+      '.entry_right h3 a'
     end
 
   end

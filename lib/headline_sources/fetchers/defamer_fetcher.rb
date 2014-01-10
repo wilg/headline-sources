@@ -2,7 +2,7 @@ require "headline_sources/scraper"
 require "headline_sources/fetchers/gawker_fetcher"
 
 module HeadlineSources
-  class DefamerFetcher < Scraper
+  class DefamerFetcher < GawkerFetcher
 
     def gawker_domain
       "defamer.gawker.com"

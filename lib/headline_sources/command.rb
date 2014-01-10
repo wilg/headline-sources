@@ -12,20 +12,20 @@ module HeadlineSources
 
       begin
         fetcher = Source.find(source).fetcher
-      rescue Exception
+      rescue StandardError
         puts "Couldn't find the source '#{source}'".red
         return
       end
-      puts "Fetching with #{fetcher.class.to_s}"
+      puts "Fetching with #{fetcher.class.to_s}".cyan
 
       if options[:progress]
-        puts "Starting at progress #{options[:progress]}."
+        puts "Starting at progress #{options[:progress]}.".green
         fetcher.fetch!({start_at: options[:progress], write_progress: false})
       elsif options[:continue] == true
-        puts "Continuing from last progress."
+        puts "Continuing from last progress.".green
         fetcher.fetch!
       else
-        puts "Starting at beginning."
+        puts "Starting at beginning.".green
         fetcher.fetch!({start_at: 0, write_progress: false})
       end
 
@@ -35,9 +35,9 @@ module HeadlineSources
     def batch
       Source.all.each do |source|
         begin
-          puts "Fetching #{source.name}".cyan
+          puts "#{source.name}".cyan
           source.fetcher.fetch!({start_at: 0, write_progress: false})
-        rescue Exception
+        rescue StandardError
           puts "Error occured on source '#{source.name}'".red
         end
       end
@@ -49,7 +49,7 @@ module HeadlineSources
         begin
           puts "Reformatting #{source.name}".cyan
           source.fetcher.reformat!
-        rescue Exception
+        rescue StandardError
           puts "Error occured on source '#{source.name}'".red
         end
       end

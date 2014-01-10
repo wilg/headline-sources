@@ -24,13 +24,15 @@ module HeadlineSources
       @headlines = current_contents
       @start_headline_count = formatted_headlines.length
 
-      puts "Fetching from progress #{@progress} with #{formatted_headlines.count} unique headlines.".yellow
-
       perform_fetch!
     end
 
+    def puts(str)
+      $stdout.puts "    #{str}"
+    end
+
     FAILURE_LIMIT = 3
-    REPEAT_PAGE_LIMIT  = 5
+    REPEAT_PAGE_LIMIT  = 3
 
     def perform_fetch!
       # You can replace this in a subclass if you want, or just use perform_partial_fetch!
@@ -49,14 +51,14 @@ module HeadlineSources
           write_file
 
           if @repeated_page_count == REPEAT_PAGE_LIMIT
-            puts "#{REPEAT_PAGE_LIMIT} repeated partial fetches encountered, stopping.".red
+            puts "#{REPEAT_PAGE_LIMIT} fetches without new headlines, done.".yellow
             return
           end
 
         rescue => e
           @failure_count += 1
           puts "*** Failed on #{@progress} (#{@failure_count} / #{FAILURE_LIMIT})".red
-          puts e.to_s
+          puts e.to_s.red
           return if @failure_count >= FAILURE_LIMIT
         end
       end
@@ -104,7 +106,7 @@ module HeadlineSources
         @headlines << formatted_headline
         af = formatted_headlines.length
         if bef != af
-          puts "-> " + formatted_headline unless ENV['FETCHER_QUIET'].to_i == 1
+          puts "    -> " + formatted_headline unless ENV['FETCHER_QUIET'].to_i == 1
         end
       end
     end
@@ -122,7 +124,7 @@ module HeadlineSources
 
     def format_headline(headline)
       # Override me and call super!
-      headline.chomp.strip.squeeze(" ")
+      headline.gsub(/\r/, " ").gsub(/\n/, " ").chomp.strip.squeeze(" ")
     end
 
     def write_file
