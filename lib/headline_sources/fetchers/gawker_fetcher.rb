@@ -3,12 +3,24 @@ require "headline_sources/scraper"
 module HeadlineSources
   class GawkerFetcher < Scraper
 
-    def scrape_page_and_progress(progress)
-      doc = Nokogiri::HTML(open("http://gawker.com/?startTime=#{progress}"))
-      doc.css('.headline a').each do |link|
-        add_headline! link.content
-      end
-      return doc.css("a.load-more-link").first["href"].split("=").last
+    def gawker_domain
+      "gawker.com"
+    end
+
+  	def initial_progress
+  	  0
+  	end
+
+    def next_progress(progress)
+      @nokogiri_document.css("a.load-more-link").first["href"].split("=").last
+    end
+
+    def url_for_progress(i)
+      "http://#{gawker_domain}/?startTime=#{i}"
+    end
+
+    def headline_css_selector
+      '.headline a'
     end
 
   end

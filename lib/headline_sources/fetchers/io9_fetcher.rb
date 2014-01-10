@@ -1,15 +1,12 @@
 require "headline_sources/scraper"
+require "headline_sources/fetchers/gawker_fetcher"
 
 module HeadlineSources
-  class Io9Fetcher < Scraper
+  class Io9Fetcher < GawkerFetcher
 
-    def scrape_page_and_progress(progress)
-      doc = Nokogiri::HTML(open("http://io9.com/?startTime=#{progress}"))
-      doc.css('.headline a').each do |link|
-        add_headline! link.content
-      end
-      return doc.css("a.load-more-link").first["href"].split("=").last
-    end
+  	def gawker_domain
+  	  "io9.com"
+  	end
 
   end
 end

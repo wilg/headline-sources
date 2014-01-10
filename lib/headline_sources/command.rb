@@ -38,7 +38,19 @@ module HeadlineSources
           puts "Fetching #{source.name}".cyan
           source.fetcher.fetch!({start_at: 0, write_progress: false})
         rescue Exception
-          puts "Error occured on source '#{source}'".red
+          puts "Error occured on source '#{source.name}'".red
+        end
+      end
+    end
+
+    desc "format", "reformat existing headlines from all sources"
+    def format
+      Source.all.each do |source|
+        begin
+          puts "Reformatting #{source.name}".cyan
+          source.fetcher.reformat!
+        rescue Exception
+          puts "Error occured on source '#{source.name}'".red
         end
       end
     end

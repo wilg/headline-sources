@@ -1,15 +1,12 @@
 require "headline_sources/scraper"
+require "headline_sources/fetchers/gawker_fetcher"
 
 module HeadlineSources
-  class LifehackerFetcher < Scraper
+  class LifehackerFetcher < GawkerFetcher
 
-    def scrape_page_and_progress(progress)
-      doc = Nokogiri::HTML(open("http://lifehacker.com/?startTime=#{progress}"))
-      doc.css('.headline a').each do |link|
-        add_headline! link.content
-      end
-      return doc.css("a.load-more-link").first["href"].split("=").last
-    end
+  	def gawker_domain
+  	  "lifehacker.com"
+  	end
 
   end
 end

@@ -8,6 +8,11 @@ require 'active_support/core_ext/string'
 module HeadlineSources
   class Fetcher
 
+    def reformat!
+      @headlines = current_contents.uniq
+      write_file
+    end
+
     def fetch!(options = {})
       saved_progress = YAML.load_file(progress_file_path)[id]
       options = {start_at: saved_progress, write_progress: true}.merge(options)
@@ -88,7 +93,8 @@ module HeadlineSources
     end
 
     def add_headline!(headline)
-      headline = headline.chomp.strip
+      return unless is_valid?(headline)
+      headline = format_headline(headline)
       unless @headlines.include?(headline)
         puts "-> " + headline unless ENV['FETCHER_QUIET'].to_i == 1
         @headlines << headline
@@ -107,12 +113,12 @@ module HeadlineSources
     end
 
     def format_headline(headline)
-      # Override me!
-      headline
+      # Override me and call super!
+      headline.chomp.strip.squeeze(" ")
     end
 
     def write_file
-      headlines = @headlines.uniq.select{|x| is_valid?(x) }.map{|h| format_headline(h) }
+      headlines = @headlines.uniq.select{|x| is_valid?(x) }.map{|h| format_headline(h) }.sort
       File.open(dictionary_path, 'w') {|f| f.write(headlines.join("\n")) }
       write_progress unless @dont_write_progress == true
     end

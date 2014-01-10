@@ -14,8 +14,13 @@ module HeadlineSources
       [
         "The Inventern",
         "This Is Only a Test",
+        "This is Only a Test",
         "Tour Bus Diaries",
         "Episode",
+        "OCTOBERKAST",
+        "Still Untitled",
+        "The Amazing Test",
+        "The As Yet Untitled",
         "Totally Unauthorized Commentary",
         "Tested"
       ]

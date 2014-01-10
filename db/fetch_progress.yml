@@ -1,30 +1,30 @@
 ---
-giantbomb: 4
-buzzfeed: 5
-tmz: 825
-tested: 482
-upworthy: 478
-kotaku: '1354010400328'
-io9: '1344096000899'
-jezebel: '1344896400448'
-gawker: '1351116438217'
-huffpost_blogs: 2012-08-25
-thinkprogress: 100
-theblaze: 370
-nypost: 441
-defamer: '1380303697633'
-guardian_blogs: 221
-cnn_blog: 631
-nature_blog: 690
-nytimes_lede: 497
-npr_two_way: 656
+giantbomb: 
+buzzfeed: 
+tmz: 
+tested: 
+upworthy: 
+kotaku: 
+io9: 
+jezebel: 
+gawker: 
+huffpost_blogs: 
+thinkprogress: 
+theblaze: 
+nypost: 
+defamer: 
+guardian_blogs: 
+cnn_blog: 
+nature_blog: 
+nytimes_lede: 
+npr_two_way: 
 faithit_fetch.rb: 77
-college_humor: 326
-the_chive: 358
-deadspin: '1379087138249'
-lifehacker: '1380195000894'
-bro_bible: 1
-faith_it: 13
-r_politics: t3_1smmp9
-r_funny: t3_1ggp93
-hackernews: 2013-11-22
+college_humor: 
+the_chive: 
+deadspin: 
+lifehacker: 
+bro_bible: 
+faith_it: 
+r_politics: 
+r_funny: 
+hackernews: 

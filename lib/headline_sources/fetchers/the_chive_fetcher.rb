@@ -11,13 +11,16 @@ module HeadlineSources
     end
 
     def format_headline(headline)
+      headline = super
       headline.gsub(/\((.+)\)/, '').gsub("….", "")
     end
 
     def excluded_matches
       [
         "Chive",
-        "CHIVE"
+        "CHIVE",
+        "Daily Afternoon",
+        "Daily Morning"
       ]
     end
 
