@@ -3,47 +3,41 @@ require "headline_sources/fetcher"
 module HeadlineSources
   class Scraper < Fetcher
 
-    FAILURE_LIMIT = 3
-    REPEAT_PAGE_LIMIT  = 5
-
-    def perform_fetch!
-      super
-      @failure_count = 0
-      @repeated_page_count = 0
-      @progress = @progress || 0
-      while true
-        begin
-          puts "Scraping page #{@progress} | #{new_headlines_this_run} new | #{@headlines.length} total".green
-
-          page_start = @headlines.length
-          @progress = scrape_page_and_progress(@progress)
-          page_end = @headlines.length
-
-          @repeated_page_count += 1 if page_end - page_start == 0
-
-          write_file
-
-          if @repeated_page_count == REPEAT_PAGE_LIMIT
-            puts "#{REPEAT_PAGE_LIMIT} already fetched pages encountered, stopping.".red
-            return
-          end
-
-        rescue => e
-          @failure_count += 1
-          puts "*** Failed on #{@progress} (#{@failure_count} / #{FAILURE_LIMIT})".red
-          puts e.to_s
-          return if @failure_count >= FAILURE_LIMIT
-        end
-      end
+    def perform_partial_fetch!
+      puts "Scraping page #{@progress} | #{new_headlines_this_run} new | #{@headlines.length} total".green
+      @progress = initial_progress if @progress == 0
+      @progress = scrape_page_and_progress(@progress)
     end
 
     def scrape_page_and_progress(progress)
       scrape_page(progress)
-      return progress + 1
+      return next_progress(progress)
     end
 
-    def scrape_page(page_number)
-      # add_headline! foo
+    def initial_progress
+      1
+    end
+
+    def next_progress(progress)
+      progress + 1
+    end
+
+    # Override this or override url_for_progress and headline_css_selector
+    def scrape_page(progress)
+      @nokogiri_document = Nokogiri::HTML(open(url_for_progress(progress)))
+      @nokogiri_document.css(headline_css_selector).each do |link|
+        add_headline! link.content
+      end
+    end
+
+    # Override this
+    def url_for_progress(n)
+      nil
+    end
+
+    # Override this
+    def headline_css_selector
+      nil
     end
 
   end

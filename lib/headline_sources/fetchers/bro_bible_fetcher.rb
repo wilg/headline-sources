@@ -10,6 +10,6 @@ module HeadlineSources
       end
       return doc.css("#greatPaginate a.nextPage").first["href"].split("/P").last
     end
+    
   end
-
 end

@@ -23,7 +23,40 @@ module HeadlineSources
       perform_fetch!
     end
 
+    FAILURE_LIMIT = 3
+    REPEAT_PAGE_LIMIT  = 5
+
     def perform_fetch!
+      # You can replace this in a subclass if you want, or just use perform_partial_fetch!
+      @failure_count = 0
+      @repeated_page_count = 0
+      @progress = @progress || 0
+      while true
+        begin
+
+          page_start = @headlines.length
+          perform_partial_fetch!
+          page_end = @headlines.length
+
+          @repeated_page_count += 1 if page_end - page_start == 0
+
+          write_file
+
+          if @repeated_page_count == REPEAT_PAGE_LIMIT
+            puts "#{REPEAT_PAGE_LIMIT} repeated partial fetches encountered, stopping.".red
+            return
+          end
+
+        rescue => e
+          @failure_count += 1
+          puts "*** Failed on #{@progress} (#{@failure_count} / #{FAILURE_LIMIT})".red
+          puts e.to_s
+          return if @failure_count >= FAILURE_LIMIT
+        end
+      end
+    end
+
+    def perform_partial_fetch!
       # Subclass me!
     end
 

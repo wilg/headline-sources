@@ -31,6 +31,18 @@ module HeadlineSources
 
     end
 
+    desc "batch", "batch fetch new items from all sources"
+    def batch
+      Source.all.each do |source|
+        begin
+          puts "Fetching #{source.name}".cyan
+          source.fetcher.fetch!({start_at: 0, write_progress: false})
+        rescue Exception
+          puts "Error occured on source '#{source}'".red
+        end
+      end
+    end
+
     desc "list", "list available sources"
     def list
       max_id = 0
