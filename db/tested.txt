@@ -502,6 +502,7 @@ Astronaut Chris Hadfield's Space Snacks
 Astronauts Can't Really Cry in Space
 Astronomers Discover Our Solar System Doesn't Look Much Like Other Solar Systems
 Asus' Memo Pad HD 7: $130 Nexus 7 Alternative
+At NASA, Bugs Get Splattered for Science
 Audi's Dynamic LED Headlights Are Too Cool for the Road
 Augmented Reality Camera Lucida for Inking (Tracing)
 Augmented Reality Isn't Enough: The Next Step for Digital 3D [Video]
@@ -761,6 +762,13 @@ CES 2013: The Awesome Ways in Which Oculus Rift Will Affect Game Design
 CES 2013: The Promise and Prospects of Nvidia's Project Shield Handheld
 CES 2013: What's Notable about Nvidia's Tegra 4 Chip
 CES 2013: Xi3 Computer Gaming System Optimized for Steam
+CES 2014 Impressions: Curved and Bendable Televisions
+CES 2014 Impressions: Samsung's Pro Tablets
+CES 2014 Impressions: Sigma's New 50mm F/1.4 Lens
+CES 2014 Impressions: Sony's Head-Tracking HMD Prototype
+CES 2014: Hands-On with Oculus VR's New "Crystal Cove" Prototype
+CES 2014: Hands-On with Valve's Steam Controller
+CES: It's Mostly Bullshit
 CNC Routing Turns Plywood Into Halftone Art [Video]
 Cabin in the Woods Designers Talk Lo-Fi Sci-Fi Interfaces
 Cadillac Testing "Super Cruise" Control Technology
@@ -1134,6 +1142,7 @@ Gmail for iOS Released, Pulled for Busted Notifications
 Gmail, Google Docs/Calendar Getting Limited Offline Access
 GoPro Updates HD Hero2 with 120FPS Shooting, 11MP Sensor
 GoPro's Hero3 Sports Cameras Drop Weight, Gain Video Resolution
+Godzilla and The Monsters of Nuclear War
 Going Outside Could Help Your Allergy Problem
 Good Idea: Block Users from Using Common Passwords
 Google Adding Burst and Raw Support to Android Camera API
@@ -1181,6 +1190,7 @@ Google Play App Roundup: Dead Trigger, Word Lens, and Draw Race 2
 Google Play App Roundup: Digg, Siegecraft Defender, and Jack Lumber
 Google Play App Roundup: ES File Explorer, They Need To Be Fed 2, and Hills of Glory 3D
 Google Play App Roundup: Educated Chicken-Riding Robbers
+Google Play App Roundup: Event Flow Calendar Widget, The Cave, and Aaaaaa!
 Google Play App Roundup: Falcon Pro, Locale, Sailboat Championship
 Google Play App Roundup: Field Trip, W.E.L.D.E.R., and Global Outbreak
 Google Play App Roundup: Floating Notifications, Crayon Physics Deluxe, and Color Zen
@@ -1393,6 +1403,7 @@ Homemade Autoloader Archives Collection of 5,000 Floppy Disks
 Homemade Movie: Star Wars "Death Star Trench Run"
 Homemade Record Player Embodies the Spirit of Lo-Fi [Video]
 Homemade UAV Snoops Into Wi-Fi and Cellular Networks
+Hopes and Fears for Android in 2014
 Horror History: Looking Back at 100 Years of Carnival Dark Rides
 Hotel Wi-Fi Found to Be Hijacking Web Sites, Inserting Banner Ad Code
 Hotmail Follows SkyDrive's Lead with Near-Instant Load Times
@@ -1715,6 +1726,7 @@ Instapaper App Comes to Android
 Instapaper Hits 4.0 for iOS 5 with a Slew of Additions
 Intel Adds 4K Support to Thunderbolt, Promises 2X Speeds in 2014
 Intel Announces 4.5 Watt Haswell Chips Aimed at Fanless Tablets
+Intel CES Keynote Focuses on Wearables You Probably Won't Wear
 Intel Debuts Hexa-Core Sandy Bridge Extreme Processors
 Intel Explains How New Ivy Bridge Chips Can Run at 7 Watts
 Intel Fighting to Keep Ultrabook Prices Below $1000
@@ -1814,6 +1826,7 @@ Kubrick's Films - 8/13/2013
 Kyle Glanville of Intelligentsia Makes a Cappuccino
 LED Contact Lens Brings the Future of HUDs Into Focus
 LEDs and Motors Power a Redesigned Street Sign
+LEGO Announces First Official Simpsons Set
 LEGO Faces Trend: Angrier, Smirkier, Cooler, Nuanced
 LEGO Mindstorms Kindle Book Scanner
 LEGO Mine Micro World Kit Now in Production, Pre-Order Available
@@ -1899,6 +1912,7 @@ Living with Photography: Reading a Camera Lens
 Living with Photography: Resolving Exposure
 Living with Photography: Retracing Your Steps
 Living with Photography: S-M-R-T Smart Cameras
+Living with Photography: Shooting CES 2014
 Living with Photography: Shooting Dragon*Con
 Living with Photography: Shooting San Diego Comic-Con
 Living with Photography: Straight Shooting
@@ -2078,6 +2092,7 @@ Makers Are Problem Solvers
 Making $12 Million By Cheating Casinos or Beating the System?
 Making Adam Savage's Admiral Ackbar Cosplay Costume
 Making Eye Exams Affordable with a Smartphone Attachment
+Making a Lifecast of Norm for The Zoidberg Project
 Making a Real-Life Halo Needler Prop
 Making a Working Miniature Main Street Electrical Parade
 Making an Emergency Bike Generator
@@ -2531,6 +2546,10 @@ Practical Effects Masters on the Pros and Cons of CGI
 Practical Special Effects - 8/6/2013
 Precision Gear Porn: Why Mechanical Wrist Watches are so Cool (and Pricey)
 Predicting the Ethical Dilemmas of Fully Autonomous Cars
+Premium: CES Trendspotting and Michael Bay's Breakdown
+Premium: Gearing Up for the First Day of CES 2014
+Premium: Norm's Lifecast Time-Lapse
+Premium: The PC Build Race Disaster of 2014
 Prepare for a Rush of Ultrabooks at CES 2012
 Preview Ubuntu On Your Nexus Smartphones and Tablets This Thursday
 Preview the Technical Papers of SIGGRAPH Asia 2012
@@ -3110,6 +3129,7 @@ Testing the Puzzlebox Orbit Brain-Controlled Helicopter
 Testing: Amazon Kindle Fire HD vs. Google Nexus 7
 Testing: Apple 11-Inch MacBook Air (2013)
 Testing: Apple iPad Air as a Tablet Upgrade
+Testing: Automatic Link Connected Driving Assistant
 Testing: Gaming on the Nvidia Shield
 Testing: Google Chromecast Streaming
 Testing: Google Nexus 5 vs. HTC One vs. Nexus 4
@@ -3119,6 +3139,7 @@ Testing: Lenovo Yoga 2 Pro Ultrabook
 Testing: Microsoft Surface 2 as Tablet
 Testing: Microsoft Surface 2 as a Laptop
 Testing: Nexus 7 (2013) Performance
+Testing: Pencil Bluetooth iPad Stylus
 Testing: Piloting the Helimax 1SQ Mini Quadcopter
 Testing: Salomon XA Pro Hiking Shoes
 Testing: The New Nexus 7's Battery Life
@@ -3172,6 +3193,7 @@ The Best Android Smartphone for Your Network (April 2013)
 The Best Android Smartphone for Your Network (August 2012)
 The Best Android Smartphone for Your Network (August 2013)
 The Best Android Smartphone for Your Network (December 2011)
+The Best Android Smartphone for Your Network (December 2013)
 The Best Android Smartphone for Your Network (February 2012)
 The Best Android Smartphone for Your Network (February 2013)
 The Best Android Smartphone for Your Network (January 2012)
@@ -3204,6 +3226,7 @@ The Best Fitness Tracker Today
 The Best Gaming Laptop Today
 The Best HDTV to Buy Today is the Panasonic ST60
 The Best Home Theater AV Receiver
+The Best Instant Camera Today
 The Best Keyboard Shortcuts in the World #2
 The Best Kitchen Trash Bag
 The Best LED Lightbulb is the Cree Warm White
@@ -3537,6 +3560,7 @@ This Makes Me Feel Weird: Mechanical Typewriter Dock for iPad
 This Might Be Overkill, But A Better Way to Sort LEGO Axels
 This Nixie Tube Chess Set is a Testament to Your Soldering Skills
 This Single Portrait Would Explain Humanity to Aliens
+This Transparent Flexible Circuit Fits on a Contact Lens
 This Traveling Gnome Sells Science Instead of Plane Tickets
 This is PC Gaming: Graphics Downsampling and Screenshot Culture
 This is Soylent, and It's Not People
@@ -3629,6 +3653,7 @@ Utter! Android App Aims to Do Voice Control the Right Way
 VIA Announces $49 Android PC System
 VRCade Brings VR Gaming Into a Physical Space
 Valve Announces Linux-Based SteamOS For the Living Room
+Valve Announces Steam Machine Partners at CES
 Valve Announces Steam Machines Hardware Program
 Valve Demos Its Steam Controller
 Valve Launches Steam Mobile App for iOS and Android
@@ -3723,6 +3748,7 @@ What It Takes to Connect an External GPU to a MacBook
 What It's Like to Live in a Modern Micro-Apartment
 What Kind of Computer User Needs a High-End 17-inch Laptop?
 What New Architecture Means for Qualcomm's Snapdragon Chips
+What Nvidia Tegra K1 Means for Mobile (and PC) Gamers
 What Remains of King Kong's "Brontosaurus"
 What Sandy Bridge Processors Mean for High-End HTPCs
 What Scientists Can Learn from Magicians
@@ -3738,6 +3764,7 @@ What You Can Expect from Powerful ARM SoCs in 2012
 What You Need to Know About Hybrid Storage Drives
 What You Should Know About Internet Explorer 11
 What You Should Know About PRISM and Technology
+What You Should Know About PlayStation Now
 What You Should Know About Windows 8 Server's New File System, ReFS
 What You Should Know Before Importing a Sony PlayStation Vita
 What You Should Know about Android 3.2 for Tablets
@@ -3763,6 +3790,7 @@ What's In Adam's Toolbox (Circa ILM Model-Making Days)
 What's In Your Bag, Matt?
 What's Inside Apple's iPad Mini with Retina Display
 What's Inside Microsoft's Xbox One Console
+What's Inside Xbox One's Kinect Sensor
 What's Inside the Google Nexus 5 Smartphone
 What's New and Notable in Ubuntu 11.10 Oneiric Ocelot
 What's New in Firefox 8, and Why We're Waiting For Firefox 10

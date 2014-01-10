@@ -4,7 +4,7 @@ module HeadlineSources
   class Scraper < Fetcher
 
     def perform_partial_fetch!
-      puts "Scraping page #{@progress} | #{new_headlines_this_run} new | #{@headlines.length} total".green
+      puts "Scraping page #{@progress} | #{new_headlines_this_run} new | #{formatted_headlines.length} total".green
       @progress = initial_progress if @progress == 0
       @progress = scrape_page_and_progress(@progress)
     end

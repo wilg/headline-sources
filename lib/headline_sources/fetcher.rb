@@ -9,7 +9,7 @@ module HeadlineSources
   class Fetcher
 
     def reformat!
-      @headlines = current_contents.uniq
+      @headlines = current_contents
       write_file
     end
 
@@ -20,10 +20,10 @@ module HeadlineSources
       @dont_write_progress = true if !saved_progress.nil? && options[:write_progress] == false
       @progress = options[:start_at] || 1
 
-      @headlines = current_contents.uniq
-      @start_headline_count = @headlines.length
+      @headlines = current_contents
+      @start_headline_count = formatted_headlines.length
 
-      puts "Fetching from progress #{@progress} with #{@headlines.uniq.count} unique headlines.".yellow
+      puts "Fetching from progress #{@progress} with #{formatted_headlines.count} unique headlines.".yellow
 
       perform_fetch!
     end
@@ -39,9 +39,9 @@ module HeadlineSources
       while true
         begin
 
-          page_start = @headlines.length
+          page_start = formatted_headlines.length
           perform_partial_fetch!
-          page_end = @headlines.length
+          page_end = formatted_headlines.length
 
           @repeated_page_count += 1 if page_end - page_start == 0
 
@@ -61,12 +61,16 @@ module HeadlineSources
       end
     end
 
+    def formatted_headlines
+      @headlines.select{|x| is_valid?(x) }.map{|h| format_headline(h) }.uniq
+    end
+
     def perform_partial_fetch!
       # Subclass me!
     end
 
     def new_headlines_this_run
-      @headlines.uniq.select{|x| is_valid?(x) }.length - @start_headline_count
+      formatted_headlines.length - @start_headline_count
     end
 
     def dictionary_path
@@ -93,11 +97,14 @@ module HeadlineSources
     end
 
     def add_headline!(headline)
-      return unless is_valid?(headline)
-      headline = format_headline(headline)
-      unless @headlines.include?(headline)
-        puts "-> " + headline unless ENV['FETCHER_QUIET'].to_i == 1
-        @headlines << headline
+      formatted_headline = format_headline(headline)
+      if is_valid?(headline) && !@headlines.include?(formatted_headline)
+        bef = formatted_headlines.length
+        @headlines << formatted_headline
+        af = formatted_headlines.length
+        if bef != af
+          puts "-> " + formatted_headline unless ENV['FETCHER_QUIET'].to_i == 1
+        end
       end
     end
 
@@ -118,7 +125,7 @@ module HeadlineSources
     end
 
     def write_file
-      headlines = @headlines.uniq.select{|x| is_valid?(x) }.map{|h| format_headline(h) }.sort
+      headlines = formatted_headlines.sort
       File.open(dictionary_path, 'w') {|f| f.write(headlines.join("\n")) }
       write_progress unless @dont_write_progress == true
     end

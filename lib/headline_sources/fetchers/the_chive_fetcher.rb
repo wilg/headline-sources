@@ -11,8 +11,7 @@ module HeadlineSources
     end
 
     def format_headline(headline)
-      headline = super
-      headline.gsub(/\((.+)\)/, '').gsub("….", "")
+      super(headline).gsub(/\((.+)\)/, '').gsub("….", "")
     end
 
     def excluded_matches
