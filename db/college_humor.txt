@@ -45,6 +45,8 @@
 10 Lazy But Effective Travel Tips
 10 More Lazy Pokemon Designs
 10 More Scientific Inaccuracies in 'Gravity'
+10 New New Year's Resolutions (Now That You've Broken Your Old Ones)
+10 New Pop Culture Expressions We Desperately Need
 10 Other Career Switches I'd Like to See
 10 Parts In Home Alone That Still Bother Me
 10 Parts In The Indiana Jones Movies That Still Bother Me
@@ -435,6 +437,7 @@
 6 Ways to Make Easter More Fun
 6 Ways to Ruin Your Family's Christmas Card
 6 of Your Childhood Fears that Came True
+7 Actually Useful Children's Books for Twenty-Somethings
 7 Ads If Settlers of Catan Was Real
 7 Animals That Really Wish This Glass Weren't Here
 7 Animals With Better Dance Moves Than You
@@ -1151,6 +1154,7 @@ Flowchart: What Movie Should You See This Weekend?
 Flowchart: What Reality Show Are You Watching?
 Flowchart: What Sports Media Job Is Best For You?
 Flowchart: What TV Show Are You Watching?
+Flowchart: What iPhone App Should You Open?
 Flowchart: What to Do at an Office Party
 Flowchart: Which Christmas Movie Should You Watch?
 Flowchart: Which Final Fantasy VII Character is Your Favorite?
@@ -1561,6 +1565,7 @@ If The Sorting Hat Sorted Everything
 If The X-Men Went to Public School
 If There Were "Kids Tables" for Other Members of Your Family
 If These Walls Could Talk
+If U.S. Politicians Were The X-Men
 If Upworthy Existed Throughout History
 If Websites Were Pets
 If Winter Break Advertised Like Spring Break
@@ -1781,6 +1786,7 @@ My Screenplay is Largely Autobiographical, Except for all the Murders
 My Summer as a Cake Decorator
 NBA Jam's Grand Champion
 NBA Press Conference Style Guide
+NBC Greenlights 27 New Shows All Somehow Involving Chicago
 NBC's Exciting New All-Public-Domain 2014 Lineup!
 NBC's Schedule After "The Sound of Music Live!"
 NOW What's Happening to My Body: A Puberty Guide for 20-Somethings
@@ -2280,6 +2286,7 @@ The 10 Funniest People Ever Interviewed on the Local News
 The 10 Goodest Ways Public Schools Failed Me
 The 10 Halloween Costumes You'll Wear Through Life
 The 10 Kids on Your Youth Basketball Team
+The 10 Kinds Of News Stories Everyone Needs To Stop Reading
 The 10 Lamest Rap Brags
 The 10 Least Used Bat Gadgets
 The 10 Lies You Tell Yourself Every All-Nighter
@@ -2335,6 +2342,7 @@ The 5 Best Twitter .TXT Accounts
 The 5 Dumbest Conversations on Facebook
 The 5 Facebook Messages You'll Get (and Send)
 The 5 Members of Your Final Group Project
+The 5 Miis on Your Wii U
 The 5 Most Important Things You Should (But Won't) Learn From a College Business Degree
 The 5 Most Worthless College Resources
 The 5 People Not To Be At a New Year's Eve Party
@@ -2381,6 +2389,7 @@ The 7 Most Difficult Cases in LA Noire
 The 7 Parents You'll See at Comic Con
 The 7 People You See On Public Transportation
 The 7 People You See in Your Dorm Bathroom
+The 7 People You'll Run Into When You Come Back From Winter Break
 The 7 People You're Always Splitting the Bill With
 The 7 Sexiest Abstinence PSAs to Jerk It To
 The 7 Stages in the Life Cycle of Apple Earbuds
@@ -2434,6 +2443,7 @@ The Best TIME 'Millennials' Cover Parodies
 The Best Videos Ever (of the Week), In Case You Missed It (December 13, 2013)
 The Best Videos Ever (of the Week), In Case You Missed It (December 20, 2013)
 The Best Videos Ever (of the Week), In Case You Missed It (December 6, 2013)
+The Best Videos Ever (of the Week), In Case You Missed It (January 10, 2014)
 The Best Videos Ever (of the Week), In Case You Missed It (November 22, 2013)
 The Best Videos Ever (of the Week), In Case You Missed It (November 29, 2013)
 The Best Way to Beat the Heat
@@ -2977,6 +2987,7 @@ What You Think When You Read Your Favorite Kids' Books as An Adult
 What You're Actually Saying With Your Reading Material
 What You're Reading at Every Stage of Your Life
 What You're Really Buying at the Gift Shop
+What You're Really Saying With Your Instagram Post
 What You're Really Saying with Your Choice of Dog Breed
 What You're Saying With Your Haircut
 What You're Saying With Your Picture Face
@@ -3004,6 +3015,7 @@ What to Expect From Obama's DNC Speech
 What to Expect When You're Expecting to Maybe Get a Job
 What to Say When Someone Knocks on the Bathroom Door
 What to Talk About Now That the Super Bowl Has Passed
+What your Email Response Time Says About You
 What your Super Smash Bros Character Says About You
 What's It Like To Be The Pope?
 What's Underneath Justin Bieber's Hair?
@@ -3021,6 +3033,7 @@ Who Should Star in Your Action Movie?
 Who the Hell Are These People Giving One-Star Porn Reviews?
 Who's a Good Boy?
 Whoa! Can You Believe these Wacky Laws are Real?
+Why "Friends" Is Secretly About The 7 Deadly Sins
 Why Beyonce and Jay-Z Need to Break Up
 Why Darth Vader REALLY Killed Obi-Wan
 Why Do Bad Things Happen?
@@ -3088,6 +3101,7 @@ Your Crazy Weekend [Edited for Your Parents]
 Your Dog Licked My Balls
 Your Favorite Doctors Weigh in on the Healthcare Ruling
 Your First Mistake Was Trying to Make Sense of the Internet
+Your Friends' Confusing Finance Jobs EXPLAINED
 Your Girlfriend's Actual Seven "Evil Exes"
 Your Guide to Understanding College A Cappella
 Your High School Friends Are Animorphs

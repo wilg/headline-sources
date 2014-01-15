@@ -27,6 +27,7 @@ $99 Refurbished Kindle Price Points to Kindle 4 Launch
 10 Inventive New Uses For Obsolete Technology
 10 Lifehacks For Your Car and Driving Habits
 10 Niche Search Engines That Still Do Something Google Can't
+10 Places Robots and A.I. are Hiding in Plain Sight
 10 Scientific Cooking Tricks That’ll Make Your Life Easier
 10 Years of Roomba Hacks: From Magic Marker Art to Combat
 1080p Phones Mean New Challenges for Mobile Batteries in 2013
@@ -766,8 +767,13 @@ CES 2014 Impressions: Curved and Bendable Televisions
 CES 2014 Impressions: Samsung's Pro Tablets
 CES 2014 Impressions: Sigma's New 50mm F/1.4 Lens
 CES 2014 Impressions: Sony's Head-Tracking HMD Prototype
+CES 2014: Hands-On with Avegant's Glyph Virtual Retinal Display
 CES 2014: Hands-On with Oculus VR's New "Crystal Cove" Prototype
 CES 2014: Hands-On with Valve's Steam Controller
+CES 2014: MakerBot's 3 New Replicator 3D Printers
+CES 2014: Modern Pinball Machines
+CES 2014: Razer's "Project Christine" Gaming PC Concept
+CES 2014: Sony's Full-Frame Compact Cameras
 CES: It's Mostly Bullshit
 CNC Routing Turns Plywood Into Halftone Art [Video]
 Cabin in the Woods Designers Talk Lo-Fi Sci-Fi Interfaces
@@ -1224,6 +1230,7 @@ Google Play App Roundup: Pocket, Radiant Defense, and Spotify beta
 Google Play App Roundup: Quad Drawer, Riptide GP2, and Bounty Arms
 Google Play App Roundup: Quickly, The Sandbox, and Puzzle Retreat
 Google Play App Roundup: Reaper, Dynamic Keyboard, and Terraria
+Google Play App Roundup: Rec, Kami, and Archangel
 Google Play App Roundup: Reddit ET Pro, Retro Athletics, and InstaWiFi
 Google Play App Roundup: Reddit Flow, Rise of the Blobs, and Tupsu
 Google Play App Roundup: Ridiculous Fishing, SidePlayer, and Badland
@@ -2233,6 +2240,7 @@ Multiple Sourced-Reports Peg Apple Event for September 12th
 Museum of Science Fiction Hoping to Open in 2017
 Music Distributor Pulls 200 Small Labels from Spotify and Rdio
 My 10 Rules for Success
+My CES 2014 in Photos
 My Dad, My Inspiration. Happy Father's Day
 My Favorite Android Apps of 2012
 My Favorite Board Games - 2012 Edition
@@ -2720,6 +2728,7 @@ Real Steel: The Secrets to Winning ComBot Battles
 Real World Portal: The Physics Behind the Exploratorium's Giant Mirror
 Recommended Essential Camera Cleaning Gear
 Recovering the Voice of Alexander Graham Bell from a 19th Century Recording
+Recreating the Cray Supercomputer
 Red Pop Adds a Physical Camera Button to the iPhone 4
 Regarding Steve
 Regarding The iPad Mini's Non-Retina Screen and Upgrades
@@ -3224,6 +3233,7 @@ The Best Dash Cam For Your Car Costs $60
 The Best External Desktop Hard Drive Today
 The Best Fitness Tracker Today
 The Best Gaming Laptop Today
+The Best Gear for The New Year
 The Best HDTV to Buy Today is the Panasonic ST60
 The Best Home Theater AV Receiver
 The Best Instant Camera Today
@@ -3411,6 +3421,7 @@ The Origin of the Oregon Trail Computer Game
 The Origin of the Plus and Minus Symbols
 The PC Soldiers On
 The Pace Of Innovation Visualized
+The Paleoartists Who Sculpt Our Ancestors
 The Pen That Draws Silver Circuitry
 The Perplexing Problem of Tablets and Digital Board Games
 The Perplexus Epic vs. Dave [PREMIUM]
@@ -3861,6 +3872,7 @@ Why I Love the Hitchhiker's Guide to the Galaxy
 Why I'm Excited for Pacific Rim
 Why I'm Excited for Sony's NEX-5R Mirrorless Camera
 Why I'm Wary of "Amazing" YouTube Stunts
+Why I've Changed My Mind about Connecting My DVR to My Xbox One
 Why Ice Cream Sandwich May Make or Break Android
 Why Is AT&T Doing You a Favor By Blocking Facetime Over Cellular?
 Why It's Sometimes Better to Buy MicroSD Instead of Full Size SD Card

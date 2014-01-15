@@ -13,6 +13,8 @@ module HeadlineSources
 
     def excluded_matches
       [
+        "Worth Reading",
+        "Worth Playing",
         "Ryan Davis, 1979 - 2013",
         "Top 10",
         "s Top",
