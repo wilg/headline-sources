@@ -529,6 +529,7 @@ B&N Touch Nook vs Amazon Kindle 3 in Overall Usability
 BERG's Little Printer Makes a Case for Printing the Web
 Baboons Successfully Trained to Identify Word Rules
 Baby Reportedly Cured of HIV Infection Could Lead to New Treatment Standards
+Bamboo Bowmaking in Japan
 Barnes & Noble Matches Kindle Fire Pricing with New $199 Nook Tablet
 Bartending Robot Hits Kickstarter
 Battery and Charging Technologies That Could Change Electric Cars
@@ -772,8 +773,10 @@ CES 2014: Hands-On with Oculus VR's New "Crystal Cove" Prototype
 CES 2014: Hands-On with Valve's Steam Controller
 CES 2014: MakerBot's 3 New Replicator 3D Printers
 CES 2014: Modern Pinball Machines
+CES 2014: Parrot MiniDrone Quadcopter
 CES 2014: Razer's "Project Christine" Gaming PC Concept
 CES 2014: Sony's Full-Frame Compact Cameras
+CES 2014: Taste Testing the ChefJet 3D Food Printer
 CES: It's Mostly Bullshit
 CNC Routing Turns Plywood Into Halftone Art [Video]
 Cabin in the Woods Designers Talk Lo-Fi Sci-Fi Interfaces
@@ -1928,6 +1931,7 @@ Living with Photography: Testing the Metabones NEX Adapter
 Living with Photography: The Hold Steady
 Living with Photography: The Influence of Instagram
 Living with Photography: The School of Cosplay Photography
+Living with Photography: What the Heck is an F-Stop?
 Living with Photography: What's Your Priority
 Living with Technology: Blu-Ray vs. Streaming Video
 Living with Technology: Building My Annual Production PC
@@ -3145,6 +3149,7 @@ Testing: Google Nexus 5 vs. HTC One vs. Nexus 4
 Testing: HTC One Google Play Edition
 Testing: Lenovo Yoga 11S Ultrabook
 Testing: Lenovo Yoga 2 Pro Ultrabook
+Testing: Logitech PowerShell Controller for iOS
 Testing: Microsoft Surface 2 as Tablet
 Testing: Microsoft Surface 2 as a Laptop
 Testing: Nexus 7 (2013) Performance
@@ -3547,6 +3552,7 @@ The Zoidberg Project, Part 2: How To Make a Life Cast
 The Zoidberg Project, Part 3: Making a Mold Jacket and Eye Blanks
 The Zoidberg Project, Part 4: Let's Start Sculpting!
 The Zoidberg Project, Part 5: Clawing Away
+The Zoidberg Project, Part 6: How I Got Started
 The iOS 5 Features Apple Didn't Discuss at WWDC
 The iPod Nano's 16 New Watch Faces are a Free Upgrade
 Theoretical vs. Actual Bandwidth: PCI Express and Thunderbolt
@@ -3762,6 +3768,7 @@ What New Architecture Means for Qualcomm's Snapdragon Chips
 What Nvidia Tegra K1 Means for Mobile (and PC) Gamers
 What Remains of King Kong's "Brontosaurus"
 What Sandy Bridge Processors Mean for High-End HTPCs
+What Science Prescribes for Your Love Life
 What Scientists Can Learn from Magicians
 What Shooting Photos at 11 Frames Per Second Sounds Like
 What SpaceX's Dragon Brought to the International Space Station
