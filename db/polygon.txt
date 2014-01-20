@@ -229,6 +229,7 @@ Assassin's Creed 4 gameplay demo shows off open-world activities
 Assassin's Creed 4 gets stab-happy with a Gamescom trailer
 Assassin's Creed 4 launching Nov. 19 on PC
 Assassin's Creed 4 lets you play as Blackbeard in new Blackbeard's Wrath DLC
+Assassin's Creed 4 multiplayer offers double XP on PS3, PS4
 Assassin's Creed 4 to have 'fullest' progression system yet
 Assassin's Creed 4 trailer shows next-gen rain, oceans and stabbing
 Assassin's Creed 4 will run at 1080p natively on PS4 after patch
@@ -256,6 +257,7 @@ Assassin's Creed gets a stand-alone naval battle game
 Assassin's Creed titles discounted on PSN
 Assassin's Creed: Liberation HD hitting PC Jan. 15, Xbox 360 early 2014
 Assassin's Creed: Liberation HD hitting PS3 on Jan. 14
+Assassin's Creed: Liberation HD update
 Assassin's Creed: Pirates launch trailer takes to the high seas
 Assassinâs Creed 4: Black Flag DLC is not headed to Wii U
 Assassinâs Creed 4: Black Flag Lethal Pirate Edition available only at Amazon
@@ -1066,6 +1068,7 @@ Disney Infinity gets BioShock Infinite's Columbia, more themed levels to Toy Box
 Disney Infinity gets a new round of Toy Box content, calls for racing levels
 Disney Infinity on PlayStation 3 locking up due to network issue
 Disney Infinity review: Imagination land
+Disney Infinity sales hit 3 million units
 Disney Interactive Q4 revenue up $205M, thanks to Infinity
 Disney Interactive co-chairman John Pleasants steps down
 Disney Magical World heading to Nintendo 3DS on April 11
@@ -1389,6 +1392,7 @@ Farming Simulator 14 going mobile Nov. 18
 Farming Simulator's biggest fans are farmers, dev says
 Fassbender: Assassin's Creed movie is 'definitely happening'
 Fatal Frame 3: The Tormented launches today on PSN, director discusses horror
+Fearing failure, Reset devs almost pulled their successful crowdfunding campaign
 Fez reaches 1 million sales
 Fez, Starbound and Velocity 2X coming to PS Vita
 Field of streams: how Twitch made video games a spectator sport
@@ -2089,6 +2093,7 @@ How The Elder Scrolls Online balances class choice with character progression
 How The Smashing Pumpkins inspired the side-scrolling brawler Foul Play
 How The Witcher 2 almost never happened
 How Thomas Was Alone's creator reimagines Robin Hood
+How Tiny Brains' developers learned the importance of a community the hard way
 How Transistor makes full use of DualShock 4's light bar
 How Ubisoft developers stopped fearing free-to-play
 How Western games are being 'culturalized' for Arabic countries
@@ -2565,6 +2570,7 @@ Love and hate: A series of The Last of Us letters
 LucasArts veterans take side-scrolling Roman strategy game to Kickstarter
 Ludum Dare 28 game jam yields more than 2,000 games you can play now
 Ludum Dare 28 results announced, One Take claims Overall
+Ludum Dare 28 winner preparing One Take for a full PC release
 Luigi Bros. unlockable, Rosalina playable in Super Mario 3D World
 Luigi actor Danny Wells dies at 72
 Luigi's Mansion Nintendo 3DS bundle, exclusive 2DS deal available this week
@@ -2995,6 +3001,7 @@ Next-gen routers are here with Netgear's Nighthawk
 Next-gen trailer shows off FIFA 14 footage
 Nicalis opens auditions for Legend of Raven commentator
 Nidhogg coming to PC via Steam Jan. 13
+Nidhogg review: riding the snake
 Nightmare and Mitsurugi face off in Soulcalibur 2 HD Online trailer
 NikeFuel integrated with Game Center on new iPhone 5S
 Ninja Theory's Fightback now available on iOS
@@ -3035,6 +3042,7 @@ Nintendo bringing Wii U and 3DS games, panel to IndieCade
 Nintendo buys stake in Niconico owner Dwango
 Nintendo cancels NES Remix contest after exploit
 Nintendo composer remixes theme music as Hiroshi Yamauchi tribute
+Nintendo considers 'new business structure' in wake of losses
 Nintendo delays launch of Pokemon Bank and Poke Transporter
 Nintendo detailing next year's 3DS software in new Nintendo Direct on Nov. 13
 Nintendo dropping Wii U Deluxe price to $299.99 Sept. 20
@@ -3145,6 +3153,7 @@ OlliOlli bringing infinite skateboarding to PS Vita Jan. 21
 OlliOlli launch delayed into 2014
 Om Nom returns in Cut the Rope 2 this winter
 One college, two conferences to opt out of EA Sports licensing
+One half of Vlambeer to keynote IndieCade East
 One night art installation delves into the artistry and culture of Minecraft
 One of the first official iOS controllers sets a low bar for the competition
 Online fighter Xuan Dou Zhi Wang coming to iOS
@@ -4201,6 +4210,7 @@ Star Trek Online Mac beta launching Nov. 12
 Star Trek director J.J. Abrams 'emotionally hurt' by Star Trek: The Video Game
 Star Trek, Jessica Chobot, League of Legends: Speed Run
 Star Wars 1313 concept art, demo detail story starring Boba Fett
+Star Wars 1313 trademark 'abandoned'
 Star Wars Pinball joins Instant Game Collection alongside new sales Aug. 20
 Star Wars Pinball launching on 3DS eShop next week
 Star Wars Pinball: Balance of the Force adds three tables
@@ -4601,6 +4611,7 @@ The Walking Dead: Season 2 launch trailer emphasizes survival
 The Walking Dead: Season Two features the return of another character
 The Walking Dead: Season Two first details, trailer revealed
 The Walking Dead: Season Two's teaser plucks at the heartstrings
+The Wii U is a symptom of a larger disease: Nintendo isn't dying, but it needs to adapt
 The Wii U proves you should wait before buying a new console
 The Wind Waker HD Wii U bundle coming Sept. 20
 The Wind Waker HD hits Wii U Oct. 4 in North America
@@ -4980,6 +4991,7 @@ Velocity Ultra headed to PS3 this year
 Velocity Ultra hits Steam Dec. 12
 Verizon FiOS TV app brings 74 live channels to Xbox One
 Video Games Live Kickstarter closes successfully with $285K
+Video game behaviors that would be creepy in real life
 Video game consoles can never be more powerful than PCs, says Nvidia exec
 Video games achieve near complete penetration in Australia
 Video games drive spike in music composer employment
@@ -5141,6 +5153,7 @@ When should you buy a next-gen console?
 Where development on Supergiant's Transistor stands
 Where in the world is Cobalt?
 Where is my Heart? coming to Windows PC and Mac this September
+Where to watch the Apex 2014 fighting game tournament
 Where's My Water 2, Beach Games and Heroes of Loot - Mobile Watch List
 Whereâs My Water? 2 drops energy system
 Which game stocks will benefit from new console launches?
@@ -5162,6 +5175,7 @@ Why John Carmack 'frets a little bit' about hardware upgrades
 Why Keiji Inafune turned to Kickstarter to make his Mega Man spiritual successor
 Why Microsoft didn't ditch the Xbox One's disc drive
 Why Nidhogg's creator chased 'the slow game'
+Why Norwegian students are playing The Walking Dead in class
 Why Nuclear Throne is heading to PS4 first
 Why Rose and Time's developer returned the game to Ouya's store
 Why SOE's president wants to be more transparent
@@ -5284,6 +5298,7 @@ X Rebirth trailer is a montage of epic armadas and skilled dogfighters
 X Rebirth trailer teaches you how to explore the final frontier
 X Rebirth's launch trailer is a romantic tale of grungy spaceports and epic ships
 X-Men and The Simpsons Arcade Game disappear from PSN, still on XBLA
+X-Men: Battle of the Atom lands free on iOS
 XCOM for iOS updated with multiplayer, on sale for $10
 XCOM: Enemy Within 'War Machines' trailer augments soldiers to fight aliens
 XCOM: Enemy Within 'too big' to be console DLC

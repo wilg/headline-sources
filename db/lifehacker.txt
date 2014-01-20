@@ -170,6 +170,7 @@ Ask an Expert: All About Running
 Ask an Expert: All About Slashing Your Energy Bill
 Ask an Expert: All About Smarter Grocery Shopping
 Ask an Expert: All About Thanksgiving Preparation
+Ask an Expert: All About Traveling Like a Local
 Ask an Expert: All About the Investment Process, Part 2
 Ask an Expert: All About the Power of Persuasion
 Ask an Expert: All About the Psychology of Eating Well
@@ -269,6 +270,7 @@ Build a Wireless Charging System for Your Headphones
 Buy Amazon Gift Cards to Use Up that Prepaid Debit Card Balance
 Buy Cheaper Stuff First to Avoid Splurging on Shopping
 Buy a Gift Card, Get a Free Gift Card at Over 60 Retailers
+Buy the Smallest Package Possible When You Buy New Groceries
 Buying Suits, Breaking Gadgets, and Getting Things Done with Jay-Z
 Cal from Any.DO Now Integrates with Google Maps, Waze, Amazon and More
 Cal, the Calendar App from the Team Behind Any.DO, Is Out for Android
@@ -445,6 +447,7 @@ Do people really leave browser tabs open all day?
 Do you use two-factor authentication?
 DockMod Customizes the Color and Look of Your Mac's Dock
 Does "Merry Christmas" really offend those who don't celebrate it?
+Does Bluetooth Audio Still Suck?
 Does a higher life expectancy drive up the retirement age?
 Does anyone really use roux to thicken meat sauces anymore?
 Does brown bagging your lunch really save that much money?
@@ -784,6 +787,7 @@ How Can I Take Control and Host My Own Photos Online?
 How Can I Take Up Hobbies When I Travel So Much?
 How Can I Tell If Food Left at Room Temperature Is Safe to Eat?
 How Can I Tell If My Laptop or Gadget Is Upgradeable?
+How Do I Deal with Annoying Things I Can't Control?
 How Do I Deal with a Frustratingly Dumb Coworker?
 How Do I Delegate to an Unreliable Person?
 How Do I Get the Best Price on Music, Movie, or Other Media Downloads?
@@ -914,6 +918,7 @@ How to Find and Apply For Government Benefits
 How to Find the Missing .Com Button in iOS 7
 How to Fix Android's Biggest Annoyances: 2013 Edition
 How to Fix OS X Mavericks' Biggest Annoyances
+How to Flash a ROM to Your Android Phone
 How to Follow Someone Like a PI Without Getting Caught
 How to Free Yourself from Recipes with a Few Golden Cooking Ratios
 How to Get Away with Talking at the Movie Theater
@@ -975,6 +980,7 @@ How to Stay Productive on a 4 to 6 Hour Sleep Cycle
 How to Stay Sane When You're Going Through Tough Financial Times
 How to Stop Credit Card Offers from Littering Your Mailbox
 How to Stop Google+ from Taking Over All of Your Google Apps
+How to Strategize for a Better Salary in Your 20s, 30s, and 40s
 How to Survive Long Holiday Shifts as a Retail Worker
 How to Survive a Fancy Formal Dinner
 How to Survive the Perils of New Year's Eve
@@ -1086,6 +1092,7 @@ Keep a Fitted Sheet from Slipping with Velcro
 Keep a Trash Can in Your Car for Snow Emergencies (and Trash)
 Keep a Wet Erase Marker in the Kitchen to Label and Date Ingredients
 Keku for Chrome Makes Cheap International Calls from Your Computer
+Kennedy Adds Context to Journal Entries
 KillSpinners Stops Pages from Loading After Set Time
 Kindle Paperwhite (2013) Review: Faster, Prettier, Still the Best
 Knock Unlocks Your Mac with Your Phone
@@ -1187,6 +1194,7 @@ Make Your Own Sriracha-Style Hot Sauce with Just Five Ingredients
 Make Your Own Steamer Basket with a Plate and Some Aluminum Foil
 Make Your Own Vanilla Extract for Less Money (and Bigger Flavor)
 Make Your Own Velveeta-Style Cheese Dip During the Shortage
+Make Your Own Whiskey Stones from Raw Soapstone
 Make Your Password Manager Even More Secure with a $25 Yubikey
 Make Your Presentation Before Writing the Paper and Skip the Outline
 Make Yourself "Interruptible" for Better Meetings
@@ -1212,6 +1220,7 @@ Make the First Person to Check Their Phone at Dinner Pay
 Make the iPhone Recognize Your Finger Better with This Quick Trick
 Malwarebytes for Android Kills Malware, Protects Your Privacy Too
 Mango Premiere Teaches You a New Language by Watching Foreign Films
+Many Browser Extensions Have Become Adware or Malware. Check Yours Now
 Map Out Your Oven's Hot and Cool Spots with Shredded Coconut
 Map Your Representatives Finds Your Government Officials in a Flash
 Marie Curie's Best Productivity Tricks
@@ -1293,6 +1302,7 @@ Mute.fm Automatically Mutes Your Music When You Play a Video
 Muzzy Gives You Menu Bar Access to iTunes
 My Asics Builds a Customized Running Routine Just for You
 My Biggest Interview Mistakes (and How to Avoid Them)
+MyAppSharer Pulls and Shares APKs Installed on Your Phone
 MyEffectivenessHabits Sorts Your To-Dos On an Eisenhower Matrix
 MyScript Calculator Uses Handwriting Recognition to Do Math
 MyTime Schedules Appointments at Almost Any Local Business
@@ -1415,6 +1425,7 @@ PrivacyScan Shreds Your Mac's Privacy Threats in a Few Clicks
 Process Your Inbox Faster by Saying “Next” Repeatedly to Yourself
 Proper Menubar Brings Back Google's Trusty Black Bar
 Protect Your Cookbooks in the Kitchen With Plastic Wrap
+Protect Your iPhone 5S, Sony NEX-5TL, Everything Logitech [Deals]
 PushBullet Sends Links, Files, Notes and More to Chrome from Android
 PushBullet Sends Your Phone's Alerts and Notifications to Your PC
 Put Dryer Sheets at the Bottom of Trash Cans to Ward Off Stench
@@ -1536,6 +1547,7 @@ Seven Things I Wish I Had Known Before Getting Married
 Seven Time-Saving Android Shortcuts
 Seven Tips and Tricks to Get More Out of OneNote
 Seven Year-End Tax Tips You Might Not Know About
+Shake Off a Shy Reputation at Work by Making Your Strengths Clearer
 Share Direct Links to Files in Google Drive and Skip the Web Viewer
 Share a Digital Contact Card Right After You Exchange Business Cards
 Shave with Olive Oil to Save Money and Get Smoother Skin
@@ -1711,7 +1723,10 @@ Take the 52 Week Money Challenge and Easily Save About $1,400
 Take the Pain Out of Standing All Day with These Simple Exercises
 Talk to Docs Quickly Answers Your Common Health Questions
 Talk to Your Kids About Beauty, Before the Beauty Industry Does
+Talon Is a New Feature-Packed, Customizable Twitter App for Android
+Tame Under-The-Desk Cables with a Broken Three-Ring Binder
 Target Hacked, Credit Cards and Private Data for 40 Million Stolen
+Target Offers Free Experian Credit Monitoring for One Year
 TaskSpace Groups Multiple Windows Into the Same Taskbar Entry
 Tax Software on the Cheap, Great TVs, Brand New Phones [Deals]
 Teach Your Kid How to Tie Shoelaces with a Jump Rope
@@ -1771,6 +1786,7 @@ The Best Multitasking Phone Cases
 The Best Music Download Stores You're Not Using (but Should)
 The Best Music Player Application for Windows
 The Best News Sites to Break Out of Your Filter Bubble
+The Best PCs You Can Build for $300, $600, and $1200
 The Best Package Tracker for Android
 The Best Personal Finance Tips from Evil Millionaires
 The Best Photo Management App for Android
@@ -1843,6 +1859,7 @@ The Fussy Librarian Recommends Books in Daily Emails
 The Future of Car Hacking
 The GRID-IT Go Bag
 The Geek Essentials Bag
+The Grad Student School Bag
 The History of the To-Do List (and How to Make Yours More Effective)
 The Holo Slider Home Screen
 The IKEA Wardrobe Workspace for Two
@@ -2151,6 +2168,7 @@ Use the One-N-Done Approach to Prioritize Money-Saving Strategies
 Use the Rule of 10 to Rate Current Purchases Against Your Retirement
 Utilize the "Power of the Chunk" to Avoid Frivolous Spending
 VLC Adds Better Porting to Mobile, A Dozen New Codecs, and More
+VLC Gets an iOS 7 Redesign, Dropbox Streaming, and More
 Video Pinner Keeps YouTube Videos on Top While Scrolling Down
 Viral Adds Pop Out Videos and Better Search Options to YouTube
 WEI Tool Brings the Windows Experience Index Back to WIndows 8.1
@@ -2280,10 +2298,12 @@ Which Is Better: Facebook or Google+?
 Which Programming Language Should I Learn First?
 Which Way Should the Toilet Paper Roll?
 Which is Better: Chrome or Firefox?
+Who Is On My Wi-Fi Shows You Who Else Is Using Your Network
 Why (and How) You Should Regularly Calibrate Your Laptop's Battery
 Why Cheating Makes You Feel So Good
 Why Confidence Is So Important (and How to Improve Yours)
 Why Desk Plants Can Make You More Productive
+Why Empathy Is Your Most Important Skill (and How to Practice It)
 Why Enterprise Hard Drives Might Not Be Worth the Cost
 Why I Love to Haggle (and How You Can Get Started)
 Why I'm a Console Gamer
@@ -2364,6 +2384,7 @@ YouTube Overhauls Comments, Hopes They'll Be Less Horrible
 YouTube Watch History, Rechargeable Batteries, and Scrambled Eggs
 Younity Accesses Files on Your PC or Mac from iPhone
 Your BMI Might Make You Think You're Healthier Than You Are
+Your Favorite Logitech Peripherals are All on Sale Today
 Your Flex Spending Account Might Allow a $500 Rollover
 Your Homeowner's Insurance May Cover If Your Dog Bites Someone
 Your Least Favorite Cellphone Carrier: AT&T
