@@ -138,3 +138,11 @@ nytimes_lede:
   name: New York Times Lede
   category: News
   default: true
+r_politics:
+  name: r/politics
+  category: Reddit
+  default: false
+r_funny:
+  name: r/funny
+  category: Reddit
+  default: false
