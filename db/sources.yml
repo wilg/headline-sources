@@ -5,35 +5,63 @@ hackernews:
 theblaze:
   name: The Blaze
   category: Opinion
-  default: true
+  default: false
 faith_it:
   name: FaithIt
-  category: Religion
-  default: true
+  category: Right-wing Opinion
+  default: false
 lifehacker:
   name: Lifehacker
   category: Tech
   default: false
+gizmodo:
+  name: Gizmodo
+  category: Tech
+  default: false
+valleywag:
+  name: Valleywag
+  category: Tech
+  default: false
 drudge_report:
   name: Drudge Report
-  category: Trash
+  category: Right-wing Opinion
+  default: false
+free_republic:
+  name: Free Republic
+  category: Right-wing Opinion
+  default: false
+cns_news:
+  name: CNS News
+  category: Right-wing Opinion
+  default: false
+hot_air:
+  name: HotAir
+  category: Right-wing Opinion
   default: false
 deadspin:
   name: Deadspin
   category: Sports
   default: false
+sb_nation:
+  name: SBNation
+  category: Sports
+  default: false
 nypost:
   name: New York Post
-  category: Opinion
-  default: true
+  category: Right-wing Opinion
+  default: false
 huffpost_blogs:
   name: Huffington Post Blogs
-  category: Opinion
-  default: true
+  category: Left-wing Opinion
+  default: false
 thinkprogress:
   name: ThinkProgress
-  category: Opinion
-  default: true
+  category: Left-wing Opinion
+  default: false
+daily_kos:
+  name: Daily Kos
+  category: Left-wing Opinion
+  default: false
 tmz:
   name: TMZ
   category: Entertainment
@@ -41,11 +69,15 @@ tmz:
 giantbomb:
   name: Giant Bomb
   category: Games
-  default: true
+  default: false
 kotaku:
   name: Kotaku
   category: Games
-  default: true
+  default: false
+polygon:
+  name: Polygon
+  category: Games
+  default: false
 buzzfeed:
   name: BuzzFeed
   category: Trash
@@ -53,7 +85,7 @@ buzzfeed:
 college_humor:
   name: CollegeHumor
   category: Trash
-  default: true
+  default: false
 the_chive:
   name: The Chive
   category: Trash
@@ -69,11 +101,11 @@ upworthy:
 gawker:
   name: Gawker
   category: Trash
-  default: true
+  default: false
 defamer:
   name: Defamer
   category: Entertainment
-  default: true
+  default: false
 jezebel:
   name: Jezebel
   category: Entertainment
@@ -85,7 +117,7 @@ io9:
 tested:
   name: Tested
   category: Tech
-  default: true
+  default: false
 r_politics:
   name: r/politics
   category: Reddit
@@ -101,11 +133,11 @@ cnn_blog:
 guardian_blogs:
   name: Guardian Blogs
   category: News
-  default: true
+  default: false
 nature_blog:
   name: Nature Blog
   category: Science
-  default: true
+  default: false
 npr_two_way:
   name: NPR Two Way
   category: News
