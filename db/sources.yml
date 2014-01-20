@@ -4,7 +4,7 @@ hackernews:
   default: false
 theblaze:
   name: The Blaze
-  category: Opinion
+  category: Right-wing Opinion
   default: false
 faith_it:
   name: FaithIt
@@ -117,14 +117,6 @@ io9:
 tested:
   name: Tested
   category: Tech
-  default: false
-r_politics:
-  name: r/politics
-  category: Reddit
-  default: false
-r_funny:
-  name: r/funny
-  category: Reddit
   default: false
 cnn_blog:
   name: CNN News Blog
