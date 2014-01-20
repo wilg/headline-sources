@@ -110,6 +110,7 @@ A Transhuman Conundrum: Elective Bionic Limb Replacement
 A Transhuman Conundrum: Implantable Sensors
 A Transhuman Conundrum: The Retinal Implant
 A Transhuman Conundrum: Uploading Your Consciousness
+A Tribute to The Drive-In Movie Theater
 A Video Exploration of Pluto's Planetary Status
 A Weather Balloon, Six GoPro Cameras, and Space Battleship Yamato
 AMD Adds Custom Application Profiles to Catalyst 12.1 Drivers
@@ -769,8 +770,10 @@ CES 2014 Impressions: Samsung's Pro Tablets
 CES 2014 Impressions: Sigma's New 50mm F/1.4 Lens
 CES 2014 Impressions: Sony's Head-Tracking HMD Prototype
 CES 2014: Hands-On with Avegant's Glyph Virtual Retinal Display
+CES 2014: Hands-On with DJI's Phantom 2 Quadcopter
 CES 2014: Hands-On with Oculus VR's New "Crystal Cove" Prototype
 CES 2014: Hands-On with Valve's Steam Controller
+CES 2014: Linksys WRT-1900AC Router
 CES 2014: MakerBot's 3 New Replicator 3D Printers
 CES 2014: Modern Pinball Machines
 CES 2014: Parrot MiniDrone Quadcopter
@@ -2088,6 +2091,7 @@ MakerBot Mystery Build: Tighten Up
 MakerBot Mystery Build: Time Crisis Avoided
 MakerBot Mystery Build: Tracing Your Every Move
 MakerBot Mystery Build: Uno Dos Tres
+MakerBot Mystery Build: Upgrading the Replicator!
 MakerBot Mystery Build: Where the Pros Go
 MakerBot Returns: Reboot
 MakerBot Store's 3D Photo Booth Prints Faces On Demand
@@ -3128,6 +3132,7 @@ Tesla Announces Model S Pricing and Options, Starting at $50,000
 Tesla Battery Pack Swaps in 90 Seconds
 Tesla's Model X Adds a Sleek SUV to Electric Car Lineup
 Test Dropbox's Two-Factor Authentication Security
+Test Notes: Installing SteamOS
 Test podcast to bump iTunes feed. Do not listen!
 Testing 5K Video as a Replacement for Still Photography
 Testing Adam Savage's New Dissection Microscope
