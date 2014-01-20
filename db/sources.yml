@@ -14,6 +14,10 @@ lifehacker:
   name: Lifehacker
   category: Tech
   default: false
+drudge_report:
+  name: Drudge Report
+  category: Trash
+  default: false
 deadspin:
   name: Deadspin
   category: Sports
