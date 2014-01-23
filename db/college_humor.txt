@@ -272,6 +272,7 @@
 5 "Practical" Uses for Your Old Jack-o-Lantern
 5 (Vaguely) Qualified Supreme Court Candidates from the Sports World
 5 Ads for Legal Weed
+5 Advanced Merit Badges for Extreme Scouts
 5 Animals Taking a Bath
 5 Annoying Types of Gamers
 5 Apps Every Sports Fan Needs
@@ -323,6 +324,7 @@
 5 People Saying Stupid Things on the Internet
 5 Pokemon Facebook Updates
 5 Political Posters From The Videogame World
+5 Popular Apps That Could Be Much Better
 5 Popular Childhood Arguments Finally Resolved
 5 Post-Grad Professions to Get Your Family Off Your Back
 5 Potential After-College Jobs for Unskilled Graduates
@@ -393,6 +395,7 @@
 6 Kickstarters from the People Who Usually Ask for Money
 6 Kinect Games I Have the Energy To Play
 6 Last-Minute Halloween Costume Ideas
+6 Legitimate Reasons Why Smash Mouth Should Headline Coachella
 6 Life Hacks for Incredibly Lazy People
 6 Lord of the Rings Pickup Lines
 6 Mario Worlds and Their Real World Equivalents
@@ -632,6 +635,7 @@
 9 Things That Still Bother Me About 90s Commercials
 9 Things Us 90's Kids Realize Now
 9 Things Us 90's Kids Realize Now (Part II)
+9 Totally Cool Ways to Let People Know You Work Out
 90's Sitcom Character Alignment Chart
 90s TV Show Spin-Offs For a New Generation
 A Birthday Wish
@@ -746,6 +750,7 @@ April Fools!
 April's Confession
 Art Is Hard
 Author Bio Gets Cocky
+Awesome Grizzly Bear Trashes Store and Photobombs Camera
 Awful Good Flowchart: Which Sidekick is Right For You?
 Awful Good Flowchart: Will You Watch This Cutscene?
 Awful Good: Christian Bale Alignment Chart
@@ -1152,6 +1157,7 @@ Flowchart: Should You Hug This Person?
 Flowchart: Should You Make a Move?
 Flowchart: Should You Pull This Prank
 Flowchart: Should You Storm The Court?
+Flowchart: WassamattaYou?
 Flowchart: What Are You Doing After Graduation?
 Flowchart: What Did You Do Last Night?
 Flowchart: What Gaming Platform is Right For You?
@@ -1568,6 +1574,7 @@ If TV Channels were Your Family
 If TV Shows Were Relationships
 If The Great Gatsby Were Narrated By Other Characters
 If The Internet Was An Amusement Park
+If The Real World Had College Rules
 If The Sorting Hat Sorted Everything
 If The X-Men Went to Public School
 If There Were "Kids Tables" for Other Members of Your Family
@@ -1580,6 +1587,7 @@ If Work Was Like College
 If You Ate At Restaurants Like You Did At The Dining Hall
 If You Had Dating Profiles Through Life
 If You Remix Twerk Team Videos With Norah Jones, You Get This
+If YouTube Comments Were Slam Poems
 If Your Awkward Sex Life Were a Romance Novel
 If Your Childhood Board Games Were German
 If Your Co-Worker's Goodbye Email Was Honest
@@ -2267,6 +2275,7 @@ Tell Me More About This Language You Call "Mexican"
 Tell My Wife and Kids
 Tenure Review for Fictional Teachers
 Text
+Text Messages Between Video Game Characters
 Texts Between Abu Nazir and Brody
 Texts from Last Night: The Lame 20's Edition
 Thanks For the Threesome, Cosmo
@@ -2291,6 +2300,7 @@ The 10 Best Ways to Ask Someone to Prom
 The 10 Best and Worst Things About Spring
 The 10 Best and Worst Things About Summer
 The 10 Best and Worst Things About Winter
+The 10 Disney Men You'll Meet in College
 The 10 Easiest Ways to Get Smooched This Holiday Season, In Order
 The 10 Essential Steps To Set Up Your New Phone
 The 10 Funniest People Ever Interviewed on the Local News
@@ -2360,10 +2370,12 @@ The 5 People Not To Be At a New Year's Eve Party
 The 5 People You Meet In College (if they were comedians)
 The 5 Stages of Graduation Grief
 The 5 Texters You Know and Hate
+The 5 Types of Employees You'll (Unfortunately) Encounter at Every Job
 The 5 Types of Thanksgivings Your Friends Will Have
 The 5 Ways You Could Have Spent New Year's Eve
 The 5 Ways to Receive a Present
 The 5 Weirdest Sex Toys for Sale on Etsy
+The 5 Weirdos You'll Meet in the Bathroom
 The 5 Worst TV Spinoffs That Never Made It Past a Pilot
 The 5 Worst Videogame Wingmen
 The 50 WORST Cities In The U.S., Or Best, Whatever, Just Share This If You're From One Of Them
@@ -2539,6 +2551,7 @@ The First 7 People You Meet at College
 The First Draft of Shia LaBeouf's Apology
 The First Gatherer
 The First Thanksgiving Break
+The Future Of Post-Avengers Movies
 The Game "Operation" Comes Out with an Internet Edition
 The Gamer 10 Commandments
 The Gamer's Stigmata
@@ -2557,6 +2570,7 @@ The Gun
 The Handy Guide to Gettin' Handies
 The Haunting
 The Headphone Knot Guide
+The History of Beer Drinking
 The HoBro Code: A Vagrant's Guide to Your College Dorm
 The Hotter It Gets
 The IT Department at Cosmopolitan Magazine
@@ -2742,6 +2756,7 @@ The Troll: October 18, 2012
 The Troll: October 25, 2012
 The Troll: October 4, 2011
 The Troll: Paintings, Planets, and Bible Thumping
+The Troll: Ripped Grandpas and Kissing Pets
 The Troll: Science, Sausage, and Gisele Bündchen's Blond Locks
 The Troll: September 13, 2012
 The Troll: September 19, 2012
@@ -2779,6 +2794,7 @@ These Abandoned Blockbuster Videos Need YOUR Help!
 These Babies Are Going To Be A**holes Someday
 These Bank of America security questions are just ridiculous.
 These Beliebers Think That a Lot About Justin Bieber Should Be Illegal
+These Fools Don't Know What MLK Stands For
 These Fools Think Global Warming is Fake Because It's Cold Out
 These Girls Think They're Such Nerds For Wearing Glasses
 These Goats are High as Sh*t
