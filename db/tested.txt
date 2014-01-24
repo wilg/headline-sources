@@ -1,6 +1,7 @@
 "Computer: What is the Future of Voice Search?"
 "Growing Your Own Food Is Like Printing Your Own Money"
 "Heavy Rain" Developer Demos Impressive Advances in Motion Capture [Video]
+"Her" Tech Support Parody
 "One Significant Technical Step for Unmanned-Kind"
 "Smart Soccer Match" Will Give Coaches Real-Time Player Stats
 "The Paper Airplane Guy" Sets New World Record for Longest Flight
@@ -1923,6 +1924,7 @@ Living with Photography: Full-Frame Image Quality
 Living with Photography: Fun with Macro Extenders
 Living with Photography: Getting a Grip
 Living with Photography: Ground as Background
+Living with Photography: ISO Don't Get It
 Living with Photography: Introductions
 Living with Photography: Keeping in Line
 Living with Photography: Learning Adobe Lightroom
@@ -2063,6 +2065,7 @@ MakerBot Mystery Build: Croctastic
 MakerBot Mystery Build: Empty Your Pockets
 MakerBot Mystery Build: Everything in Its Place
 MakerBot Mystery Build: Figure it Out!
+MakerBot Mystery Build: For Dug
 MakerBot Mystery Build: For the Careless
 MakerBot Mystery Build: Hang Loose
 MakerBot Mystery Build: Heal Thyself
@@ -2133,6 +2136,7 @@ Marvel to Bundle Digital Copy with All of Its Top-Selling Comics
 Mashing Up Your Building Blocks: A Legal Gray Area That Shouldn't Be
 Math and Physics at Work - Real Life Hot Wheels Double Loop
 Math is Awesome: The Importance of Fourier Transforms
+Mauricio Baiocchi's Cicada Princess
 Maze Makers: How Cornfield Labyrinths are Designed
 Measuring Flavor Extraction for the Perfect Cup of Coffee
 Measuring the Battery Impact of Browser Tabs
@@ -2898,6 +2902,7 @@ Scratch-Built Wood Star Trek Runabout Model
 Scratch-Proof Sapphire Screens Could Protect Future Smartphones
 Screen-Printed Vinyl Record Spins Simple Animation
 Screenshot Tour of Android 4.0 Ice Cream Sandwich on the Galaxy Nexus
+Script and Storyboard: A Look at Amazon Storyteller
 Scrounging, Buying, Finding Materials - 3/19/2013
 Sculpting a Custom Superman Action Figure
 Sculpting the Alien Queen Head in Aliens
