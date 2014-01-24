@@ -28,6 +28,7 @@ $99 Refurbished Kindle Price Points to Kindle 4 Launch
 10 Lifehacks For Your Car and Driving Habits
 10 Niche Search Engines That Still Do Something Google Can't
 10 Places Robots and A.I. are Hiding in Plain Sight
+10 Promising Technologies in 2014
 10 Scientific Cooking Tricks That’ll Make Your Life Easier
 10 Years of Roomba Hacks: From Magic Marker Art to Combat
 1080p Phones Mean New Challenges for Mobile Batteries in 2013
@@ -234,6 +235,7 @@ Analyst Predicts iOS and Mac OS X Will Unite on ARM in 2012
 Analysts Already Predicting the Release Timing of the "iPhone 5"
 Analyzing the Arrangement of Color in Miyazaki Films
 Analyzing the Kindle Fire: UI Challenges for the 7-Inch Tablet
+And We're Back - 1/21/2014
 Android 4.0 Ice Cream Sandwich Already Ported to Samsung Galaxy S
 Android 4.0 Ice Cream Sandwich Features: Hits and Misses
 Android 4.4 KitKat Could Finally Unify Android, But at a Cost
@@ -518,6 +520,7 @@ Awesome Aerial Video of Detroit by Quadrocopter Drone
 Awesome Commercial Successes In CNC Manufacturing
 Awesome Jobs: Meet Ari Friedlaender, Whale Tagger
 Awesome Jobs: Meet Doug Daly, Tree-Climbing Botanist
+Awesome Jobs: Meet Kayla Iacovino, Trekker Volcanologist
 Awesome Jobs: Meet Kevin Hardy, Submarine Builder
 Awesome Jobs: Meet Kyle Larson, Mountain Climbing Structural Geologist
 Awesome Jobs: Meet Nathalie Cabrol, Planetary Scientist and Extreme Altitude Diver
@@ -577,6 +580,7 @@ Bing Lasso Streamlines Copy-and-Paste on iPad [Video]
 Biologists Grow the Next Wonder Material in a Vat of Algae
 Bionic Ear Combines Printed Cartilage and Better-Than-Human Hearing
 BitTorrent Bundle is Like Peer-to-Peer Shareware
+Bits to Atoms: An Overview of Today's 3D Printing Technologies
 Bizarre Spycraft: The Most Questionable CIA Operations
 BlackBerry Announces BlackBerry 10, Z10 and Q10 Smartphones
 BlackBerry PlayBook Android App Player Leaked
@@ -1146,6 +1150,7 @@ Giant Insects Survive 80 Years in Tiny Bush on Tiny Island
 Gifpop Kickstarter Turns GIFs into Animated Lenticular Cards
 Gimball Drone Can Bounce Off Objects Mid-Flight and Keep on Flying
 Given the Opportunity, Flickr Users Apparently Eager to "Rescue" Their Photos
+Glass Blowing As Seen Through Thermal Imaging
 Glasses vs. Hearing Aids: The Gap Between Technology and Assistive Technology
 Glassified: Augmenting a Ruler with a Transparent OLED Display
 Glowing Chuck Taylor All-Star Sneakers
@@ -1685,6 +1690,7 @@ ISS Experiments: Re-Thinking How Fire Burns
 ISS Experiments: The Cause of Bone Loss in Space
 ISS Experiments: Zero-Gravity Plant Life
 Icons Point to Photo Editing in Android Ice Cream Sandwich
+If Wall-E Was a Farmer: Teaching a Robot to Herd Cows
 If You Exchange Money For Goods or Services You Should Read This Post
 If You Haven't Been to the ISS, You'll Probably Like This Video
 If You're Buying an iPad 2, Don't Get Last Year's Model
@@ -1784,6 +1790,7 @@ It's Possible to Add Touch Sensation to Prosthetics
 It's Time for Copyright Law to Legalize DVD Ripping
 Ivy Bridge Chip Delay to Summer Gives Apple a Shot at Early Access
 Ivy Bridge vs. Sandy Bridge Graphics: What's Improving in 2012
+JPL's RoboSimian Disaster-Response Robot
 Jacket Aficionado Magazine - 12/10/2013
 Jamie & Adam Costume Hunt 2012 Photos (Updated!)
 Jamie & Adam's Costume Hunt for Halloween
@@ -1964,6 +1971,7 @@ Look at This Adorable GTX 670 Videocard
 Looking Back at Blue Marble, 40 Years Later
 Looking for Otherworldly Terrain on Terra Firma
 Lost Type Co-Op Lets You Pay What You Want for Unique Fonts
+Luca Iaconi-Stewart's Paper Boeing 777 Model
 Lytro Light Field Camera Announced, Coming in Early 2012
 MIT Algorithm Amplifies Minute and Imperceptible Motions
 MIT Camera Outsmarts Kinect at 3D Imaging
@@ -2428,6 +2436,7 @@ On the Road to the Replicator: 3D Printing Space Snacks
 OnLive Desktop Streams Windows 7 to iPads
 One Day Builds: Adam Savage Demonstrates Weathering Tricks
 One Day Builds: Adam Savage Makes a Blade Runner Blaster Carrying Case
+One Day Builds: Adam Savage's Traveling Beaver Box
 One Day Builds: Han Solo's DL-44 Blaster from Star Wars
 One Drug May Shrink Many Tumors
 One of Life's Greatest Challenges Solved: One-Handed Zippers
@@ -2567,6 +2576,7 @@ Premium: CES Trendspotting and Michael Bay's Breakdown
 Premium: Gearing Up for the First Day of CES 2014
 Premium: Norm's Lifecast Time-Lapse
 Premium: The PC Build Race Disaster of 2014
+Premium: Will Upgrades the MakerBot
 Prepare for a Rush of Ultrabooks at CES 2012
 Preview Ubuntu On Your Nexus Smartphones and Tablets This Thursday
 Preview the Technical Papers of SIGGRAPH Asia 2012
@@ -2884,6 +2894,7 @@ Scientific Tricks to Improve Your Brain Power
 Scientist Grows $325,000 Burger Using Stem Cells
 Scientists Talk Hollywood Consulting and Turning Movie Magic Into Movie Science
 Scientists Use Gravity to Discover Planet Orbiting Alpha Centauri
+Scratch-Built Wood Star Trek Runabout Model
 Scratch-Proof Sapphire Screens Could Protect Future Smartphones
 Screen-Printed Vinyl Record Spins Simple Animation
 Screenshot Tour of Android 4.0 Ice Cream Sandwich on the Galaxy Nexus
@@ -3118,6 +3129,7 @@ Tablet Teardowns Reveal that iPad is Tops in "Design Efficiency"
 Tabletop Tutor: Are You Feeling Lucky?
 Tabletop Tutor: Civilization Building Board Games
 Tabletop Tutor: Little Games, Big Experiences
+Tabletop Tutor: Playing Well with Others in Co-Op Games
 Tactus Tech Adds Tactile Buttons to Touch Screens
 Taking Photos Can Make Us Forget What We Photographed
 Tap Emergency Power from a Phone Line
@@ -3238,6 +3250,7 @@ The Best Android Smartphones for Every Prepaid Network
 The Best Apps and Services to Find Your Lost Android Phone
 The Best Bike Lock Today
 The Best Bluetooth Keyboard Today
+The Best Bluetooth On-Ear or Over-Ear Headphones
 The Best Cat Video on the Internet: Henri 2, Paw de Deux
 The Best Cheap In-Ear Headphones are $12
 The Best Compact Camera for Less Than $450
@@ -3732,6 +3745,7 @@ Watch Sony Engineers Build Its Electronics
 Watch Street Artist "Invader" Decorate Paris at Night
 Watch The PAL-V "Flying Car" Make Its Maiden Flight
 Watch This Hypnotic Homemade Cube Made of RGB LED Lights
+Watch a Match Burn at 4000 FPS
 Watch the A380 Emergency Evacuation Test
 Watch the Beautiful Art of Paper Marbling
 Watch the Birth of a Book [Video]
