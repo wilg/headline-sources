@@ -1031,6 +1031,7 @@ Arvind Kejriwal: I am a fortune teller and I can see India's future
 As Egypt Erupts, Al Jazeera Offers Its News for Free to Other Networks
 As Feds Demand the Keys, Preparing for the Death of Public-Key Encryption
 As crops rot, millions go hungry in India
+Asciiflow
 Asiana Airlines Boeing 777 crashes at SFO
 Asiana Airlines Flight 214: A Pilot’s Perspective
 Ask HN admins: please stop editing submission titles
@@ -1480,6 +1481,7 @@ Bug 698544 – Background configuration is missing in terminal profile editor
 Bug Prediction at Google
 Bugger
 Build Doom3 on MacOSX with XCode4
+Build Git – Learn Git
 Build Your Own Home Automation w/ Pusher, Twilio, and Arduino
 Build a Business, Not an Exit Strategy
 Build a house for less than $5000
@@ -1962,6 +1964,7 @@ DOJ lied to Supreme Court to avoid judicial review of warrantless surveillance
 DOJ: We can force you to decrypt that laptop
 DRM in the cinema
 DRM-Free Day, forever.
+Dad gets OfficeMax mail addressed 'Daughter Killed in Car Crash'
 Dad hacks Donkey Kong for his daughter; Pauline now saves Mario
 Dalai Lama hangs out on Google+ after visa is denied
 Dalton Caldwell: Announcing an audacious proposal
@@ -4700,6 +4703,7 @@ Intel In Bed with NSA?
 Intel Reinvents Transistors Using New 3-D Structure
 Intel XDK: An HTML5 development IDE
 Intel significantly speeds up graphics under Linux (X.org)
+Intel's "cripple AMD" function (2009)
 Intellectual Ventures on This American Life
 IntelliJ IDEA 13 is Released
 Interaction & Visual Designer Wanted
@@ -5371,6 +5375,7 @@ Linus's first version README for git
 Linux 3.0 release
 Linux 3.0-rc1 is here
 Linux 3.11 Officially Named "Linux For Workgroups"
+Linux 3.13
 Linux 3.5 Kernel Released
 Linux 3.6 released
 Linux 3.7 released
@@ -6560,6 +6565,7 @@ Overstock.com Is Now Accepting Bitcoins
 Overtone
 Own Our Product Design.
 Own Your Identity
+Oxfam: 85 richest people as wealthy as poorest half of the world
 Oxford announces new degree in Computer Science and Philosophy
 O’Reilly Media Has Lost Its Soul
 PDF Reader in JavaScript
@@ -7350,6 +7356,7 @@ Roger Ebert: The dying of the light
 Roger Penrose Says Physics Is Wrong, From String Theory to Quantum Mechanics
 Roll your own toy UNIX-clone OS
 Romanian Prime Minister Admits He Has No Idea Why Romania Signed ACTA
+Romanian saves OpenBSD?
 Ron Paul speaks against SOPA
 Ron Paul’s Farewell Address: The Internet Can Stop Big Government
 Room Temperature Superconductivity Found in Graphite Grains
@@ -10053,6 +10060,7 @@ What Happened to the Future?
 What Happens When A Twitter Client Hits The Token Limit
 What Happens When One of Your Coworkers Dies
 What Happens When You Swear At Your Users
+What Happens When the Poor Receive a Stipend?
 What Happens When the President Sits Down Next to You at a Café
 What Happens to Stolen Bicycles?
 What Happens to the Brain When You Meditate
@@ -10328,6 +10336,7 @@ Why Django Sucks
 Why Do Companies Still Use Microsoft Windows For Displays?
 Why Do Some People Learn Faster?
 Why Do Startups Do This?
+Why Does A Good Kettle Cost $90+?
 Why Does Windows Have Terrible Battery Life?
 Why Don't Americans Elect Scientists?
 Why Don’t Smartphones Have A “Guest Mode”?
@@ -10960,6 +10969,7 @@ Your idea sucks now go do it anyway
 Your infographic isn't an infographic. It's just a crappy graphic.
 Your life's work
 Your location history
+Your most important skill: Empathy
 Your number one priority
 Your own company? You can do it
 Your problem with Vim is that you don't grok vi
