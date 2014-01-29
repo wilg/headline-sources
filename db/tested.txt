@@ -25,6 +25,7 @@ $99 Refurbished Kindle Price Points to Kindle 4 Launch
 1,000,000-to-1 Contrast Ratio Cameras Help This Welding Hood Augment Reality
 10 Bizarre Parasites That Infest Humans
 10 Clever Ways to Automate Your Online Life with ifttt
+10 Genes We Would Want from Animals
 10 Inventive New Uses For Obsolete Technology
 10 Lifehacks For Your Car and Driving Habits
 10 Niche Search Engines That Still Do Something Google Can't
@@ -971,6 +972,7 @@ Dropbox Hosts First Conference to Expand App Integration
 Dropbox and SkyDrive Get Awesome Upgrades
 Dropbox vs. SugarSync vs. Box: Cloud Storage Apps on Android
 Dual Extruder Printing With Makerware and the MakerBot Replicator 1
+Dude, Don't Get a Dell 4K Monitor
 Dyson Engineers Turn Spare Vacuum Parts into Race Cars
 E3 2011 Hands-On: Nintendo Wii U
 E3 2011: Hands-On With Forza Motorsport 4 for Kinect
@@ -1187,6 +1189,7 @@ Google Play App Roundup: ADW Launcher EX, Need for Speed: Most Wanted, and Tower
 Google Play App Roundup: AMP+, Vector, and Syder Arcade HD
 Google Play App Roundup: Action Launcher, Dynamite Jack, and System Monitor
 Google Play App Roundup: ActiveNotifications, Middle Manager of Justice, and Dots
+Google Play App Roundup: AirPlay Recorder, Worm Run, and EvolveSMS
 Google Play App Roundup: Amazing Alex, Battery Widget Reborn, and Auralux
 Google Play App Roundup: Android Device Manager, Dead Ahead, and Savant - Ascent
 Google Play App Roundup: App Ops eXtended, GT Racing 2, and Release the Ninja
@@ -1803,6 +1806,7 @@ Jamie Will Let Reddit Ask Him Anything on Saturday Morning
 Jamie and Adam Costume Hunt 2012: The Winners!
 Jamie and Adam's Comic-Con 2013 Panel
 Jamie and Adam's Dragon*Con 2013 Panel
+Jamie and Adam's Gates Foundation Video
 Japan Experiments with Methane Hydrate Fuel Extraction
 Japan's $20,000 Mech Made for Kids
 Japan's 'Unbeatable' Air Hockey Robot Built to Study Human Interaction
@@ -1946,6 +1950,7 @@ Living with Photography: The Influence of Instagram
 Living with Photography: The School of Cosplay Photography
 Living with Photography: What the Heck is an F-Stop?
 Living with Photography: What's Your Priority
+Living with Photography: Why Do Lenses Have Sweet Spots?
 Living with Technology: Blu-Ray vs. Streaming Video
 Living with Technology: Building My Annual Production PC
 Living with Technology: CPU Socket Silliness
@@ -2336,6 +2341,7 @@ Netflix's Dreamworks Animation Deal Adds Little Content
 Network Hopping Won't Work Without an Unlocked iPhone 4S
 Neural Networks: What They Are and How They Know the Internet is Full of Cats
 Neutral 4G Network Sounds Great, Actually Plays Havoc with GPS
+New Brew Technique: Immersion Double Filter
 New Fuji, Canon compacts leaked ahead of CES unveil
 New High-DPI OS X UI Elements Give Hope for High-Resolution Macs
 New NFC Spec Expands Options for Peer-to-Peer Transfers
@@ -2532,6 +2538,7 @@ Personal Statistics: The Revelations of Analyzing a Digital Life
 Pesticides and Bees, Do We Know What's Going On?
 Peter Bellerby, An Artisan Globemaker
 Phantom Flex4K Shoots 4K Video at 1,000FPS
+Philippe Faraut Sculpts The Human Hand
 Philips Hue Flips the Switch on Wi-Fi LED Smartbulbs
 Photo Finished: The Best Apps from Photo Hack Day 3
 Photo Gallery: Adam Incognito as Admiral Ackbar at Comic-Con 2013
@@ -2580,6 +2587,7 @@ Premium: CES Trendspotting and Michael Bay's Breakdown
 Premium: Gearing Up for the First Day of CES 2014
 Premium: Norm's Lifecast Time-Lapse
 Premium: The PC Build Race Disaster of 2014
+Premium: Toys and Stuff in Norm's Garage
 Premium: Will Upgrades the MakerBot
 Prepare for a Rush of Ultrabooks at CES 2012
 Preview Ubuntu On Your Nexus Smartphones and Tablets This Thursday
@@ -2937,6 +2945,7 @@ Show & Tell: Favorite Electric Pour Over Kettle
 Show and Tell: 2013 Coffee Table Books
 Show and Tell: A Model of Scum and Villainy
 Show and Tell: Adam's Favorite Video Game
+Show and Tell: Apply Directly to Forehead
 Show and Tell: Battle Wizards
 Show and Tell: Behold the Bug-A-Salt
 Show and Tell: Collecting Screenprinted Posters
@@ -3152,6 +3161,7 @@ Tesla Battery Pack Swaps in 90 Seconds
 Tesla's Model X Adds a Sleek SUV to Electric Car Lineup
 Test Dropbox's Two-Factor Authentication Security
 Test Notes: Installing SteamOS
+Test Notes: Steam's In-Home Streaming Beta
 Test podcast to bump iTunes feed. Do not listen!
 Testing 5K Video as a Replacement for Still Photography
 Testing Adam Savage's New Dissection Microscope
@@ -3266,6 +3276,7 @@ The Best Gaming Laptop Today
 The Best Gear for The New Year
 The Best HDTV to Buy Today is the Panasonic ST60
 The Best Home Theater AV Receiver
+The Best Indoor HDTV Antenna (For Cities) Today
 The Best Instant Camera Today
 The Best Keyboard Shortcuts in the World #2
 The Best Kitchen Trash Bag
@@ -3391,6 +3402,7 @@ The Journey of a Shipped Package
 The Joys of Background Noise
 The LEGO House Museum to Open in 2016
 The Las Vegas Star Trek Experience You Never Saw
+The Lasting Legacy of the DIVX Disc
 The Legacy of Japan's Giant Robot Sci-Fi Shows
 The Lessons Learned from Testing Digital Cinema Cameras
 The Lies We Tell Our Kids - A Bunch of Dads - 12/5/2013
@@ -3720,6 +3732,7 @@ Virtual Talking Head Combines Facial and Vocal Emotions
 Visual Guide to The Han Solo DL-44 Blaster Prop Replica Saga
 Visualization of the Anthropocene: Humanity's Incredible Global Impact
 Visualizing Our Solar System Neighbors
+Visualizing The Infinite Hotel Paradox
 Vita Teardown Reveals Convenient Battery Access, Modular Circuitry
 Volvo V40 Introduces Pedestrian Airbag and Automatic Braking [Video]
 Voyager 1 Is Leaving The System
@@ -3751,6 +3764,7 @@ Watch Street Artist "Invader" Decorate Paris at Night
 Watch The PAL-V "Flying Car" Make Its Maiden Flight
 Watch This Hypnotic Homemade Cube Made of RGB LED Lights
 Watch a Match Burn at 4000 FPS
+Watch a Ship Intentionally Run Aground
 Watch the A380 Emergency Evacuation Test
 Watch the Beautiful Art of Paper Marbling
 Watch the Birth of a Book [Video]
@@ -4027,6 +4041,7 @@ Wooden Star Wars Action Figures by Amanda Visell
 Work Ethic - 2/5/2013
 Work-in-Progress Star Wars Fan Animation is Incredible
 Working Cardboard Mechanical Plotter
+Working With The Gates Foundation - 1/28/2014
 Worklog: Arduino-Controlled Pantry LED Lighting
 Worklog: Tetris Shelves - Cutting and Assembly
 Worklog: Tetris Shelves - Planning, Materials, and Tools

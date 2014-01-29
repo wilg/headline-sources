@@ -633,6 +633,7 @@ $8 Billion: What This Week's Market Losses Cost The World's Richest Man
 27 Animals In 'Hobbit' Movie Died At Farm Where They Were Housed
 27 Up, 27 Down: Mariners' Felix Hernandez Throws Perfect Game
 3 Arrested In Southern California Fire
+3 Dead In Shooting At Baltimore-Area Shopping Mall
 3 Extradition Cases That Help Explain U.S.-Russia Relations
 3 Former Armstrong Associates Receive Lifetime Bans For Doping Violations
 3 Horses To Know In The Kentucky Derby
@@ -687,6 +688,7 @@ $8 Billion: What This Week's Market Losses Cost The World's Richest Man
 5 Teams In 1 Year For 1 Player; And It's Not A MLB Record
 5 Things About Popes And Their Names; Like, Why Do They Change Them?
 5 Things To Know About Margaret Thatcher
+5 Things To Know About The Grammy Awards Show
 5 Things To Know About The Legal Reasoning For Surveillance
 5 Years After Being Covered With Water, Chinese Village Emerges
 5 Years Ago Sully Landed On The Hudson And Twitter Took Off
@@ -698,6 +700,7 @@ $8 Billion: What This Week's Market Losses Cost The World's Richest Man
 50 Years Later: Sounds And Voices From The March
 50,000 Stray Dogs In Detroit? That 'Makes No Sense'
 500,000 Lights: Family's Christmas Display Sets World Record
+55 Bodies Are Exhumed At Reform School Site In Florida
 55 Customers Pay For Next Car's Order At Mass. Doughnut Shop
 59.2 Million Tuned In To Monday's Debate, Smallest Of The Audiences
 6 1/2-Year Sentence For 'I Killed A Man' YouTube Confessor
@@ -2145,6 +2148,7 @@ Book News: Booksellers' Lawsuit Against Amazon, Publishers Dismissed
 Book News: Bush Library Exhibit Puts You In President's Shoes
 Book News: CIA Nominee Catches Grief Over Bookstore Erotica Readings
 Book News: Cache Of Letters From 'Frankenstein' Author Found
+Book News: Caldecott For 'Locomotive'; Newbery For 'Flora & Ulysses'
 Book News: Campaigner For Jane Austen Banknote Deluged With Threats
 Book News: Caro Wins His Third National Book Critics Circle Award
 Book News: Charlotte Zolotow, Author Of Ethereal Children's Books, Dies
@@ -2229,6 +2233,7 @@ Book News: Mary Ingalls May Not Have Gone Blind From Scarlet Fever
 Book News: Maya Angelou Out Of Hospital, Recovering At Home
 Book News: Medical Thriller Writer Michael Palmer Dies At 71
 Book News: Memoir Coming From Obama's Half-Brother
+Book News: Mexican Poet Jose Emilio Pacheco Dies At 74
 Book News: Mich. School System Won't Ban Anne Frank's 'Pornographic' Diary
 Book News: Michael Vick Cancels Book Tour Because Of Threats
 Book News: Microsoft Rumored To Be Interested In Buying Nook
@@ -2332,6 +2337,7 @@ Boston Blasts Lead To Heightened Security Elsewhere
 Boston Bomb Victim: Krystle Campbell Was 'Caring ... Loving' 'Daddy's Little Girl'
 Boston Bombing Investigation: Thursday's Developments
 Boston Bombing Investigation: Wednesday's Developments
+Boston Bombing Survivors Will Be Guests At State Of The Union
 Boston Bombing Suspect Buried In Secret At Virginia Cemetery
 Boston Bombing Suspect Indicted; Could Face Death Penalty
 Boston Bombing Suspect Moved To Prison Medical Center
@@ -2503,6 +2509,7 @@ CDC Confirms 'Extremely Rare' Death From Rabies Transmitted By Transplant
 CDC: U.S. Hospitals Should Be Vigilant For Bird Flu
 CEO Brooks Resigns From News International; Indonesia Volcano Erupts
 CEO Compensation Now Exceeds Pre-Recession Levels
+CEO Of A Bitcoin Exchange Charged With Money Laundering
 CEO Resigns From Charity Founded By Accused Penn State Child Abuser
 CERN Discovers A New Particle, Likely The Higgs Boson
 CIA Contractor Released In Pakistan
@@ -2549,6 +2556,7 @@ Calif. Wins Permission To Force-Feed Prison Hunger Strikers
 Calif. Woman Takes Honda To Small Claims Court Over Hybrid Mileage
 Calif. Woman Wins Suit Over Honda Hybrid's Mileage Claim
 California Appoints Its First Latino Poet Laureate
+California Bar Rejects Stephen Glass, Ex-Writer Who Fabricated Stories
 California Court Says Same-Sex Marriage Foes May Defend Prop 8
 California Dock Strike Widens, Slows Imports From Asia
 California Dream Act Opponents Fail To Get Ballot Initiative
@@ -2607,6 +2615,7 @@ Canada's Serial Drunk Driver Taken Off Road For 8 Years
 Canadian Police Issue Warrant In Severed-Foot Case
 Canceling Out The 'Background Noise' On Egypt-Israel Relations
 Cannes Jewel Heist Nets Bling Worth $53 Million
+Cantaloupe Farmers Get Probation Over Deadly Listeria Outbreak
 Capitol Hill Police Not Amused By Tweets From 'The Onion'
 Capping Worst Year On Record, Sales Of New Homes Drop In December
 Capt. James Kirk To Command Navy's New 'Stealth Destroyer'
@@ -2756,6 +2765,7 @@ China Edges Out U.K. As World's Fifth-Largest Arms Supplier
 China Expands Air Defense Zone Over Disputed Islands
 China Gives Breakdown Of Its Military, Criticizes U.S.
 China Investigates Fake Apple Stores Exposed By American Expat
+China Is Poised To Force 'Times' Reporter Out Of Country
 China Kicks Out 'New York Times' Reporter
 China Launches 'Heavenly Palace-1' Into Space; Takes Step Toward Station
 China Launches Crew Into Space, Starting 15-Day Mission
@@ -2783,6 +2793,7 @@ China's Broadcast Of Drug Lord's Final Hours Sparks Controversy
 China's Citizens Hide As Much As $2.34 Trillion In Income, Researcher Says
 China's Communists Declare War ... On Boring Meetings
 China's Disgraced Politician Bo Xilai Goes On Trial This Week
+China's Jade Rabbit Rover May Be Doomed On The Moon
 China's Leaders Unveil Economic Reforms
 China's Moon Rover Separates From Lander
 China's New Urban Legend That Turned Out Not To Be
@@ -3313,6 +3324,7 @@ Deadly Tornadoes Captured On Video
 Deadly Tornadoes Rip Through South; Tax Deadline Today
 Deadly Violence Hits Egypt In Clashes Over Morsi's Leadership
 Deadly Violence Mars Elections In Bangladesh
+Deal Gives Women, Children Safe Passage From Besieged Syrian City
 Deal Reached On Greek Debt, Markets Rise In Relief
 Deal Reached To Limit Iran's Nuclear Program
 Deal Struck To Avoid Possibility Of Government Shutdown In October
@@ -3379,6 +3391,7 @@ December Posts Strongest Job Gains Of 2013, Survey Shows
 Decision Day Arrives In Wisconsin
 Declassified MI5 Documents Reveal Bumbling Nazi Saboteurs In The U.S.
 Decrying 'Dumb, Arbitrary Cuts,' Obama Says 'We Will Get Through This'
+Decrying Washington Stalemate, Obama Calls For 'Year Of Action'
 Deep In The Pacific, Scientists Discover Biggest Volcano On Earth
 Deepening Crisis In Somalia; Crackdown Continues In Syria
 Def Con Hacking Conference Puts Feds In 'Time-Out'
@@ -3437,6 +3450,7 @@ Designer Wins Right To Sell 'Star Wars' Stormtrooper Outfits In The U.K.
 Despite El NiÃ±o, NOAA Increases Hurricane Season Prediction
 Despite Losses, Bank Of America CEO Receives Huge Raise
 Despite Protection Efforts, Rhino Poaching Soars
+Despite Soundproof Box, Egypt's Morsi Is Defiant In Court
 Despite Tragedy And A Fight To Live On Her Own, She Smiled
 Despite Vote, Judicial Nomination On Hold
 Despite Warnings From Inspector, One Iowa Town Still Battles Toxic Air
@@ -3584,6 +3598,7 @@ Dow Hits 15,000 For The First Time; Closes Just Shy Of The Mark
 Dow Jones Closes Above 15,000 For First Time
 Dow Jones European Executive Steps Down
 Dow Jones Index Closes Above 16,000 For First Time
+Dow Loses 318 Points, The Most In One Day Since June
 Dow Loses 350 Points After Fed Hints It Will Stop Buying Bonds
 Dow Plunges Again As Fear Returns To Market
 Dow Plunges; Now In Negative Territory For The Year
@@ -3768,6 +3783,7 @@ Egypt Said To Be In Talks With Ethiopia Over Nile Dam Plan
 Egypt Tense After Bloody Crackdown On Protests
 Egypt To Open Border Crossing With Gaza
 Egypt Warns Of Wider Crackdown On Protesters
+Egypt's El-Sissi Promoted, Military Says He Should Run For President
 Egypt's First Civilian President Takes Oath Of Office
 Egypt's Historic Voting Continues
 Egypt's Interim Leader May Tap Emergency Law Used By Mubarak
@@ -3842,6 +3858,7 @@ Embattled D.C. Mayor Will Seek Second Term
 Embattled Nevada Sen. Ensign To Resign
 Embattled Speedskating Coaches Resign
 Embattled U.S. Speedskating Coach Responds To Resignation And Suspension
+Emergencies Declared As Deep Freeze Hits Deep South
 Emerging Nations To Set Up Development Bank
 Emir Of Qatar Visits Gaza, Becoming First Head Of State There Since 2007
 Emmy Nominations Are Out: 'Mad Men' Will Go For Record
@@ -3985,6 +4002,7 @@ FAA OKs Boeing's 787 Battery Fix
 FAA Orders Apnea Testing For Overweight Pilots, Controllers
 FAA Orders Inspection Of Boeing 737s
 FAA Orders Review Of Boeing 787 Dreamliner
+FAA Orders Safety Checks On Boeing 767 Jets
 FAA Says Fliers Can Safely Use Most Electronics
 FAA Shutdown Costs Could Exceed $1.2 Billion
 FAA Suspends Airport Construction Projects
@@ -5141,6 +5159,7 @@ Hedge Fund Manager Apologizes For Comments On Female Traders
 Hedge Fund SAC Capital Pleads Not Guilty To Fraud Charges
 Hedge Fund SAC Will Pay More Than $1 Billion For Insider Trading
 Heidi, Germany's Cross-Eyed Opossum, Has Died
+Heinrich Himmler's Private Letters Published In German Newspaper
 Heir To Billions Arrested In Wife's Death
 Heir To Billions Charged With Preventing Wife's Burial, Not Murder
 Heir To Billions May Have Lived With Wife's Body For Days In Britain
@@ -5178,6 +5197,7 @@ Hezbollah Commander Dies In Attack Outside Beirut Home
 Hezbollah's Alleged Ties To South American Cocaine Trade Detailed
 Hic, Hic, Hic: TV Weatherman Keeps Going Despite Hiccups
 Higgs Boson Researchers Awarded The Nobel Prize In Physics
+High Court Grants Nuns Temporary Exemption From Birth Control Mandate
 High Court Lets Stand Ruling Ordering Removal Of Crosses In Utah
 High Court Rules 'Equal Protection' Doesn't Extend To Municipal Taxpayers
 High Court Rules California Can't Regulate Sale Of Violent Video Games To Kids
@@ -5227,6 +5247,7 @@ Holder Acknowledges U.S. Citizens Killed In Drone Strikes
 Holder Calls For 'Hard Look' At 'Stand Your Ground' Laws
 Holder Decries 'Draconian Mandatory Minimum Sentences'
 Holder Defends Subpoena Of Journalists' Phone Logs
+Holder Favors Pot Banking, And Legal Dealers Shrug
 Holder Found In Contempt Of Congress
 Holder Isn't Sure How Often Reporters' Records Are Seized
 Holder Responds To Paul About Drone Strikes On U.S. Soil
@@ -5288,6 +5309,7 @@ Hopes Are Fading For Missing In Italian Cruise Ship Disaster
 Hopes Rising For 'First Step' At Nuclear Talks With Iran
 Hopping Mad: Rabbit In Mandela Statue's Ear Is On Burrowed Time
 Horseback Racing While Drunk? Not At The Preakness
+Hospital In Texas Removes Life Support From Brain-Dead Woman
 Hospitality, Compact Downtown Make Indy A Super Bowl City, Mayor Says
 Hospitalized Nelson Mandela In Critical Condition
 Hospitals Say They Had Room To Help Before Virginia Tragedy
@@ -5543,6 +5565,7 @@ Illinois Lawmakers Send Medical Marijuana Bill To Governor
 Illinois Man Charged With Stealing 42,000 Pounds Of Muenster Cheese
 Illinois Nuclear Power Plant Shuts Down Unit After Power Loss
 Illinois Sen. Mark Kirk Suffers A Stroke
+Illinois Train Conductor's Challenge: Keep The Beer From Freezing
 Illuminating Discovery: Woman Unknowingly Pays For Two Streetlights
 Ilya Zhitomirskiy, Co-Founder Of Facebook Rival, Dies At 22
 Images Appear To Confirm Removal Of Top North Korean Official
@@ -5550,6 +5573,7 @@ Images Of Tacloban: Before And After Typhoon Haiyan
 Imam Who Was Denied Boarding Says Experience Was 'Demeaning'
 Iman Al-Obeidi: 'Every Day I Am Beaten'
 Iman Al-Obeidi: 'I Want My Freedom'
+Immigrants Won't Be Shackled At San Francisco Court Hearings
 Immigration Arrest Near School, Sparks Protest In Detroit
 Immigration Change Is One Step Closer To A Bill
 Immigration Employees File Suit Against Obama's New Immigration Policy
@@ -5882,6 +5906,7 @@ Inside Bin Laden's House, 'A Fading Splash Of Blood'
 Inside Kabul Siege Site: Attackers' Bodies, Walls Riddled With Bullet Holes
 Inside The Fiscal Cliff Budget Compromise Bill: Tax Cuts and Tax Hikes
 Inspector General: Fannie Mae Was Told About Foreclosure Abuse In 2003
+Inspector General: Literacy Training Of Afghan Forces Has Limited Success
 Instead Of Bail, Fla. Judge Orders Man To Take His Wife To Dinner, Bowling
 Insurer Will Pay In Case That Quickly Went Viral
 Insurers Paid $479 Million In Claims For Dog Bites Last Year
@@ -6441,6 +6466,7 @@ Judge Sets Trial Date For Jerry Sandusky In Abuse Case
 Judge Shaves 10 Years From Ex-Enron CEO's Prison Sentence
 Judge Smooths Path For American-US Airways Merger
 Judge Suspends Sentencing Of Would-Be Bomber After NSA Revelations
+Judge Tells Hospital To Take Pregnant Woman Off Life Support
 Judge Throws Out 3 Murder Charges Against Philly Abortion Doctor
 Judge Throws Out Discrimination Claims Against Paula Deen
 Judge Throws Out Half Of Jury Award In Apple, Samsung Patent Case
@@ -6717,6 +6743,7 @@ Larry Flynt Seeks To Block Execution Of Man Who Shot Him
 Larry King Signs Up With The Russians
 Larry Page Now More Popular Than Facebook's Zuckerberg On Google+
 Larry Summers Has Some Choice Words For Winklevoss Twins
+Las Vegas Braces Itself For Record Highs â In The Low 70s
 Last Fugitive Balkan War Crimes Suspect Arrested In Serbia
 Last Game Is Finally Here: BCS May Go Out With A Bang
 Last Mega Millions Jackpot Ticket Turned In
@@ -6799,6 +6826,7 @@ Letter: Hacking 'Widely' Discussed At U.K. Tabloid
 Letter: Kalashnikov Suffered Remorse Over Rifle He Invented
 Levon Helm, Drummer For The Band, Is In The Final Stages Of Cancer
 Levon Helm, Legendary Drummer-Singer Of The Band, Dies
+Li Na Wins A Second Grand Slam At Australian Open
 Liane Hansen Hands Off To New Host Audie Cornish
 Liberal SuperPAC Under Fire For Tweets About McConnell's 'Chinese' Wife
 Liberia's Charles Taylor Aided And Abetted War Crimes, Court Finds
@@ -6911,6 +6939,7 @@ Look! On The Web! The 'Comic Book Nerd Lawyers!'
 Looking Back 10 Years: President Bush's Address To The Nation
 Looking Back: How The World Quickly Learned About Bin Laden's Death
 Looking Into The Galaxy's Heart (It's Red)
+Looking To Escape The Deep Freeze? Head To Alaska
 Looks Like That Post-Rapture Pet-Walking Company Was A Hoax
 Looks Like Thieves Used Fighting To Cover Theft Of Libyan Treasures
 Loose Oil Rig Still Grounded On Alaskan Island
@@ -7172,6 +7201,7 @@ McCain Calls For Air Strikes On Syria
 McCain Meets With Rebels In Syria
 McCain Says Report Backs Comments About Immigrants Causing Wildfires
 McCain Says Right Strikes Can Hurt Assad's Capabilities
+McCain's 'Liberal' Record Earns Him Censure From Arizona GOP
 McCain: History Will Judge Obama Harshly On Iran Policy
 McCartney & Springsteen Have Plug Pulled In London
 McDonald's Elusive McRib Makes A Comeback
@@ -7184,6 +7214,7 @@ Medal Of Honor Recipient Is Among 'Best Of A Generation,' Obama Says
 Medal Of Honor Recipient Thinks About Men 'He Was Not Able To Save'
 Medgar Evers' Widow Will Deliver Invocation Prayer At Inauguration
 Media Blogger Romenesko Resigns After Questions About Attribution
+Mediator: 'Haven't Achieved Much' At Syrian Peace Talks
 Mediator: Syria, Opposition Will Have Face-To-Face Meeting
 Medical Examiner Rules Junior Seau's Death A Suicide
 Medical Report Details George Zimmerman's Injuries, ABC News Says
@@ -7649,6 +7680,7 @@ NCAA To Issue Sanctions Against Penn State
 NCAA Will Stop Selling Player Jerseys, Takes Web Shop Down
 NCAA Won't Ban Miami Hurricanes From Bowls Over Booster's Gifts
 NFL Fines Broncos' John Fox, Jack Del Rio Over Treatment Of Replacement Refs
+NFL Fines Seattle's Richard Sherman Nearly $8,000
 NFL Firings Begin: Browns, Redskins, Others Ax Coaches
 NFL Lockout: Why Pros Still Show To Off-Season Workouts
 NFL On Thanksgiving Day: Grudge Matches, No 'Turkeys'
@@ -7731,6 +7763,7 @@ NYPD Officer Charged In Connection With Videotaped Biker Attack
 NYPD To Examine Use of Pepper Spray On Protesters
 NYSE Being Bought For $8.2B By Atlanta-Based IntercontinentalExchange
 NYT: Four Journalists Missing In Libya
+NYT: NSA Can Exploit Mobile Apps For Information
 NYTimes.com Cuts Free Articles To 10 Per Month, From 20
 NYU 'Hawk Cam:' A Most Fortunate Miscalculation Yields Happy Ending
 Nadal Sweeps Federer To Advance To Australian Open Final
@@ -7776,6 +7809,7 @@ Nazi Art Trove Includes Previously Unknown Matisse, Chagall Works
 Near Record Flooding In Memphis; Gas Prices Rise To $4 Per Gallon
 Nearly 13 Hours Later, Sen. Paul Ends His Filibuster; Here's The Video
 Nearly 18 Million U.S. Households Had Trouble Getting Food Last Year
+Nearly 30 Killed As Egypt Celebrates Revolution's Anniversary
 Nearly 6.5 Million LinkedIn Passwords Reportedly Stolen
 Nearly 80 Americans Wounded, Two Afghans Killed In Attack On Base
 Nebraska Governor OKs New Keystone Pipeline Route
@@ -7823,6 +7857,7 @@ New $5.50 Tax For Canadians Flying To U.S. Called A 'Provocative Insult'
 New Allegations Of Sexual Misconduct Surface Against Dominique Strauss-Kahn
 New Allegations Surface Of Secret Service Misbehavior In El Salvador
 New Arizona Law: Guns From Buybacks Can't Be Destroyed
+New Bipartisan Farm Bill Emerges From Long Debate In Congress
 New Black Panther Party Offers $10K Bounty For George Zimmerman
 New Bombing In Syria After Ineffective Truce Ends
 New Book Cites 'Bitter Disputes' Among Obama's Economic Advisers
@@ -7898,6 +7933,7 @@ New Russian Law Broadens Definition Of Treason
 New Salinger Books Will Arrive In 2015, Authors Say
 New Sensors Stick To Skin As Temporary Tattoos
 New Study Estimates The Worth Of College Majors
+New Study Shakes Up Science On Midwest Quake Zone
 New Survey Gives U.S., U.K. Universities Top Rankings
 New Syrian Deaths And Looming Military Crackdown
 New Syrian Envoy Brahimi Takes On 'Crucial Task'
@@ -8064,6 +8100,7 @@ No Way She'll Run For Senate In 2016, Michelle Obama Says
 No Way, Man! Last VW Bus To Soon Roll Off Assembly Line
 No Widespread Misconduct In Secret Service, Investigators Say
 No iPads Or iPhones For You, Apple Store Clerk Tells Iranians
+No, Queen Elizabeth Is Not Down To Her 'Last Million'
 No-Fly Zone In Syria Could Cost $1B A Month, U.S. General Says
 No. 1 Gonzaga's Been Dumped: Here's What Else You Should Know
 No. 2 U.S. Commander In Afghanistan Would Like 68,000 Troops Into Next Year
@@ -8308,6 +8345,7 @@ Obama To Limit Drone Strikes, Renew Effort To Close Guantanamo
 Obama To Name Top Lawyer As Guantanamo Closure Envoy
 Obama To Nominate Charlotte Mayor For Transportation Post
 Obama To Nominate Sylvia Burwell Of Walmart Foundation As Budget Chief
+Obama To Raise Minimum Wage For Federal Contracts
 Obama To Seek Congressional Approval For Action Against Syria
 Obama To Seek Power To Merge Government Agencies
 Obama To Tell Iran That U.S. Will 'Do What We Must' On Nukes
@@ -8612,6 +8650,7 @@ Oops! France's FranÃ§ois Hollande Confuses China And Japan
 Oops! Minnesota Wins Rivalry Trophy, Then Breaks It
 Oops. Wrong Birth Year Fixed On NYC Mayor Koch's Tombstone
 Openly Gay Mayoral Candidate In Mississippi Found Dead
+Opposition 'Gaining Ground' In Ukraine?
 Opposition Forces Say At Least 100 Killed By Assad Regime In Syria
 Oracle Team USA Defeats New Zealand, Keeps The America's Cup
 Orange Goo At Alaskan Village Found To Be Fungal Spores, Not Eggs
@@ -8729,6 +8768,7 @@ Pakistan: The Critical Partner Where Many Insist Bin Laden Is Alive
 Pakistani Army Chief Unhappy Over Treatment Of Musharraf
 Pakistani Court Did Not Connect Doctor's Conviction To Bin Laden Hunt
 Pakistani Court Will Hear Appeal Of Confessed-Killer Mumtaz Qadri
+Pakistani Judge Orders Death For Man Who Claimed To Be Prophet
 Pakistani Leader: 'Allegations Of Complicity Or Incompetence Are Absurd'
 Pakistani Politician Imran Khan Falls From Lift During Campaign
 Pakistani Prime Minister Formally Charged With Contempt Of Court
@@ -8889,6 +8929,7 @@ Perry Unveils His 'Cut, Balance And Grow Plan'
 Persistent U.S. Drought Is Also Costing Homeowners
 Personal Income Slipped In August, Consumer Spending Basically Flat
 Pet Owners Win: Chinese City Relents On Dog Ban
+Pete Seeger, Folk Music Icon And Activist, Dies At 94
 Peter Higgs Learned About His Nobel From A Former Neighbor
 Peter O'Toole, Star Of 'Lawrence Of Arabia,' Dies
 Peter Parker's Dead, But Spider-Man Will Live On (Sort Of)
@@ -8928,6 +8969,7 @@ Philip Levine Named America's New Poet Laureate
 Philip Morris Threatens To Sue Australia Over Cigarette Packaging Law
 Philip Roth Wins Literary Prize; Judge Quits
 Philippine Navy Still Hopes For Survivors From Ferry Crash
+Philippine Police Used 'Wheel Of Torture,' Rights Group Says
 Phone Could Link ISI To Bin Laden
 Phone Hacking Probe Extends To Stolen Cellphones
 Phone-Hacking Scandal Widens; Casey Anthony To Be Sentenced
@@ -9007,9 +9049,11 @@ Police Chief: 'We Are Not Barbarians;' Bury Bombing Suspect
 Police Clear Occupy Camps In L.A. , Philadelphia
 Police Have Video That Led To Claim Toronto Mayor Used Crack
 Police Helicopter Crashes Into Glasgow Pub; At Least 8 Dead
+Police ID Maryland Mall Shooter, But Still Search For Motive
 Police In East Cleveland Discover Bodies Wrapped In Plastic
 Police In India Arrest Three In Alleged Rape Of U.S. Tourist
 Police In New York Clock Motorcyclist Going 170 MPH
+Police Make Arrest In Fatal Shooting At SC State University
 Police Question George Zimmerman After Confrontation With Wife
 Police Recover Heroin Packets Stamped 'Obamacare'
 Police Reports Linked To Michele Bachmann Released
@@ -9267,6 +9311,7 @@ Protesters Block Government Buildings In Ukraine
 Protesters Hound David Petraeus Before Lecture At CUNY
 Protesters In Cairo Renew Demand That Military Rulers Step Aside
 Protesters In Turkey Prepare For Prime Minister's Return
+Protesters In Ukraine Vow To Step Up Pressure On Government
 Protesters Interrupt Obama With Song
 Protesters Storm British Embassy In Tehran
 Protesters, Police Clash In Yemen After Massive Protests
@@ -9369,6 +9414,7 @@ Rapper Lupe Fiasco Booted Off Inaugural Party Stage After Criticizing Obama
 Rare Calico Lobster Turns Heads, And Escapes Dinner Menu
 Rare Earthquake Rattles New England
 Rare On-The-Job Death For Avalanche Forecaster In Utah
+Rat-A-Phooey! That Ghost Ship May Not Be Infested With Rodents
 Rat-Infested Ghost Ship Might Be Heading For U.K.
 Rate Of Coastal Wetlands Loss Has Sped Up, U.S. Study Says
 Rate Of U.S. Gun Violence Has Fallen Since 1993, Study Says
@@ -9425,6 +9471,7 @@ Reining In The Deficit By Doing Nothing?
 Release Americans 'Immediately,' Ambassador Rice Tells Egypt
 Release Mubarak, Egyptian Court Orders
 Release Of American Hikers Not Imminent, Iran's Judiciary Says
+Relic Containing Pope John Paul II's Blood Stolen
 Relief Groups Kicked Out Of Somalia, Warn Of Humanitarian Catastrophe
 Relief Pitcher Admits Living A Lie
 Religious Violence Escalates In Central African Republic
@@ -9462,6 +9509,7 @@ Rep. Giffords: 'I Want To Get Back To Work'
 Rep. Jason Chaffetz: One Republican Voting 'No' On Boehner's Plan
 Rep. Maxine Waters Cleared By House Ethics Committee
 Rep. Peter King Plans To Hold New Hearing On Muslim Radicalization
+Rep. Radel Resigns; Pleaded Guilty To Cocaine Possession
 Rep. Ryan Endorses Romney
 Rep. Ryan Makes GOP Case On Medicare, Budget
 Rep. Ryan Says New GOP Budget Plan 'Offers Real Solutions Again'
@@ -10503,6 +10551,7 @@ Smithfield Foods To Be Sold To Chinese Firm For $4.72 Billion
 Smithsonian Names Its New Panda Cub 'Bao Bao'
 Smithsonian Unveils Painting Of Pitching Great Pedro Martinez
 Smoke, The Donkey, Is Now On Twitter, Facebook
+Smoker May Have Caused Retirement Home Fire; Dozens Still Missing
 Snackman Speaks: 'I Just Didn't Want To See Anyone Get Hurt'
 Snap! Miami Heat's Streak Ends At 27
 Snickers And 5-Star Hotels: Report Details Top General's Wasteful Spending
@@ -10668,6 +10717,7 @@ Spending Barely Grew In October, But Income Growth Picked Up
 Spike That Email About Welfare And Work; Fact Checkers Say It's Not True
 Spire Intact, World Trade Center Stretches To 1,776 Feet
 Splattered Flag-Themed Football Uniforms Have Many Seeing Red
+Spoiler Alert? 'Madden NFL 25' Predicts Super Bowl Outcome
 Spokesman Rejects Report That Ron Paul 'Signed Off' On Racist Newsletters
 Sports Loses Its Escapist Gleam In A Summer Of Court Dates
 Sportswriter Who Let Readers Fill Out Hall Of Fame Ballot Is Banned
@@ -10815,6 +10865,7 @@ Student Killed In Clashes At Egyptian University
 Student Left And Forgotten In Holding Cell For Five Days Gets Apology
 Student Left In DEA Cell For Days Reaches $4.1 Million Settlement
 Student Protesters Shut Down UC Santa Cruz Campus
+Student Shot And Killed At S.C. State University
 Students Killed As Mortar Slams Into Syrian University
 Students Seen Bullying Bus Monitor Suspended For A Year
 Students Stopped The Stabbing Suspect At Texas College
@@ -10878,6 +10929,7 @@ Summers Pulls Out Of Running To Be Federal Reserve Chief
 Sun Sends Solar Flares Speeding Toward Earth; Will Hit Thursday [VIDEO]
 Sunday Night Forecast: Cloudy With A Chance Of Meteors
 Sunken Japanese Supersub From World War II Located Off Hawaii
+Super Bowl Tickets Are 'Cheap,' And Weather Isn't Only Reason
 Super Bowl Will Be A Family Affair: Harbaugh Brothers' Ravens, 49ers To Clash
 Super Mario Cut Interest Rates Today And That's Huge News
 Super Tuesday: GOP Candidates In Tight Race For 437 Delegates
@@ -11250,6 +11302,7 @@ Thai Protest Leader Says Heads Of Military, Police To Meet Him
 Thai Protesters Continue Effort To Topple Government
 Thai Protesters Storm Army Headquarters
 Thailand Flooding May Last For Weeks
+Thailand's Anti-Government Protesters Move To Block Voting
 Thailand's Opposition Launches Mass Rallies To Close Bangkok
 Thanking Veterans And Remembering Their Sacrifices
 Thanks For Nothing, Stephen: Colbert Spoils The Wiki Veep Indicator
@@ -11360,6 +11413,7 @@ The Social Reference Desk: A Band-Aid For The Wikipedia Blackout
 The Sounds Of New York City, Circa 1920
 The Spotlight Shines On Another Central African Warlord
 The State Of The Union In 10 Headlines
+The State Of The Union Through Your Eyes
 The Stories: Why 'Big Tex' Matters
 The Story Behind A Striking Image Of The Scene At Sandy Hook
 The Story Of A Guy And His Pet Buffalo
@@ -11877,6 +11931,7 @@ Top Stories: Millions Of Syrian Refugees; Microsoft's Nokia Bid
 Top Stories: Miserable Weather Travel Day; Thai Protests
 Top Stories: Missiles For Turkey; Inflation In Check; Egypt Prepares To Vote
 Top Stories: Mixed Employment Report; West Virginia Water Crisis
+Top Stories: More Bone-Chilling Cold; Grammy Award Highlights
 Top Stories: More Frigid Weather; Dramatic College Football Finish
 Top Stories: More Killing In Syria; Nuclear Inspectors' Mission Fails In Iran
 Top Stories: More Political Turmoil In Egypt; Chinese Media Admits It Was Duped
@@ -11955,6 +12010,7 @@ Top Stories: Penn State Scandal, Italian Austerity Plan, Ramos Kidnapping
 Top Stories: Penn State, Eurozone Crisis, Iran, Syria
 Top Stories: Pentagon Review, Baghdad Bombings, Kodak's Woes
 Top Stories: Persistent Unrest In Egypt; Chemical Fears In Syria
+Top Stories: Pete Seeger Dies; Obama Prepares To Address Nation
 Top Stories: Petraeus Affair Widens; More Air Strikes In Syria
 Top Stories: Philippines Typhoon Recovery And How To Help
 Top Stories: Philippines Typhoon Wreckage; Veterans Day
@@ -12443,6 +12499,7 @@ U.S. A Possible Landing Site For Satellite
 U.S. Accuses China Of Causing 'Massive Distortions' In Rare Earths Trade
 U.S. Acknowledges Military Action In Yemen And Somalia
 U.S. Adds F-22 Fighter Jets To Military Exercise In South Korea
+U.S. Agencies, Tech Firms Agree To Rules On Surveillance Info
 U.S. Agrees To $350,000 Settlement In Conn. Immigration Raid Cases
 U.S. Air Force Helicopter Crashes In England, Killing 4 Service Members
 U.S. Airlines Forecast A Sunnier Summer
@@ -12714,6 +12771,7 @@ UPDATED: Student In Philadelphia School Shooting Surrenders
 UPDATED: Third Student In Ohio School Shooting Dies
 UPDATED: Turkey Says Syria Shot Down Jet Over Mediterranean
 UPDATED: U.S. Rejects Assad's Timetable For A Chemical Weapons Deal
+UPDATED: Ukrainian President Offers To 'Scrap' Anti-Protest Law
 UPS Agrees To Forfeit $40 Million In Payments From Illegal Online Pharmacies
 US Anti-Doping Agency Brings Formal Charges Against Lance Armstrong
 USA Swimming Faces Lingering Doubts Over Sexual Abuse
@@ -12725,6 +12783,7 @@ USS Abraham Lincoln Clears The Strait Of Hormuz
 Ubuntu Marks 'Bug No. 1' As Fixed, After Nearly Nine Years
 Ugandan Warlord Joseph Kony Under Spotlight Thanks To Viral Video
 Ugly Mugly Wins Ugliest Dog Contest
+Ukraine Minister Says Talks With Protesters Are 'Futile'
 Ukraine Protests Continue Over Suspension Of EU Talks
 Ukraine Protests Spread, But 'Fragile Truce' Holds In Kiev
 Ukraine Tracks Protesters Through Cellphones Amid Clashes
@@ -12912,6 +12971,7 @@ VIDEO: Good Samaritans Lift Burning Car To Free Trapped Man
 VIDEO: Gov. Christie Slow Jammin' The News With Jimmy Fallon
 VIDEO: Gov. Perry's 'Top 10 Excuses'
 VIDEO: Gov. Perry's Brain Freeze
+VIDEO: Grammy Highlights, Including A Bit Of Paul And Ringo
 VIDEO: Halloween Homage To Will Ferrell Character Ron Burgundy
 VIDEO: Helicopter Crashes While Installing A Christmas Tree
 VIDEO: Helmet-cam Records Mountain Climber's Wild Slide; He's OK
@@ -13166,6 +13226,7 @@ WATCH: Nebraska's Unbelievable Hail Mary To Beat Northwestern
 WATCH: Nevada Lawmaker Comes Out During Gay Marriage Debate
 WATCH: Newborn White Lion Cubs In South Korea
 WATCH: Obama Says It's A 'Pretty Shameful Day In Washington'
+WATCH: Obama Tells The Story Of A Wounded Soldier
 WATCH: Olympic Torch Makes Its First Space Walk
 WATCH: Reactions To Gay Marriage Rulings
 WATCH: Rep. Tammy Duckworth Dresses Down IRS Contractor
@@ -13267,6 +13328,7 @@ Wave Of Arsons Blisters Jim Morrison's Former Home In The Hollywood Hills
 Wave Of Attacks Leaves At Least 30 Dead In Iraq
 Wave Of Bombings At Ramadan's End Kills Dozens In Iraq
 Wave Of Violence Leaves Dozens Dead Across Mexico
+Wawrinka Beats Ailing Nadal To Win Australian Open Final
 Way To Go: Scientists Watch Comet Plunge Into The Sun
 Wayward Dolphin In Polluted New York Canal Dies
 We Beheaded The Wrong Man, Syrian Terrorists Say
@@ -13408,6 +13470,7 @@ Where To Watch As Murdoch Testifies
 Where's Jimmy Hoffa? Everywhere And Nowhere
 Where's Santa? Depends On Which Tech Titan You Ask
 Whew! Today's Weather Map Is Hot
+Which Are The Most, And Least, 'Bible-Minded' Cities In The U.S.?
 Which Is It? Hurricane, Typhoon Or Tropical Cyclone?
 Which Is The Most Miserable U.S. City? Detroit.
 Which Key Cases Will The Supreme Court Rule On?
