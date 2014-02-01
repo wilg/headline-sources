@@ -1,3 +1,4 @@
+#1ReasontoBe panel returns to GDC this year
 '90s platformer James Pond returns via Kickstarter Sept. 20
 'Adventure Time' creator doing voice-over work for Broken Age
 'Assassin's Creed 4 101' trailer explains everything about the pirate life
@@ -104,6 +105,7 @@ Activision Blizzard finalizes purchase from Vivendi
 Activision Blizzard hit with lawsuit by shareholder
 Activision Blizzard separation halted
 Activision beats its expectations for third-quarter 2013 earnings
+Activision eyeing possible closure of Call of Duty mobile studio
 Activision files software patent infringement suit against Worlds Inc
 Activision offering PS3 to PS4 Call of Duty: Ghosts upgrades for $10
 Activision running half-price sale on Xbox Games Store
@@ -1005,6 +1007,7 @@ DeNA launches arcade-style shooter Lawless and collectible card game The Gate
 DeNA's iOS game Lawless turns L.A. into a shooting gallery
 DeNA, EA vet Clive Downie joins Zynga as COO
 Dead Island's backwards trailer gets a live-action remake
+Dead Island, Toy Soldiers: Cold War go free on Xbox Live in Feb.
 Dead Island: Epidemic closed beta sign-ups now open
 Dead Island: Epidemic is next game from Bloodline Champions studio
 Dead Island: Riptide free weekend on Steam, 66 percent off price
@@ -1345,6 +1348,7 @@ Elemental: Fallen Enchantress â Legendary Heroes update 1.3 adds AI fixes
 Elementary, My Dear Holmes Kickstarter campaign suspended (update)
 Elementary, My Dear Holmes' developer denies 'shady' Kickstarter activity
 Elijah Wood joins the cast of Broken Age as Shay
+Eliss Infinity combines Super Hexagon and Tetris on iOS Feb. 6
 Elite: Dangerous alpha ready for December
 Elite: Dangerous dev diary walks us through a capital-ship duel
 Ellen Page and Willem Defoe describe the difficult relationships in Beyond: Two Souls
@@ -1649,6 +1653,7 @@ Friends List: Do games need to be finished?
 Friends List: Do pro-wrestling games disrespect the dead?
 Friends List: Do you wait and buy games on Black Friday / Cyber Monday?
 Friends List: Does California have too much power over video games?
+Friends List: Does Madden belong in museums?
 Friends List: Does a game's story need to end?
 Friends List: Does crunch make better games?
 Friends List: EA CEO Andrew Wilson answers your questions
@@ -1872,6 +1877,7 @@ Glare explores swift and elegant platforming with the power of light
 Glu Mobile CEO believes Google Glass will revolutionize gaming landscape
 Glu Mobile discusses drive to penetrate Japanese mobile game market
 Go Dance offers a pick up and play dance game for iOS
+GoPro Channel app hits Xbox 360, Xbox One by summer 2014
 GoPro Channel coming to Xbox, lets you buy cameras through your console
 God Eater 2 trailer introduces characters in a whirl of combat and dialogue
 God of War | Art Gallery
@@ -3439,6 +3445,7 @@ Outlast DLC announced, details coming Oct. 31
 Outlast Whistleblower DLC is a prequel to the asylum's ruin
 Outlast coming to PS4 for free in February
 Outlast review: run like hell
+Outlast scheduled to hit PSN next week in North America
 Outrise: Where Shadow of the Colossus meets Left 4 Dead
 Outspoken EA VP Jeff Brown leaves company after 14 years
 Ouya CEO 'surprised' by reaction to Free The Games fund, but 'sticking with it'
@@ -3448,6 +3455,7 @@ Ouya Free the Games, Richard Garriott's house, Killer Queen: Speed Run
 Ouya boasts more than 25,000 registered developers
 Ouya discounted 33 percent in Best Buy Cyber Monday sale
 Ouya entering external storage closed beta
+Ouya gets double the storage and a 'refined' controller
 Ouya getting new streamlined UI later this month
 Ouya now accepts Bitcoin payments (update)
 Ouya rolls out to Target stores nationwide, demo kiosks inbound
@@ -3837,6 +3845,7 @@ R.I. Senate to vote this week on 38 Studios settlement bill
 R.I. received no bids to explore defaulting on 38 Studios debt
 RI governor forced 38 Studios bankruptcy, former official says
 RI governor lashes out, calls 38 Studios' Project Copernicus 'a lot of junk'
+RI legislature approves bill for 38 Studios settlements
 RPG card game Project Carnival announced for mobile devices
 Rabbids Big Bang coming to iOS and Android on Oct. 17
 Rabbids are the hardest thing to pilot through space
@@ -3887,6 +3896,7 @@ Rayman Legends review: particle man
 Rayman Legends' Invasion levels coming to PS Vita Nov. 26
 Rayman Origins Vita goes free tomorrow on PlayStation Plus
 Razer reveals Project Christine, a modular concept PC focused on easy upgrades
+Razer to make Xbox One controllers, arcade sticks and more
 Razer tries its hand at wristbands with the Nabu SmartBand
 Real Steel robot beat-em-up sequel launching on mobile Oct. 17
 Real war is not a game, say Wargaming.net and War Child
@@ -5822,6 +5832,7 @@ Ys: Memories of Celceta gets deluxe release on Vita this holiday
 Ys: Memories of Celceta hitting Europe early 2014
 Ys: Memories of Celceta on PS Vita set for Nov. 26
 Ys: Memories of Celceta review: don't forget
+ZX Spectrum game devs raise concerns about soon-to-be-funded Kickstarter (update)
 Zavvi pursuing legal action against customers accidentally sent PS Vita bundles
 Zeboyd's 16-bit JRPG-inspired Cosmic Star Heroine goes to Kickstarter
 Zelda details, 3DS release dates and more from today's Nintendo Direct

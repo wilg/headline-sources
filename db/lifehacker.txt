@@ -126,6 +126,7 @@ All the New Stuff in Windows 8.1
 AllCast Arrives On the Play Store, Sans Chromecast Support
 AllCast Streams Your Videos to All Your DLNA Devices, Chromecast-Style
 AllThings Is a Feature-Packed Webapp for Personal and Group To-Dos
+Alleviate Stress by Sharing it With Other Stressed People
 Allow Goals to Be Flexible to Maintain Optimism
 Allow Right-Click Enables Context Menus on Sites That Block It
 Always Add Value When Replying to Email
@@ -436,6 +437,7 @@ Dash Reads Your Car's Diagnostic Info, Tracks Driving Data, Finds Gas
 DashPlus Is a Powerful GTD-Style To-Do App with Gestures
 Day One Adds Music Integration, Motion Activity, and a New Design
 Day One for Mac Updates with Maps Integration, Filters, and More
+De-stink Your Shoes and Feet with Rubbing Alcohol
 DeGeo Removes Location Data from iPhone Photos Before Sharing
 Deal With Interruptions as Soon as They Arrive to Boost Focus
 Deals: 27" IPS Display, AirPlay Speaker, Rubber Floor Mats
@@ -545,6 +547,7 @@ Eight Small Financial Changes That Yield Huge Results
 Ember Organizes All Your Digital Junk
 Embracing Nostalgia Can Boost Your Optimism About the Future
 Emergency Candles, Milk Cartons, and Garage Storage
+Employ the "Rule Of 3" for Daily, Weekly and Annual Productivity
 Emu Makes Texts Useful with Real-Time Location, Reminders, and More
 Emulate an Ambivert When You Need to Self-Promote
 Enable Autocorrect on Your Desktop with Chrome
@@ -980,6 +983,7 @@ How to Beat the Winter Blues When You Work from Home
 How to Become a More Reliable Person
 How to Block Annoying Facebook Apps From Posting to Your Feed
 How to Break Into a Computer (and Prevent It from Happening to You)
+How to Break Into a Windows PC (and Prevent It from Happening to You)
 How to Break the Living Paycheck-to-Paycheck Cycle
 How to Bring Libraries Back in Windows 8.1
 How to Build an Arduino TV Annoyer
@@ -1040,6 +1044,7 @@ How to Have Great Ideas More Often, According to Science
 How to Hide Icons in OS X's System Preferences
 How to Host an Awesome Party on a Budget
 How to Inflate Tasks and Extend Due Dates
+How to Install Linux on a Chromebook and Unlock Its Full Potential
 How to Install OS X 10.8.5 on Your Hackintosh
 How to Install the SteamOS Beta on Your Computer
 How to Jailbreak Your iPhone: The Always Up-to-Date Guide [iOS 7.0.4]
@@ -1061,6 +1066,7 @@ How to Manipulate Your Kids into Doing What You Want
 How to Manually Add an RSS Feed to Google Play Newsstand
 How to Master the Mental Game of Sticking to a Budget
 How to Maximize Your Insurance Payout By Doing Your Own Repairs
+How to Migrate to a Solid-State Drive Without Reinstalling Windows
 How to Monitor Your Own Credit, For Free, Forever
 How to Mooch Off of Your Friends (Without Them Ever Knowing)
 How to Mute Retweets from Any User on Twitter
@@ -1489,6 +1495,7 @@ Nova Launcher Update Brings KitKat-Themed UI Tweaks
 Nudge Tracks All Your Health Information in One App
 Obama's NSA Reforms Come Up Short
 Occidentalis Tweaks the Raspberry Pi OS for Electronics Hacking
+OmniSidebar Makes Firefox Sidebar Hacks Easier Than Ever
 One Sentence Diary Makes Journaling Brief and Easy
 One-Day Kindle Sale, Tiny Bluetooth Boombox, Lightning Cables [Deals]
 OneNote Summaries, Flickr Viewers, and Testicular Health
@@ -1815,6 +1822,7 @@ Sometimes Disorganization Can Lead to Better Creativity
 Sony RX10 Review: A First-Rate Camera With a Do-It-All Lens
 Sony RX100, Your Choice Of Bluetooth Headphones [Deals]
 Sony SD Cards Are Over Half Off on Amazon Right Now
+Sort Fresh Herbs by Hard and Soft for Better Freshness
 SoundVolumeView Manages Audio Profiles, Mutes Devices and Applications
 SpecificFeeds Delivers a Customized Version of Your RSS Feeds
 Specify Skill and Personality Trait for Great LinkedIn Recommendations
@@ -2288,6 +2296,7 @@ Top 10 Reasons to Exercise Regularly (Besides Losing Weight)
 Top 10 Things You Never Have to Pay Full Price For
 Top 10 Tricks for Better Apartment Living
 Top 10 Tricks for Building the Perfect Budget
+Top 10 Uses for Linux (Even If Your Main PC Runs Windows)
 Top 10 Ways to Customize Your Desktop
 Top 10 Ways to Survive the Cold, Harsh Winter
 Top 10 Ways to Take Your Media Collections Digital
