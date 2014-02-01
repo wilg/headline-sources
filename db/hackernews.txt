@@ -107,6 +107,7 @@ $99 ARM-based PC runs either Ubuntu or Android
 1 Damn Easy Way to Improve User Experience
 1 in 6 Russian entrepreneurs are in jail, 1 in 3 prisoners are businessmen
 1/13 noon at MIT: Protest wrongful prosecution of Aaron Swartz
+1/9998 = 0.0001 0002 0004 0008 0016 0032 0064 0128 0256..
 10 Million hits a day with Wordpress using a $15 server
 10 Questions for John Gruber Regarding H.264, WebM
 10 Simple Truths Smart People Forget
@@ -260,6 +261,7 @@ A 1-star, unfiltered user review of Yelp
 A 140-Acre Forest Is About to Materialize in the Middle of Detroit
 A 17 Year Old with Severe Autism and His Six Completed Coursera Courses
 A 30 minute introduction to Rust
+A 33-Year-Old NPR Story Convinced Me Google Glass Will Stop Looking So Dorky
 A 3D printed toothbrush for all your teeth
 A 4G LTE base station running entirely in software on a standard PC
 A 75-Year Harvard Study Finds What It Takes To Live A Happy Life
@@ -507,6 +509,7 @@ AK47 assault rifle inventor Kalashnikov dies at 94
 AMA with Barack Obama
 AMC movie theater calls FBI to arrest a Google Glass user
 AMD launches Kaveri processors aimed at starting a computing revolution
+AMD reveals its first ARM processor: 8-core Opteron A1100
 AMD to Nvidia: prove it, don’t just say it
 AOL Asks Us If We Can Tone It Down
 AOL Exposed: A Former AOL Employee Speaks Out
@@ -529,6 +532,7 @@ AWS Costs Cheat Sheet
 AWS Marketplace
 AWS OpsWorks - Flexible Application Management in the Cloud Using Chef
 AWS Service Disruption Post Mortem
+AWS Tips, Tricks, and Techniques
 AWS drops bandwidth pricing
 AWS is down due to an electrical storm in the US
 AWS is down, but here's why the sky is falling
@@ -561,6 +565,7 @@ About the Reuters article
 About those vector icons
 Abrash on Valve: How I Got Here, What It's Like, and What I'm Doing
 Abusing Emoji in iOS and Your Mac
+Academic Torrents
 Academic papers are hidden from the public. Here's some direct action.
 Academics posting their papers online in tribute to Aaron Swartz
 Academics should stop doing free peer-review for non-open-access journals.
@@ -1403,6 +1408,7 @@ Blocked Sites is discontinued
 Blowing the Whistle on the Mortgage Bubble
 Blunt and necessary review of programming language books.
 Body Hacking: Thoughts Regarding My Magnet Implant
+Boeing #12
 Bogus story: no Chinese backdoor in military chip
 Boing Boing will go dark on Jan 18 to fight SOPA
 Bokeh – Interactive web visualization library in Python
@@ -1426,6 +1432,7 @@ Bootstrap 3 RC1
 Bootstrap 3 preview
 Bootstrap 3 released
 Bootstrap 3.0 Upcoming changes
+Bootstrap 3.1 released
 Bootstrap Maintainers Leave Twitter
 Bootstrap Toggle Buttons
 Bootstrap for Facebook apps
@@ -1853,6 +1860,7 @@ Confession of a Haskell Hacker
 Confessions of A Job Destroyer
 Confessions of a car salesman
 Confessions of a recovering lifehacker
+Confessions of an ex-TSA agent
 Confident Code
 Configuring Sublime Text 2
 Confirmed: Samsung is not shipping keyloggers
@@ -1901,9 +1909,11 @@ Could HN stop participating in the witchhunt?
 Could It Be? Spooky Experiments That 'See' The Future
 Could You Modify It ‘To Stop Students From Becoming This Advanced?’
 Could the eagles have flown Frodo into Mordor? (2000)
+Coursera blocks access to students in Cuba, Iran, Sudan and Syria
 Court Rules No Suspicion Needed for Laptop Searches at Border
 Court found NSA surveillance unconstitutional in 2011
 Court rules Linux kernel infringes on patents. Lawsuit avalanche to follow.
+Court: Google infringed patents, must pay 1.36 percent of AdWords revenue
 Courtney Love does the math (2000)
 Cowards
 Cracking OSX Lion passwords
@@ -2424,6 +2434,7 @@ Edw519 wrote a book compiling his best HN Comments
 Edward C++Hands
 Edward Snowden Q&A
 Edward Snowden is Almost Broke
+Edward Snowden nominated for Nobel peace prize
 Edward Snowden voted Guardian person of the year 2013
 Edward Snowden wins Sam Adams award [video]
 Edward Snowden's not the story. The fate of the internet is
@@ -3058,6 +3069,7 @@ Gabe Newell Wants to Support Linux, Because Windows 8 is a 'Catastrophe'
 Gabe Newell: Linux is the future of gaming, new hardware coming soon
 Gallery of free HTML snippets for Twitter Bootstrap
 Game Developer Gives 7-Year-Old Best Birthday Present Ever
+Game Developers Are Trolling the Makers of Candy Crush With Other "Candy" Games
 Game Over: Zynga Shuts Down PetVille And 10 Other Titles
 Game Preview: Voxatron - voxel-based, destructible environment, 8bit soundtrack
 Game Programmer Quits Job To Sell Street Food, Doubles Salary
@@ -3961,6 +3973,7 @@ How I Learned to Defrag My Brain
 How I Learned to Live Google-free
 How I Learned to Program
 How I Learned to Work a Room
+How I Lost My $50,000 Twitter Username
 How I Made $19,000 on the App Store While Learning to Code
 How I Made $350 In Two Days With Three Pages and Some Payment Code
 How I Made $600K in the iOS Education Market (2012 update)
@@ -4744,6 +4757,7 @@ IntelliJ IDEA 13 is Released
 Interaction & Visual Designer Wanted
 Interactive Guide to Blog Typography
 Interactive Resume
+Interactive SICP
 Interactive map of Linux kernel
 Interactive visualization of commute times for all US cities
 Interesting C code
@@ -4798,6 +4812,7 @@ Introducing Neo900
 Introducing NowJS or "How to make a chat server in 12 lines of code"
 Introducing Open Salaries at Buffer
 Introducing Outlook.com - Modern Email for the Next Billion Mailboxes
+Introducing Paper
 Introducing Pinry, a self-hostable Pinterest.
 Introducing Pow, a zero-configuration Rack server for Mac OS X
 Introducing Prompt. Nice SSH for iOS.
@@ -4993,6 +5008,7 @@ JavaScript: The Right Way
 Javascript Bitcoin Miner
 Javascript Frameworks Are Amazing and Nobody Is Happy
 Javascript apps can be fully crawlable
+Jb’s story about how he nearly lost his Twitter handle
 Jedberg leaves reddit
 Jeff Atwood On Parenthood
 Jeff Bezos Finds Apollo 11 Rockets
@@ -5293,6 +5309,8 @@ Lemmings 404 page
 Lemmings is 20 years old today
 Lenovo Agrees to Buy IBM Server Business for $2.3 Billion
 Lenovo CEO Gives His $3 Million Bonus to 10,000 Employees
+Lenovo to acquire Motorola Mobility
+Lenovo to buy Google's Motorola handset division
 Lenticular Photo Used To Secretly Convey Hot Line Number To Abused Kids
 Less is exponentially more
 Less is exponentially more (2012)
@@ -5314,6 +5332,7 @@ Lessons in website security anti-patterns by Tesco
 Lessons learned defying Joel Spolsky with Django
 Lessons learned from cracking 2 million LinkedIn passwords
 Lessons learned from my failed startup after 2 years, 300 users and 0 revenue
+Let banks fail: Iceland’s plan looks to be working
 Let me tell you about a game I made with the sole intention of watching it die
 Let my Wi-Fi go: FCC rules Verizon can't charge for Wi-Fi tethering
 Let's Build a Compiler
@@ -5764,6 +5783,7 @@ Mercator Puzzle
 Mercedes uses LEDs and a Camera to make "invisible car" for marketing
 Mercurial developer responds to "Switch to git?"
 Mesh Networks
+Message from Mexico: U.S. Is Polluting Water It May Someday Need to Drink
 Meta (YC S13), The Crazy AR Glasses That Aim To Do What Google Glass Can’t
 Metadata Equals Surveillance
 Metasploit Rails 3 Remote Code Execution Hours Away
@@ -6970,6 +6990,7 @@ Prince of Persia source code released (Apple II assembly)
 Princeton Grad Student And 'Brilliant' Programmer, Dies In Apparent Suicide
 Princeton bans academics from handing copyright to journal publishers
 Principles of UI design
+Printable True Bugs Wait Posters
 Printers are spontaneously printing odd "SQL" strings
 Prism Break
 Probabilistic Data Structures For Web Analytics And Data Mining
@@ -7060,6 +7081,7 @@ Python Deployment Anti-Patterns
 Python Ecosystem - An Introduction
 Python Facts
 Python For The Web
+Python Idioms [pdf]
 Python Libraries you should know about
 Python Packaging: Hate, hate, hate everywhere
 Python Programming in your Browser: PythonAnywhere
@@ -7855,6 +7877,7 @@ Show HN: Our new $149 hackable Bluetooth wristwatch
 Show HN: Pick a better background pattern for your website
 Show HN: PickHealthInsurance.com
 Show HN: Probabilistically Generating HN Post Titles
+Show HN: Product Hunt – Hacker News for Products
 Show HN: Pulse — A simple pulsating indicator.
 Show HN: Q&A for HN users
 Show HN: QR Codify, The Most Useful Snippet I've Ever Written
@@ -8900,6 +8923,7 @@ The Mac App Store’s future of irrelevance
 The Mac Pro Review
 The Macroeconomics of Chinese kleptocracy
 The Magazine
+The Magic of strace
 The Magical Tech Behind Paper For iPad's Color-Mixing
 The Magna Carta Essay
 The Making of Warcraft, Part 2
@@ -8937,6 +8961,7 @@ The Mystery of 355/113
 The Mystery of the Creepiest Television Hack
 The Mystery of the Encrypted Gauss Payload
 The Möbius Gear
+The NHS is selling your private data – here's the price list [pdf]
 The NSA Admits It Analyzes More People's Data Than Previously Revealed
 The NSA Can't Tell the Difference Between an American and a Foreigner
 The NSA Is Breaking Most Encryption on the Internet
@@ -9220,6 +9245,7 @@ The detention of David Miranda was an unlawful use of the Terrorism Act
 The diagnosis
 The economic return of Iceland has proved that the joke was on Ireland
 The effect of typefaces on credibility
+The email line that's client repellent
 The end of an era: Internet Explorer drops below 50% of Web usage
 The end of cow clicker
 The end of social
@@ -10023,6 +10049,7 @@ We Who Value Simplicity Have Built Incomprehensible Machines
 We Work Remotely – New Job Board from 37 Signals
 We and Mozilla are working together to make the web awesome
 We are in the AOL days of social networking
+We are not normal people
 We are sorry
 We are sorry to inform you
 We call ourselves innovators, but most of us are really just iterators
@@ -10044,6 +10071,7 @@ We will try to stop fixing bugs in PHP
 We work a 4-day week and just raised $4.75m
 We work a 4-day week and just raised $4.75m (2012)
 We'll Be Circling Back
+We're Shutting Down and I'm Scared
 We're all remote: how we deal with a 100% remote dev team
 We're only being dishonest to get your attention. Join us!
 We've Open-Sourced Everything
@@ -10999,6 +11027,7 @@ You don't need millions of dollars
 You don't understand something until you think it's obvious.
 You just went to the Google homepage. What actually happened?
 You know, Google, the web already had this feature
+You might not need jQuery
 You should be using Google Analytics to log your startup's client-side errors
 You should blog even if you have no readers
 You win, RIM (An open letter to RIM's developer relations)

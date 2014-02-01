@@ -929,6 +929,7 @@ Dell Says Goodbye to Netbooks, Hello to Ultrabooks
 Demo of SpaceTop Interactive 3D Interface
 Designer Re-envisions Products Minus Bulky Packaging
 Designing The Next Generation Space Suit
+Designing a Vinyl Toy, from Concept to Product
 Developer Boxes Give an Early Glimpse of Google TV 2.0
 Did You Pre-Order the iPhone 5?
 Diet Soda Gets You Drunk Faster in Mixed Drinks
@@ -1382,6 +1383,7 @@ Hands-On with Avegant's Virtual Retinal Display Prototype
 Hands-On with Hauppauge HD PVR 2 Game Capture Device
 Hands-On with Lego's Upcoming Ultimate Collectors Series R2-D2
 Hands-On with Logitech's PowerShell iOS 7 Gamepad
+Hands-On with Sixense STEM VR Motion-Tracking System
 Hands-On with Technical Illusions' CastAR Augmented Reality Glasses
 Hands-On with The CastAR Augmented Reality Glasses
 Hands-On with the Alpha Dominche Steampunk Coffee Machine
@@ -1724,6 +1726,7 @@ Inside Adam Savage's Cave: Metal Lathe with Digital Readout
 Inside Adam Savage's Cave: Model Making for Movies
 Inside Adam Savage's Cave: No-Face Cosplay
 Inside Adam Savage's Cave: Rasputin's Mecha Glove from Hellboy
+Inside Adam Savage's Cave: Space Glove Vacuum Chamber
 Inside Adam Savage's Cave: The Blade Runner Blaster Pistol
 Inside Adam Savage's Cave: The Bourne Identity Burn Bag
 Inside Adam Savage's Cave: The Dodo Birds Project
@@ -2101,6 +2104,7 @@ MakerBot Mystery Build: Spinning and Winning
 MakerBot Mystery Build: Swear To Me
 MakerBot Mystery Build: Swing the Sword
 MakerBot Mystery Build: Tech Support
+MakerBot Mystery Build: The 24-Hour Print
 MakerBot Mystery Build: The Triumphant Return!
 MakerBot Mystery Build: They Call Me
 MakerBot Mystery Build: Tight Squeeze
@@ -3222,6 +3226,7 @@ The Art of Film & Television Title Sequence Design
 The Art of Making Holograms
 The Art of Pen Making
 The Art of Sculpting Ice
+The Art of the Cinematic Car Chase
 The Awesome Robot Battles of ComBots Cup 2012
 The Bay Area, Stabilized and Shot in 4K
 The Bay Lights Project: Attaching 25,000 Lights to the Bay Bridge
@@ -3464,6 +3469,7 @@ The Origin of the Plus and Minus Symbols
 The PC Soldiers On
 The Pace Of Innovation Visualized
 The Paleoartists Who Sculpt Our Ancestors
+The Paper Gourd Sculptures of Li Hongbo
 The Pen That Draws Silver Circuitry
 The Perplexing Problem of Tablets and Digital Board Games
 The Perplexus Epic vs. Dave [PREMIUM]
@@ -3590,6 +3596,7 @@ The Zoidberg Project, Part 3: Making a Mold Jacket and Eye Blanks
 The Zoidberg Project, Part 4: Let's Start Sculpting!
 The Zoidberg Project, Part 5: Clawing Away
 The Zoidberg Project, Part 6: How I Got Started
+The Zoidberg Project, Part 7: Sculpting the Details
 The iOS 5 Features Apple Didn't Discuss at WWDC
 The iPod Nano's 16 New Watch Faces are a Free Upgrade
 Theoretical vs. Actual Bandwidth: PCI Express and Thunderbolt
