@@ -62,6 +62,7 @@ module HeadlineSources
           @failure_count += 1
           puts "*** Failed on #{@progress} (#{@failure_count} / #{FAILURE_LIMIT})".red
           puts e.to_s.red
+          puts "Backtrace:\n\t#{e.backtrace.join("\n\t")}".red
           return if @failure_count >= FAILURE_LIMIT && !@push_through_failures
         end
       end

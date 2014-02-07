@@ -15,5 +15,9 @@ module HeadlineSources
       '.article h3 a'
     end
 
+    def excluded_matches
+      ['WEEKLY GARDEN THREAD', 'THREAD***', "Today's Toons", "Today's Word with"]
+    end
+
   end
 end

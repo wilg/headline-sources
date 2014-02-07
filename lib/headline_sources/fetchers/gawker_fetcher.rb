@@ -12,7 +12,13 @@ module HeadlineSources
   	end
 
     def next_progress(progress)
-      @nokogiri_document.css("a.load-more-link").first["href"].split("=").last
+      [try_for_href("a.load-more-link"), try_for_href(".row.load-more .mbx.text-center a")].compact.first
+    end
+
+    def try_for_href(selector)
+      @nokogiri_document.css(selector).first["href"].split("=").last
+    rescue
+      nil
     end
 
     def url_for_progress(i)

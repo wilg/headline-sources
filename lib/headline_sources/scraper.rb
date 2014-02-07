@@ -7,6 +7,9 @@ module HeadlineSources
       puts "#{@progress}   |   #{new_headlines_this_run} new   |   #{formatted_headlines.length} total"
       @progress = initial_progress if @progress == 0
       @progress = scrape_page_and_progress(@progress)
+    rescue
+      @progress = next_progress(@progress)
+      raise "Error while fetching"
     end
 
     def scrape_page_and_progress(progress)
