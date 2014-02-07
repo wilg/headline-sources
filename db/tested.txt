@@ -152,6 +152,7 @@ AT&T Unreasonably Throttling Users with Unlimited Data Plans
 AT&T Wins on Speed and Verizon Wins on Reliability in National LTE Test
 AT&T vs Verizon vs Sprint: The Smartphone Carrier Plan Matrix
 AT&T vs Verizon's Shared Mobile Data Plans
+AT&T's 1989 Pen and Tablet
 AT&T: Nokia Lumia 900 Will Launch on April 8th for $100
 Abstract LEGO Ad Campaign Highlights Iconic Character Design
 Acer Aspire S3 13.3" Ultrabook Coming in September, Too
@@ -159,6 +160,7 @@ Acer and ASUS Checking out Cheap Fiberglass Construction for Ultrabooks
 Acetylene + Chlorine Gas = Spontaneous Combustion
 Acoustic Levitation Used to Test Pharmaceuticals
 Ad-Supported 3G Kindle Now Even Cheaper (Thanks to AT&T)
+Adam Answers - 2/4/2014
 Adam Answers: Is It Fun Working with Jamie?
 Adam Answers: What's a Myth You Won't Test?
 Adam Answers: What's the Scariest Experience You've Had on Mythbusters?
@@ -206,6 +208,7 @@ Airfoil App Turns Any iOS Device Into an Airplay Receiver
 Algebraic Equations Could Relieve Congested Wireless Networks
 Algorithm Identifies Fake Photographs By Analyzing Shadows
 Aliasing Be Gone: How To Downsample PC Game Graphics
+Alternate Universe Movies: Dan Aykroyd and John Belushi's American Hustle
 Alternative Food Technologies Used in Modern Cooking
 Amazing Anamorphic Illusions with High-Quality Paper Prints
 Amazing Autonomous Quadrocopter Acrobatics
@@ -295,10 +298,12 @@ Android's Presence at E3 2011: The Rundown
 Animating Nebulae with Artificial 3D Parallax
 Animating Still Photos with Parallax Compositing
 Animating the AT-AT Walkers in The Empire Strikes Back
+Animation on the Surface of a Vinyl Record
 Animatronic Robot Puppet is Part Toy, Part Learning Tool
 Another Day, Another Amazing Boston Dynamics DARPA Robot
 Another Terrifying Vertical People Mover - The Belt Manlift
 Another Thing to Think about The Next Time You Fly
+Antarctica's Landscape by Helicopter
 Apollo Alternative: The Air Force's LUNEX Program
 App of the Day: 500px
 App of the Day: A Charlie Brown Christmas
@@ -583,6 +588,7 @@ Biologists Grow the Next Wonder Material in a Vat of Algae
 Bionic Ear Combines Printed Cartilage and Better-Than-Human Hearing
 BitTorrent Bundle is Like Peer-to-Peer Shareware
 Bits to Atoms: An Overview of Today's 3D Printing Technologies
+Bits to Atoms: Making a MintyBoost USB Charger
 Bizarre Spycraft: The Most Questionable CIA Operations
 BlackBerry Announces BlackBerry 10, Z10 and Q10 Smartphones
 BlackBerry PlayBook Android App Player Leaked
@@ -855,6 +861,7 @@ Coffee is Least Effective Between 8 and 9 am
 Cognitive Scientists Scramble To Study StarCraft
 Cold War Science Had Ambitions to Weaponize the Weather
 Cold War-era Governement Computer Created the First Digital Art
+Collapsing Soda Can at 4500 FPS
 Color Collection: Behind Music Fans' Growing Obsession with Colored Vinyl
 ComBot Last Rites Destroys in Slow Motion
 Comcast Announces Its Netflix Rival: Xfinity Streampix
@@ -929,6 +936,7 @@ Dell Says Goodbye to Netbooks, Hello to Ultrabooks
 Demo of SpaceTop Interactive 3D Interface
 Designer Re-envisions Products Minus Bulky Packaging
 Designing The Next Generation Space Suit
+Designing a Fake Videogame for Television
 Designing a Vinyl Toy, from Concept to Product
 Developer Boxes Give an Early Glimpse of Google TV 2.0
 Did You Pre-Order the iPhone 5?
@@ -1194,6 +1202,7 @@ Google Play App Roundup: AirPlay Recorder, Worm Run, and EvolveSMS
 Google Play App Roundup: Amazing Alex, Battery Widget Reborn, and Auralux
 Google Play App Roundup: Android Device Manager, Dead Ahead, and Savant - Ascent
 Google Play App Roundup: App Ops eXtended, GT Racing 2, and Release the Ninja
+Google Play App Roundup: App in the Air, Minigore 2, and Photoshop Express 2.0
 Google Play App Roundup: ArtFlow, Combo Crew, and Tetris Blitz
 Google Play App Roundup: Aviate, I, Gladiator, and Cal
 Google Play App Roundup: Bad Piggies, Sky Motion, and Rayman Jungle Run
@@ -1672,7 +1681,9 @@ How to Best Cool a PC: Your Air and Water Cooling Options Explained
 How to Bring the Google+ Look to Gmail Right Now
 How to Detach a Space Shuttle from a 747 Airplane
 How to Fix the Movie Piracy Problem? Add Another Warning
+How to Get Started with Circuits and Electronics
 How to Improve the Crowbar
+How to Use a Multimeter
 Huawei Bests HTC and Sony in Android Display Shootout
 Hubcap Spaceships, Giant Spiders, and The Charm of Low Budget Special Effects
 Hulu Plus vs. Netflix: Android Video Streaming Showdown
@@ -1786,6 +1797,7 @@ Inventing the Folding Wheel
 Invention Through Illustration: Examples of Great Patent Art
 Investigating Why Boeing's 787 Dreamliner Batteries Caught Fire
 Invisibility Cloaks Made Possible with Carbon Nanotubes [Video]
+Ira Glass: The Gap Between Taste and Skill
 Is It Too Late for a Unified Active 3D HDTV Standard?
 Is This Android Ice Cream Sandwich Running on a Nexus S?
 Is Verizon Violating FCC Rules By Blocking Free Tethering?
@@ -1803,6 +1815,7 @@ Jamie & Adam Costume Hunt 2012 Photos (Updated!)
 Jamie & Adam's Costume Hunt for Halloween
 Jamie Hyneman On Welding in His Workshop
 Jamie Hyneman Tests the Oculus Rift Virtual Reality Goggles
+Jamie Hyneman on "Innovation, Explosions, and the Benefit of Adolescent Behavior"
 Jamie Hyneman's Electric Outboard Boat Motor
 Jamie Hyneman's Thoughts on Designing and Making with CAD
 Jamie Will Let Reddit Ask Him Anything on Saturday Morning
@@ -1903,6 +1916,7 @@ Let's Talk About Amazon's Prime Air Drone Delivery Plan
 Let's Try This Again: Google TV Devices Reboot
 Life On Earth Likely to End in 2.25 Billion Years
 Life-Size LEGO X-Wing is the Biggest LEGO Model Ever
+Lifehacks To Make Your Job Easier
 Lifesaving Robots Controlled with Microsoft Surface [Video]
 Liquid Lifebar Arduino Project Build
 Listen to Music from a Laser-Cut Wood Record
@@ -2038,16 +2052,20 @@ Maker Faire 2013: Roy the Animatronic Robot
 Maker Faire 2013: The Nautilus Desert Submarine
 Maker Faire 2013: The Open Clock Project
 Maker Interview: Harrison Krix of Volpin Props
+Maker Profile: Alejandro Palandjoglou's Affordable CNC Chairs
 Maker Profile: Bill Doran's Punished Props
 Maker Profile: Catching Up with Volpin Props' Harrison Krix
 Maker Profile: Chris Barton's Prop Restoration Work
 Maker Profile: Cosmo Wenman's 3D-Printed Art
+Maker Profile: Investment Banker Turned Artist
 Maker Profile: Jason Eaton's Blade Runner Blimp Replica
 Maker Profile: John Findra's Classic Wrecks
+Maker Profile: John Whitmarsh's Mixed Media Sculptures
 Maker Profile: Jonathan Tippett's Prosthesis Project
 Maker Profile: Michael Shindler's Ultra Large Format Tintype Camera
 Maker Profile: Michal Miszta's Custom Engagement Ring Boxes
 Maker Profile: Peter Jansen's Tricorder Project
+Maker Profile: Taylor Wolf's 3D-Printed Paper Sculptures
 Maker Profile: The Hand Drawn Video-Sans-Video Game
 Maker Project: Lighting Up Old Pinball Playfields
 Maker Project: RGB LED Animated Pixel Box
@@ -2593,6 +2611,7 @@ Premium: Norm's Lifecast Time-Lapse
 Premium: The PC Build Race Disaster of 2014
 Premium: Toys and Stuff in Norm's Garage
 Premium: Will Upgrades the MakerBot
+Premium: Will and Norm Build Their SteamOS Boxes
 Prepare for a Rush of Ultrabooks at CES 2012
 Preview Ubuntu On Your Nexus Smartphones and Tablets This Thursday
 Preview the Technical Papers of SIGGRAPH Asia 2012
@@ -2947,6 +2966,7 @@ Should the Operating System of Your Next Car be Open Source?
 Should the Uncanny Valley Actually be Called the Uncanny Cliff?
 Show & Tell: Favorite Electric Pour Over Kettle
 Show and Tell: 2013 Coffee Table Books
+Show and Tell: A Gummi Bear's Anatomy
 Show and Tell: A Model of Scum and Villainy
 Show and Tell: Adam's Favorite Video Game
 Show and Tell: Apply Directly to Forehead
@@ -3132,6 +3152,7 @@ Surface Pro 2 and Windows Battery Life with Haswell
 Surface Strategy: A Conversation with Microsoft's Panos Panay
 Surprising Complexity Lurks Within a Simple Airline Bag Tag
 Surprising Food Science: Twinkies Aren't So Eternal, After All
+Surprising Things Scientists are Learning about Memory
 Swarmanoid Bots Unite to Carry Out a Mission [Video]
 Synthetic Skin for Animatronic Robots Gets More Realistic
 T-Mobile Bucks the Data Trend, Adds Unlimited* Plans
@@ -3251,6 +3272,7 @@ The Best Android Smartphone for Your Network (February 2012)
 The Best Android Smartphone for Your Network (February 2013)
 The Best Android Smartphone for Your Network (January 2012)
 The Best Android Smartphone for Your Network (January 2013)
+The Best Android Smartphone for Your Network (January 2014)
 The Best Android Smartphone for Your Network (July 2012)
 The Best Android Smartphone for Your Network (July 2013)
 The Best Android Smartphone for Your Network (June 2012)
@@ -3271,6 +3293,7 @@ The Best Apps and Services to Find Your Lost Android Phone
 The Best Bike Lock Today
 The Best Bluetooth Keyboard Today
 The Best Bluetooth On-Ear or Over-Ear Headphones
+The Best Budget Laptop Today
 The Best Cat Video on the Internet: Henri 2, Paw de Deux
 The Best Cheap In-Ear Headphones are $12
 The Best Compact Camera for Less Than $450
@@ -3312,6 +3335,7 @@ The Best USB Battery Pack for Travel
 The Best USB Microphone Today
 The Best USB Thumbdrive: Patriot Supersonic
 The Best Waterproof iPhone Case
+The Best Ways to Watch Your Video Files on Android
 The Best Wi-Fi Extender (If You're Out of Options)
 The Best Wireless HDMI Video Transmitter Today
 The Best and Worst Trends in Modern Web Design

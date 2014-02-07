@@ -339,6 +339,7 @@
 5 Public Fights, Brought to You by Facebook
 5 R-Rated Questions Raised By Disney Movies
 5 Rap Feuds We'd Really Like To See
+5 Real-Life People Who Might Be Batman
 5 Reasons Bicyclists Are The Worst People Alive
 5 Reasons To Quit Drinking Alcohol
 5 Reasons Why I'm Starting to Believe That Santa Claus Doesn't Exist
@@ -391,6 +392,7 @@
 6 Classic Games with Mass Effect Morality Options
 6 Classic Nightmares and their Modern Equivalents
 6 Dating Apps for When You're in a Relationship
+6 Easy Steps to Eating Healthier
 6 Easy Yoga Poses for the Average College Student
 6 Educated Guesses
 6 Examples of Creepy Yet Useful Taxidermy
@@ -398,6 +400,7 @@
 6 Fights You'll Have with Your Roommate
 6 Horrible Messages Implied By Disney Movies
 6 Iconic Sports Videogame Characters: Where Are They Now?
+6 Incredibly Bizarre Google Searches, Illustrated
 6 Inventions To Help You Avoid Getting Off The Couch
 6 Kickstarters from the People Who Usually Ask for Money
 6 Kinect Games I Have the Energy To Play
@@ -461,6 +464,7 @@
 7 Arrested Development Themed Cocktails
 7 Athletes Who Unfortunately Released Their Own Scents
 7 Charity Posters for Your Precious Little Problems
+7 Classes You Took Without Even Knowing It
 7 Classic Simpsons Jokes In Foreign Languages
 7 Computer Features I Wish I Could Use in Real Life
 7 Costumes to Really Scare Twenty-Somethings
@@ -526,6 +530,7 @@
 7 Things To Do On Sundays Now That Your NFL Team Sucks
 7 Things Wearing Fake Glasses Non-Verbally Communicates
 7 Things You Can Enjoy Without Being A D*ck About It
+7 Tips for Surviving Work the Day After the Super Bowl
 7 Tips on Proper Nerd Etiquette
 7 Tricks for Looking Like a Grown Man and Not a Stupid Teen Baby
 7 Types of End-of-the-Year Lists
@@ -606,6 +611,7 @@
 8 Sexually Explicit Songs From the 1930's
 8 Sexy Bikinis Made of Sexy Garbage
 8 Signs You Came From Your Mom's Vagina
+8 Sodas and Their Drug Equivalents
 8 Spring Break Drink Recipes
 8 St Patrick's Day Fun Facts
 8 Star Wars Pickup Lines
@@ -640,6 +646,7 @@
 9 Musicals Based on Albums From the '90s
 9 New Suits You Won't Be Seeing in Iron Man 3
 9 People You'll See in the Stands at Every College Football Game
+9 Pick-Up Lines That Are Definite Red Flags
 9 Proofreading Marks for Correcting People on the Internet
 9 Road Signs For Your Life
 9 Scented Candles I'd Actually Buy (That They'll Never Make)
@@ -741,10 +748,12 @@ An Internet Ransom Note
 An Interview with Mitt Romney's Balloon and Streamer Specialist
 An M&M's Doctor Visit
 An Obituary for Leslie Nielsen, Written by Leslie Nielsen
+An Open Letter To Subway: DON'T Remove That Chemical From Your Bread
 An Open Letter to Hollywood from the Orphans of America
 An Open Letter to Obnoxious Party People
 An Open Letter to People Who Write Open Letters on the Internet
 An Open Letter to That Guy At My Office
+An Open Letter to the Kia Hamsters
 Angry Birds: NFL Edition
 Angry Candidate's Concession Speech
 Angry Santa
@@ -824,6 +833,7 @@ Best Vines of the Week: Volume 2
 Best and Worst in the World
 Best of Roommate Confessions
 Best of Work Sucks, I Know
+Beyonce Is Racist And NOT a Feminist And Here's Why
 Bible Stories
 Biblical Origins of Modern Easter Traditions
 Bigfeet Encounter
@@ -1065,6 +1075,7 @@ Every Party Playlist Ever
 Every Power Hour Ever
 Every Question I Answer Will Lead to Another Question
 Every Single On-Campus Halloween Party Alternative
+Every Student Grocery Shopping Trip in 20 Steps
 Every Summer Music Festival You've Ever Been To
 Every Super Bowl Commercial On The Internet
 Every Superhero Origin Story Ever
@@ -1172,6 +1183,7 @@ Flowchart: Should You Hug This Person?
 Flowchart: Should You Make a Move?
 Flowchart: Should You Pull This Prank
 Flowchart: Should You Storm The Court?
+Flowchart: Should You Text Your Ex?
 Flowchart: WassamattaYou?
 Flowchart: What Are You Doing After Graduation?
 Flowchart: What Did You Do Last Night?
@@ -1366,6 +1378,7 @@ How The South Could Have Kept Its Slaves
 How The World Looks When You're Sick
 How To Be A Perfect Employee In 5 Simple Graphs
 How To Crash An Orgy
+How To Design A Terrible Lyrics Website
 How To F*ck All Romantic
 How To Get Nothing Done: An Illustrated Guide
 How To Go Abroad (And Come Back An A-hole)
@@ -1492,6 +1505,7 @@ I can explain why my ID says I won't be born for another 220 years
 I'm Allergic To Oxygen
 I'm Doing Your Mom
 I'm Not Homophobic, But...
+I'm Pretty Sure A Dog Wrote This Petcare Book
 I'm Pretty Sure the Creator of Marmaduke is on Drugs
 I'm Ra, your RA
 I'm Really Close With My Rich Uncle
@@ -1617,6 +1631,7 @@ If Your Favorite Apps Were Pokémon
 If Your Friends Hated Everything Like They Hate Sports
 If Your GPS Navigated Like Your Idiot Friends
 If Your Hookup Texted Like Your Mom
+If Your Life Had DVD Special Features
 If Your Mom Made Foursquare Badges
 If Your Mom Wrote Movie Titles
 If Your Parents Wrote Upworthy Articles
@@ -1697,6 +1712,7 @@ Knifed
 Krillin's Wish
 Kristen Stewart's Salary Breakdown
 L.A. Noire Cheat Codes
+LEAKED Plans For The Sochi Olympics Opening Ceremonies
 LEAKED: Joey Fatone Comeback Single "Last Call for Party"
 LEAKED: Justin Bieber's "I Never Had Sex with You" Single
 LEAKED: Shocking Final Voicemail From Manti Te'o's Girlfriend
@@ -2160,6 +2176,7 @@ Seven Goals You Didn't Accomplish This Summer
 Seven Ways to Avoid Giving Christmas Gifts this Year
 Sex Advice from Reggie Watts
 Sex Dice for More Specific Situations
+Sex Positions for the Heavily Inebriated
 Sex Statistics: What Are YOU Doing in Bed?
 Sex, Hygiene, and Sex Survey Results
 Sexiest Summer Fashion for Women and Least Sexy Fashion for Men
@@ -2169,6 +2186,7 @@ Sexual Merit Badges
 Shark Attack 6: Infinite Pursuit
 Shark Attack III
 Shark Attack IV: Sharktober Spooktacular
+Shel Silverstein's Poems From His More Progressive College Years
 Sherlock Season 3 Premiere Recap: The Mustache Deduced
 Shipment Tracking with Amazon's Drones
 Shitness Protection Program
@@ -2406,6 +2424,7 @@ The 6 Best AND WORST Ways to Have Sex
 The 6 Different Eskimo Names For Snow And How To Tell Them Apart
 The 6 Kinds of Guys In Your Wolf Pack
 The 6 Kinds of Notes You Take in Class
+The 6 Laws of Adorability
 The 6 Most Problematic Players in the Puppy Bowl's Starting Line-Up
 The 6 People You Meet On The Bus
 The 6 People You Need to Unfriend on Facebook
@@ -2464,6 +2483,7 @@ The 8 People You Meet During Freshman Orientation
 The 8 People You See Outside Every College Party
 The 8 Relatives You'll Talk to at Thanksgiving
 The 8 Stages of Staying Up All Night
+The 8 Terrible Vacations You'll Go On Through Life
 The 8 Things You Just Found In Last Year's Winter Coat
 The 8 Types of People You'll Kiss, as Described by Pokémon
 The 8 Worst People Who Want Our Attention
@@ -2489,6 +2509,7 @@ The Beginner's Guide To Working Out
 The Best Albums of 2013
 The Best Dad Joke Ever Told
 The Best Fictional President
+The Best Partier in Movie History
 The Best TIME 'Millennials' Cover Parodies
 The Best Videos Ever (of the Week), In Case You Missed It (December 13, 2013)
 The Best Videos Ever (of the Week), In Case You Missed It (December 20, 2013)
@@ -2630,6 +2651,7 @@ The Legend of Zelda: The Missing Link
 The Leprechaun's Wish
 The Letter X Pulls Sponsorship of Sesame Street
 The Life And Death Of Every Hashtag
+The Life Cycle of a Free T-Shirt
 The Little Prince Goes to the Gym
 The Little Washtowel That Wasn't Anthropomorphized
 The Longer 4/20 Goes On
@@ -2680,6 +2702,7 @@ The Old People Bill of Rights
 The Omanyte Before Christmas
 The Only 5 Reasons You Ever Lose in a Video Game
 The Only 6 Lucrative College Majors Left
+The Only Thing Worse Than Bedbug Bites
 The Only True Horoscopes You'll Ever Read for Whatever Day it is You're Reading This
 The Order of the Kitsch
 The Oscar Best Picture Race Expressed Through Super Mario Kart
@@ -2768,6 +2791,7 @@ The Troll: Falcons, Food, and Breastfeeding in Public
 The Troll: Gay Marriage, Nintendo Wii, and Spaghetti!
 The Troll: Google, Pests, and Porn
 The Troll: Grandmas, Gays, and the Ultimate Veggie Lasagna
+The Troll: Groundhog Day and Diet Sausages
 The Troll: Illusions, Grammar, and the Pope
 The Troll: January 3, 2013
 The Troll: July 26, 2012
@@ -3130,6 +3154,7 @@ World's Biggest Badass
 World's Worst Parents
 Would You Rather...
 Wow, TV Show Titles are Getting Really Lazy
+Wow, These People Really Do Not Like Bill Nye
 Wrestler
 Writers' Room Dart Board: True Blood
 X-Mas Party

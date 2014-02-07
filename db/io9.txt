@@ -152,11 +152,13 @@
 10 Things You Probably Didn't Know About Star Trek: Deep Space Nine
 10 Things You Probably Didn't Know About Star Trek: The Original Series
 10 Things You Probably Didn't Know About Star Wars: Return of the Jedi
+10 Times Captain Kirk Actually Faced a No-Win Scenario
 10 Tips for Generating Killer Science Fiction Story Ideas
 10 Tyrants Who Are a Better Choice Than the Rebels
 10 Unsung Heroes in the History of Doctor Who
 10 Unusual Genetic Mutations in Humans
 10 Urban Legends about Famous Scientists
+10 Vestigial Traits You Didn't Know You Had
 10 Visual Motifs that American Science Fiction Borrowed from Anime
 10 Ways Geoengineering Could Save the World
 10 Ways John Milton's Paradise Lost Is Like a Bad Comic Book
@@ -180,6 +182,7 @@
 100 Wonderful and Terrible Movies That Never Existed
 100-year-old negatives from the Ross Sea Party found in Antarctica
 1000 extra suicides blamed on the recession in the UK
+11 Alarming Weather Flukes That Happen When it Gets Really Cold
 11 Books That Every Aspiring Television Writer MUST Read
 11 Emerging Scientific Fields That Everyone Should Know About
 11 Fearsome Warrior Races (That Would Be Ridiculously Easy to Defeat)
@@ -223,6 +226,7 @@
 12 Real Life Inventions That Science Fiction is Neglecting at its Peril
 12 Real Parasites That Control the Lives of Their Hosts
 12 Science Fiction and Fantasy Movies That Are Just Pure Nonstop Fun
+12 Signs That Jor-El Was More of a Dick Than Superman
 12 Stories That Have Inspired People To Do Stupid Things In Real Life
 12 Supercool Projects You Can Make From Scratch This Weekend
 12 Things That Ruined Superman
@@ -265,6 +269,7 @@
 18-Year-Old With Three Degrees Will Now Pursue Two Doctorates
 1871 Treaty hinged on Americans agreeing not to split infinitives
 19 science fiction movies that could change your life
+1920s London Underground Posters Remind Us That Trains Are Wonderful
 1950s Rockabilly Batman came to life at Dragon*Con
 1950s San Francisco, as seen through a submarine periscope
 1954 film claims a well-kept house could survive a nuclear attack
@@ -298,6 +303,7 @@
 27 Of The Most Insane Martial Arts Battles Ever Filmed
 272,297 dominos toppling is the most satisfying thing you'll see today
 28 Science Fiction and Fantasy TV Shows That Started Off as Movies
+29 Common Myths About Booze, Debunked
 3-D Imaging Shows a Caterpillar Becoming a Butterfly
 3-D model lets you "fly through" a 300-year-old supernova
 30 Rock's finale proves it always was a science fiction series
@@ -480,6 +486,7 @@ A 40,000 year-old sculpture made entirely from mammoth ivory
 A 5,000 year-old pyramid has been completely levelled in Peru
 A Baggins Bonsai Fit For a Pocket-Sized Hobbit
 A Battery That Allows Electronics and Implants To Stretch Along With It
+A Beautiful Map of Global Ocean Currents
 A Beautifully Animated Open Letter to J.J. Abrams About Star Wars
 A Better Deal for Night Shade Books' Authors
 A Bold New Experiment In Storytelling — Voting, Round 2
@@ -504,11 +511,14 @@ A Collection of Very Strange Maps
 A Collection of the Best Disney Gifs the Internet Has to Offer
 A Complete Guide to Superheroes' Religious Backgrounds
 A Computer Program Made A Game By Itself. Well, That's Unsettling.
+A Creepy, Enchanting First Look at Charlie Fletcher's The Oversight
 A Cybernetic Implant That Repairs Brain Damage
 A Dark, Brilliant Short Film… Starring Pee Wee Herman
+A Delightful Portrait of Hayao Miyazaki Made Out of Ghibli Characters
 A Dental Hygiene Cartoon from the Bacteria's Point of View
 A Detailed Plan for Getting Humans Off Earth
 A Disney artist imagines Wicked as an animated film
+A Disturbing Statue Commemorating Golden Age Comics' Scariest Creator
 A Dramatic Glimpse of Mars as it Appeared Billions of Years Ago
 A Dramatic Tribute to Moebius
 A Fantastic Collection of Science Demonstration Videos
@@ -543,10 +553,12 @@ A History of Superman, told in 25 logos over 75 years
 A Horror Game That Changes Every Time You Play
 A House Shaped Like a Flying Saucer, Perched Atop a Volcano
 A Huge Step Forward for Environmentalism: GMOs Are Not the Enemy
+A LEGO Movie sequel is already in the works
 A Little Girl Watches Her Mom Make History
 A Love Letter To Mass Effect 2's Normandy
 A Lovely Short Film About a Boy and the Robot He Can't Get Rid Of
 A Major Breakthrough in Bringing the Sense of Touch to Prosthetic Limbs
+A Map Showing Which U.S. Public Schools Teach Creationism to Kids
 A Map That Reveals the Most Popular TV Show Set in Your Home State
 A Map of the Lands Actually Discovered by European Explorers
 A Map of the United States' Mythical Lake Monsters
@@ -604,6 +616,7 @@ A Time Capsule from 1930s Paris
 A Treasure Trove of Awesome Old-School Star Wars Costumes
 A Treasury of Flying Cars, from the Golden Age of Aviation
 A Trip to the Moon in 1892
+A Trove of Great Science Fiction and Fantasy – Free for a Limited Time
 A Van de Graaff generator can snuff out a candle with "electric wind"
 A Very Special Card Wishing You Happy Maya Non-Apocalypse Day!
 A Very Special Episode of Archer Tackles Human Trafficking
@@ -612,6 +625,7 @@ A Visit to the Weirdest Archaeological Site in North America
 A Walking Dead episode will be taken "almost verbatim" from the comics
 A Walkman lets a man travel through time to save his lost love
 A Whole Galaxy's Worth of Star Wars: Rebels Concept Art!
+A Wonderful Interview with Frank Drake
 A baby crib fit for a Time Lord!
 A baby gorilla has just been born at the Twycross Zoo in the UK!
 A bacterium that turns toxic chemicals into solid gold
@@ -642,6 +656,7 @@ A brief history of cyborgs, superhumans and robots in pop music
 A brief history of physics, whimsically animated
 A chandelier made from petri dishes that actually grows bacteria
 A charming and absurd black comedy about a family's killer curse
+A chart that explains time travel in Lauren Beukes' The Shining Girls
 A chart that sums up who had sex with whom during the Pleistocene
 A chemical that makes plastic appear to come alive in your hands
 A child’s treasury of 13 horrible Frank Miller comic panels
@@ -734,6 +749,7 @@ A long anthropological debate may be on the cusp of resolution
 A lot of UFOs are visiting Vancouver lately
 A lot of bad movies came out on DVD this week, but MST3K can help
 A lovely short film that will distract you from crappy reality
+A magic sword could turn a dishwasher into a legendary hero—or a tyrant
 A major step to predicting when supervolcanoes will explode
 A major step towards transplantable lab-grown organs
 A male contraceptive pill that doesn't use hormones
@@ -755,7 +771,9 @@ A map that shows the most popular movie set in each U.S. state
 A mash-up of real-life bad guys with comic supervillains
 A mesmerizing ballet performed by dead insects and spiders
 A microscopic organism that eats DNA instead of having sex
+A mind-blowing gallery of the best science visualizations from 2013
 A minimalist animation puts our solar system into stunning perspective
+A monkey, food coloring, and some Nair caused a UFO panic in 1953
 A monster truck that pounds the ground to simulate earthquakes
 A mountain landscape carved into 24 volumes of Encyclopedia Britannica
 A museum of robotic equipment used during the Chernobyl disaster
@@ -798,6 +816,7 @@ A piano makes a handy projectile in this Iron Man 3 clip
 A pickpocket's inner demons are very real in this richly animated short
 A picture of teenage Ray Bradbury with Marlene Dietrich made my day
 A pioneering early "slow-mo" technique was developed only as padding
+A planet whose seasons are impossible to predict
 A potential new malaria vaccine puts weakened parasites into the body
 A pristine ‘temple of the dead’ has been uncovered in Peru
 A project to build a robot with the intelligence of a three year-old
@@ -849,6 +868,7 @@ A sneak preview of this week's issue of Animal Man
 A sobering reminder of the limits of science in the war on vampires
 A software program that could reconstruct the earliest human languages
 A solar system like ours... except in the middle of a star cluster
+A spectacular new impact crater appears on Mars
 A spectacular shot of one of the densest star clusters ever discovered
 A spiral through frozen helium
 A star is taking down the Carina Nebula from the inside
@@ -964,6 +984,7 @@ After Earth Website Images
 After Earth trailer shows the monstrous new wildlife on future Earth
 After Earth: The Spoiler FAQ
 After a 7-year coma, Ariel Sharon has "significant" brain activity
+After deafness is cured, what happens to the people who remain deaf?
 After several episodes of utter ridiculousness, Jafar becomes a badass
 After the Games: Photographs of Decaying Olympic Sites
 After the cyborg whale revolution, things were a little different
@@ -1038,6 +1059,7 @@ All the Latest on S.H.I.E.L.D., Walking Dead, Orphan Black, and More!
 All the Most Essential Science Fiction and Fantasy Books in November!
 All the Most X-ceptional Things We Saw in the New X-Men Trailer!
 All the Science Fiction and Fantasy Books You Can't Miss in August!
+All the Science Fiction and Fantasy Books You Can't Miss in February!
 All the Science Fiction and Fantasy Books You Can't Miss in October!
 All the Signs that Divergent Might Be Your Next Dystopian Joyride
 All the Things We Hope Will Happen in the New TV Season
@@ -1054,6 +1076,7 @@ All the profanity in Game of Thrones in one video
 All the proof you need that bloodthirsty dinosaurs live among us
 All the references in Del Toro's Simpsons intro with handy labels
 All the rules of the Troubles are changing in Haven
+All the screen-Caps you need from the new Captain America 2 trailer
 All the strange climate events in 2013 on one map
 All the things that make us nervous (and excited) in the new RoboCop
 All the ways Americans refuse to eat their vegetables in one chart
@@ -1061,7 +1084,9 @@ All the ways Google is asked to censor the web, in one handy chart
 All the ways to screw up a cat's eyesight using science
 Allen's rule and the physics of evolution
 Allergic Reactions to Bee Stings Could Actually Be Protecting Us
+Allison Scagliotti battles a virgin-killing abstinence educator!
 Allosaurus Ate Like a Terrifying Two-Ton Falcon
+Almost Human is at its best when it focuses on its robots
 Almost Human proves two Michael Ealys are better than one
 Almost Human's co-showrunner quits
 Alpha Promo Images 2.13
@@ -1079,6 +1104,7 @@ Alphas - Episode 2.09 Promo Photos
 Alphas - Episode 206 Photos
 Alphas falls victim to one of the weakest science fiction cliches
 Alphas: When someone says "I will be your father figure," RUN AWAY
+Alt-Soviet epic The Red Star could become the wildest show on TV
 Altered Hubble images transform nebulae into bizarre cosmic monsters
 Alternate Iron Man 3 ending shows Ben Kingsley's explosive death
 Alternate history maps of the US presidential election
@@ -1094,6 +1120,7 @@ Amazing Mass Effect cosplay that tells an unseen story of Aria vs Wrex
 Amazing Short Film: The Race to Develop a Machine that Stops Time
 Amazing Spider-Man 2 Teaser: Electro Talks Trash to Spidey
 Amazing Spider-Man 2 set photos show off our new Mary Jane
+Amazing Spider-Man 2 trailer is absolutely stunning.
 Amazing Spider-Man 2 will have 5,000 villains
 Amazing Venom short banishes our horrible memories of Spider-Man 3
 Amazing Video: The Great Gatsby Stripped of Greenscreen Effects
@@ -1184,6 +1211,7 @@ An Eyepopping Collection of 100 Planetary Nebulas
 An Illustrated History Of Gas Masks
 An Illustrated History of Unbelievably Camouflaged Ships
 An Illustrated History of the Hovercraft
+An Incomplete Guide to Geniuses Who Perfected the Art of Spite
 An Incredible Gallery of Buildings that Look Like Rocket Ships
 An Index of Dozens of Maps from Epic Fantasy Novels
 An Indispensible Tribute to Space: 1999 Creator Gerry Anderson
@@ -1238,6 +1266,7 @@ An experiment showed that hospital staff were ready to kill patients
 An experiment shows how people deliberately sabotage themselves
 An experiment that tested a man's tolerance for isolation to the limit
 An explanation for why your peripheral vision is completely borked
+An explosion that shows why fluorine is "the tiger of chemistry"
 An extremely trippy photo of the old Disneyland cafeteria
 An eye the size of a softball has washed ashore in Florida
 An imaginary city that changed the twentieth century
@@ -1257,6 +1286,7 @@ An optical illusion is making dentists drill holes that are too big
 An unbelievably gruesome epidemic is ravaging starfish populations
 An unexpected human talent that computers will soon understand
 An unexpected way that old media is being destroyed by the future
+An unknown species of giant jellyfish has washed ashore in Tasmania
 An unprecedented glimpse of Voyager 1 as seen from Earth
 An unreal photo taken by a 'Doctor Who camera'
 Anakin Skywalker's hometown is about to be overtaken by sand dunes
@@ -1337,6 +1367,7 @@ Animated Looper trailer shoots paint bullets at you
 Animated ghost story about death in winter somehow has a happy ending
 Animated movies that are better than most live-action blockbusters
 Animated portraits of cyborgs are whimsical nightmare fuel
+Anime Super Sale, Humble Sid Meier Bundle, The Walking Dead [Deals]
 Anna Bixby, The Treasure-Hoarding Epidemiologist
 Anna Gunn's Just Trying To Understand Why People Want To Kill Her
 Anna Paquin's Rogue has been cut from X-Men: Days of Future Past
@@ -1510,6 +1541,7 @@ Artist gives us the fairy tale ending we didn't know we really wanted
 Artist hangs his paintings inside a gallery owner's ear
 Artist invents his own killer Game of Thrones characters
 Artist makes portraits from DNA found in chewing gum and cigarettes
+Artist perfectly captures genderswapped Disney princesses
 Artist reminds us to forget mermaids, selkies are where it's at
 Artist transforms little girls in superhero costumes into super art
 Artist turns a classic space opera cover into a beautiful scale model
@@ -1855,6 +1887,7 @@ Being Human adopts a werepuppy!
 Being Human explains why you don't bring home motivational werewolves
 Being Human introduces its very own Blade
 Being Human rediscovers its banter sweet spot
+Being Human shows us what a Were-Baby looks like
 Being Human shows you how vampire Aidan was born
 Being Human takes us on the worst vampire-ghost date of all time
 Being Human's penultimate episode goes from slow burn to all-out war
@@ -1876,7 +1909,9 @@ Beneath the Antarctic Ice Lies a Chasm Deeper than the Grand Canyon
 Benedict Cumberbatch as Alan Turing, the Father of Computer Science
 Benedict Cumberbatch explains how Sherlock survived his season 2 fall
 Benedict Cumberbatch is astonishingly good at Chewbacca impressions
+Benedict Cumberbatch is leaving Baker Street for Sesame Street
 Benedict Cumberbatch leaves Guillermo del Toro for the Lost City of Z
+Benedict Cumberbatch must solve a mystery of his own on Sesame Street
 Benedict Cumberbatch says you might root for his Star Trek villain
 Benedict Cumberbatch tells Kirk how much he sucks in new Trek promo
 Benedict Cumberbatch's next big role might be as Alan Turing
@@ -1924,6 +1959,7 @@ Beware the Batman gets a scene-stealing villain
 Beware the real-life, 98-foot Fail Whale who terrorizes the skies
 Beware the tiny monsters lurking in your popcorn
 Big Ass Spider claims it's a Tremors style monsterpiece. Oh, really?
+Big Ass Spider! Delivers Big Ass Fun
 Big Theological Questions that Science Fiction Should Answer
 Big Trouble in Little China + Gangnam Style. John Carpenter approves.
 Big, 100-Million-Year-Old Bird Tracks Discovered in Australia
@@ -1988,6 +2024,7 @@ Blood is the new black at this deranged horror-themed fashion show
 Bloody Friday The 13th Wedding Shoot Tells a Pretty Good Horror Story
 Blu-Ray extra ties Prometheus to Blade Runner
 Blueprints of the Rebel ships from the Star Wars Battle of Yavin
+Bo and Tamsin are dark avengers on Lost Girl
 Bo is a camp counselor fighting the lamest monster ever on Lost Girl
 Bob Orci is reportedly talking to CBS about a new Star Trek TV series
 Bobcat Goldthwait made a Bigfoot movie, and we kind of want to see it
@@ -2011,6 +2048,7 @@ Brad Bird's 1952 movie has officially been renamed Tomorrowland
 Brad Bird's retro science fiction epic Tomorrowland starts filming!
 Brad Pitt is a sad conflicted puppy in first World War Z clip
 Brain Scans Can Predict What You're Dreaming About
+Brain Scans Reveal When Your Decisions Are Getting Risky
 Brain scans show that dogs are as conscious as human children
 Brainiac Concept Art from the Bryan Singer Superman That Never Was
 Brand New Exclusive Concept Art from the Animated Adventure Epic
@@ -2176,6 +2214,7 @@ Canadian Government Raids Gas Plant After It Kills 7,500 Birds
 Canadian scientists protest government muzzling of researchers
 Captain America Concept Art!
 Captain America: The First Interventionist
+Captain America: The Winter Soldier Trailer Shows Hot Villain Action
 Captain Harlock may be the most awesome scifi flick of the year
 Captain Picard's vacation videos highlight this week’s Blu-rays
 Captain Planet returns to kill off the rest of Earth's human population
@@ -2264,6 +2303,7 @@ Check out the Doctor Who Fan Art Created by Teenage Peter Capaldi!
 Check out the complete run of OMNI magazine, free online!
 Check out the crazy-dangerous "phosphorus sun" demonstration
 Check out the first art from the new Star Wars TV series, Rebels
+Check out the first complete globe of the planet Mercury
 Check out the first ever footage from Alfonso Cuarón's Gravity!
 Check out the first footage of Thor 2 and glimpses of Ant-Man!
 Check out the first four minutes of zombie-romance flick Warm Bodies
@@ -2411,6 +2451,7 @@ Comedy Central cancels Futurama
 Comet ISON Approaches
 Comet ISON blazes green in new photographs
 Comet-Chasing Rosetta's Interplanetary Travel Diary Is Awesome
+Comic shows how to turn your winter Hell into a fantasy quest
 Comic-Con Rocked!
 Comic-Con Wrap Up: The Shiniest Things We Saw in San Diego!
 Comics Gone Hipster
@@ -2477,9 +2518,11 @@ Compare footage of San Francisco before and after the 1906 earthquake
 Composite picture of every Superman (unsurprisingly) has a sick chin
 Computer Chess is the most realistic movie about AI ever made
 Computer chips in your mouth will know what you're saying
+Computer models show how Tatooine-like planets with two suns form
 Computerized Sex Cravings
 Computers are better at diagnosing and treating patients than doctors
 Conan O'Brien bribes Harrison Ford for news on next Star Wars movie
+Conan O'Brien's The Walking Dead special was astoundingly awesome
 Concept Art Writing Prompt: A Beach Vacation with the Robot Family
 Concept Art Writing Prompt: A Beauty Salon in an Abandoned Asylum
 Concept Art Writing Prompt: A Boy and His Robot vs. The Police
@@ -2525,6 +2568,7 @@ Concept Art Writing Prompt: The Aerial Gas Station and Churro Stand
 Concept Art Writing Prompt: The Alien Who Came to the Birthday Party
 Concept Art Writing Prompt: The Alien at the Dinner Table
 Concept Art Writing Prompt: The Creature Waiting at the Bus Stop
+Concept Art Writing Prompt: The Cyborgorilla and the Banana Robot
 Concept Art Writing Prompt: The Door at the End
 Concept Art Writing Prompt: The Dragon Walker
 Concept Art Writing Prompt: The Gentleman Alien Escorts a Lady
@@ -2771,10 +2815,12 @@ Crowdfund original novels by fanfiction writers and a Frank Cho artbook
 Crowdfund question block lamps, slime mold field guides, and much more
 Crowdfund the reprinted adventures of Canada's first superheroine
 Crowdfund this: The evil forces of COBRA
+Crowdfunding site Experiment lets you support cutting-edge science
 Crowley really does make everything on Supernatural 100 percent better
 Crows could be the key to understanding alien intelligence
 Crying, screeching Robot Monkey is ready to star in your next nightmare
 Cryptomnesia makes us accidental plagiarists
+Cryptozoologicon Could Revolutionize the Field of Monster Studies
 Cthulhu rises for Valentine's Day
 Cuddle up with these sloths dressed as Disney Princesses
 Cuddlebots can recognize you by touch alone
@@ -2955,6 +3001,7 @@ Did Game of Thrones finally explain where power really comes from?
 Did Jamie Foxx reveal some fairly major Amazing Spider-Man 2 secrets?
 Did John Milton invent science fiction?
 Did Joseph Merrick, known as "elephant man," have Proteus Syndrome?
+Did Marc Webb just confirm another Amazing Spider-Man 2 villain?
 Did Mattoon have a mad scientist or a mad population?
 Did Muse rip off a songwriter's science fiction rock opera?
 Did NASA delete evidence of UFOs from its photo archive?
@@ -2992,6 +3039,7 @@ Did the very first science fiction magazine appear in Russia in 1894?
 Did we just find the ruins of a famed lost city... using lasers?
 Did we know these totally horrifying Star Trek figures exist?
 Did you just take a vitamin C tablet, or a hit of ecstasy?
+Did you know Lake Superior has ice caves?
 Did you know that "running amok" originated as a medical term?
 Did you know that Iron Man 3 takes place partly in China?
 Did you know that the Garden of Eden is somewhere in China?
@@ -3142,6 +3190,7 @@ Doctor Who Set Pics from WENN.com
 Doctor Who XMas Special Set Photos from WENN.com
 Doctor Who and the Codependency of the Daleks
 Doctor Who and the Downside of Turning People into Weapons
+Doctor Who director says Capaldi brings back the classic dark Doctor
 Doctor Who engagement photoshoot is seriously spot-on fantastic
 Doctor Who is finally validated with an official Mr. Potato Head toy
 Doctor Who really does need more female writers
@@ -3183,9 +3232,11 @@ Does an Avengers 2 casting call reveal the origins of Ultron?
 Does being cold make you more susceptible to catching cold?
 Does consciousness arise from quantum processes in the brain?
 Does infinity really exist?
+Does it make you feel safer to know the NYPD will have Google Glass?
 Does multitasking actually improve your memory?
 Does technobabble give rise to pseudoscience?
 Does the apocalypse come in three stages?
+Does the choice of writers for Thor 3 mean we'll see Ragnarok?
 Does the cooking process really de-booze the alcohol in your dishes?
 Does the internet prove that time travelers are visiting us? (No.)
 Does the new Pope believe in evolution?
@@ -3196,6 +3247,7 @@ Does this bomb smell like chloroform?
 Does this map prove that China discovered America before Columbus?
 Does urinating on your hands eliminate callouses?
 Does wealth create peanut allergies?
+Does your favorite movie have a "spiritual sequel"?
 Does your name influence the jobs you choose?
 Dog space suits for the earliest canine cosmonauts
 Dogfish Head brews a beer made with bits of the moon
@@ -3294,6 +3346,7 @@ ERMAHGERD Guillermo del Toro is making a Secret Garden movie
 Each episode of Buffy, recapped as a limerick
 Early Dinosaur Embryos Found in China
 Early Europeans had dark skin and blue eyes
+Early Frozen concept art imagined a Snow Queen based on Bette Midler
 Early Humans May Have Ripped Off Neanderthal Technology
 Early Nuclear Safety Posters Are Perky and Disturbing
 Early reviews for Cloud Atlas range from "slog" to "soulful"
@@ -3331,6 +3384,7 @@ Eleventh Doctor's Companions beg him to stay in a Regeneration Carol
 Eli Roth teaches us how to direct a bloody massacre for Hemlock Grove
 Elizabeth Olsen is Avengers' Scarlet Witch (or Sam Jackson is a liar)
 Elon Musk Is Secret Buyer Who Spent $866K On James Bond's Lotus Sub
+Elton John Making Joseph and the Amazing Technicolor Dreamcoat Movie!
 Elysium concept art shows how the other half live... in space
 Elysium concept art shows the super unsanitary bioware of the future
 Elysium's Matt Damon on the joys of gluing gadgets to your skull
@@ -3338,6 +3392,7 @@ Elysium's Neill Blomkamp shares the secrets of designing a dystopia
 Emma Stone pays tribute to Blade Runner with stunning photoshoot
 Empire of the Sun's new music video has that Buck Rogers season 2 vibe
 Ender's Game concept art is like the space combat of your dreams
+Ender's Game concept art shows off the movie's amazing creature design
 Ender's Game could live on inside your television
 Ender's Game is thrilling, but not heart-breaking
 Ender's Game sequel could deviate entirely from Orson Scott Card's books
@@ -3549,6 +3604,7 @@ Fan movie Judge Minty looks even better than Karl Urban's Dredd
 Fan recreates Edgar Wright’s Ant-Man test footage in storyboard form
 Fan recreates the Star Trek teleport effect with Christmas lights
 Fantastic Concept Art from the Pixar Film That Never Happened, Newt
+Fantastic Four Casting News, Including a Startling Doctor Doom Rumor!
 Fantastic Last-Minute Gifts That You Can Buy Or Make Right Now
 Fantastic high speed shots of liquids swirling through the air
 Fantastic new Community trailer is truly from the darkest timeline
@@ -3569,6 +3625,7 @@ Fear of a Black Superman?
 Feast your eyes on the first global topographical map of Titan
 Feast your eyes on this treasure trove of old medical illustrations
 Feathered costumes change colors in different climates
+Feathered dinosaur death site could be an "animal Pompeii"
 Feed your inner maths nerd with this TI-83 T-Shirt
 Feel Like Watching a Leaf Cause an Explosion?
 Feel like a fraud? You might have Impostor Syndrome.
@@ -3584,6 +3641,7 @@ Fight Club minus Tyler Durden shows how deluded Norton's character was
 Fight for your throne with the Song of Ice and Fire RPG
 Fighter Planes That Became Battle-Scarred War Monuments
 Fill an egg with crystals this weekend
+Finally a 3D CG cartoon movie worth a damn: Chip 'n Dale, Rescue Rangers
 Finally! A black hole that you can visit and survive!
 Finally! A video that explains what the hell Divergent is about
 Finally! The ladies from American Horror Story say, "WE DON'T NEED A MAN"
@@ -3735,6 +3793,7 @@ First look at Scarlett Johansson in Luc Besson's superhero movie Lucy
 First look at Star Trek 2's Klingons without their helmets on
 First look at Syfy's not completely awful cosplay reality show
 First look at The Tomorrow People = Heroes plus X-Men times The CW
+First look at The X-Files creator's new apocalypse TV series The After
 First look at Tom Hardy as the new Mad Max
 First look at Transformers 4's Optimus Prime and more cool toy reveals
 First look at evil goateed Zachary Quinto Spock
@@ -3890,6 +3949,7 @@ From Bitcoin millionaires to robot philosophy, on Person of Interest
 From Dusk Till Dawn TV series trailer recasts the whole movie
 From Russia, a flying model of the Helicarrier from The Avengers
 Frozen has a bit of that Wreck-It Ralph magic
+Frozen's "Let It Go" as sung by the cast of Star Trek is a delight
 Fruit bats enjoy cunnilingus, too
 Fruit flies bathe their young in alcohol to keep them healthy
 Fuck, Marry, Kill: Mythical Creatures Edition
@@ -3963,6 +4023,7 @@ Game of Thrones set reports reveal two unlikely alliances!
 Game of Thrones video diary interviews the Wildlings beyond The Wall
 Game of Thrones will be back in March!
 Game of Thrones will end with season 7, according to producer
+Game of Thrones' season 4 sets are so detailed they'll blow your mind
 Game of Thrones-inspired house sigils celebrate scientific exploration
 Game of Thrones’ Sansa Stark Is Awesome: A Treatise
 Game-changing discovery reveals how gold is made in outer space
@@ -4044,8 +4105,10 @@ Get ready for a baby boom in China
 Get ready for a truly insane Star Wars: Episode VII casting rumor!
 Get ready for the banana pandemic to destroy your favorite fruit
 Get ready for the cicada invasion with this incredible time-lapse
+Get some awesome swag and help send fans of color to scifi conventions
 Get some original fantasy art from the great Kiri Moth!
 Get the first look at Barry Allen on Arrow!
+Get this Spartan party started! The Making of 300: Rise of an Empire
 Get to know the friendly side of tongue-eating parasites
 Get trapped inside an outpost with a gooey killer, in Syfy's Helix
 Get your cyber-brain-jacks ready for more Ghost in the Shell
@@ -4134,6 +4197,7 @@ Google Glass Ushers in the Next Wave of Cybernetic Hate Crimes
 Google Glass is only "Stage One" in a three-stage evolution
 Google Honors Inventor of Petri Dish with Gross/Awesome Doodle
 Google Maps Has An Incredible Doctor Who Easter Egg
+Google Maps Now Comes with Climate Data
 Google Maps just annihilated an entire 141-square-mile island
 Google Maps predict the future of Frankenstorm in real time
 Google Maps unveils "Treasure Mode"
@@ -4227,6 +4291,7 @@ Guardians of the Galaxy props show us what the movie will look like
 Guess Which Disney Princess This Is
 Guess how much this EOD 9 Bomb Tech Suit Costs
 Guess which of these identical twins is the smoker
+Guess who's coming back from the dead on The Walking Dead?
 Guess who's playing a villain in Arrow and Hunger Games: Mockingjay!
 Guess who's wearing a fez in the first Doctor Who 50th Anniversary Clip
 Guillermo Del Toro making a Twin Peaks-style detective drama for HBO
@@ -4329,6 +4394,7 @@ Hasbro is completely changing the way Transformers toys transform
 Haunting Spirit Photography from the Age Before Photoshop
 Haunting concept art from Oblivion
 Haunting photograph turns Earth into Middle Earth
+Have 3 Million? You can buy your own supervillain starter lair.
 Have Independence Day 2 and Jurassic World found their stars?
 Have Tony Stark's many Iron Man 3 suits just been revealed?
 Have Trekkies taken over the voting on the naming of Pluto's new moons?
@@ -4336,6 +4402,7 @@ Have You Ever Seen Spacecraft Solar Panels From Behind?
 Have a shot of Jaegar with Pacific Rim and This Week’s DVDs
 Have all the secrets of Matt Smith's last Doctor Who been revealed?
 Have we been dramatically underestimating elephant intelligence?
+Have we found the key to the mysterious Voynich Manuscript code?
 Have you ever seen a dolphin stampede? You have now.
 Have you ever seen clouds in the middle of a room and wondered why?
 Have you had your miracle this month?
@@ -4395,6 +4462,7 @@ Henry Cavill isn't sure if Lois and Superman can really be equals
 Henry Cavill wants to make a Superman/Batman team-up film!
 Her Amazing Dress is Made of Magic: The Gathering Cards. So Is Her Axe.
 Her looks so good you won't care about Joaquin Phoenix's mustache
+Her: The existential movie about post-singularity video games
 Here Are Some of the Creepiest Abandoned Prisons We've Ever Seen
 Here Are Some of the Weirdest-Looking Creatures From Doctor Who
 Here Are the Items that Your Gamer Friends Actually Want as Presents
@@ -4427,6 +4495,7 @@ Here's Why You Should Start Watching Vikings Right Now
 Here's William Hurt as the legendary physicist Richard Feynman!
 Here's a 1976 letter from Neil deGrasse Tyson to Carl Sagan
 Here's a better look at Alfonso Cuaron's Believe
+Here's a chicken wearing a prosthetic tail to walk like a dinosaur
 Here's a cognitive bias you'll actually want to have -- if you're evil
 Here's a deleted scene from The Walking Dead's best episode ever
 Here's all the ways Dario Argento's Dracula 3D went wrong
@@ -5162,6 +5231,7 @@ I want these Donatello sneakers right now
 I want this horrifying pair of 1940s Daffy Duck shoes
 I want to stroke the inside of this camel's mouth
 I was a Hunger Games hater
+I was a Teenage Creationist: Field Notes on the Culture War
 I'd Collect The Hell Out Of These Game of Thrones Magic Cards
 I'm enjoying The Originals but I still don't know why this is a TV show
 I'm trying to watch my TV show and you're being a war criminal
@@ -5183,6 +5253,7 @@ Ian McKellan is about to marry Patrick Stewart
 Ian McKellen crashes a Hobbit screening, fans go wild
 Ian McKellen showed off his cheeky Gandalf underpants on stage
 Ice cream made with jellyfish protein glows when you lick it
+Ice-T records D&D audiobook: "This s%!t is impossible to read."
 Iconic Black and White Photographs, Colorized
 Idaho scientist to search for bigfoot from a blimp
 Idiot Construction Crew Demolishes 2,300-year-old Maya Pyramid
@@ -5220,6 +5291,7 @@ If you could be put in charge of one TV show, which would you choose?
 If you don't like Bee and PuppyCat, you are dead inside
 If you give kids cigarettes, Superman will @#$%ing murder you
 If you had it to do all over again... could you even manage to?
+If you stopped watching Agents of SHIELD, Clark Gregg kind of hates you
 If you text a lot, you are probably also racist and shallow
 If you want some gory hard science fiction, you need to read Parasite
 If you want to discourage fruit flies, hide your oranges
@@ -5232,6 +5304,7 @@ If you've ever wondered what a mindfuck looks like, now you know
 If you've ever wondered what a tornado looks like on radar
 If you've got fandom feels, this tumbr has a gif for it
 If your brain were a computer, how much storage space would it have?
+Illustrated Cosplay Guide Does All the Work For You
 Illustrated ballad tells the life story of Alan Moore
 Illustrated scenes from Harry Potter: The Marauders' Generation
 Illustrations of Petra Pan, the Genderswapped Girl Who Wouldn't Grow Up
@@ -5248,9 +5321,11 @@ In 1988, Kim Jong-Il gave a speech exhorting North Koreans to write SF
 In Breaking Bad, allies are hard to come by
 In Da Vinci's Demons' season finale, the Pazzi conspiracy is revealed
 In Dean Koontz's latest Odd Thomas book, the apocalypse is all our fault
+In Defense of Ewoks
 In Egadz's new video, the future of music is living inside the machine
 In Fiddlehead, Cherie Priest ends the Clockwork Century with a bang
 In House of Rumour, Ian Fleming and Aleister Crowley win World War II
+In Jimi Hendrix's final interview, he calls himself a mad scientist
 In Ken Liu's new story, a text adventure game becomes a thing of wonder
 In Love Minus Eighty, mail-order brides are cryogenically frozen
 In Memories with Maya, human sexuality gets an upgrade
@@ -5265,6 +5340,7 @@ In Space, No One Can Hear You Fart
 In Stranded, Christian Slater's moonbase turns into a slaughterhouse
 In The Year 2727, Some Messed Up Shit Happened!
 In Which I Recap 50 Years Of Doctor Who Like I Was Doctor Seuss
+In a dystopian future, Rachel Weisz must find a lover... or die
 In a future with one last bookstore, a boy falls in love with reading
 In a gorgeous flooded city, a scavenger discovers that he isn't alone
 In a high-class brothel, sex is a fantasy but love is complicated
@@ -5347,12 +5423,14 @@ Infections Fight To The Death Inside This 3D-Printed Chimpanzee Skull
 Infinity Ring: A New Time Travel Series from Scholastic
 InfoGif compares ages of the Abrams cast to the Star Trek originals
 Infographic shows that the world likes the US slightly more than China
+Infographic shows the most common problems in screenplays
 Infographic shows you how award-winning science fiction is born
 Infrared film turns a war zone into a pink fantasy landscape
 Injustice reveals what happens when Superman lets himself kill
 Insane collection of Avengers concept art shows Thanos in action
 Insane pundit "explains" Obamacare in Star Trek Gorn mask
 Insanely detailed Ghostbusters documentary gives Slimer ADD
+Inside the Fakes Factory: My Chat With a Viral Image Creator
 Inside the Science of Getting Sauced
 Inside the high-tech fortresses of the super-rich
 Insidious 2's biggest crime isn't failing to be scary
@@ -5362,6 +5440,7 @@ Instant floating cities for flooded neighborhoods
 Instead of Monsters University we could have had a Monsters Inc sequel
 Instructions on How to use a Telephone, from 1917
 Intelligence ended a major mystery from the pilot in the 2nd episode
+Intelligence goes all in with the Daddy Issues
 Intelligence's pilot used skywriting where it needed subtlety
 Intense graphic novel about insects is like Dr. Seuss meets Darwin
 Intense screencaps from Man of Steel trailer show the Fall of Krypton
@@ -5512,7 +5591,9 @@ Is the dome in Under the Dome a sentient being?
 Is the next Marvel One-Shot going to be all about Loki?
 Is the notorious drug Thalidomide making a comeback?
 Is there a "shadow biosphere" on Earth?
+Is there a comedy about geeks that gets it right?
 Is there a difference between necessary and unnecessary bad science?
+Is there a formula for what makes a movie flop?
 Is there a link between the Higgs boson and dark energy?
 Is there a technological fix for racism? These scientists say yes.
 Is there any science fiction left on TV, now that Fringe is over?
@@ -5589,6 +5670,7 @@ It's all out there waiting for you
 It's always a love story on Doctor Who these days
 It's arbitrary to call it autumn just because one planet has a festival
 It's doubtful this survival jacket will get you through the apocalypse
+It's hallucination time on Helix!
 It's hard to believe, but this movie will make you love vampires again
 It's hard to travel through time in a sailing ship
 It's mo' super-strength, mo' problems in this week's comics
@@ -5599,6 +5681,7 @@ It's official: Arctic sea ice levels have reached a record low
 It's official: Once Upon Time is way more fun in the real world
 It's official: The origins of Doctor Who are becoming a TV movie
 It's official: The sale of Night Shade Books is going through
+It's official: They're making a Preacher TV show
 It's official: Toy Story 3 writer will pen Star Wars: Episode VII!
 It's official: the Sun is the most perfect natural sphere ever measured
 It's still too early to freak out about bird flu
@@ -5647,6 +5730,7 @@ J.J. Abrams's robot cop show has found its robot cop
 J.K. Rowling is writing a new movie in the Harry Potter-verse
 J.K. Rowling may — may — be writing a Doctor Who story
 J.K. Rowling quietly published a crime novel—all the way back in April
+J.K. Rowling says Hermione should have married Harry, not Ron
 J.K. Rowling: "I don't read fantasy or science fiction"
 J.R.R. Tolkien biopic will explore the origins of Middle Earth
 JK Rowling is collaborating on a play about Harry Potter pre-Hogwarts
@@ -5881,6 +5965,7 @@ Kirk and the Gorn duet in Star Trek: The Middle School Musical
 Kirk travels back in time to save the Oscars—and just won't leave
 Kiss your dreams of Jurassic Park goodbye (again)
 Kittens Vs. Tiny Sock Stealing Ninjas!
+Knights of Badassdom is a sweet, gory tale of geek social life
 Knights of Badassdom trailer shows Peter Dinklage vs. a succubus
 Know your Star Wars fighters with these gorgeous posters
 Koro Syndrome: The Irrational Fear of Lethal Genital Shrinkage
@@ -5899,6 +5984,7 @@ Kurt Vonnegut's Bizarre TV Movie, Between Time and Timbuktu
 LADEE Launches from NASA Wallops
 LCD contact lenses could beam text messages right to your eyeball
 LED baby costume toddles into our hearts
+LEGO Gets Told Off by a Seven-Year-Old Girl
 LEGO Marvel Super Heroes: The Kotaku Review
 LEGO Star Trek: The Next Generation turns Wesley into the court jester
 LIFE unveils unpublished photos of Allied troops fighting in Italy
@@ -5968,7 +6054,9 @@ Legend of Korra mittens let your hands battle for spiritual balance
 Legendary Programmer Why The Lucky Stiff's Strange, Fascinating Novel
 Legendary anime director Hayao Miyazaki announces his retirement
 Legendary author Brian Aldiss reflects on years of strange book covers
+Legends walk among us in this Magic the Gathering: Born of the Gods art
 Lego Movie clips are way funnier than they have any business being
+Lego Movie is a great spoof of summer movies. And a great summer movie.
 Lego Sail Barge get!
 Lego Will Make a Mars Curiosity Rover Set
 Lego is building an actual hotel (only partially out of Legos)
@@ -6264,6 +6352,7 @@ Massive 15-million-year-old skull found on the Potomac River
 Massive 4-minute trailer for Hayao Miyazaki's new film The Wind Rises
 Massive Floods Are Coming. We Are Not Prepared.
 Massive Secrets of The Hobbit — Revealed!
+Massive Waves Batter the Coasts of Britain
 Massive collection of Akira concept art shows the movie that never was
 Massive collection of Man Of Steel pics are full of Super Spoilers
 Massive collection of high-res Star Trek pics show our amazing future
@@ -6312,6 +6401,7 @@ Meet Prince Rupert's Drop. It's about to blow your mind.
 Meet RHex, the robot that can get to you no matter where you run
 Meet Robosimian, the ape-inspired robot!
 Meet Roxy the Rancor, the 501st Legion's life-sized Star Wars sculpture
+Meet The New Sonic and His Next Game
 Meet Valkyrie, NASA's "Superhero" Robot With a Glowing Blue Heart
 Meet Wolf Cop, Canada's greatest werewolf with a badge
 Meet X-Men: Days of Future Past's Sentinel of the Future
@@ -6479,6 +6569,7 @@ More environmentally friendly blue jeans, better biosensors...or both?
 More evidence that Neanderthals made jewelry and art
 More evidence that marijuana could slow brain aging
 More evidence that mosquitoes have been assholes for millions of years
+More evidence that sweetened foods and beverages are killing you
 More evidence that volcanoes killed the dinosaurs
 More insane discoveries from old World War II battles
 More proof that Japan's Avengers anime is turning them into Pokémon
@@ -6521,6 +6612,7 @@ Moronic Family Feud contestant proves we need way more zombie movies
 Moronic Ghost Hunters Burn Historic Louisiana Plantation to the Ground
 Mosh Pit Physics Reduces Humanity to a Gas
 Most Creative Game of Thrones Cosplay Yet
+Most awesome essay about science fiction type fonts ever
 Most gold deposits were produced by earthquakes
 Most of Us Live in the North
 Mother/daughter vampire duo has a bloody bond in new Byzantium trailer
@@ -6566,6 +6658,7 @@ My Sexually Deviant Neighbor Totoro
 My Visit to the Ultimate Treasure Trove of Star Wars Memorabilia
 My Weird Tale About a Man Who Wants to Fall Back in Love With His Wife
 My deadly genetic disease was just a bug
+Myke Cole's Breach Zone is like The Dark Knight Rises with sorcery
 Mysteries of the Cincinnati Fire Kite
 Mysterious 3,650 year-old pharaoh and "lost dynasty" found in Egypt
 Mysterious Intergalactic Radio Bursts Detected
@@ -6592,6 +6685,7 @@ NASA has discovered the most Earth-like planets yet
 NASA has found a free particle accelerator floating in space
 NASA has just made an incredible discovery about water on Mars
 NASA is bringing broadband connectivity to the Moon – with lasers
+NASA is creating the coldest spot in the universe
 NASA is getting ready to search for signs of life on Mars
 NASA once held its very own beauty pageant
 NASA photo, meant to inspire, sparks useless government investigation
@@ -6627,6 +6721,7 @@ NASA will attempt to rescue the planet-hunting Kepler Telescope
 NASA will launch the largest solar sail in history as soon as next year
 NASA's Curiosity Rover Arrives Safely on Mars
 NASA's Curiosity Rover prepares to drill, baby, drill
+NASA's Curiosity rover is about to make its most daring maneuver yet
 NASA's Guide to Viewing the Comet PANSTARRS this Month
 NASA's Humanoid Robot to Receive Legs
 NASA's Next Mars Mission Launches Today – Watch it Here Live!
@@ -6686,6 +6781,7 @@ Neil Gaiman is writing a Doctor Who ebook—and you can read an excerpt
 Neil Gaiman reading Green Eggs and Ham is pure wonderfulness
 Neil Gaiman says a black actor was offered Doctor Who but said no
 Neil Gaiman will finally get to complete his MiracleMan story
+Neil Gaiman's American Gods gets a brand new TV deal
 Neil Gaiman's The Sandman: Overture comic has already been delayed
 Neil Gaiman’s return to Sandman definitely won’t put you to sleep
 Neil deGrasse Tyson and Bill Nye "The Science Guy" Are Real-Life BFFs
@@ -6726,6 +6822,7 @@ New DNA analysis suggests Nefertiti was King Tut’s mom
 New DNA evidence could explain what happened to the Neanderthals
 New Details About the "Old Friend" in the Doctor Who Christmas Special
 New Discovery Could Explain How Sea Creatures Evolved to Walk on Land
+New Divergent trailer finally explains what a "Divergent" is
 New Doctor Who Christmas minisode follows our favorite Victorian aliens
 New Doctor Who comic shows the Doctor's ultimate weakness
 New Doctor Who toys may give away Steven Moffat's next plot twists!
@@ -6773,6 +6870,7 @@ New Photos and Videos from the Godzilla and Transformers 4 Sets!
 New Plan: Let's All Move to Iceland
 New Project to Message Aliens is Both Useless and Potentially Reckless
 New Riddick trailer reveals his deadly foes and deadlier enemies
+New Robocop movie to explore the themes the first Robocop took care of
 New Scifi TV Shows from Alfonso Cuarón and the Creators of Fringe
 New Screen Lets You Smell Items as They Appear
 New Skyscraper Unexpectedly Generates A Solar Beam That Can Fry Cars
@@ -6832,6 +6930,7 @@ New documents show that Titanic captain failed a key navigation test
 New echo-detecting app could allow humans to 'see' like bats
 New edition of 1984 will feature a "censored" blacked out cover
 New equation predicts the best time to launch a cyber attack
+New evidence shows ancient humans moved back to Africa
 New evidence suggests biological causes for Gulf War Syndrome
 New evidence that humans developed big brains to cope with society
 New evidence that plants get their energy using quantum entanglement
@@ -6868,6 +6967,7 @@ New study suggests sexual addiction is not actually an addiction
 New surveillance camera will predict what you’re going to do next
 New theory says the Universe isn't expanding — it's just getting fat
 New theory suggests Lenin died from a rare genetic brain disorder
+New theory suggests the universe emerged from a long, cold deep freeze
 New toy images reveal the new Dinobot line-up in Transformers 4
 New trailer for In Saturn's Rings is guaranteed to give you goosebumps
 New trailer for Simon Pegg's beer-soaked apocalypse The World's End
@@ -6900,6 +7000,7 @@ Nine Months Later And SimCity Is A Bust
 Nine new species of technicolor, tree-climbing tarantulas discovered
 Nine ‘80s Sword-and-Sorcery Flicks that Need Modern TV Series
 Ninja Turtles are marked by their weapons in these posters
+Nintendo Is Slowly Reinventing The Video Game Instruction Manual
 Nintendo's Toughest Year Ever Starts Pretty Much Now
 Nissan uses iconoclast Stormtroopers to shill their new car
 No Cat Is Complete Without A Set Of Leather Battle Armor
@@ -7051,6 +7152,7 @@ Old Spock battles New Spock in the greatest car commercial ever
 Old-School Doctor Who Episodes That Everyone Should Watch
 Oldest European Medieval Cookbook Found
 Oldest funerary flowers ever unearthed in Israel
+Olga Lepeshinskaya was the most dangerous woman in pseudoscience
 Oliver Queen fights crime with the power of WASPiness
 Oliver Queen is a class warrior. For the rich.
 Oliver returns to the island with friends in the first Arrow s2 clip
@@ -7194,6 +7296,7 @@ Opal Mining: A Damn Good Way to Get Yourself Killed
 Open the final door to IDW's Locke & Key series in This Week’s Comics!
 Operation: The claymation horror short inspired by real life parasites
 Oprah pisses off atheists by saying they've no sense of awe or wonder
+Optimus Prime is riding a DINOSAUR in new Transformers 4 trailer
 Orange is the New Black creator making a Salem Witch Trial series
 Original Doctor Who theme song slowed into 20 minutes of alien music
 Original Empire Strikes Back trailer showed only McQuarrie's art
@@ -7309,6 +7412,7 @@ Patrick Ness explains the secret of writing an unforgettable book
 Patrick Rothfuss’ Kingkiller Chronicles books are getting a TV show!
 Patrick Stewart and Ian McKellen sure do know how to football
 Patrick Stewart confirms his return as Professor X!
+Patrick Stewart performs a somber monologue as China's dying moon rover
 Patrick Stewart reveals crazy production details for new X-Men movie!
 Patton Oswalt is a perfect Penguin in the newest Badman installment
 Patton Oswalt's 8-minute Episode VII pitch is delightfully insane
@@ -7316,6 +7420,7 @@ Patton Oswalt's Amazing Star Wars Episode VII Rant, Brought To Life
 Patton Oswalt's Star Wars filibuster from Parks & Rec gets animated
 Patton Oswalt's TED Talk is true genius
 Patton Oswalt's brilliant Star Wars: Episode VII pitch has a poster
+Paul Bettany has been cast as the Vision in Avengers: Age of Ultron
 Paul Dini: Superhero cartoon execs don't want largely female audiences
 Paul Rudd is the star of Edgar Wright's Ant-Man, after all
 Paul Thomas Anderson's Scientology-inspired movie is a weird love story
@@ -7394,6 +7499,8 @@ Phantasmagoric visions of tomorrow, straight out of 1980s Japan
 Phantom Eye Syndrome: When People Without Eyes Can Still See
 Phil Saunders John Carter Concept Art
 Philip K. Dick's The Man in the High Castle is coming to Syfy
+Philip Seymour Hoffman Found Dead in Manhattan Apartment
+Phillip Seymour Hoffman will be digital in his final Hunger Games scene
 Phineas and Ferb's Next Mission: A Star Wars Crossover
 Phoenix Jones mini-doc peeks into the psyche of a real-life superhero
 Phoenix's new observation tower looks like a massive honey dipper
@@ -7470,6 +7577,7 @@ Please God No WHY, Twilight Merchandise
 Please don't try to turn the Star Trek movies into Deep Space 9
 Please explain Babylon 5 to us!
 Please give us a science fiction version of Grand Theft Auto!
+Please let this LEGO X-Men Mansion playset become a reality
 Please line up to get screwed over by the Star Trek 2 Blu-ray
 Please mind the dragon
 Please speak up so the Dark Lord of the Sith can hear you
@@ -7560,6 +7668,7 @@ Proof that Disney's Paperman short was just a ploy for a threesome
 Proof that Molly Gloss Deserves to Be One of Your Favorite Authors
 Proof that Wolverine is the greatest Disney princess of them all
 Proof that the End of the World Doesn't Have to be Boring
+Proof that you don't need big effects to make a haunting scifi film
 Prophet of Bones author Ted Kosmatka Clones Neanderthals in “N-Words”
 Proposed 'deflector shield' could protect astronauts from radiation
 Proposed Mobile City would relocate to spots with greater resources
@@ -7617,6 +7726,7 @@ RIP Ann Crispin, Who Fought for the Writers
 RIP Elaine Morgan, popularizer of the Aquatic Ape Hypothesis
 RIP Frank Kendig, original editor of Omni Magazine
 RIP Frederik Pohl, the man who transformed science fiction
+RIP Mark Rogers, Creator of Samurai Cat
 RIP Stephen Crohn, 'The Man Who Can't Catch AIDS'
 RIPD is an adequate movie you should absolutely not see in theaters
 RNA-based vaccine could wipe out the flu forever
@@ -7653,9 +7763,11 @@ Read Richard Feynman's physics lectures for free online
 Read Steven Moffat's audition scripts for Doctor Who‘s Twelfth Doctor
 Read This Week’s DVDs or this catbus will eat these children
 Read a chapter from Mira Grant's intense new novel Parasite
+Read an anthropologist's paper about the rituals of 1950s Americans
 Read an excerpt from Jeff Carlson's new bio-thriller Interrupt
 Read an exclusive excerpt from Joe Hill's scary new novel NOS4A2
 Read an exclusive preview of the new Transformers novel Retribution!
+Read some of our favorite flash science fiction -- written by you!
 Read the New York Times' 1969 account of the Apollo 11 Moon landing
 Read the US government's rules for Yeti hunting from 1959
 Read the first chapter from Ramez Naam's new nanotech thriller, Crux
@@ -7672,6 +7784,7 @@ Read what happens when Astronauts poop their pants in space
 Reading Rainbow remix will make you feel like a kid again
 Reading The Martian Chronicles in Tehran
 Reading on your tablet computer at night could be disrupting your sleep
+Real Life Logan's Run happening in San Francisco this weekend!
 Real-Life Flying Saucers Prove That the Truth Is Right Here
 Real-Life Locations That Would Make Badass Supervillain Lairs
 Real-Life Mysteries That Would Make Great Episodes of Sleepy Hollow
@@ -7681,6 +7794,7 @@ Real-life Houses That Look Like They Belong in the Shire
 Real-life Picasso women are gorgeously grotesque
 Real-life Pixar lamp interacts with humans and is totally adorable
 Real-life Spidey Sense suit tingles when objects get close
+Real-life castaway says he spent 13 months adrift in the Pacific Ocean
 Real-life fruit ninja slices watermelons by throwing playing cards
 Reality Check: Violent Fantasies Don't Make People Violent
 Reality Check: You can't easily replace Robert Downey Jr as Tony Stark
@@ -7702,6 +7816,7 @@ Red-nosed gingerbread AT-AT is covered in sweet details
 Reese Withersoon may join Keanu Reeves in a cryogenic space nightmare
 Reform School on Another Planet
 Refractographs are eye candy brought to you by physics
+Reggie Watts is the greatest science teacher of all time
 Reindeer racing is a real thing
 Rejected Pitches for E.T.: Let's kill the little brown turd
 Rejoice! Agent Coulson will be in the new S.H.I.E.L.D. TV series!
@@ -7994,6 +8109,7 @@ Scientists Develop an Online Dating Engine That Measures Your Hotness
 Scientists Discover Parts of Our Bodies Age at Different Rates
 Scientists Discover a Substance that Appears Cold When You Heat it Up
 Scientists Enhance Intelligence of Mice with Human Brain Cells
+Scientists Feed Peanut Butter to Jellyfish, Make PB and Jellyfish
 Scientists Just Discovered a New Force That's Stronger Than Gravity
 Scientists No Longer Banned from Researching Deadly Mutant Bird Flu
 Scientists Now Uncertain About Heisenberg's Uncertainty Principle
@@ -8146,6 +8262,7 @@ Sharknado: And why not?
 Sharkukkah: Eight Nights of Terror!
 Sharlto Copley is starring in the first ever R-rated "POV" action movie
 Shaun of the Dead interactive screenplay reveals on-set secrets
+Shaw kicks ninja butt in a clip from tonight's Person of Interest!
 She survived future wars, but can she survive her own fancy brothel?
 She's trapped in a barbaric past, and she just wants to help people
 Shedding tears of sadness could save your life
@@ -8195,6 +8312,7 @@ Sigourney Weaver reunites with Ridley Scott for a Biblical fantasy
 Silence will fall in the teaser for the Doctor Who Christmas Special
 Silent Hill: Revelation 3D - Photos
 Silent Hill: Revelation Stills
+Silent raw footage of the bombing of Nagasaki is absolutely chilling
 SimCity Fanfic: The College Years
 Simon Pegg and Edgar Wright explain how their non-trilogy is a trilogy
 Simon Pegg explains the ending of The World's End
@@ -8277,6 +8395,7 @@ Snowpiercer is the biggest hit movie in Korean history
 Snowy Space Invaders "crop circle" appears on a French hillside
 Snubbed scientist wants to rename the Higgs boson
 So CT scanners look pretty badass when they're not covered in casing
+So Far, The Best Prank of 2014
 So NASA's rover drew a penis on Mars
 So apparently Voyager 1 left our solar system on July 27, 2012
 So apparently male circumcision is cool again
@@ -8349,6 +8468,7 @@ Sony expands the Spider-Man films with Venom and Sinister Six movies
 Sookie Stackhouse meets her one true love at last: Sesame Street's Count
 Soon you'll be backing up your hard drive using DNA
 Sophisticated chatbot poses as teenage girl to lure pedophiles
+Sorry conspiracy theorists, but the snow in Atlanta was real.
 Sorry, Intelligence, but your princess is in another castle.
 Sorry, Neil deGrasse Tyson, but you're wrong about Thor's hammer
 Sorry, but elephants really want nothing to do with us
@@ -8369,6 +8489,7 @@ Space Shuttle Endeavour lands for the very last time
 Space Suit X-Ray is Coil-Tastic
 Space exploration goes awry in the beautiful scifi short "Beyond"
 Space technology company builds a functioning artificial heart
+Space veggies are good to go
 SpaceX Just Made History. Again.
 SpaceX founder unveils plan to send 80,000 people to Mars
 SpaceX has completed its first commercial cargo delivery to the ISS
@@ -8430,6 +8551,7 @@ Star Trek Video Game Concept Art Still Finds Room For Smarmy Kirk
 Star Trek and Doctor Who unite over... sugary cereal?
 Star Trek communicator puts your dog poop where no dog has gone before
 Star Trek fan episode feels like an extension of the original series
+Star Trek has a carol to sing you!
 Star Trek is much sillier when voiced by the cast of Archer
 Star Trek spatula's 5-year mission: to explore strange new pancakes
 Star Trek: DS9 played the most dangerously idiotic game in the galaxy
@@ -8507,6 +8629,7 @@ Stop pretending we aren't living in the Space Age
 Stop what you're doing and watch the short film Post Human right now
 Stop what you're doing and watch this Harry Potter fan film
 Stop working and watch this Game of Thrones bad lip reading NOW
+Stories of the Inner Life of Nerds
 Storm got a haircut! First look at Halle Berry on the new X-Men set
 Storyboards reveal the amazing Star Wars prequel you never saw
 Strange Architecture Of The Tito And Ceausescu Regime
@@ -8526,6 +8649,7 @@ Student Rickrolls his teacher in this ingenious quantum physics essay
 Student Robot Club builds wheelie legs for a disabled cat
 Students describe their theses in a single self-mocking sentence
 Studio Ghibli - 2013 Posters
+Studio Ghibli to Create New Anime Series
 Studio Ghibli's newest movie is like nothing you've ever seen
 Studs Terkel and Calvin Trillin Talk To SF Writers
 Study backs up what owners already know: Cats don't care
@@ -8565,6 +8689,7 @@ Supergirl & Batgirl Christmas by Mike Maihack
 Superhero-inspired dresses for more formal cosplay wear
 Superheroes in Bondage, as Photographed by Richard Kadrey [NSFW]
 Superhydrophobia spawns the Lotus Effect
+Superman Returns Director Blames Women for Movie's Failure
 Superman and Batman discuss their upcoming film over a cup of coffee
 Superman and Batman have their first date in This Week's Comics!
 Superman and Lois Lane reenact Klimt's "The Kiss"
@@ -8598,6 +8723,7 @@ Supernatural Promo Photos Ep. 8.4
 Supernatural Season 8 Premier Photos
 Supernatural Season 9: So Very, Very Tired
 Supernatural Starts to Rock Again
+Supernatural borrows a random story idea from Doctor Who
 Supernatural brings us a new angelic conspiracy
 Supernatural does the very essence of a "gimmick" episode
 Supernatural hints at what follows the Fallen Angel Sh*tstorm
@@ -8878,6 +9004,7 @@ The 7 Most Essential Iron Man Comics
 The 7 Most Intriguing Philosophical Arguments for the Existence of God
 The 8 Incredibly Gross Powers Superman Doesn’t Even Realize He Has
 The 8 Weirdest Real-Life Science Fiction Political Ads
+The 8 Worst Mistakes Made by the Axis During World War II
 The 9 Best Satanic Cults in History
 The 9 Least Competent Jedi
 The 9 Least Incredible Adventures the Incredible Hulk Ever Had
@@ -8923,9 +9050,11 @@ The Art and Science of State Fair Foods
 The Artist Who Helped Invent Space Travel
 The Artist Who Made Spaceflight Seem Real
 The Asch Conformity Experiments should have been more evil
+The Astronaut Wives Club lands its own TV series
 The Atlantic Rim movie is somewhat less spectacular than Pacific Rim
 The Audience Effect explains how fans can screw up a franchise
 The Aureole Effect, and Why It Makes You Look Like an Angel
+The Aurorae Blaze Bright Before the Dawn
 The Avengers FX reel will blow you away
 The Avengers are Earth's Derpiest Heroes in the blooperfied trailer
 The Avengers are Earth's Morphinest Heroes in this Power Rangers mash-up
@@ -8940,6 +9069,7 @@ The Awful Time Travel Trope That Both Looper and Doctor Who Embraced
 The Axe Cop cartoon still looks awesome, if you were wondering
 The BBC has canceled the original Being Human
 The BBC's Doctor Who docudrama gets the first Doctor exactly right
+The Back to the Future musical is opening in London
 The Backfire Effect shows why you can't use facts to win an argument
 The Bad Lip-Reading Dead are so much more fun than The Walking Dead
 The Bad-Ass Mormon Gunslinger of the Wild West
@@ -8952,6 +9082,7 @@ The Beer of Thrones is not safe for pregnant women, Dothraki, anybody
 The Beginning of "Thriller" Animated Entirely in LEGO Bricks
 The Best "Aliens Land on Earth" Scenes Ever Filmed
 The Best "Entry Level" Science Fiction Books to Convert Your Friends
+The Best (and Worst) Super Bowl Ads of 2014
 The Best Action Movie You'll See All Week = Parkour + Rube Goldberg
 The Best Audiobooks to Distract You from Your Family This Weekend
 The Best Black Friday Deals
@@ -8981,6 +9112,7 @@ The Best Science Fiction and Fantasy Novels to Cheer You the Frak Up
 The Best Science Fiction and Fantasy Short Films of 2013
 The Best Science-inspired Album Covers Of All Time
 The Best Thing That Could Ever Happen to the Pacific Rim Trailer
+The Best Thing to Happen to Agents of SHIELD
 The Best Turkey Frying Disasters on the Internet
 The Best Unfilmed Scripts of 2013, According to the Black List
 The Best Video Game Surprises of 2013
@@ -9127,6 +9259,7 @@ The Doubleclicks’ “Nothing to Prove” is the ultimate geek girl anthem
 The Dragon Was Plagued By Butterflies
 The Dramatic Differences in Male and Female Brain Connectivity
 The Dramatic Expanse of Antarctica's Noctilucent Clouds
+The Drinking Principle is the easiest possible form of social control
 The Dumbest Apocalypses That Hollywood Has Dreamed Up
 The EU on track to meet its 2020 climate goals
 The Earth As Seen From 100 Million Miles Away
@@ -9189,6 +9322,7 @@ The Future Is Not Accelerating
 The Future of Civil Disobedience Online
 The Future: A Smart Domestic Drama About The Perils of Living Forever
 The G.I. Joe PSA that almost made it into the new movie
+The GIF Party begins now. Come on in!
 The GIF Party goes on, come rain or snow
 The Galaxy Slashed a Hole in Space
 The Game of Thrones '80s/90s theme party continues in this awesome art
@@ -9237,6 +9371,7 @@ The Greatest Star Trek Cosplay of the Year
 The Greatest Time-Travel Romances of All Time
 The Greek gods play a wacky game to decide who will rule Olympus
 The Greening of the Arctic
+The Gruesome and Excruciating Practice of Mummifying Your Own Body
 The Grumpy Catbus was helpful once. It was awful.
 The Guild parties down as an OSI mission goes bad in Venture Bros.
 The Guiltiest Pleasures, from Big Bang Theory to Twilight
@@ -9391,6 +9526,7 @@ The Most Amazing Scifi Themed Ads of the 20th Century
 The Most Astonishing Cosplay at Wondercon 2013
 The Most Astonishing Miracles Of Bridge Engineering
 The Most Astonishing Real-Life Treasure Hunts
+The Most Astounding Airships, Dirigibles and Zeppelins in History
 The Most Astounding Cosplay We've Seen at Comic-Con (So Far)
 The Most Astounding Steam-Powered Vehicles in History
 The Most Awesome Moments from Krrish 3, The Bollywood Superhero Classic
@@ -9457,7 +9593,9 @@ The Most Spine-Tingling Moment from Last Night's Originals
 The Most Stunning Astronomy Photos of the Year
 The Most Thrilling Iron Man 3 Art Yet: The Iron Legion!
 The Most Thrilling Star Wars Art We've Seen in Ages
+The Most Unfortunate Design Flaws in the Human Body
 The Most Unrealistic Movies of 2012, According to Scientists
+The Most Unusual Alternate History Novels Ever Published
 The Most Vibrant Pulp Science Fiction Art You'll See This Week
 The Motherlode of Iron Man Concept Art
 The Movie That Inspired 2001
@@ -9495,6 +9633,7 @@ The Obama family reimagined as The Incredibles
 The Objects in Space That We Really, Really Can't Explain
 The October Science Fiction and Fantasy Books You Can't Afford to Miss!
 The Odd Life of Timothy Green is actually creepier than it sounds
+The Odd Thomas trailer explains why bad things happen to good people
 The Oddest Soviet Ads From The Late 19th And Early 20th Century
 The Oddest Ways People Died in Victorian Times
 The Oddest-Looking Musical Instruments on Earth
@@ -9524,6 +9663,7 @@ The Philosophical Roots of Science Fiction
 The Physics of Usain Bolt's World Record 100-meter Dash
 The Pitfalls of Monster Diplomacy, in an Exclusive Kaijudo Clip
 The Planck Satellite Discovers Extra Dark Matter In the Universe
+The Poe Code: The Secret Meaning of Person of Interest
 The Polish Knight Fighting League is the only reality show we need
 The Possession is the Jewish pop reggae version of The Exorcist
 The Power of Few trailer feels like Snatch starring Jesus' Clone
@@ -9576,6 +9716,7 @@ The Rules of Good Nutrition (That Absolutely Everybody Agrees On)
 The Russian Eccentric Who Wants to Make Surrogates a Reality
 The SF Chronicle published a special Gotham-themed Batkid edition
 The Sad-Faced Hulk We Could Have Seen in Ang Lee's Movie
+The Saddest Little Dragonborn in Skyrim
 The Salt Lake Tribune speculates about "vast thinking vegetable" on Mars
 The Savage Panda of the Post-Apocalyptic Wasteland Returns
 The Scandalous History and Strange Physics of Donuts
@@ -9669,6 +9810,7 @@ The Subterranean Wonder of Abandoned Subway Stations
 The Summer Prince takes us to a future Brazil with human sacrifice
 The Sun has been completely manic this week
 The Sun's polarity is about to flip (and here's what that means)
+The Super Bowl's controversial Coke commercial gets a nerdy re-edit
 The Supernatural spinoff will shoot out of the 9th season
 The Surprising Inspiration for Dungeons & Dragons' Weirdest Monsters
 The Survivorship Bias convinces people that psychics are real
@@ -9906,6 +10048,7 @@ The best way to stop a hive mind from killing you
 The best, weirdest and wildest comics coming in 2014
 The best-animated 80s cartoon intros
 The biggest movie spoilers from Toy Fair!
+The biggest tear-jerker scenes from last night's Arrow
 The bioluminescent leaves of Puerto Rico
 The birth and death of stars in one spectacular photo
 The birth of quantum theory (deliciously, it involves cookies)
@@ -10160,6 +10303,7 @@ The long-running mystery of why birds seemingly change sex
 The longest American spaceflight in history will launch in 2015
 The longest continual satellite scroll of Earth you will ever see
 The luminous migration of the Pynock Angel
+The makers of The LEGO Movie take apart their creation brick by brick
 The man who created internet memes — before the internet
 The man who planned to turn the Eiffel Tower into a free fall ride
 The man who tried to make human-ape hybrids
@@ -10171,6 +10315,7 @@ The massive “corpse flower” has finally bloomed! It smells awful!
 The math problem that had Einstein asking for help from his assistant
 The mech stood alone among the floating pillars
 The medicine you give your pet may be worse than useless
+The military has developed a robotic convoy that doesn't need humans
 The military seeks help in developing an artificial human brain
 The monstrous Sky Whale could be the future of air travel
 The most accurate 3D map of our galaxy reveals a peanut-shaped core
@@ -10187,6 +10332,7 @@ The most gorgeous Leidenfrost video I’ve ever seen
 The most homoerotic Supernatural episode ever
 The most hopeful prediction yet for liberty in 2014
 The most important alarm in the solar system is set to go off tomorrow
+The most important moment in the evolution of life
 The most important question of 2013 answered: Can zombies get drunk?
 The most important thing you'll read today is an article about oranges
 The most infamously awful fanfic ever, “My Immortal,” has a web series
@@ -10356,6 +10502,7 @@ The secret formula to winning a Nobel Prize
 The secret life of Star Trek
 The secret reason for Sweden's lack of child-eating gnomes revealed
 The secret soundtracks of novels
+The separation of Pangea, explained in an animated pop-up book
 The series bible that sold ABC on Lost is full of lies
 The seriously creepy "two-kitten experiment"
 The setting Sun is one big optical illusion
@@ -10449,6 +10596,7 @@ The winds of the stratosphere reshape deep ocean currents
 The winner of the 2013 Philip K. Dick Award has been announced!
 The winners of 2013's Dance Your PhD Competition have been announced!
 The winners of Blue Peter's 'Design a Sonic Device' contest are glorious
+The winners of the Adventure Time T-shirt contest are just smashing
 The wizard behind Doctor Who and Torchwood has done it again!
 The women of Marvel wear their flowing, formal costume attire
 The women who took radium from savior to killer
@@ -10549,6 +10697,7 @@ These Evil Dead reboot photos are disturbingly gorgeous
 These Examples of Surrealist Architecture Will Make You Feel Dizzy
 These Ferocious Dinosaur Wallpapers Will Rampage on Your Desktop
 These Futuristic City Wallpapers Will Take Your Breath Away
+These Futuristic Houses Will Blow Your Mind
 These GIFs of bouncing Jell-O are disturbingly satisfying
 These Great Lego Game of Thrones Minifigs Are Now for Sale
 These Hobbit cupcakes have movie-accurate Dwarf beards
@@ -10565,6 +10714,7 @@ These RPG Campaigns Will Keep You Busy All Summer Long
 These Rolling Bookmobiles Are Cooler Than Your Local Libraries
 These Sea Creatures Are Clearly From Outer Space
 These Skytwisters Are the 21st Century's Answer to the Skyscraper
+These Soviet Textiles Are Actually Propaganda Tools From The 1920s
 These Stamps Hail The Skylab Missions In 13 Awesome Ways
 These Steampunk detectives are going to darker places than ever before
 These Suicide Machines' sole purpose is to destroy themselves
@@ -10593,6 +10743,7 @@ These are the greatest adventure stories of the 19th century
 These are the jobs that robots will never steal from us
 These are the most beautiful libraries we've ever seen
 These are the most well-read cities in America (according to Amazon)
+These are the oldest human footprints ever discovered in Europe
 These are the oldest human footprints ever found in North America
 These are the science stories to watch for in 2014
 These are the strangest landscapes on Earth (according to Sierra Club)
@@ -10856,6 +11007,7 @@ This Week's TV: The Most Intriguing New Time Travel Show In Years
 This Week's TV: The One Show You Absolutely Must Watch This Fall
 This Week's TV: The Only New Show This Summer That's Truly Addictive
 This Week's TV: The Shocking Truth About the "Superman Curse."
+This Week's TV: The Walking Dead is back! And an Arrow family reunion!
 This Week's TV: The Worst Thing Ever to Come Out of The Hunger Games!
 This Week's TV: The Year's Best New Cartoon Series is Here At Last
 This Week's TV: True Blood is back. Plus who wanted a Pac-Man cartoon?
@@ -10942,6 +11094,8 @@ This crazy-dense planet could be of an entirely new type
 This creepy claymation ballet is like a Silly Symphony from Hell
 This creepy psychological technique will sabotage anyone's self-esteem
 This crosswalk is the result of scientific testing
+This cybernetic hand is the first to give amputees a sense of touch
+This cyborg mystery novel is what Intelligence could have been
 This d20 engagement ring is a critical hit
 This dancing sodium is way more dangerous than it looks
 This dazzlingly bright star is a cosmic lighthouse
@@ -11007,6 +11161,7 @@ This hawk only attacks postal workers
 This helicopter is being controlled by a human brain
 This horrific 22-foot wasp nest was found inside an abandoned house
 This horrifying Palaeozoic fish had a buzz saw for a face
+This huge Brazilian snake just swallowed an entire pitbull
 This huge anglerfish sculpture is wicked nightmare fuel
 This human-toothed fish won't give you nightmares, but its cousin will
 This iconic scene from Children of Men was actually an accident
@@ -11116,6 +11271,7 @@ This is what Batgirl would've looked like in the 1880s
 This is what China's record-level air pollution looks like from space
 This is what Darth Vader sees when he's kicking a Jedi's butt
 This is what Einstein's office looked like on the day he died
+This is what London's skyline could look like in 20 years
 This is what Voltron looked like in 1905
 This is what Weird al Yankovic looks like as a My Little Pony
 This is what Yoda would like as a human being. Yikes.
@@ -11191,6 +11347,7 @@ This marvelous student film is as polished as a feature cartoon
 This massive Lego Masters of the Universe line needs to be real
 This massive Triassic Era sea monster picked on prey its own size
 This massive repository of space porn will devour your afternoon
+This mathematician's life could be an epic action movie!
 This may be the best scientific paper abstract ever written
 This may be the classiest Hobbit house ever built
 This may be the oldest dome-headed dinosaur ever discovered
@@ -11264,6 +11421,7 @@ This retired architect builds marvelous model boats that fly
 This reversible scarf bears a pictorial retelling of The Hobbit
 This robot can jump 10 times its body length
 This robot turtle is actually a marine archaeologist
+This robot will utterly destroy you at air hockey
 This robot's facial expressions are being controlled by slime mold
 This robotic 3D printer doesn’t need your help, thank you very much
 This robotic jellyfish could be the future of aquatic surveillance
@@ -11303,6 +11461,7 @@ This surrealist film treats urban landscapes like a Rubik's Cube
 This sutured skin cake might just be too gruesome to eat
 This t-shirt gives you one kitty to beam up
 This time it's official. Voyager 1 is in interstellar space.
+This time-lapse makes me want to move to South Dakota
 This timelapse of Yosemite National Park is going to be epic
 This timelapse-supercut of European landmarks will leave you speechless
 This tiny hummingbird's nest is almost too precious to believe
@@ -11313,6 +11472,7 @@ This trailer for Mike Carey's Girl With All the Gifts will chill you
 This trailer for the Winter Olympics invokes a terrifying ice world
 This trampoline routine will have you doubting the laws of physics
 This truly is science as art
+This two-hour fan-made RoboCop remake is the RoboCop remake we deserve
 This unbelievable image of Virgin Galactic's SpaceShipTwo is 100% real
 This uncanny orb is a miracle of glass-blowing
 This upsetting timelapse shows how we're making life hell for manatees
@@ -11359,6 +11519,7 @@ This, dear reader, is how you diagnose a zombie
 Thomas Kinkade's cottage paintings upgraded with Star Wars
 Thor 2 Set Photos from WENN.com
 Thor Concept Art
+Thor and Loki are best bros in the full-length Thor 2 gag reel
 Thor concept art shows how cool the Dark Elves' realm could have looked
 Thor, Jane and Loki reveal new worlds in The Dark World featurette
 Thor: Darkworld Set Photos
@@ -11439,6 +11600,7 @@ Tom Hiddleston is an extremely naked vampire in Only Lovers Left Alive
 Tom Hiddleston re-enacts the entirety of Thor 2... with action figures
 Tom Hiddleston stars in "Why Are All Bad Guys British?" Super Bowl spot
 Tom Hiddleston takes us inside the complicated mind of Loki
+Tom Hiddleston will star in the movie adaptation of High Rise!
 Tom Hiddleston's impression of Owen Wilson as Loki is surreally fun
 Tom Taylor goes to Hell in our exclusive preview of The Unwritten #44
 Tomorrow People gives its main female character the cheapest trauma
@@ -11605,6 +11767,7 @@ ULTRA FLESH
 US Army's new awesome helmet turns war into deadly video game
 US government holds hearings on what to do about asteroid defense
 US judge rules Sherlock Holmes and Watson are in the public domain
+US release of Snowpiercer will be uncut, but it's still getting screwed
 US spy agency launched this Earth-conquering octopus logo into orbit
 USA orders a World War 2 alien drama from Walking Dead producer
 Ugh, Disney Gave Brave's Merida A Pretty Pretty Princess Makeover
@@ -11645,6 +11808,7 @@ Unused Croods storyboards are carnivorous plant-fightingly fantastic
 Unused Judge Dredd concept art says: "My codpiece is the law"
 Unused Test Footage That Could Have Changed Your Heroes' Lives Forever
 Unused storyboards show how Alien could have been more "pornographic"
+Unusual Brown Dwarf Star Has Red Skies
 Unusual binary asteroid zooms past Earth tomorrow
 Up's odd couple trades balloons for Batman's cape and cowl
 Update Your Cosplay for Comic Con 2013: What to Wear, What to Burn
@@ -11695,6 +11859,7 @@ Vehicles Of The 2013 DragonCon Parade - Photo Dump
 Venturestein returns to lead a monstrous revolution in Venture Bros.
 Venus tried to eclipse the sun. It's not its fault it didn't work.
 Vernor Vinge and Temple Grandin to speak at Singularity Summit 2012
+Victorian Children's Book Illustrations Could Be Pretty Racy (NSFW)
 Victorian Lost imagines a mutton-chopped Ben Linus
 Video Games’ Best Superhero Isn't Coming Back
 Video games help the blind navigate new environments
@@ -11833,6 +11998,7 @@ Watch Andrew Garfield stay in character during the Spider-Man 2 panel
 Watch Arthur C. Clarke predict the computers of today, in 1974
 Watch Asteroid 2012 DA14's close encounter with Earth — live on io9!
 Watch Bilbo face off with a giant, invisible dragon on the Hobbit set
+Watch Bill Nye "debate" the Creation Museum live, right here!
 Watch Bill Nye's courageous robot dance from last night
 Watch Bryan Cranston and Aaron Paul read the Breaking Bad finale script
 Watch China's Chang'e 3 land on the Moon!
@@ -11906,6 +12072,7 @@ Watch a model Enterprise fly into the stratosphere
 Watch a normal dude transform into Judge Dredd in less than a minute
 Watch a nuclear bomb create a lake
 Watch a pro photographer shoot apocalyptic shots in Costa Rica
+Watch a rocket sled attached to a parachute shoot through the desert!
 Watch a short film about the Machine of Death that predicts your end
 Watch a sneak peek from the Agents of S.H.I.E.L.D. premiere
 Watch a solar eclipse from the surface of another planet
@@ -11936,13 +12103,16 @@ Watch as this burning railway bridge comes crashing down
 Watch as this comet plunges directly into the Sun
 Watch as this liquid nitrogen pool party goes horribly wrong
 Watch as this massive ice-sheet rips and shreds itself apart off Alaska
+Watch as this massive wave sends hundreds of spectators scrambling
 Watch babies face the same test of courage as Indiana Jones!
 Watch baboons show off their human-like math skills
 Watch copper sulfate and ammonia react in slow motion
 Watch every day of the Second World War in this amazing timelapse
 Watch every single Doctor Who episode ever, in a single hour
+Watch every single Transformer transformation scene in one video
 Watch ferrofluids dance and multiply over a water-repelling surface
 Watch flesh-eating beetles devour a parrot... for science
+Watch how Ty Burrell transformed Mr. Peabody from Dog Genius to Dog Dad
 Watch how a paralyzed man can use a quadrotor drone to fly
 Watch how mercury completely flips out when it's blasted by sound
 Watch how music travels across the U.S. through Facebook
@@ -11996,6 +12166,7 @@ Watch the first 8 minutes of Fox's Almost Human right now
 Watch the first eight minutes of the new Ghost in the Shell anime
 Watch the first episode of Dan Harmon's new show Rick and Morty
 Watch the first ever footage from Ender's Game
+Watch the first footage of the UK's Cylon-like stealth drone in flight
 Watch the first minute of the re-energized Revolution
 Watch the first new Riddick clip in 9 years
 Watch the first trailer for Guillermo del Toro's feral baby movie Mama
@@ -12018,6 +12189,7 @@ Watch the prequel to next week's Doctor Who season finale
 Watch the rotation of a binary asteroid and its orbiting moon
 Watch the short that inspired Neill Blomkamp's next movie Chappie
 Watch the storyboards for the Stretch Armstrong Movie that Never Was
+Watch the student films scifi directors made before they were famous
 Watch the surviving clips of the BBC's Caves of Steel
 Watch the trailer for Pixar's first TV special Toy Story of Terror
 Watch the trailer for Splice director Vincenzo Natali's Haunter
@@ -12135,11 +12307,13 @@ We love this officially licensed, gender-swapped Doctor Who coat
 We made our homes in the shattered remnants of the bridge
 We may finally know why warm water freezes faster than cool water
 We may possibly have our Black Panther (possibly)
+We might be destroying the universe just by looking at it
 We might have already met the Ultron in the Avengers sequel!
 We nearly gave up on heart transplants
 We need GMOs to feed a growing population
 We need more NASA Curiosity rover toys, and we need them now
 We need more animations of the Hitchhiker's Guide to the Galaxy!
+We need more characters who touch the alien, but keep their humanity
 We now have brain-to-brain interfaces that work between two humans
 We now have drones equipped with EMP beams — and that could be lethal
 We now know the origin of Russia's meteor
@@ -12172,6 +12346,7 @@ We're having a Gif Party! For Science.
 We're learning some amazing things from those massive washed-up oarfish
 We're mighty sick of Doctor Who stories where time travel is magic
 We're scared of this Toothless cosplay from How to Train Your Dragon
+We're writing some science fiction — in only six words!
 We've Cast NBC's Live Peter Pan Musical for Your Hate-Watching Pleasure
 We've Found the Molecule That Causes Itchiness
 We've been looking at ant intelligence the wrong way
@@ -12246,6 +12421,7 @@ What Did We Get Stuck In Our Rectums This Year?
 What Do We Really Mean When We Say Light Is "Pollution"?
 What Do You Call an Alien From Uranus?
 What Do You Want to 3D Print?
+What Does an MLG Champion Think About The Gaming in Ender's Game?
 What Does the Spleen Do?
 What Earth would look like with its oceans and landmasses swapped
 What Exactly Was Carl Sagan Working on with the U.S. Military?
@@ -12402,6 +12578,7 @@ What happens when a closeted superhero falls for a supervillain?
 What happens when an inept superspy goes after an ordinary guy?
 What happens when machines filter your world
 What happens when technology comes to kick fantasy's ass?
+What happens when two chatbots try to seduce each other
 What happens when you look up Adam West in the phone book?
 What if Alfred Hitchcock made superhero movies?
 What if Batgirl starred in her own girl detective cartoon?
@@ -12426,6 +12603,7 @@ What if Game of Thrones was a CW series?
 What if Guy Pearce played the Riddler in Nolan's third Batman film?
 What if H.P. Lovecraft wrote the Fantastic Four?
 What if HP Lovecraft wrote "hot singles in your area" spam?
+What if Hayao Miyazaki had designed all our consumer goods?
 What if Indiana Jones continued his adventures in an animated series?
 What if Lost Girl made The Amityville Horror into softcore porn?
 What if Lost was a 1980s point-and-click computer game?
@@ -12484,6 +12662,7 @@ What is absolutely the best movie to watch at a party?
 What is going on in these horrifying Game of Thrones set photos?
 What is going on with this terrifying ball of flies?
 What is happening in this bizarre Japanese retro-futuristic art?
+What is life like for imaginary friends before they've been imagined?
 What is the Anthropocene, and are you living in it?
 What is the Best Halloween Movie Ever Made?
 What is the Wachowskis' new TV show Sense8 about?
@@ -12536,7 +12715,9 @@ What makes the Machine on Person of Interest a science fiction rarity
 What makes us see Jesus in a taco, or a human face on Mars?
 What monster would you consider having sex with?
 What movie did you love -- until your friends convinced you it sucked?
+What movie do you love, but have ZERO interest in seeing a sequel?
 What movie have you watched 1,000 times, and will never stop?
+What movie or TV show did you dread, only to wind up loving it?
 What movie terrified you the most when you were a kid?
 What movie went too far -- in the best possible way?
 What number do you see? What number?
@@ -12627,6 +12808,7 @@ What would it really feel like to touch a human brain?
 What would it take for America to be optimistic again?
 What would it take to be Bane? A Dark Knight Rises infographic
 What would the 1906 San Francisco Earthquake look like today?
+What would the Earth be like if it was the shape of a donut?
 What would the chemical elements look like as cartoon characters?
 What would the newsstands look like if The Avengers were real?
 What would the perfect planet be like?
@@ -12642,6 +12824,7 @@ What's Coming Next for Dungeons & Dragons and Forgotten Realms
 What's Going to Be Good (and Bad) About the Next Batman Video Game
 What's Inside Your MDMA? It's Not What You Think
 What's Jor-El thinking during Man of Steel's Kryptonian Civil War?
+What's behind the IKEA Effect?
 What's being done about all those damn feral cats?
 What's being whispered in J.J.'s ear on the deck of the Enterprise?
 What's going on inside the brains of musicians while they improvise?
@@ -12653,6 +12836,7 @@ What's inside the shells of Michael Bay's CG Ninja Turtles?
 What's it like to return to an ordinary life after saving Fairyland?
 What's it like to soar through the Chamonix Valley on an eagle's back?
 What's next on Arrow, now that Tommy has made a fateful choice?
+What's next on Orphan Black and SHIELD. And Peter Dinklage talks X-Men!
 What's on your 6-months-until-the-end-of-the-world bucket list?
 What's on your shopping list this holiday season?
 What's so bad about Spanish sperm?
@@ -12883,6 +13067,7 @@ Which classic science fiction or fantasy author is due for a comeback?
 Which comics supervillain really deserves a shot on the big screen?
 Which countries have the highest rate of diagnosed depression?
 Which creator do you wish you had met before they became superfamous?
+Which dangling plot threads will The Walking Dead definitely tackle?
 Which dead movie project are you glad never happened?
 Which fan theory or rumor do you wish had turned out to be true?
 Which formerly lovable hero became way too much of a jerk?
@@ -12919,6 +13104,7 @@ Which tragically canceled TV show deserves to be a movie?
 Which type of dinosaur meat would be the tastiest?
 Which villain should just quit while they're ahead?
 Which words turn up most in Hunger Games, Twilight, and Harry Potter?
+While you weren't looking, Tomorrow People became a great TV show
 Whimsical, animal-filled illustrations of mathematical concepts
 Whip up futuristic cocktails using dry ice and fireballs
 Who Are You? Introduce Yourselves in the Comments!
@@ -12941,6 +13127,7 @@ Who is Middle-Earth's biggest Taylor Swift fan? Gollum, obviously
 Who is the greatest fictional detective of all time?
 Who is the mysterious magic-hating boss on Once Upon A Time?
 Who is the nose-stealing, scalp-cutting, serial killer of Haven?
+Who is the worst sidekick ever?
 Who knew illuminated manuscripts contained so many fart and poop jokes?
 Who makes it out of Vamp Camp alive in this new True Blood trailer?
 Who needs RoboCop when you can have cops in robots?
@@ -13017,6 +13204,7 @@ Why Does Coffee Make You Poop?
 Why Don't Toddlers Remember a Damn Thing? Asks Science
 Why Drew Goddard Should Direct the Next Star Trek Movie
 Why Dubstep Comes From the Future
+Why Dungeons & Dragons Still Matters
 Why Expanded Universes Are Important
 Why Female Soldiers Were Finally Added to Call of Duty's Multiplayer
 Why Freud Still Matters, When He Was Wrong About Almost Everything
@@ -13241,6 +13429,7 @@ Why is this bumblebee wearing a tiny radar suit?
 Why is this man growing a nose on his forehead?
 Why is this pioneering researcher fighting to have his work retracted?
 Why is this spiderweb full of rainbows?
+Why is this volcanic eruption blue?
 Why is your stomach growling right now?
 Why isn't science doing something about goddamn spiders?
 Why isn't science fiction used more often to teach science in schools?
@@ -13264,6 +13453,8 @@ Why shouldn't Arrow cross over with the big-screen Justice League?
 Why slime molds can solve mazes better than robots
 Why the Biggest Obstacle for Elon Musk's Hyperloop Might Be Tunnels
 Why the Cuckoo Finch Is Called a Brood Parasite
+Why the Earth is wobbling
+Why the Exact Same Lottery Numbers Came Up Twice in One Week
 Why the Holocaust was even worse than we thought
 Why the Paleo Diet and Lifestyle Are Not Based in Scientific Reality
 Why the Second Dredd Movie Could Be Even Darker
@@ -13344,6 +13535,7 @@ Will Obama's second term free him to take bold action on climate change?
 Will Old People Take Over the World?
 Will Oliver be more careful with his secret identity in Arrow season 2?
 Will Sansa Stark end up a villain or a victim?
+Will Smallpox Reemerge in Siberia as Corpses Thaw from Climate Change?
 Will Smith to sail New York City across the Atlantic like a boat
 Will Smith won't be back for the Independence Day sequel
 Will Sony Soon Have to Find a New Spider-Man?
@@ -13370,6 +13562,7 @@ Will the first Amazing Spider-Man spin-off star a semi-reformed baddie?
 Will the next Batman movie be an Arkham Asylum adaptation?
 Will the secrets of DC’s New 52 be revealed in This Week’s Comics?
 Will the universe end in a "Big Rip"?
+Will this be Captain America: The Winter Soldier's post-credits scene?
 Will this nefarious plan to transform Homo sapiens really work?
 Will toy companies keep us from ever getting a superheroine movie?
 Will we be living in city-states in the near future?
@@ -13410,6 +13603,7 @@ Witches of East End pauses its soap opera for a brief fishnado
 Witches of East End spins the plot roulette wheel with both hands
 With Current Budget, NASA Will Never Get to Mars
 With My Little Cthulhu Pony, Friendship is Madness
+With Regard to the Footballs
 With our tentacles we bravely fought
 With this Arc Reactor, I Thee Wed
 With this Droid, I thee wed: an R2-D2 engagement ring
@@ -13457,6 +13651,7 @@ Would you let this woman keep her dead husband's sperm?
 Would you magically reset your country to only its native species?
 Would you plug your brain into the internet?
 Would you spend a year in bed?
+Would you take a 56-hour bus trip to shrink your carbon footprint?
 Would you upload your aging parent's consciousness to a nursing home?
 Would you want a phone's Bluetooth in your glove instead of your ear?
 Wow — this gorgeous timelapse was made with a crummy point and shoot
@@ -13643,6 +13838,7 @@ Ze Frank performs symbolism-fueled heart surgery on a teddy bear
 Zero Charisma is an awkward but honest love letter to nerds
 Zero Hour reveals the secret holy apocalypse clock in Einstein’s brain
 Zoe Saldana will star in the Rosemary's Baby miniseries reboot
+Zombeavers is a classic cabin horror flick but with Zombie Beavers
 Zombie Torso Baby Costume Will Feast on Lame Pumpkin Baby Outfits
 Zombie-scented perfumes make you smell less attractive to the undead
 Zombie: A New Original Short Story by Chuck Palahniuk
@@ -13737,6 +13933,7 @@ sexytrek
 ​The 11 Most Sexually Depraved Things the Roman Emperors Ever Did
 ​The 13 Most Ridiculous Giant Robots of All Time
 ​The 14 Least Competent Alien Invaders of All Time
+​The 16 Most Awful Lego Sets Ever Assembled
 ​The 16 Most Useless Star Wars Figures in the Galaxy
 ​The 8 Worst Mistakes Made by the Allies During World War II
 ​The ALF Christmas Special may be the root of all holiday depression
@@ -13749,8 +13946,10 @@ sexytrek
 ​The Real Hero of the Harry Potter Series
 ​The Walking Dead just had its "Red Wedding" episode and it was AMAZING
 ​The Worst Lies You've Been Told About the Singularity
+​The new Ms. Marvel is here and ready to rock your world
 ​The original Snowpiercer comic is dystopian scifi at its best
 ​The secret origins of nerd, dork, and other things you've been called
+​The time Batman fought evil with the power of racism
 ​The year Krampus saved Christmas (and, to a lesser extent, Grimm)
 ​This week's DVDs wants to help with your last-minute shopping
 ​Thor: The Dark World shows superhero movies can still be joyful
@@ -13765,6 +13964,7 @@ sexytrek
 ​What was 2013's technology of the year?
 ​What will NASA be doing with its new quantum computer?
 ​What will happen after animals are legally recognized as persons?
+​Why Guardians of the Galaxy could be Marvel's first flop
 ​Why WB's plan to churn out small DC comic movies is a terrible idea
 ​Why do we hate so many female characters so much?
 ​Why people's problems with a female Doctor Who are wrong, wrong, wrong
@@ -13773,6 +13973,7 @@ sexytrek
 ​Will Disney ever release the pre-Special Edition Star Wars movies?
 ​World of Warcraft's Impressive First Decade, By the Numbers
 ​Yes, Neanderthals did bury their dead
+​You can't avoid your problems if your problems are killer werewolves
 ​You've just crossed over into the return of The Twilight Zone
 ‘Blitzars’ could explain those mysterious intergalactic radio bursts
 ‘Vampire Grave’ Discovered at Polish Construction Site

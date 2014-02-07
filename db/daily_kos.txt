@@ -76,6 +76,7 @@ $15 living wage could be coming to one Washington city, despite Koch-funded oppo
 94% of the 330 state legislators who introduced abortion-restricting bills in 2013 are Republicans
 9th Circuit strikes down Arizona anti-Planned Parenthood law
 A 98 square foot home of their own
+A CBO report shows how Obamacare will help the working poor
 A Cheney starts another war
 A Democratic contract with America: How to retake the House and combat economic inequality
 A Game of Thrones: 'The Rains of Castamere'
@@ -156,6 +157,7 @@ Abbreviated Pundit Round-up: 60 Minutes Benghazi story and retraction hurts CBS 
 Abbreviated Pundit Round-up: @WendyDavisTexas shows how it's done
 Abbreviated Pundit Round-up: ACA is here to stay, and so might be the GOP civil war
 Abbreviated Pundit Round-up: Amidst feuding, GOP turns off the un-old and the non-white
+Abbreviated Pundit Round-up: Anatomy of a media disaster
 Abbreviated Pundit Round-up: Angry does not equal populist edition
 Abbreviated Pundit Round-up: Argument about NSA spying, climate change and more
 Abbreviated Pundit Round-up: As healthcare.gov gets fine tuned, the conversation shifts
@@ -171,6 +173,7 @@ Abbreviated Pundit Round-up: Conflict and controversy
 Abbreviated Pundit Round-up: Crazy Then, Crazy Now, Crazy Forever Edition
 Abbreviated Pundit Round-up: Damn, Dirty Ape Edition
 Abbreviated Pundit Round-up: Democrat pulls ahead in final pre-certification VA AG vote
+Abbreviated Pundit Round-up: Distortions of the new CBO report; Creationism vs Science
 Abbreviated Pundit Round-up: Dream Edition
 Abbreviated Pundit Round-up: Either Boehner gets Democratic votes, or...
 Abbreviated Pundit Round-up: Even more Obamacare success and other health stories
@@ -191,6 +194,7 @@ Abbreviated Pundit Round-up: Job approval? Average it! plus climate and more
 Abbreviated Pundit Round-up: Katie Couric mangles HPV show, Obama talks social justice
 Abbreviated Pundit Round-up: Labor, War, and Lab Animals Edition
 Abbreviated Pundit Round-up: Leaderless House continues to flounder
+Abbreviated Pundit Round-up: Legally Illegal Immigration
 Abbreviated Pundit Round-up: Lo! It's... Crazy Theory Sunday
 Abbreviated Pundit Round-up: Mapping the Republican brain
 Abbreviated Pundit Round-up: Marco Rubio, loser
@@ -278,6 +282,7 @@ Abbreviated pundit round-up: Boehner's Republican House fails, Paula Deen says w
 Abbreviated pundit round-up: Bowles & Simpson at it again, low wages, inequality and white Santa
 Abbreviated pundit round-up: Christie's base, starting wars, Rubio not the 'Republican Obama'
 Abbreviated pundit round-up: Crack cocaine limbo, ignoring poverty, searching our laptops
+Abbreviated pundit round-up: GOP trimming its right? What's the skinny on Keystone XL?
 Abbreviated pundit round-up: George Zimmerman acquittal, Republicans play their own hunger games
 Abbreviated pundit round-up: Jim DeMint, kamikaze architect? Janet Yellen, dove's dove?
 Abbreviated pundit round-up: Mandela's legacy, marriage equality's victory, voting rights fallout
@@ -305,6 +310,7 @@ Abbreviated pundit roundup: Christie apologizes
 Abbreviated pundit roundup: College affordability, Syria, and more
 Abbreviated pundit roundup: Cory Booker, unshared productivity, GOP-imposed gridlock
 Abbreviated pundit roundup: Deadbeat Republicans
+Abbreviated pundit roundup: Debunking the latest Republican lie about the Affordable Care Act
 Abbreviated pundit roundup: Democrats' fault lines, Iran's sanctions, Wall Street's crooks
 Abbreviated pundit roundup: Detroit as Greece, Confederate graves, Will Summers replace Bernanke?
 Abbreviated pundit roundup: ENDA, cutting food stamps, and more
@@ -321,6 +327,7 @@ Abbreviated pundit roundup: Gene patents, Newtown anniversary, Syria and more
 Abbreviated pundit roundup: Global warming, immigration reform, executive orders and more
 Abbreviated pundit roundup: Go girl! Go union! Sister wives and morality. Jail food...isn't
 Abbreviated pundit roundup: Goodbye crappy insurance, hello to affordable health care
+Abbreviated pundit roundup: Gun violence, that Coke ad, and more
 Abbreviated pundit roundup: Heartless GOP keeps holding up unemployment benefits
 Abbreviated pundit roundup: Holding America's economy hostage
 Abbreviated pundit roundup: Holding firm against Republican blackmail demands
@@ -433,6 +440,7 @@ American Indian unemployment far above that of general population with no relief
 American Indians won the right to vote in 1924, but some officials still haven't gotten the message
 Americans don't want food stamps cut. Too bad Congress does.
 Americans for Prosperity hauls out the big lies in anti-Obamacare push
+Americans want less income inequality and they want the government to make it happen
 America’s health care cost slowdown and the disappearing debt
 An abortion walks into a bar and says to the bartender ...
 An alternative Christmas carol in case you're sick of the tape loops at the mall
@@ -443,6 +451,7 @@ An even bigger potential intelligence leak: Microsoft
 An ugly decision
 An unhappy 60th birthday: The CIA coup of 1953 still resonates in Iran. Operation Ajax remembered
 Analysts offer wildly different estimates of what the Republican shutdown cost the economy
+And Bill O'Reilly's head grew three sizes that day
 And away we go
 Andrew Cuomo says mean thing; Sean Hannity vows to leave New York
 Angela Giron and her local Fox News-wannabee wingnut rag
@@ -478,6 +487,7 @@ Animal Nuz #181
 Animal Nuz #182 -- 'Only a Prawn in Their Game'
 Animal Nuz #183
 Animal Nuz #184
+Animal Nuz #185
 Ann Romney reveals the startling news of which Republican Mitt favors in 2016
 Annual 'Time Use Survey' released: 23% of employed Americans did all or some work at home
 Another 100,000 people will have lost jobless compensation before Congress ends its latest vacation
@@ -490,6 +500,7 @@ Another House Republican introduces another bill to sue the adminstration becaus
 Another Obamacare horror story unravels
 Another day, another Obamacare vote in the House
 Another day, another Ted Cruz tantrum
+Another day, another sign that Mitch McConnell is in trouble
 Another election, another Obamacare 'showdown'
 Another fiscal crisis looms as Congress plans yet another vacation
 Another little bit of conservative hucksterism exposed
@@ -523,6 +534,7 @@ Are you in a group the Teapublicans hate?
 Arizona Republicans introduce bill protecting 'freedom' to discriminate against LGBT Americans
 Arizona Republicans who voted against disaster relief demand their state get disaster relief
 Arizona firefighter widow fighting for benefits
+Arkansas Republicans hope to dump 85,000 out of Medicaid
 Arkansas gets Medicaid expansion waiver
 Arming teachers in Arkansas
 Army chief of staff on sexual assault: 'Maybe we have a bigger problem than I imagined.' You think?
@@ -545,6 +557,7 @@ At convention, AFL-CIO embraces transgender and young workers, condemns mass inc
 At hearing, GOP congressman says Syria attack is a plot to cover up Benghazi, IRS and Obamacare
 At least 13 dead at Washington Navy Yard, including shooter; Additional suspect possible
 At least 14 Republicans now support forcing innocent Americans into the slavery of Obamacare
+At least one Republican realizes America doesn't look like Mitt Romney
 At least one half-dozen protesters attend the return of Benghazipalooza
 At the Weiner house
 At the end of the pipeline: Sickness and death
@@ -592,6 +605,7 @@ Bike totalitarians are coming to get you!
 Bill Clinton (and maybe Obama?) demonstrates the type of thinking that led to the Iraq Debacle
 Bill Clinton calls on GOP to give up repeal, and work to improve Obamacare
 Bill Clinton has become vegan, reversed his heart disease and is sharing his recipes!
+Bill Clinton heading to Kentucky to campaign for Alison Lundergan Grimes
 Bill Kristol continues his long, slow descent into madness, Sarah Palin edition
 Bill Kristol mansplains why Hillary Clinton not running for president would be 'inspiring' to women
 Bill O'Reilly's new book says Jesus died to free the Jews from taxation
@@ -604,12 +618,14 @@ Black friday
 Blackburn explains how GOP could be 'the great opportunity party' by opposing pay equity
 Blackfeet elder Bob Burns says his son-in-law, ESPN's Rick Reilly, misquoted him on 'Redskins' name
 Blame gerrymandering, but blame ticket-splitting too
+Blame the Democrats for everyone else's stupidity
 Bloated corporate profits are costing American workers thousands
 Bloomberg asks donors to cut off red-state Democratic senators over gun votes
 Bloomberg's gun campaign shifts to states and wins sure to be short-lived victory in Nevada
 Bloomberg: Homelessness is 'just the way God works.' Especially with Bloomberg as mayor.
 Bobby 'Stop being the stupid party' Jindal defends Duck Dynasty star because Miley Cyrus
 Boehner admits Obama's tax plan reduced the deficit
+Boehner ally: 'Jesus himself' couldn't get 218 Republican votes for something
 Boehner asks Obama to pretty please work with GOP to delay Obamacare
 Boehner backs Syria strike
 Boehner blows more hot air between Steve King and House Republicans
@@ -682,6 +698,7 @@ Breaking Bad: Ozymandias (5.14)
 Breaking Bad: Rabid Dog (5.12)
 Breaking Bad: To'hajiilee (5.13)
 Breaking down the votes from the shutdown's end
+Breaking! There's still an AOL, and its CEO is an a-hole
 Breaking: Republicans discover 'political gold' in Obamacare
 Brigido deported
 Bring on the judicial nominations!
@@ -704,6 +721,7 @@ Buying an American-made guitar
 BuzzFeed finds yet more plagiarism in Rand Paul's book
 Bystanders wrongly pegged by New York Post as Boston 'Bag Men' file suit
 CAP: 4 ways that GOP austerity policy has gone over the edge
+CBO director: Obamacare won't kill jobs, it'll create them
 CBO: Sequester will cost up to 1.6 million jobs
 CBS poll: Good news for Mitt Romney, bad news for Ted Cruz
 CBS retracts bogus Benghazi report, apologizes for airing false claims
@@ -742,21 +760,29 @@ Cartoon: BENGHAZI!!!!
 Cartoon: Binge drinking
 Cartoon: Car accident
 Cartoon: Empathy Gap
+Cartoon: From the desk of President Obama
 Cartoon: Gohmert's Brain
 Cartoon: Goodbye Net Neutrality, Hello Gilded Age Internet
 Cartoon: Guns and butter(ed popcorn)
+Cartoon: How Vladimir Putin protects Russia's children
 Cartoon: Hungry Mungry
 Cartoon: If it were terrorism...
 Cartoon: Ignoring the warnings
 Cartoon: Know your potheads
 Cartoon: Lucky Ducky makes a billionaire fear genocidal apocalypse
 Cartoon: Melissa Harris-Perry-Gate
+Cartoon: NFL
+Cartoon: No more Woody Allen flicks
 Cartoon: Obama Translated
 Cartoon: One minute Middle East update
+Cartoon: Overseeing the overseers
 Cartoon: Progressive Kristallnacht
 Cartoon: Pufferfish madness in Chagrin Falls
+Cartoon: Russia, land of tolerance
 Cartoon: Soul Corner
 Cartoon: Super-Fun-Pak Comix
+Cartoon: Support the drones!
+Cartoon: The Wheels on the (Tech) Bus
 Cartoon: The climate change winter games
 Cartoon: The home of the future
 Cartoon: Tom Perkins is the Hitler of making accurate comparisons
@@ -778,6 +804,7 @@ Change the brogram
 Changes in driving behavior, especially among the young, should spur reworked transportation policy
 Changing the culture of video gaming—gals, gays and people of color
 Changing the subject
+Charlie Crist: Rick Scott is responsible for six deaths a day
 Charter school threatened teachers for trying to unionize
 Cheers & Jeers: Rum and I'll Throw You Off This Effing Balcony FRIDAY!
 Cheers and Jeers...Ain't Here
@@ -808,9 +835,11 @@ China's water pollution off the charts, must outsource food production
 Choice for anti-Violence Against Women Act Republicans: Evade, or lie
 Cholesterol overhaul
 Chris 'It wasn't me' Christie to hold press conference on bridge scandal
+Chris Christie defenders scraping bottom of the barrel
 Chris Christie goes on Sunday shows to vigorously deny having opinions on things
 Chris Christie helpfully reminds us that he's a Republican
 Chris Christie is invincible in 2016, except the part about winning the primary and then the general
+Chris Christie is so scared he can't get his high school smears straight
 Chris Christie sang love songs to Springsteen ... it was an unrequited love
 Chris Christie says he's 'really glad' the Obamacare 'train wreck's not mine'
 Chris Christie won't play those 'Washington games' ... except when he does
@@ -821,12 +850,16 @@ Chris Christie's office says New Jersey mayor playing 'partisan politics' ... no
 Chris Christie's press conference claims don't add up
 Chris Christie's squeeze
 Chris Christie, one week ago: My staff has 'told me everything we know'
+Chris Christie, wingnut hero
 Chris Christie: It wasn't me! Plus, I'm outraged!
 Chris Wallace explains why John McCain is president of Meet the Pressistan
+Christie acknowledges federal subpoenas; former deputy chief of staff invokes Fifth Amendment
 Christie appoints state Attorney General Jeff Chiesa as interim senator
 Christie bridge closure delayed emergency vehicles, hindered search for missing child
+Christie campaign seeks to raise money to fight subpoenas
 Christie campaign, New Jersey GOP subpoenaed by U.S. Attorney's office
 Christie flip-flip-flops on DREAM Act
+Christie goes for the plausibly incompetent buffoon defense
 Christie knew about lane closings, former Port Authority official says
 Christie lane closure aide says he'll talk, but only in exchange for immunity
 Christie press conference #2
@@ -858,6 +891,7 @@ Close NSA vote in House has results: Intelligence committees reviewing options
 Close NSA vote in House strengthens push for reforms
 Clueless Calgary Cruz explains why shutting down the government is a great way to make policy
 Clueless North Carolina Gov. McCrory will sign voter suppression bill he hasn't read
+Clueless Republicans having trouble figuring out how to raise the debt ceiling
 Coal baron asks SCOTUS to help him buy more politicians with 'Citizens United II'
 Coburn's real reason for opposing Cruz's shutdown scheme: It's not crazy enough
 Coburn: The exchanges will work, but people buying affordable private insurance still sucks
@@ -906,6 +940,7 @@ Congress reacts to administration insurance cancellation fix
 Congress solves unemployment
 Congress would okay Obama strikes against Iran, if not Syria
 Congress, White House let sequester linger
+Congressional Budget Office truthiness infects the traditional media
 Congressional Democrats tell SCOTUS to uphold Obamacare's contraceptive mandate
 Congressional death benefits are a thing. But why?
 Congressional leaders to meet with President Obama at White House
@@ -998,6 +1033,7 @@ Daily Digest - A Bad Policy News Moment
 Daily Digest - October 1: Welcome to the Shutdown
 Daily Kos Elections 2Q 2013 House fundraising reports roundup
 Daily Kos Elections 3Q 2013 House fundraising reports roundup
+Daily Kos Elections 4Q 2013 House fundraising reports roundup
 Daily Kos Elections Colorado recall & New York City primary liveblog #1
 Daily Kos Elections Colorado recall & New York City primary liveblog thread #2
 Daily Kos Elections Colorado recall & New York City primary liveblog thread #3
@@ -1012,6 +1048,7 @@ Daily Kos Elections Morning Digest: A Dem recruitment coup in Nebraska may augur
 Daily Kos Elections Morning Digest: A Democratic upset in Kansas? A new poll says it could happen
 Daily Kos Elections Morning Digest: A new poll shows a close race to unseat Scott Walker
 Daily Kos Elections Morning Digest: A rare look at Obama's internal polling, and how it beat Gallup
+Daily Kos Elections Morning Digest: Alaska a yes on weed and minimum wage hike, no on oil tax cuts
 Daily Kos Elections Morning Digest: Alex Sink raises eye-popping haul in Florida special election
 Daily Kos Elections Morning Digest: Alison Grimes will challenge Mitch McConnell in Kentucky
 Daily Kos Elections Morning Digest: All eyes on Crist as Sink says no to a rematch with Scott
@@ -1036,10 +1073,12 @@ Daily Kos Elections Morning Digest: Census Bureau releases new interactive maps 
 Daily Kos Elections Morning Digest: Census Bureau unleashes a ton of new congressional district data
 Daily Kos Elections Morning Digest: Charlie Crist still beating Rick Scott, according to Quinnipiac
 Daily Kos Elections Morning Digest: Check out our massive House fundraising chart
+Daily Kos Elections Morning Digest: Check out our massive fourth quarter House fundraising chart
 Daily Kos Elections Morning Digest: Choose Your Own Polling Adventure in Virginia!
 Daily Kos Elections Morning Digest: Christie self-servingly sets special election for October
 Daily Kos Elections Morning Digest: Colorado Democrat resigns rather than face recall
 Daily Kos Elections Morning Digest: Colorado recalls set for September
+Daily Kos Elections Morning Digest: Congressional Democrats crush Republicans in 2013 fundraising
 Daily Kos Elections Morning Digest: Conservative group airs first ad critical of filibuster reform
 Daily Kos Elections Morning Digest: Cotton will reportedly challenge Pryor in Arkansas Senate race
 Daily Kos Elections Morning Digest: Crazy Tuesday brings three major House retirements
@@ -1049,6 +1088,7 @@ Daily Kos Elections Morning Digest: De Blasio flirts with outright win in New Y
 Daily Kos Elections Morning Digest: De Blasio rockets into first in new Quinnipiac poll
 Daily Kos Elections Morning Digest: Democrats Mike McIntyre and Carolyn McCarthy will retire
 Daily Kos Elections Morning Digest: Democrats accuse Cuomo of sabotaging a comeback on Long Island
+Daily Kos Elections Morning Digest: Democrats finally get to work on their voter turnout problem
 Daily Kos Elections Morning Digest: Democrats land recruit in long-neglected New Jersey House seat
 Daily Kos Elections Morning Digest: Democrats lose two Colorado recalls; de Blasio nears primary win
 Daily Kos Elections Morning Digest: Democrats slide in Michigan but Republicans are far from 50
@@ -1141,6 +1181,7 @@ Daily Kos Elections Morning Digest: Special for Ed Markey's seat finally starts 
 Daily Kos Elections Morning Digest: Tennant reportedly set to enter Senate race on Tuesday
 Daily Kos Elections Morning Digest: Texas and California are swapping citizens in near-equal numbers
 Daily Kos Elections Morning Digest: Thanks to shutdown, a Dem upset in Westchester is possible
+Daily Kos Elections Morning Digest: The Alaskan Independence Party may just save Mark Begich
 Daily Kos Elections Morning Digest: The conservative sneak-attack on abortion rights in Michigan
 Daily Kos Elections Morning Digest: The tea party ouroboros slinks toward North Carolina
 Daily Kos Elections Morning Digest: They call it North Colorado, we call it Crackpottopia
@@ -1341,6 +1382,7 @@ Don't worry. J-Bone's got this.
 Donald Glover
 Donald Rumsfeld, acclaimed expert on whether and when to go to war
 Dozens arrested at Walmart protest as website launches to let workers speak out
+Dr. Krauthammer offers GOP a cure for its war on women
 Draft Wendy Davis for Texas governor
 Draft resolution authorizes 'limited and tailored' attack on Syria's chemical weapons capacity
 Dreams and Schemes...
@@ -1372,6 +1414,7 @@ Economics Daily Digest - January 31: Out of economic chaos come executive orders
 Economics Daily Digest: 'What is going on with this internet thing?'
 Economics Daily Digest: A job market that's two sizes too small
 Economics Daily Digest: A reminder that policy affects human lives
+Economics Daily Digest: A vision for the opportunity community
 Economics Daily Digest: Abenomics Time
 Economics Daily Digest: All eyes on worker centers
 Economics Daily Digest: Beyond Intro to Econ
@@ -1407,6 +1450,7 @@ Economics Daily Digest: Fed chair needs consensus building
 Economics Daily Digest: Fighting global inequality at home
 Economics Daily Digest: Fighting poverty in the land of success
 Economics Daily Digest: Finally, a Fed chair nominee
+Economics Daily Digest: Financial reform enters a new era
 Economics Daily Digest: Financial reform wasn't finished with Dodd-Frank
 Economics Daily Digest: Fishing for solutions to underwater mortgages
 Economics Daily Digest: Five Years and More to Learn
@@ -1461,6 +1505,7 @@ Economics Daily Digest: Progressives have a lot to celebrate and fight for
 Economics Daily Digest: Protesting for living wages, Black Friday and beyond
 Economics Daily Digest: Pushing back on low wage norms
 Economics Daily Digest: Putting Policies That Help Workers Back on the Agenda
+Economics Daily Digest: Putting the brakes on the high-tech economy
 Economics Daily Digest: Rebranding doesn't solve GOP problems, or workers'
 Economics Daily Digest: Reducing inequality isn't impossible
 Economics Daily Digest: Remember the last time Wall Street invested in housing?
@@ -1508,6 +1553,7 @@ Economics Daily Digest: We haven't recovered yet
 Economics Daily Digest: Welcome back, government
 Economics Daily Digest: Welcoming the regulators
 Economics Daily Digest: What kind of year will it be for workers?
+Economics Daily Digest: What the CBO report really said about health care reform
 Economics Daily Digest: When interns are employees too
 Economics Daily Digest: When labor laws are applied
 Economics Daily Digest: When patents increase inequality
@@ -1538,6 +1584,7 @@ Election Diary Rescue - May 2013
 Election Diary Rescue 2014 - Week 1.5
 Election Diary Rescue 2014: Week 2
 Election Diary Rescue 2014: Week 3
+Election Diary Rescue 2014: Week 4
 Election day in Massachusetts: Go vote, then GOTV!
 Elections have consequences: Virginia won't defend its own gay marriage ban in court
 Electrified crowds greet Wendy Davis & company tour in Houston
@@ -1641,6 +1688,7 @@ Fitch Ratings puts U.S. on downgrade watch
 Five Colorado counties vote symbolically to secede from the state
 Five stages
 Five states you will care about a lot in November of 2014
+Five things you need to know about Bill O'Reilly's interview with President Obama
 Five years after the financial collapse and no Wall Street executive has been criminally charged
 Five years ago today, John McCain crippled the Republican Party
 Fix the Debt astroturfers caught astroturfing
@@ -1681,6 +1729,7 @@ Forget Mark Sanford: Here is a special election with real lessons for 2014
 Forget the campaign claims, North Carolina governor decides to sign anti-abortion bill, after all
 Former Canadian weighs in on impeaching Obama: 'Good question'
 Former Christie aide takes the Fifth before New Jersey Assembly
+Former Energy Secretary Steven Chu concedes the obvious: Keystone XL a political decision
 Former House Speaker Jim Wright latest to run afoul of Texas 'voter ID' law
 Former Massachusetts Sen. Scott Brown packing up his carpet bag, moving to New Hampshire
 Former Texas Republican Party chair says immigration reform will bring about the End Times
@@ -1742,6 +1791,7 @@ GOP aide fails SNAP challenge, declares himself 'Undisputed SNAP Challenge Cham
 GOP aide goes on popsicle-fueled right-wing publicity stunt in favor of cutting food stamps
 GOP blocks vote on Democratic plan: Insurance companies rejoice
 GOP candidate E.W. Jackson has history of unpaid taxes, bills
+GOP caucus dysfunctional? Blame it on Obama!
 GOP clueless about how sovereign bond market works
 GOP collapses in Virginia
 GOP commits double fraud with Obamacare navigator smear campaign
@@ -1786,6 +1836,7 @@ GOP strategist slams 'the stupid wing of the Republican Party'
 GOP surrender roundup: Sadness, woe and conservative civil war
 GOP temper tantrum forces all night session in Senate
 GOP thinks a shorter 2016 calendar will solve its White House woes
+GOP uses misleading website to trick Dems into donating to Republicans
 GOP wunderkind drives Wisconsin into the ground
 GOP's Obamacare temper tantrum just drags on and on and on
 GOP: 'How to stop worrying and love government default,' and how the president should respond
@@ -1838,6 +1889,7 @@ Good news! Tickets still available for Mitt Romney's New Hampshire fundraiser
 Good news, sequester-style: Head Start cuts 57,000 kids
 Google asks government to allow publishing of national security request information
 Google bus taxes are like Kristallnacht, says venture capitalist in Wall Street Journal
+Google slaps phishing warning on misleading GOP website
 Gore on fire: Says humans treating atmosphere 'as if it is an open sewer'
 Gov't reports GDP at 1.7% for second quarter, higher than expected, but first quarter revised down
 Gov. Bobby Jindal explains what 'the left wants'
@@ -1849,6 +1901,7 @@ Gov. Pat McCrory says his policies 'too complex' for journalists to judge
 Gov. Paul LePage tells fellow Republicans: Obama 'hates white people'
 Government collecting Americans' phone records under secret court order
 Government oversight board issues report saying NSA bulk phone calls program is illegal
+Government reports far fewer new jobs created in January than expected. Official rate falls to 6.6%
 Government reports just 74,000 new jobs in December, but drop-outs push unemployment rate to 6.7%
 Government shutdown could cost taxpayers billions
 Government shutdown just a blip on the way to full campaign coffers
@@ -1926,6 +1979,7 @@ GunFAIL XXXVIII
 Gutting rights with a cynical smile
 Guttmacher Institute study: More than a million unintended pregnancies cost public $12.5 billion
 Guttmacher points to harm caused women by abortion funding restrictions at home and abroad
+Guttmacher: Abortion at lowest rate since Roe v. Wade ruling. And not because of draconian new laws
 HHS refuses to provide Issa with Healthcare.gov security documents, citing past Issa leaks
 HHS: Obamacare premiums coming in lower than expected
 Hagel tries to prevent Obama's words from being used against justice in military sexual assaults
@@ -1983,6 +2037,7 @@ Heckuva rebranding you've got going on there, Reince
 Hell bent for healthcare
 Help celebrate Oregon's summer of love
 Help! Police!
+Henry Waxman and the impending irrelevance of Congress
 Her inspirational bout with breast cancer a good reason for Obamacare
 Here we go again
 Here's an ad about R--skins that its makers don't have the money to show during Sunday's Superbowl
@@ -2013,11 +2068,13 @@ Hillary Clinton is suddenly stuck in 2008, if not 1992
 Hillary to decide in 2014
 History in harmony: Austerity then and now
 Hoboken mayor takes Christie allegation to U.S. attorney, lt. gov. denies political use of Sandy aid
+Hogwarts 90210? J. K. Rowling now says Hermione should have married Harry, not Ron.
 Holder seeks to restore key Voting Rights Act protections in Texas
 Holder, 'deeply disappointed' with Voting Rights Act ruling, urges Congress to take action
 Holder: Sequester cuts 'threaten the integrity of our criminal justice system'
 Holiday gift guide
 Honchos and worker bees
+Horny for Huckabee
 Hostess, but not its workers, makes a comeback
 House 'moderate' Republican revolt doesn't materialize
 House Committee tees up 38th Obamacare repeal vote
@@ -2034,6 +2091,7 @@ House GOP holds immigration meeting, agrees they don't like brown people
 House GOP in deeper disarray over Farm Bill, food stamps
 House GOP leaders hold meeting on whether to shut down government
 House GOP will seek a one-year delay on Obamacare as exchange for not shutting down government
+House GOP: This time there will be an Obamacare replacement plan, for real
 House GOPer says impeaching Obama would be 'dream come true' but there's just one little problem
 House GOPer thinks she's just the woman to stop that foreign-born America-hating despot named Obama
 House Intelligence Committee hearing shows limits of oversight
@@ -2150,6 +2208,7 @@ If Republicans care so much what American people think, let them all vote
 If Republicans wait much longer, they might not have a face worth saving
 If elections were today, Nancy Pelosi would get her gavel back
 If only there were some way for the world's largest food retailer—Walmart—to feed its workers
+If our voters turn out, we win
 If shutting down the government is not political extremism, what would be?
 If the United States wants to pretend to care about use of chemical weapons
 If the military fought sexual assault as hard as it fights reform, there wouldn't be a problem
@@ -2225,6 +2284,7 @@ Iowa's GOP governor fights back against tea party by welcoming Ted Cruz to state
 Iowa's Medicaid expansion waiver request approved by feds
 Iran, U.S. to begin talks on Tehran's nuclear program October 15
 Irony alert: Cuccinelli calls for transparency while scrubbing right-wing social agenda from website
+Irrelevant Crap: Cynicism and pop culture depictions of government
 Irrelevant Crap: Girls
 Irrelevant Crap: Scandal
 Irrelevant Crap: Social etiquette
@@ -2235,6 +2295,7 @@ Irrelevant Crap: The Walking Dead
 Irrelevant Crap: The sliding scale between diverse representation and token characters
 Is 'The Secret Life of Williard Mitt' coming to a screen near you?
 Is 'architect of the Iraq war' GOP primary gold? John Bolton is betting it is
+Is James Madison’s 'Federalist 10' also responsible for America’s divide?
 Is Thanksgiving and Black Friday shopping really all it's cracked up to be?
 Is that a bug in your sandwich or a Republican shutdown? It's both!
 Is the shutdown endangering coal miners' lives?
@@ -2267,6 +2328,7 @@ JFK: 'The notion that this Nation is headed for defeat through deficit' is 'just
 Jack Lew gives simple answer to GOP hostage demands: 'No'
 Jacksonville school STILL named after KKK founder
 Janet Napolitano to leave cabinet to lead University of California
+Janet Yellen takes the helm at the Fed
 Jay-Z/Barney's
 Jeb Bush convinces his mom to stop telling people he shouldn't be president
 Jeb Bush praises immigrants for being 'more fertile' than native-born Americans
@@ -2606,6 +2668,7 @@ Merkley co-sponsors Landrieu bill to allow consumers to keep health plans
 Miami Heat players avoid tragedy in championship parade
 Michael Mann: 'The most aggressive and promising climate plan' from 'executive branch in years'
 Michaud surges ahead of LePage in Maine governor's race
+Michele Bachmann and Bernie Sanders spar on income inequality clash on CNN
 Michele Bachmann isn't done with politics quite yet
 Michele Bachmann says Barack Obama something something Muslim Brotherhood
 Michele Bachmann tells Bible stories
@@ -2637,6 +2700,7 @@ Midday open thread: Brinicles, birth control and Bonzo
 Midday open thread: Canada claims the North Pole, Ron says Rand will probably run for president
 Midday open thread: Chainsaws, recalls and spanking
 Midday open thread: Climate change sensitivity, NN14 registration, Minnesota militia nut
+Midday open thread: Congressional junkets soar into record territory, GM's female CEO gets half pay
 Midday open thread: Corsi thinks Hitler escaped, Lanza on the radio, WWI battlefield mummies thaw
 Midday open thread: Defining beliefs, a troubled torch, and a dancing Rob Ford
 Midday open thread: Delivery drones, a dramatic derailment, and the election season kicks off
@@ -2661,16 +2725,19 @@ Midday open thread: Karzai makes new demands, NYT climate coverage falls, the po
 Midday open thread: Klansman name knocked off school, Obama library, apocalypse 2014
 Midday open thread: Klansman whines, frackers sue, Emily's List passes 3 million-member milestone
 Midday open thread: Kochs mess with Electoral College, Zimmerman wants to charity-box
+Midday open thread: Liz Cheney will be back, Western reservoirs dry up, Bill Kristol joins ABC
 Midday open thread: Lost, vaccinations and orange overlords
 Midday open thread: Mandela, Cruz, Twitter hall of shame
 Midday open thread: McChrystal questions drone policy, Coke ignoring Sochi in its U.S. ads
 Midday open thread: Naughty or nice, the die is cast!
+Midday open thread: No more cigs at CVS, Fluke won't run for Congress, Warner not a '#Belieber'
 Midday open thread: Obama the Bush plagiarist? More than a mile high at Denver County Fair
 Midday open thread: Occupy builds tiny houses, apology for gay slur, Ted Cruz clones in the running
 Midday open thread: Ocean life at risk, wages don't recover, Clinton messages via de Blasio
 Midday open thread: On panning the Gettysburg address and Toronto's mayor
 Midday open thread: Pastor faces defrocking over marriage ceremony, Murdoch gets unhitched
 Midday open thread: Polar bears starving, government investment falling, independents rising
+Midday open thread: Portland weather curbs 'worst day' ride, 'missing workers' skew jobless rate
 Midday open thread: Pot editor at Denver Post, missile launch codes, less sex, more guns
 Midday open thread: Previews, cats and protests
 Midday open thread: Prostitution, rape and get out and vote
@@ -2680,6 +2747,7 @@ Midday open thread: Recaps, museums and more
 Midday open thread: Robots coming to take your job, Animal Planet abuses animals to entertain
 Midday open thread: Rodman apologizes, gamers hallucinate, Reddit branding sells guns
 Midday open thread: Ryan lectures the pope, climate denialism, and the site of the Obama library
+Midday open thread: Scott Brown severs ties with Newsmax, billionaire funds rescue of Sochi's strays
 Midday open thread: Seeger and the blacklist, bellyachin' billionaires, improving GDP
 Midday open thread: Spitzers split, on the verge of peak oil, judge still says no prison for rapist
 Midday open thread: Squirrels, rhinos and a jackass
@@ -2715,6 +2783,7 @@ Missing congressman briefly surfaces, but the mystery continues
 Mission creep. Already.
 Mississippi Republicans: Sequestration for thee, but not me
 Mississippi makes the case for boosting IRS budget
+Missouri Senate prepares way for 'nullification' gun bill. Again.
 Missouri attorney general demands executions be scheduled before their execution drug expires
 Missouri legislator wants to opt out of contraception in state health care plan
 Missouri state fair sends out rodeo clown in Obama mask, saying 'We're going to stomp Obama now'
@@ -2745,6 +2814,7 @@ Money, not ideology, will determine if young people enroll in Obamacare
 Monkey court
 Montana Republicans start statewide effort to end dark money in campaigns
 Montana first in nation to protect metadata privacy
+Montana governor names Lt. Gov. John Walsh to succeed Max Baucus in the Senate
 Moral scold Mike Huckabee defends Rand Paul's plagiarism
 More Christie lane closure docs released
 More NSA program revelations: Program much deeper, more intrusive than previously known
@@ -2797,6 +2867,7 @@ NRA (probably) gets their signatures, will get chance to recall Colorado Dem
 NRA directly engages in Colorado, time to match them
 NRA takes aim ... at Joe Manchin
 NRA's Colorado recall effort is full-speed ahead
+NRCC will offer refunds on donations through misleading websites
 NRSC peddles 'Obama closing Vatican embassy' conspiracy; Jeb Bush buys it
 NSA Spying Keeps Fear Fresh
 NSA also scooping up your internet activity
@@ -2846,6 +2917,7 @@ New Gallup poll shows the same old numbers for Obamacare
 New House Republican plan has staff back under the bus
 New IRS report confirms upcoming retirement crisis
 New Jersey Catholic Church lobbies to keep victims of abuse silent
+New Jersey Rep. Rob Andrews resigning to join private sector
 New Jersey exit poll pours a little cold water on Chris Christie's 2016 ambition
 New Jersey lawmakers merge Christie scandal investigations
 New Jersey votes its minimum wage workers a raise; early lead for SeaTac minimum wage measure
@@ -2913,6 +2985,7 @@ No, Republicans don't have the upper hand in new budget talks
 No, White House advisor Gene Sperling, entitlement cuts are not necessary
 No, food stamps don't cause obesity
 No, the IRS won't be in charge of your health care
+No, the latest CBO report doesn't say Obamacare kills jobs
 No, welfare doesn't pay better than work. And if it did, maybe try raising the minimum wage?
 No, white people won't save the GOP
 Noah's Ark theme park moving forward
@@ -2928,6 +3001,7 @@ North Carolina pastor wants only white people at front door
 North Carolina students fight back against voter suppression law
 North Carolina voters are seriously pissed at extremist Republican agenda on abortion, unemployment
 North Carolina's Republican lawmakers eager to use Supreme Court's VRA ruling to curtail voting
+Not a good day for Mitch McConnell: Yet another poll shows him trailing
 Not all black Americans happy with commemoration of March on Washington
 Not breaking news: Sean Hannity is a hypocritical blowhard
 Not even Obamacare covers this
@@ -2952,6 +3026,7 @@ Obama administration gives up on legal battle to block universal access to morni
 Obama administration has had enough of GOP Obamacare sabotage
 Obama administration will recognize Utah same-sex marriages
 Obama aims to show he can get things done despite obstructionist Congress
+Obama and the GOP present two very different paths to opportunity for all
 Obama approval underwater in new polls; Congress still wildly unpopular
 Obama blasts 'far right' House Republicans in weekly address
 Obama blasts Republicans for obstruction to ACA implementation in weekly address
@@ -3066,6 +3141,7 @@ Obamacare repeal still the Republicans' big goal. Really.
 Obamacare scandal!!!! No. Just Republican talking points.
 Obamacare so in demand that sites are overwhelmed
 Obamacare to cover breast cancer prevention drugs
+Obamacare website glitches still causing heartburn
 Obamacare will bring dramatic savings to New Yorkers
 Obamacare's first day glitches overshadowed by success
 Obamacare: Final exam
@@ -3121,6 +3197,7 @@ Open thread for night owls: 'Once a town gets a SWAT team you want to use it'
 Open thread for night owls: 'One threat'—progressive power unifying
 Open thread for night owls: 'Recovery' has been the word on the economy since 2009. But whose?
 Open thread for night owls: 'Thanks a lot, Jenny McCarthy.'
+Open thread for night owls: 'The magnificent failure of the grown-up in the room strategy'
 Open thread for night owls: 'Twas the War Before Christmas
 Open thread for night owls: 10 reasons holding back economic recovery
 Open thread for night owls: 2010 California whooping cough outbreak linked to vaccine refusals
@@ -3227,6 +3304,7 @@ Open thread for night owls: NSA surveillance could turn U.S. 'citizenry into a n
 Open thread for night owls: New Homeland Security Chief justified excesses in war on terror
 Open thread for night owls: New Year's resolutions for the left
 Open thread for night owls: New export rules treats weapons like widgets. Defense industry smiles
+Open thread for night owls: Not for the first time, Missouri executes man before court okays it
 Open thread for night owls: Now-infamous police chief suspended for 30 days without pay
 Open thread for night owls: Obama should up his crack cocaine commutations from 8 to 7,000
 Open thread for night owls: Obama's Syrian plan lacks a 'logical premise and a well-designed goal'
@@ -3240,6 +3318,7 @@ Open thread for night owls: Populism requires the words to mesh with the deeds. 
 Open thread for night owls: Postal savings bank could fund rebuilding of crumbling infrastructure
 Open thread for night owls: Predictions, schmedictions—getting it wrong again
 Open thread for night owls: President Obama & A.G. Holder—Why not a mass reduction in sentences?
+Open thread for night owls: Pushing back on the absurdities of U.S. presidential campaigns
 Open thread for night owls: Racism and 'Redface' Halloween costumes insult American Indians
 Open thread for night owls: Reproductive rights advocates plan state battles. Kansas targeted
 Open thread for night owls: Republicans to Americans—sequester you
@@ -3272,6 +3351,7 @@ Open thread for night owls: The 12th anniversary of the Bin Laden PDB
 Open thread for night owls: The 25th anniversary of Ann Richards's 'silver foot' convention speech
 Open thread for night owls: The Arctic ice retreats, retreats, retreats
 Open thread for night owls: The March on Washington for Freedom and Jobs in historical context
+Open thread for night owls: The U.S. is exporting global warming
 Open thread for night owls: The Wall Street Journal re-re-re-defines 'Experts'
 Open thread for night owls: The crime is the friggin' law. Man gets 20 years for half ounce of pot
 Open thread for night owls: The deficit that needs reducing is the jobs deficit
@@ -3298,6 +3378,7 @@ Open thread for night owls: Veteran journalist Ray Bonner discusses FBI abuse of
 Open thread for night owls: Wall Street exempts itself from reform
 Open thread for night owls: Walmart eager for Court to help it block workers' disability benefits
 Open thread for night owls: Welfare isn't too generous, wages are too low
+Open thread for night owls: What Fox News doesn't cover
 Open thread for night owls: What gives the U.S. the right to spy on innocents abroad?
 Open thread for night owls: What if the zombies are just a government cover story?
 Open thread for night owls: When Forbes is indistinguishable from parody
@@ -3411,6 +3492,7 @@ Patriot acts
 Patriots Cruz and Palin rally for the Confederacy ... or something about the Republican shutdown
 Paul Ryan adds Medicare and Medicaid to the ransom note
 Paul Ryan demonstrates the rhetorical equivalent of washing clean dishes
+Paul Ryan has momentary lapse into truthfulness
 Paul Ryan in the denial stage
 Paul Ryan is still coming for your Social Security and Medicare
 Paul Ryan says Republicans want another debt-ceiling hostage crisis
@@ -3457,6 +3539,7 @@ Photo of the day
 Picking up the pieces: A rundown of a wild election night
 Pigs fly: Fox News reports on the consequences of climate change
 Pizza Hut manager fired for refusing to open on Thanksgiving
+Plan to streamline union elections makes a comeback at labor board
 Play 'Name That Health Care Debacle!'
 Poison pill in House debt limit plan would be a hostage taker's dream
 PolitiFact unravels the mysteries of what 'growing' and 'shrinking' mean
@@ -3491,6 +3574,7 @@ Poll: Obamacare rebounds to pre-rollout numbers
 Poll: People confused about Obamacare, but are willing to live with it
 Poll: Public believes GOP making excuses to block immigration reform
 Poll: Public hates everyone in Washington, most of all the GOP
+Poll: Raising the minimum wage is more popular than capitalism
 Poll: Repeal Congress, not Obamacare
 Poll: Republican brand suffers in Ohio. Residents don't like Boehner and nix Kasich for prez in 2016
 Poll: Shutting down government over Obamacare really, really unpopular
@@ -3500,6 +3584,7 @@ Poll: Voters want unemployment aid extended and minimum wage raised
 Poll: Whose fault is a shutdown? Silly question.
 Poor and hungry? You must be on drugs
 Poor babies are no World War II Memorial when it comes to Republican shutdown outrage
+Port Authority abolishes position created for traffic-snarling Christie aide
 Port Authority study supported Hoboken project at center of allegation
 Potato farmers tell pregnant women to load up on potatoes. Congress agrees
 Premiums going up in Texas? Blame Rick Perry
@@ -3552,6 +3637,7 @@ President Obama's address on Syria
 President Obama's address on Syria #2
 President Obama's climate change speech may hint at possible Keystone XL pipeline rejection
 President Obama's remarks at funeral of Nelson Mandela
+President Obama, congressional Democrats push FCC on net neutrality
 President Obama: 'Lives have been saved' by NSA surveillance
 President Obama: 'Time to Pass Bipartisan Legislation to Extend Emergency Unemployment Insurance'
 President Obama: A grand bargain for middle-class jobs
@@ -3643,10 +3729,12 @@ Reagan OMB director: Republicans are ideological gangs
 Real liberals in the media must stop hyperventilating
 Really, Harry? Reid 'happy to take a look' at vote on 20-week abortion ban
 Really, House Republicans? Light bulbs? Again?
+Really, House Republicans? More repeal votes?
 Rebrand all you want, but the Republican base still demands extremism
 Recalls in two weeks, NRA smells blood
 Red-state Democrats push for unemployment aid
 Reed, Blumenthal propose to stop tax subsidies of 'performance-based' pay for corporate execs
+Reid and Pelosi support ENDA executive order for federal contractors
 Reid announces intention to break the filibuster today
 Reid calls out Boehner's ENDA claims as 'untrue' and 'callous'
 Reid is meeting with McConnell, but rejects concessions on shutdown or debt limit
@@ -3674,6 +3762,7 @@ Reince Priebus wins Twitter #Benghazistyle
 Reince boldly decides RNC members should march more, talk less
 Rejected by Christie, New Jersey minimum wage increase goes to the voters
 Relationship talk
+Release of Keystone XL environmental impact statement kindles protests in more than 275 cities today
 Religious right out with 'Marriage Solidarity Statement' vowing to keep fighting marriage equality
 Religious right to Republican Party: Don't ever stop the War on Women
 Relive 2013 ... to the tune of Billy Joel
@@ -3702,6 +3791,7 @@ Rep. Michele Bachmann says Obama is 'rewriting the Constitution'
 Rep. Mike Kelly sees a black president who 'divides us on race'
 Rep. Neugebauer blames park ranger for shutdown, gets blasted by onlookers
 Rep. Paul Broun makes aggressive bid for stupidest shutdown claim
+Rep. Paul Ryan is a very stupid man
 Rep. Peter King laying groundwork for presidential run? Be still my heart.
 Rep. Phil Gingrey is 'stuck here' in Congress making only $172,000 a year
 Rep. Phil Gingrey: Gay marriage shows need to teach school kids proper gender roles?
@@ -3738,6 +3828,7 @@ Republican Obamacare obstruction, in one chart
 Republican Obamacare sabotage efforts focused where need is greatest
 Republican Response(s) #1
 Republican Response(s) #2
+Republican Sen. Pat Roberts admits his Kansas 'residence' is a time-share in a La-Z-Boy
 Republican Senate candidate is pro-machine-guns in schools
 Republican Senate candidate rips Republican Senate committee for ripping Democratic senator
 Republican alternatives
@@ -3814,6 +3905,7 @@ Republicans (fail to) do it again: Transportation and housing bill collapses wit
 Republicans add 'Student Success Act' to list of Orwellian bill names
 Republicans applaud Capitol police, but keep them from being paid
 Republicans are anti-religion, according to their own logic
+Republicans are distancing themselves from Chris Christie ... and it's all the Democrats' fault!
 Republicans are even more screwed than you thought
 Republicans believe rich people just work harder. So how do they explain these statistics?
 Republicans blame Democrats for Republican obsession with sex
@@ -3821,6 +3913,7 @@ Republicans celebrate Hispanic Heritage Month: Here, have a video
 Republicans chicken out on tax reform
 Republicans come up with the wrong solution to the right problem
 Republicans continue efforts to suppress the vote in places where it will do them the most good
+Republicans continue pretending they'll get something beyond public blame for debt limit games
 Republicans continue tradition of dragging people from their deathbed
 Republicans decide they need a poll to find out whether a shutdown would be a political disaster
 Republicans demand cuts as price of even a three-month unemployment aid extension
@@ -3849,10 +3942,12 @@ Republicans have been 'pretty reasonable' says Republican who still hasn't voted
 Republicans hit another record low
 Republicans hope you won't notice that they just blocked jobless aid for 1.4 million
 Republicans in disarray over giving up Obamacare debt ceiling hostage, defaulting
+Republicans kill unemployment benefits for 1.7 million Americans. Twice.
 Republicans likely to be hammered by Latino media. But will they care?
 Republicans losing today isn't enough. Let's punish them at ballot box
 Republicans love Batkid, but they don't want him to have health care coverage
 Republicans might be talking 'fix it' now, but they haven't abandoned their Obamacare war
+Republicans might have new idea for a debt ceiling ransom failure
 Republicans never demanded Obamacare repeal, says Republican who demanded 'getting rid of Obamacare'
 Republicans offer details on plan to starve American citizens
 Republicans outraged at delay of military death benefits they caused
@@ -3876,7 +3971,9 @@ Republicans show no sign of backing down on judicial nominations
 Republicans sink, Obamacare rises
 Republicans spur progressive movement in Texas by middle class and poor
 Republicans still being dicks on immigration
+Republicans still can't get their stuff together on immigration
 Republicans still flogging health insurance cancellation issue
+Republicans still floundering on debt ceiling
 Republicans still looking to take birth control hostage in shutdown and debt limit negotiations
 Republicans struggle to explain why they haven't acted on immigration reform
 Republicans stuck in President Obama's eleventy billion dimensional trap, immigration reform edition
@@ -3908,6 +4005,7 @@ Republicans: While we're at it, let's just throw Social Security into the ransom
 Resolved: The tanning bed tax is racist against pasty people
 Responsible gun owners are safe because they know what they're—oops! BLAM! GunFAIL XLIV
 Rest assured about PRISM: Bush says he 'put that program in place to protect the country'
+Retailers experience a shrinking middle class
 Retirees could face pension cuts under plan being considered by Congress
 Return of the Invisible Hand
 Reverse mortgages: The final blow killing middle class wealth
@@ -3936,6 +4034,7 @@ Right spends $10 million in 2013 advertising to keep people uninsured
 Right to Life chapters sue to prevent Medicaid expansion in Ohio
 Right-WingLandia
 Right-wing Christians in Congress forget Jesus' rule of feeding the hungry
+Right-wing bigots up in arms over Super Bowl commercial. No, another one.
 Right-wing clowns launch Dump McConnell website because apparently Mitch isn't crazy enough for them
 Right-wing hypocrites call Sebelius, organ networks 'death panels'
 Right-wing law prof's case against early voting
@@ -3955,6 +4054,7 @@ Romney transition team report turns out to be creepy and depressing
 RomneyCare supporter Jim DeMint says Obamacare wasn't an isssue in 2012 because of Mitt Romney
 Romneyland: We were right about everything!
 Rooting for Mitch McConnell?
+Rosa Parks—beyond the stereotype
 Rose Bowl open thread
 Round two from conservatives: Obamacare took my doctor away
 Roundup: Reactions to Obama's remarks on Trayvon Martin
@@ -4094,6 +4194,7 @@ Sen. Rand Paul on plagiarism: 'Do I have to be in detention the rest of my care
 Sen. Rand Paul, plagiarist, wants to challenge accusers to a duel ... but he won't
 Sen. Saxby Chambliss says Obama drew Syria 'red line' because he didn't have a teleprompter
 Sen. Ted Cruz to embattled group ALEC: 'Stand your ground'
+Sen. Ted Cruz tries to be less insane. Let's watch.
 Sen. Ted Cruz's immigrant dad was crooked law-breaker, which is almost as bad as being a senator
 Sen. Ted Cruz, God and the government shutdown
 Sen. Tom Coburn muses that Obama is 'perilously close' to impeachment
@@ -4106,6 +4207,7 @@ Senate Democrats plan to call Republicans' debt ceiling bluff
 Senate Democrats reject House GOP's latest extortion demands
 Senate Democrats running on, not from, Obamacare
 Senate Democrats see choice between Obamacare and 'Cruz Care' (aka repeal)
+Senate Democrats trying—again—to pass unemployment aid
 Senate Democrats united in raising debt ceiling
 Senate Democrats' opposition to Larry Summers is a good sign
 Senate Dems propose making McConnell debt limit plan permanent, so of course McConnell says 'no'
@@ -4148,14 +4250,17 @@ Senate set to have very busy week, if GOP allows it
 Senate tax writers offer colleagues 50 years of secrecy
 Senate tea partiers 'screwing' House GOP leadership
 Senate to have Wednesday votes on Export-Import Bank head
+Senate to hold cloture vote on food stamp-slashing farm bill
 Senate to vote on Employment Non-Discrimination Act today
 Senate to vote on long-term debt ceiling hike, while Senate GOP plots poison pills
 Senate toes nuclear brink on ATF nomination
 Senate votes on shutdown/debt ceiling deal
 Senate votes to keep government open
 Senate votes to move forward with immigration debate
+Senate votes to slash food stamps
 Senator: Topic of unemployment insurance extension has 'never come up' in GOP caucus
 Senators introduce bill to reform security clearance process. When will they go after the contracts?
+Senators ponder attaching deadline to Keystone XL decision, pipeline foes warn about 2014 election
 Senators tell America, nothing to see here, move along
 Senior Republican congressman admits that they might as well just go on permanent vacation
 Sens. Jeff Merkley, Mark Udall, Ron Wyden strongly criticize domestic spying
@@ -4251,6 +4356,7 @@ Southern Republican governors discover hurricanes, decide sequestration is bad
 Southern Republicans begin gleefully acting quickly in response to gutting of Voting Rights Act
 Space exploration in 2014: Waiting on the House to act
 Spare a thought for workers forced to be on the job this Thanksgiving
+Speaker John Boehner unveils new website devoted to GOP Benghazi conspiracies
 Spending bill unveiled: The good, the bad and the ugly
 Spill proves again that cozy ties between government and coal corporations sticks it to people
 Sponsored Post: Al Jazeera America: There's More To It
@@ -4258,6 +4364,7 @@ Sponsored Post: Al Jazeera America: There’s More To It
 Spooge man
 Spying Is For Everyone
 Spying on Americans? Sorry, I have a plane to catch
+Stand Your Ground, even if it's not yours, and actually belongs to the people you shoot: GunFAIL LV
 Standardized tests aren't making kids smarter
 Standardized tests take over the school day
 Standing in moral abyss, Paul Ryan says right 'should not cede the moral high ground' on poverty
@@ -4328,6 +4435,7 @@ Sunday Talk: Keep it in perspective
 Sunday Talk: Mad Libs III
 Sunday Talk: Mad Libs IV
 Sunday Talk: Mark my words
+Sunday Talk: Night of broken Congress
 Sunday Talk: Off to the races
 Sunday Talk: Resistance is futile
 Sunday Talk: Shut happens
@@ -4343,6 +4451,7 @@ Sunday Talk: Wet hot American dream
 Sunday Talk: White is the new black
 Sunday Talk: With extreme prejudice
 Sunday Talk: Yeah, that's the ticket
+Super Bowl open thread
 Super committee? Really? That's all Boehner's got?
 Super-Fun-Pak Comix, feat. How the World Ends, and more fun
 Super-Fun-Pak Comix, featuring Brain in a Beaker
@@ -4392,6 +4501,7 @@ Tea partiers: 'Cut spending!' Which spending? 'Uhhh ...'
 Tea partiers: It's BoehnerCare
 Tea party PAC taps Cruz sidekick to give SOTU response; GOP mum
 Tea party challenger to Sen. Thad Cochran looks like a real wacko
+Tea party congressmen ask Boehner to surrender to Obama on debt limit
 Tea party congressmen sacrifice staff's health for political statement
 Tea party ringleader admits the GOP shut down the government for nothing
 Tea party support nearing record low
@@ -4463,6 +4573,7 @@ Texas attorney general: 'Eric Holder can no longer deny' new Texas voting restr
 Texas beefs up Obamacare sabotage efforts
 Texas fire marshals turned away by five facilities with big ammonium nitrate stockpiles
 Texas is going to get very, very interesting. And Blue.
+Texas kept Marlise Munoz on life support against her wishes. Will her family get the bill?
 Texas refuses to enforce Obamacare health insurance reforms
 Texas special session gavels in, then goes on recess
 Text someone who's driving, and you might get sued: a torts lesson
@@ -4477,6 +4588,7 @@ Thanksgiving at the Cheneys
 Thanksgiving wishes from the Congressional Progressive Caucus
 That won't do, CBS. That won't do.
 The 'Don't Show Me' State
+The 'Journalism After Snowden' problem
 The 'Moral Monday' movement in North Carolina
 The 'bullshit' caucus in the GOP giving McConnell a headache
 The 'mean gene' and the killing of Andy Lopez
@@ -4512,6 +4624,7 @@ The Hockey Stick rides again
 The House GOP's Obamacare 'fix' won't get many Democratic votes
 The House takes up the shutdown/debt ceiling deal vote
 The House's biggest fundraising slackers (and the challengers kicking their asses)
+The House's fundraising slackers and the challengers who love them
 The International Panel on Climate Change's report in haiku and 19 watercolor paintings
 The KY legislator who fired her gun in the state capitol isn't even our craziest story. GunFAIL LII
 The McDonnell indictment is as sordid as you think it was
@@ -4525,6 +4638,7 @@ The NSA revelations: Are the programs legal?
 The NSA's astounding internal security failures
 The New York Post proves their cruelty
 The Obama administration presents an alternative to burning your fake Obamacare card
+The Obamacare 'insurance company bailout' is not the GOP's magic bullet
 The Obamacare ad wars
 The Obamacare news in the states is pretty good, and Politico hates that
 The Obamolitionists continue the fight...
@@ -4537,6 +4651,7 @@ The Republican Party's clueless caucus is pretty much their entire caucus
 The Republican argument for ENDA: At least it's not marriage
 The Republican health care emergency in one chart
 The Republican plan to end the shutdown
+The Republican's big lie machine cranks up
 The Republicans are terrified of Obamacare. They should be.
 The Senate Launch system flies again
 The Senate defaced....
@@ -4588,6 +4703,7 @@ The filibuster is dead. Long live the filibuster.
 The filibuster was reformed today. Really.
 The final blow: Americans think Republicans don't care about them
 The fundamental divide: Black and white, or black and everyone else?
+The geography of being uninsured
 The global corporate power grab you hear nothing about because it's being decided in secret
 The good Obamacare news bubbles up
 The good news is that there won't be a federal helium shutdown
@@ -4600,11 +4716,13 @@ The gutted portion of the Voting Rights Act affected the American Indian vote
 The health care exchanges could have saved this man's life
 The hilarious travails of the Prohibition Party
 The history of racist resistance to Martin Luther King Jr. Day
+The horrors of criminalizing corruption
 The ideology that sacrifices humanity to satisfy the rich
 The important questions
 The incredible Volcker
 The indignity of being a woman in Texas is about life and death
 The intriguing genius of Eric Cantor, master legislator
+The invisible finger of the market
 The job-killing Republican sequester
 The joy of watching a Cheney bite Republicans in their behind
 The last comic strip about a mass shooting you'll ever have to read
@@ -4624,6 +4742,7 @@ The national security state: Too big to succeed?
 The new Republican plan to go after rapists ... one fetus at a time
 The new naughty and nice List
 The new warmongering wing of the Democratic Party
+The newest Republican 'cool kids' startup already sounds embarrassing
 The news from planet Glox
 The next Obamacare attack: Beat up on the sick people
 The next filibuster fight begins this week
@@ -4649,10 +4768,12 @@ The right to bear bags
 The right to bear ricin
 The right's response to the Navy Yard shootings: It was probably Bill Clinton's fault
 The right-wing rumor mill in action on 'stand your ground'
+The rise of 'insourcing' gives Internet companies a new way to exploit workers
 The rockets' red glare
 The rules have changed: Reid pulls trigger on nuclear option
 The scariest Republican Halloween costume ever
 The scariest climate change visualization you'll see today. Or maybe this decade.
+The senator from Walmart thinks a $10.10 minimum wage is 'too much, too fast'
 The shutdown according to House Speaker Ted Cruz
 The simple change in wording that shows why you should ignore polls on the NSA leak
 The states that get the most natural disaster aid sent 47 climate-change deniers to Congress
@@ -4923,6 +5044,7 @@ UAW takes another big step toward representing Tennessee Volkswagen workers
 UN chief scientist urges action on climate: 'We have five minutes before midnight'
 UPS cutting health care for 15,000 spouses, blaming Obamacare
 US, Russia call on Syria to put chemical weapons under international control ... and Syria says okay
+USDA announces establishment of regional agriculture hubs for climate change adaptation
 USDA plans to expand pilot program that leaves meat contaminated with fecal matter
 USDA takes its bad idea of speeding up chicken inspection lines and makes it worse
 Udall, Wyden introduce bill to curtail surveillance
@@ -4960,6 +5082,7 @@ Uplifting video from Syria
 Urgent message from United Nations: Wake up before it's too late
 Utah Republican: Make the NFL pay taxes
 Utah governor puts same-sex marriages 'on hold'
+Utah opposition to marriage equality grasps at straws
 Utah public health official confused on the concept of public health and vaccines
 VA-Gov: CNN is either lazy, stupid, or just likes parroting anti-Obamacare Tea Party talking points
 Vacation time: Counting on luck in the U.S., relying on law in Europe
@@ -4970,6 +5093,7 @@ Vermont does the time warp: A conference on civility in political discourse
 Veterans struggle in an economy rigged to benefit the top 1%
 Vice President Palin demands that the Senate obey President Cruz
 Video of President Obama's comments on Trayvon Martin killing
+Virginia Democrats clear bills to undo abortion restrictions, although chances of passage are nil
 Virginia GOP chairman mocks critics who say his party is too extreme
 Virginia GOP in full retreat, anvil time!
 Virginia Republican Frank Wolf calls it quits, gives Democrats a top pickup opportunity
@@ -5118,6 +5242,7 @@ When Republicans start calling Obamacare 'free health care,' that means it's wor
 When a judge 'gets it' on racism: The decision in Floyd v. City of New York
 When are we going to invade communist Alaska?
 When did Christie know? The governor's subtle shift
+When did your county's population peak? This map shows you
 When does lying about Obamacare become immoral and evil?
 When is $2.1 billion just chump change?
 When is a war...
@@ -5183,6 +5308,7 @@ Why can't they compromise?
 Why did Harry Reid go nuclear? Here's why, in one image
 Why do Republicans hate children?
 Why does Ted Cruz hate the free market?
+Why extending unemployment benefits must be paid for
 Why one Supreme Court decision caused euphoria, the other didn't
 Why the Third Way hates Sen. Elizabeth Warren
 Why the U.S. should treat health care like a utility, not a market
@@ -5203,6 +5329,7 @@ Will the Supreme Court take its latest chance to weaken unions?
 Will the public comments of foes of the Keystone XL pipeline sway President Obama to say nay?
 Will there be a mass exodus from Congress over Obamacare?
 Will women revolt in 2014 or let others control their interests?
+Willard gets Christie's back: 'When he tells you something, you can count on it'
 Win- Win with Obamacare
 Winners of Whatcom County, Washington, council races could nix proposed coal-exporting terminal
 Winning the shutdown battle wasn't enough. Democrats must stand united to win the budget fight
@@ -5259,6 +5386,7 @@ You want to know how Fox News misleads its viewers? Here's how.
 You won't believe this new abortion decision, or who decided it.
 You won't believe why MSNBC cut away from this interview
 You'll eat chicken processed in China and you won't even know it
+You're terminated!
 Young Conservatives of Texas plan 'Catch an illegal immigrant' game
 Your Congress not doing much at all
 Your birth control is on the long list of reasons the House GOP would shut down government
