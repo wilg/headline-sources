@@ -29,6 +29,7 @@
 10 Cool Things to Do with an Emmy
 10 Cosplayers Out of Character
 10 Crossover TV Couples That Should Exist
+10 Easy Ways to Ignore Shia LaBeouf
 10 Essential Things No One Ever Tells You About Your Twenties
 10 Famous Lines From Videogame Literature
 10 Food Hybrids We're Calling Now Before They Become Trendy
@@ -273,6 +274,7 @@
 4 Puzzling Questions Raised By Shaggy's "It Wasn't Me"
 4 Things You Didn't Know You Can Rent
 4 Yahoo Answers to Questions That Shouldn't Be Asked
+5 "Date" Movies To Help You Break Up Before Valentine's Day
 5 "Fun" Activities That Actually Suck
 5 "Helpful" Comments People Need To Keep To Themselves
 5 "Practical" Uses for Your Old Jack-o-Lantern
@@ -341,10 +343,12 @@
 5 Rap Feuds We'd Really Like To See
 5 Real-Life People Who Might Be Batman
 5 Reasons Bicyclists Are The Worst People Alive
+5 Reasons To Feel Better About Yourself During The Olympics
 5 Reasons To Quit Drinking Alcohol
 5 Reasons Why I'm Starting to Believe That Santa Claus Doesn't Exist
 5 Rejected Zelda Temples
 5 Reviews from a Water Aficianado
+5 Sitcom Problems That Aren't Funny in Real Life
 5 Songs Covered by Chickens
 5 Specific Christmas Characters We Need For Manipulating Children
 5 Stages of Dealing with Grief, as told by Magazines
@@ -428,6 +432,7 @@
 6 Real Life Horror Movie Posters
 6 Reasons Why Tyler, The Creator Is The Next Hemingway
 6 Rejected Characters From Marvel vs. Capcom 3
+6 Romantic Songs That AREN'T ROMANTIC AT ALL
 6 Rules for Avoiding Small Talk
 6 Rules for Reentering Society After a Semester Abroad
 6 SUPER HOT Sex Moves From PG-13 Movies
@@ -506,6 +511,7 @@
 7 Political Sex Moves
 7 Pop Stars And The Perfect Songs for Them to Cover
 7 Presidential Cocktails for Your Fourth of July Weekend
+7 Presidential Sex Moves To SPICE UP Your President's Day
 7 Pumpkin-Flavored Things Even Better Than a Pumpkin-Spiced Latté
 7 Quotes That Could Have Saved The Star Wars Prequels
 7 Real Life Items and Their Stats
@@ -538,6 +544,7 @@
 7 Uncomfortable Situations (And How to Avoid Them)
 7 Unimpressive Life Achievements
 7 Vacation Posters for Drugs
+7 Valentines Cards For Things We Actually Love
 7 Videogame Bumper Stickers and Decals
 7 Videogame Characters And Where They Are Now
 7 Videogame Characters Deal with the TSA
@@ -661,6 +668,7 @@ A Birthday Wish
 A Buzzfeed Contributor Tells Her Boyfriend She's Pregnant
 A Coincidental Close Encounter
 A Comprehensive Guide to Prank Channels on YouTube
+A Conversation Between My Bed and Me
 A Conversation Between The Hobbit: The Desolation of Smaug and Me
 A Cover Letter Written in the HR Rep's Exact Thoughts About Every Cover Letter
 A Cow on the Rails
@@ -1155,6 +1163,7 @@ Five Sci-Fi Children's Books
 Flowchart: Are You Actually Going to Study for Finals?
 Flowchart: Are You Going to Have a Good Year?
 Flowchart: Are You Good at Following Flowcharts?
+Flowchart: Are You Over Your Breakup?
 Flowchart: Are You in the Friend Zone?
 Flowchart: Can You Skip Class Today?
 Flowchart: Can You Star In A Premium Cable Drama?
@@ -1164,6 +1173,7 @@ Flowchart: Do You Guys Want to See a Dessert Menu?
 Flowchart: Do You Have to Wake Up Yet?
 Flowchart: Do You Like Me?
 Flowchart: Do You Need to Buy This Person a Christmas Present?
+Flowchart: Do You Need to Shave?
 Flowchart: Do You Want to Go Apple Picking?
 Flowchart: Does the Person You're Talking to Want to Hear About Your Dream?
 Flowchart: Forgetfulness
@@ -1197,6 +1207,7 @@ Flowchart: What iPhone App Should You Open?
 Flowchart: What to Do at an Office Party
 Flowchart: Which Christmas Movie Should You Watch?
 Flowchart: Which Final Fantasy VII Character is Your Favorite?
+Flowchart: Which Movie Should You Watch This Month?
 Flowchart: Who Should You Root For in the NFL Playoffs?
 Flowchart: Who Will You Be With on Valentine's Day?
 Flowchart: Who Will You Hook Up with During Spring Break
@@ -1311,6 +1322,7 @@ Hey It's Me! The Guy Who Can't Wait To Complain About The Breaking Bad Finale!
 Hey, Dunkin Donuts, What the F*ck Are You Doing?
 Hey, Everyone, Look! A Gorilla That Looks Like Jimmy Carter
 Hey, Girlfriend's Mom and Girlfriend's Dad!
+Hey, It's Me, the Guy Who Designs Figure Skating Costumes
 Hi Mom...Can I Call You Back?
 HighMall
 Highlights Magazine: College Edition
@@ -1618,6 +1630,7 @@ If Upworthy Existed Throughout History
 If Websites Were Pets
 If Winter Break Advertised Like Spring Break
 If Work Was Like College
+If You Argued in Real Life Like You Do on Facebook
 If You Ate At Restaurants Like You Did At The Dining Hall
 If You Had Dating Profiles Through Life
 If You Remix Twerk Team Videos With Norah Jones, You Get This
@@ -1830,6 +1843,7 @@ My Apartment: A Restaurant Review
 My Apologies to the Blind Man I Ran Into and Others
 My Apologies to the Girl I Tried to Smell, and Others
 My Day With Steve Wilkos
+My Decades Long Journey To The Best IMDB Page In Existence
 My Dentist's Recall Cards Are Getting Creepy
 My Favorite Childhood Memories That Never Happened
 My First and Last Day as a Warning Sign Writer
@@ -2103,6 +2117,7 @@ Rich People's Dog
 Rick Santorum's Speaking Tour Demands
 Right-Click? But I'm Left-Handed
 Road Trip Story Contest: $5,000 Up For Grabs!
+RoboCop Wants to Know What Happened to His D*ck
 Robot Chicken: Seth Green & Matthew Senreich
 Rock Out with Your Cloth Out: A Field Guide to Music's Most Famous Bandanas
 Rocktober Traditions from Around the World
@@ -2189,6 +2204,7 @@ Shark Attack III
 Shark Attack IV: Sharktober Spooktacular
 Shel Silverstein's Poems From His More Progressive College Years
 Sherlock Season 3 Premiere Recap: The Mustache Deduced
+Shia LeBeouf's History with the Brown Paper Bag
 Shipment Tracking with Amazon's Drones
 Shitness Protection Program
 Shoot the Clone: A Choose-Your-Own-Ending Comic Adventure!
@@ -2204,6 +2220,7 @@ Simple Ways to Improve 7 Popular Websites
 Sit on a Barbed Wire Dildo
 Sitcoms Are Actually Really Depressing
 Six Beloved Christmas Songs That Aren't Actually Christmas Songs
+Six Great Ways to Sleep on the Job and Get Away with It
 Six NEXT-LEVEL Shaving Techniques
 Six Other Appearances from the Tupac Hologram
 Six Ways to Tell if Your Weekend is Going to Suck
@@ -2223,6 +2240,7 @@ So You're Going to Be an Uncle
 So, None of You Want Dan Smith to Teach You Guitar?
 So, TV Show, What Makes You Want to Work for Me?
 Soccer is Fixed and World Peace Fights
+Sochi 2014 Winter Olympic Cheat Sheet
 Social Media Background Check
 Some Chick Peed in My Car
 Some Father's Day Groupons You May Have Missed
@@ -2371,6 +2389,7 @@ The 11 People You See at the Beach
 The 12 Days Of Internet Christmas
 The 12 Days of Christmas Shopping
 The 12 Stupidest Recipes from The Food Network
+The 13 Best Marriage Proposals Ever Put onto YouTube
 The 13 Fans At Every College Football Game
 The 13 Types Of Facebook Vacation Photos
 The 14 Best Tweets From The Manti Te'o Scandal
@@ -2439,6 +2458,7 @@ The 6 Types of Professors (and The Final Exams They'll Give You)
 The 6 Types of Studiers
 The 6 Types of Trolls (and How to Defend Against Them)
 The 6 Types of Voicemails
+The 6 Valentine's Day Cards You'll Give Throughout Your Life
 The 6 Weirdest Tie-in Videogames
 The 6 Worst Characters on Television
 The 7 Actual Differences Between Being Single and Being in a Relationship
@@ -2454,6 +2474,7 @@ The 7 Kinds of Smokers
 The 7 Kinds of Youth Sports Parents
 The 7 Loneliest Cats Ever
 The 7 Most Difficult Cases in LA Noire
+The 7 Other Types of Love Triangles You'll Find Yourself In
 The 7 Parents You'll See at Comic Con
 The 7 People You See On Public Transportation
 The 7 People You See in Your Dorm Bathroom
@@ -2538,6 +2559,7 @@ The Complete Rules of Filibustering in the Texas State Senate
 The Dangers of Being High On Life
 The Dangers of Competitive Cooking Shows on the Modern Family
 The Declaration of Web Dependence
+The Difference Between Being Drunk And Being CLASSY
 The Different Types of Hangovers You Get from Each Kind of Alcohol
 The Different Types of Stubble
 The Dorklyst: 10 Memorable Accidents in Videogame History
@@ -2699,6 +2721,7 @@ The Noblest Sacrifice in Azeroth
 The Official "Fun vs. Effort" Graph of Pets
 The Official Matrix of Fun
 The Official Roommate Scorecard
+The Official Rules Of Curling KIND OF EXPLAINED I Think
 The Old People Bill of Rights
 The Omanyte Before Christmas
 The Only 5 Reasons You Ever Lose in a Video Game
@@ -2870,6 +2893,7 @@ These People Think Ariel Castro Was Fidel Castro
 These People Think Miley Cyrus is Better than the Beatles (and Everyone Else)
 These People Think Nelson Mandela Was Morgan Freeman
 These People Think the Government Shutdown Means Weed Is Legal Now
+These Save-the-Date Cards Are Getting REALLY Absurd
 These Sexy Banner Ads are Getting Ridiculous
 These White Girls, Like, Totally Wish They Were Black
 Things Doctors Say And What They Really Mean
@@ -2967,6 +2991,7 @@ Using The BCS Formula For All of Life's Decisions
 VICE Presents: Libya is a War-Torn Country with Serious Problems, and We're Pretty F**king Cool for Going There
 Valentine's Day Drink Recipes
 Valentine's Dorklyst: The 8 Dumbest Romances in Videogame History
+Valentine's Themed Olympic Events
 Venn Diagram: HBO Programming Breakdown
 Venn Diagram: Things Liked By Babies, Idiots, and Stoners
 Venn Diagram: Things Liked By Nerds, Goths, And Jocks

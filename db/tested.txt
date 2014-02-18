@@ -26,6 +26,7 @@ $99 Refurbished Kindle Price Points to Kindle 4 Launch
 10 Bizarre Parasites That Infest Humans
 10 Clever Ways to Automate Your Online Life with ifttt
 10 Genes We Would Want from Animals
+10 Hacks Scammers Use to Steal Credit Card Data
 10 Inventive New Uses For Obsolete Technology
 10 Lifehacks For Your Car and Driving Habits
 10 Niche Search Engines That Still Do Something Google Can't
@@ -181,6 +182,7 @@ Adam Savage's Blade Runner Blaster Collection Photo Gallery
 Adam Savage's Eventful Day at the Schmemmys
 Adam Savage's Everyday Carry (EDC)
 Adam Savage's Keynote at the XOXO Festival
+Adam Savage's Mercury Spacesuit Replica
 Adam Savage's One Day Builds: Strandbeest Model Kit
 Adam Savage, Phil Plait, and Veronica Belmont Talk Science
 Adam Unveils Wired's Comic-Con 2013 Robot
@@ -1238,6 +1240,7 @@ Google Play App Roundup: Machinarium, doubleTwist Alarm Clock, and Pix'n Love Ru
 Google Play App Roundup: Mercury Browser, Star Command, and Type:Rider
 Google Play App Roundup: Monsters Ate My Condo, Aviary, and Max Payne
 Google Play App Roundup: Moves, Incredipede, and Zombie Gunship
+Google Play App Roundup: Muzei, The Room Two, and Amateur Surgeon 3
 Google Play App Roundup: N.O.V.A. 3, Evernote Hello, and Million Moments
 Google Play App Roundup: New Orbit, WiFi Shoot, and Monster Island
 Google Play App Roundup: Ninja SMS, Scribblenauts Remix, and Worms 2: Armageddon
@@ -1277,6 +1280,7 @@ Google Play App Roundup: T9 AppDialer, Tiny Thief, and Sprinkle Islands
 Google Play App Roundup: Talon, Tank Riders 2, and 12Hours
 Google Play App Roundup: TeamViewer QuickSupport, Spirits, and Pinterest
 Google Play App Roundup: The Transit App, Rymdkapsel, and Dropchord
+Google Play App Roundup: TimePIN, Line Of Defense Tactics, and Mountains Now LWP
 Google Play App Roundup: Timely, Asphalt 8, and Buy Me a Pie
 Google Play App Roundup: Total War Battles, Astro File Manager, and HueBrix
 Google Play App Roundup: TunnelBear VPN, Wild Blood, and Zagat
@@ -1607,6 +1611,7 @@ How To Get Started With iCloud Backups and Sync in iOS 5
 How To Get Started with 3D Modeling for 3D Printing
 How To Get Started with Arduino
 How To Get Started with Electroluminescent (EL) Wire
+How To Get Started with Hobby RC Vehicles
 How To Get Started with Mac OS X Lion: The Essentials
 How To Get Started with Programmable RGB LED Strip Lighting
 How To Improve Your Home with LED Lighting
@@ -1813,6 +1818,8 @@ JPL's RoboSimian Disaster-Response Robot
 Jacket Aficionado Magazine - 12/10/2013
 Jamie & Adam Costume Hunt 2012 Photos (Updated!)
 Jamie & Adam's Costume Hunt for Halloween
+Jamie Answers: What More Can Be Done to Introduce Science to Girls?
+Jamie Answers: What's One Myth You've Always Wanted to Test?
 Jamie Hyneman On Welding in His Workshop
 Jamie Hyneman Tests the Oculus Rift Virtual Reality Goggles
 Jamie Hyneman on "Innovation, Explosions, and the Benefit of Adolescent Behavior"
@@ -2059,6 +2066,7 @@ Maker Profile: Chris Barton's Prop Restoration Work
 Maker Profile: Cosmo Wenman's 3D-Printed Art
 Maker Profile: Investment Banker Turned Artist
 Maker Profile: Jason Eaton's Blade Runner Blimp Replica
+Maker Profile: Jeremy Williams' LED Pixel Art Game Frame
 Maker Profile: John Findra's Classic Wrecks
 Maker Profile: John Whitmarsh's Mixed Media Sculptures
 Maker Profile: Jonathan Tippett's Prosthesis Project
@@ -2076,6 +2084,7 @@ MakerBot Digitizer 3D Scanner Priced at $1,400, Shipping Mid-October
 MakerBot Dreams of 3D Printers in Classrooms in TED Talk
 MakerBot Mystery Build - It's Quite Puzzling
 MakerBot Mystery Build: 19,000 Solutions
+MakerBot Mystery Build: A Little Twisted
 MakerBot Mystery Build: A New Home
 MakerBot Mystery Build: A Palace of Plastic
 MakerBot Mystery Build: Back for Realsies
@@ -2564,6 +2573,7 @@ Philippe Faraut Sculpts The Human Hand
 Philips Hue Flips the Switch on Wi-Fi LED Smartbulbs
 Photo Finished: The Best Apps from Photo Hack Day 3
 Photo Gallery: Adam Incognito as Admiral Ackbar at Comic-Con 2013
+Photo Gallery: Adam's Mercury Spacesuit Replica
 Photo Gallery: Bricks By the Bay 2013
 Photo Gallery: Inside NASA's Neutral Buoyancy Lab
 Photo Gallery: NASA's Mission Control and Mock-Up Facility
@@ -2605,9 +2615,11 @@ Practical Effects Masters on the Pros and Cons of CGI
 Practical Special Effects - 8/6/2013
 Precision Gear Porn: Why Mechanical Wrist Watches are so Cool (and Pricey)
 Predicting the Ethical Dilemmas of Fully Autonomous Cars
+Premium: Building a Cardboard Kinetic Creatures Kit
 Premium: CES Trendspotting and Michael Bay's Breakdown
 Premium: Gearing Up for the First Day of CES 2014
 Premium: Norm's Lifecast Time-Lapse
+Premium: Putting on Adam's Mercury Spacesuit
 Premium: The PC Build Race Disaster of 2014
 Premium: Toys and Stuff in Norm's Garage
 Premium: Will Upgrades the MakerBot
@@ -2919,6 +2931,7 @@ Science Doesn't Really Know Why Words Get Stuck on the Tip of Your Tongue
 Science Experiments on the International Space Station
 Science Facts That Will Shock and Surprise You
 Science Finds Temperature Below Absolute Zero
+Science Friday: Wine Tricks of the Trade
 Science Looks to the Butterfly to Develop Advanced Hydrophobic Surfaces
 Science Says: Stay Warm Wearing Glittens, Glove-Mitten Hybrids
 Science Says: This is Why We Blink
@@ -2972,6 +2985,7 @@ Show and Tell: Adam's Favorite Video Game
 Show and Tell: Apply Directly to Forehead
 Show and Tell: Battle Wizards
 Show and Tell: Behold the Bug-A-Salt
+Show and Tell: Cardboard Kinetic Creatures
 Show and Tell: Collecting Screenprinted Posters
 Show and Tell: Copper Coca-Cola Bottle
 Show and Tell: Easy Desktop Cable Management
@@ -2988,6 +3002,7 @@ Show and Tell: Just the Tips
 Show and Tell: LEGO Mystery Build
 Show and Tell: LEGO Mystery Build #2
 Show and Tell: LEGO Mystery Build #3
+Show and Tell: LEGO Mystery Build #4
 Show and Tell: Mechanical FlipBook Kit
 Show and Tell: More Kirk Than Sulu
 Show and Tell: Never Do Anything Small
@@ -3084,6 +3099,7 @@ Sony, Sharp and Panasonic's 2012 HDTV Pricing Leaks
 Sort Quest: The Best Way I've Found to Store My Dominion Card Collection
 Space Art Show at Gallery 1988
 Space Farming Soothes the Mind and May One Day Feed the Body
+Space Flight Special Effects on the Cheap
 Space Lasers in Timelapse
 Space Mining! James Cameron and Larry Page Back Startup Planetary Resources
 SpaceX Grasshopper Test Scares Cows
@@ -3246,6 +3262,7 @@ The Art and Technology of the New $100 Bill
 The Art of Film & Television Title Sequence Design
 The Art of Making Holograms
 The Art of Pen Making
+The Art of Photogrammetry: Introduction to Software and Hardware
 The Art of Sculpting Ice
 The Art of the Cinematic Car Chase
 The Awesome Robot Battles of ComBots Cup 2012
@@ -3321,6 +3338,7 @@ The Best Password Managers for Your Android Phone
 The Best Pen You Can Buy Today
 The Best Photos of Mars from NASA's Curiosity Rover
 The Best Place to Store Your JPEGs and GIFs: Six Image Hosting Sites Compared
+The Best Point-and-Shoot Camera Under $500 Today
 The Best Popsicle Molds for Awesome Ice Pops
 The Best Portable Bluetooth Speaker Today
 The Best Portable Hard Drive Today
@@ -3463,6 +3481,7 @@ The Mechanics of Modern Autonomous Quadrocopters
 The Mechanics of a Pull-Up
 The Moon is Never Alone
 The Most Awe-Inspiring Photos from New York's Second Avenue Subway Construction Project
+The Most Common Passwords and How To Improve Yours
 The Most High-Tech Haunted Houses
 The Most Telling Features of iOS 6 and OS X Mountain Lion
 The Mother of All Demos Revolutionized Computing Interfaces in 1968 [Video]
@@ -3683,6 +3702,7 @@ Titanoboa Times Two: Different Approaches to Building the World's Biggest Snake
 Tobii Offers a Taste of Windows 8 Eye Tracking Before CES [Video]
 Today at 11am PT/2pm ET: Ask Adam Anything!
 Tofu Handling Robot Has a Gentle Touch
+Tony Swatton Forges Halo's Energy Sword
 Tools of Prop Making: Touring The Volpin Props Workshop
 Tor E-Books to Go Completely DRM-Free in July
 Toshiba Announces $1600 13.3-Inch Ultrabook with 2560x1440 display
@@ -3701,6 +3721,7 @@ Travelling Like a Rock Star - 11/19/2013
 Trigger Trap Kickstarter Offers an Open Source Arduino Camera Trigger
 Triple Monitor 4K: Gaming at 1.5 Billion Pixels Per Second
 Troubleshooting DVI and EDID Issues
+True Detective - 2/11/2014
 Truth Serum Wasn't Always a Silly Spy Movie Drug
 Try This Drip Coffee Experiment at Home
 Tubes to Teriyaki: The History of Space Food in Photos
@@ -3800,6 +3821,7 @@ Watch the A380 Emergency Evacuation Test
 Watch the Beautiful Art of Paper Marbling
 Watch the Birth of a Book [Video]
 Watch the Windows 8 Consumer Preview Keynote and Software Demos
+Watch this Realistic CGI Human Eye
 Waterproofing Electronics: Gimmick or Underused Feature?
 We Miss You Buddy...
 We Require More Minerals: Space Mining for Science and Profit
