@@ -153,6 +153,7 @@ Amazon's Taking 15 Percent Off Kindles Today in Honor of the FAA
 AmazonSmile Donates Part of Your Purchases to Your Favorite Charity
 AndrOpen Office Brings OpenOffice to Android Tablets
 Android Device Manager App Lands on the Play Store
+Android KitKat Blocks Some Access to Micro SD Cards
 Android KitKat, iPad Upgrades, and Evil Tips Galore
 Android's ART vs Dalvik: Performance and Battery Life Compared
 Answer Irrelevant Job Interview Questions by Relating Them to Work
@@ -381,6 +382,7 @@ Check the Newspaper Before Meetings for Better Body Language
 Check whether your USB is a charging/powering or data connection.
 Choose the Airport Security Line Based on the Number of TSA Agents
 Choose the Best Bicycle and the Right Equipment for Your Ride
+Choose the Spanish Option for Better Customer Service
 Chorus Beams Music to Multiple Android Devices at Once
 Chrome Beta Now Shows Which Tab is Playing Audio
 Chrome Beta for Android Gets Better Application Shortcuts
@@ -409,6 +411,7 @@ Clean a Rug with Nothing but Snow and Freezing Temperatures
 Clean and De-Stink Your Garbage Disposal with Lemon and Vinegar Cubes
 Clean the Grime Between Your Oven's Window with a Hanger
 Clear All Cached App Data At Once on Android
+Clear for iOS Adds iPad Support
 Clear for iPhone Updated for iOS 7 with a Tweaked Interface and Fixes
 Clip Better Adds Link Previews to Emails to Provide Context to Links
 Clipjump Manages Multiple Channels of Clipboard History
@@ -584,6 +587,7 @@ Don't Stop Arguing in Front of Your Kids
 Don't Wait For Your Luggage At Baggage Claim – 37% off Find'Em Cards
 Don't give prior notice for the big discussions.
 Don’t Neglect Your Body Language in a Video Chat Interview
+Dormi Turns Old Android Phones into Internet-Connected Baby Monitors
 Double Dates May Be More Effective in Rekindling Romance
 Double-Tap the iPhone's Time Picker to Switch Minute Increments
 Downcast, Chromecast, Cheap Surround Sound, Cheaper Storage [Deals]
@@ -614,6 +618,7 @@ Emu Makes Texts Useful with Real-Time Location, Reminders, and More
 Emulate an Ambivert When You Need to Self-Promote
 Enable Autocorrect on Your Desktop with Chrome
 Enact a "Personal Tax" On Your Discretionary Purchases to Save Money
+Encircle Inventories Your Home, Documents Valuable Assets
 Encourage Interviewees to Say “I Don’t Know” for Richer Answers
 Encrypted Cloud Service Tresorit Unveils New Desktop and Mobile Apps
 End Your Kids' Nagging and Negotiating with Three Simple Words
@@ -713,6 +718,7 @@ Five Career Mistakes You Might Not Know You're Making
 Five Excellent, Customizable Start Pages to Replace iGoogle
 Five Financial Beliefs I Was Wrong About
 Five Money Excuses That Held Me Back (and How I Overcame Them)
+Five Reasons to Lower Your Thermostat (Besides Saving Money)
 Five Sauces Everyone Should Know How to Make for Endless Meal Options
 Five Steps to Take Immediately If You're the Victim of Identity Theft
 Five Things Bing Does Better Than Google
@@ -995,6 +1001,7 @@ How Do You Use Up the Balance on Old Gift Cards?
 How Do You Wake Up?
 How Do You Wrap Unexciting or Difficult Gifts?
 How Does Technology Help Your Social Anxiety?
+How Doing What You Love Can Become a Double-Edged Sword
 How Getting Rid of Your Home PC Could Actually Improve Your Life
 How Hard Is It to Switch to Linux?
 How Have You Dealt with a Job You Hated?
@@ -1010,6 +1017,7 @@ How I Learned to Like Cooking by Outsourcing the Worst Parts
 How I Learned to Stop Nagging My Kids and Start Motivating Them
 How I Left My Corporate Job to Work for Myself
 How I Lost My $50,000 Twitter Username
+How I Make a Living as a Writer (and You Can, Too)
 How I Saved $60K for Retirement on a $40K Salary
 How I Tackled Three Skills I Never Thought I'd Learn
 How I created a targeted to do list in 3 simple steps
@@ -1246,6 +1254,7 @@ How to Turn Grid Lines On and Off in iOS 7's Camera
 How to Turn Your Favorite Pair of Headphones Into a Headset
 How to Undo and Avoid Sending Accidentally Embarrassing Messages
 How to Upgrade Your Garage Workshop Without Spending a Fortune
+How to Use Mind Maps to Unleash Your Brain's Creativity and Potential
 How to Use Your Cellphone on the Go Without Dying
 How to Use Your Smartphone As an Essential Part of Your Disaster Kit
 How to Use Your Smartphone to Get Better Pictures with a Real Camera
@@ -1341,6 +1350,7 @@ Keep Cats Off the Furniture With a Spray of Vinegar
 Keep Cut Cheese from Drying Out with a Dab of Butter
 Keep Dice from Rolling All Over the Place with a Toy Container
 Keep Earbud Cables Tidy with this DIY Organizer
+Keep Faucets Shiny Longer with Wax Paper
 Keep Fruits and Vegetables Fresh Longer with an Ethylene Gas Absorber
 Keep Greeting Cards in Your Car for Emergency Thoughtfulness
 Keep Hunting After Landing a Job to Keep Your Network Strong
@@ -1456,6 +1466,7 @@ Make Easy, Last-Minute Food Labels for Parties with Binder Clips
 Make Extra Extra Crispy Fried Chicken with the Double Frying Method
 Make Fancy Chocolate Truffles with Just Two Ingredients
 Make Financial Decisions Early in the Day
+Make Future Planning Easier with a Family Timeline Spreadsheet
 Make Glow in the Dark Drinks and Jello with Tonic Water
 Make Google Voice SMS Play Nice with Hangouts
 Make Handy Pull-Out Hardware Bins with Muffin Tins
@@ -1489,6 +1500,7 @@ Make Your Own High-Grade Leather and Shoe Polish
 Make Your Own Internet-Controlled Lamp with a Raspberry Pi
 Make Your Own Laser-Guided Scissors
 Make Your Own Reusable DIY Hot Ice Hand Warmers
+Make Your Own Smartwatch with an Arduino
 Make Your Own Sriracha-Style Hot Sauce with Just Five Ingredients
 Make Your Own Steamer Basket with a Plate and Some Aluminum Foil
 Make Your Own Vanilla Extract for Less Money (and Bigger Flavor)
@@ -1511,6 +1523,7 @@ Make a DIY Microwave Heat Bag
 Make a DIY TV Stand with an IKEA Expedit and Pallet Boxes
 Make a Duct Tape Electric Rose
 Make a Kite out of an Old Umbrella
+Make a Mind Map to Keep on Top of Everything in Your Life
 Make a Paracord Pouch for your Survival Tin
 Make a Post-It Note Countdown to Stick to Your Habit Plan
 Make a Sliding Spice Rack for That Awkward Space in Your Kitchen
@@ -1659,6 +1672,7 @@ Nine Windows 8.1 Features You Might Have Overlooked
 No, The PS4 Doesn't Have A "Wobbling" Problem
 NoRoot Firewall Controls Internet Access for Apps
 Noisli Generates Background Sounds to Keep You Creative and Relaxed
+Noon Pacific for iPhone Takes Your Awesome Weekly Playlists With You
 Not Just for VIPs: Everything You Need to Know About Airport Lounges
 Note.It Is a Fast, Elegant iPhone App for Quick Notes or Checklists
 NoteHub Creates Throwaway HTML-Enabled Note Pages
@@ -1882,6 +1896,7 @@ Ringer Customizes Your Phone's Ring Settings, Links to Calendar Events
 Roast a Whole Chicken in Half the Time with a Preheated Skillet
 RootCloak Hides Root Access From Specific Applications
 Roth IRAs, Cydia Tweaks, and Speedtest
+Router and Modem Combo Pack, SSDs of All Sizes, WeMo Switch [Deals]
 Rub Sugar into Lemon Skins for Perfect Lemonade
 RunKeeper Updates with Support for the iPhone 5s
 SD Cards Galore, Wireless Keyboard and Trackpad, GorillaPod [Deals]
@@ -2202,6 +2217,7 @@ The Android Benchmarks You Can Actually Trust
 The Art Gallery Workspace
 The Audio Fix-It Bag
 The Benefits of Working In an Office Before Going Out on Your Own
+The Best (and Worst) Foods to Help You Recover When You're Sick
 The Best About:Config Tweaks That Make Firefox Better
 The Best Action Cam, 4K TVs For Cheap, Smartphone Battery Pack [Deals]
 The Best Address Book App for Android
@@ -2282,6 +2298,7 @@ The Best and Worst Online Retailers, Ranked by Password Security
 The Best iOS Apps, Clean Your Headlights, Acer Laptop [Deals]
 The Best, Cheap Ways to Decorate Your Boring Walls
 The Biggest Lessons I've Learned from Managing Anxiety
+The Biggest Money Mistakes We Make, According to Warren Buffett
 The Bluetech Home Screen
 The Brilliant Cord-Wrangling Workstation for Two
 The Brushed Rainbow Desktop
@@ -2574,6 +2591,7 @@ Top 10 Things You Never Have to Pay Full Price For
 Top 10 Tricks for Better Apartment Living
 Top 10 Tricks for Building the Perfect Budget
 Top 10 Uses for Linux (Even If Your Main PC Runs Windows)
+Top 10 Ways to Boost Your Home Wi-Fi
 Top 10 Ways to Customize Your Desktop
 Top 10 Ways to Repurpose Your Old Laptop
 Top 10 Ways to Survive the Cold, Harsh Winter
@@ -2611,6 +2629,7 @@ Try Chrome Apps Without Installing Them in Chrome Beta
 Try Facebook's Alpha and Beta Channels for Bleeding Edge Updates
 Try Sitting Somewhere New at Work for a Brainstorming Boost
 Try an S.O.S. (Stop, Organize, Secure) When You’re Overwhelmed
+Tuesdays are the Most Productive Day of the Week
 Tunebox Organizes and Streams Your Dropbox Music Files to iOS
 TunnelBear Adds Privacy Protection, Always On Security for PC and Mac
 Turn Any Fruit Juice Into Homemade Alcohol
@@ -2897,6 +2916,7 @@ Why Houses Aren't Designed to Be Good Investments
 Why I Love to Haggle (and How You Can Get Started)
 Why I'm a Console Gamer
 Why I'm a PC Gamer
+Why Is My Internet Suddenly So Slow?
 Why Knockoff Lightning Cables Probably Aren't Worth It
 Why Liars Tend to Say "I" Less Often
 Why Music Helps You Memorize Items
@@ -3033,11 +3053,13 @@ oTranscribe is a Free, Keyboard-Friendly Transcription Tool
 tinySpell Adds Spell-Check to Notepad, Wordpad, and Other Windows Apps
 uListen Plays Just YouTube Audio in the Background While You Multitask
 ​"Never give up on a dream just because of the time it will take."
+​15+ Awesome Google+ Tricks You Might Not Know About
 ​20+ Time-Saving Cooking Tips from Chefs and Food Experts
 ​8 Basic Life-Saving Skills Everyone Should Know
 ​Ask Dr. Nerdlove: My Date Doesn't Approve Of My Geeky Hobbies
 ​Ask Dr. Nerdlove: When A 'Nice Guy' Won't Leave You Alone
 ​Do Skin Care Products and Toiletries Ever Expire?
+​Four Skills That Will Turn You Into a Spreadsheet Ninja
 ​Hack a Tart Pan with Aluminum Foil for Custom Sizes
 ​How Can I Protect My Skin and Eyes from the Biting Cold?
 ​How to Save the Most Money on Your Grocery Budget with a Price Book
