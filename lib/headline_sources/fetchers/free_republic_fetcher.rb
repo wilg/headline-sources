@@ -16,7 +16,7 @@ module HeadlineSources
     end
 
     def excluded_matches
-      ['WEEKLY GARDEN THREAD', 'THREAD***', "Today's Toons", "Today's Word with"]
+      ['WEEKLY GARDEN THREAD', 'THREAD***', "Today's Toons", "Today's Word with", "The Big Broadcast", "Catholic Word of the Day", "Catholic Caucus: Daily Mass Readings", "Sunday Morning Talk Show Thread", "The American Flag Daily"]
     end
 
   end
