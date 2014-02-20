@@ -3189,7 +3189,11 @@ Microsoft acquires Gears of War from Epic, hires series producer Rod Fergusson
 Microsoft acquires Nokia devices and services for $5B
 Microsoft and Sony could be âhostileâ to AMDâs Mantle API, Carmack says
 Microsoft begins accepting devs into its indie initiative this week
+
 Microsoft begins testing competitive deals for digital content (update)
+
+Microsoft begins testing competitive deals for digital content
+
 Microsoft closes studio in Victoria, Canada (update)
 Microsoft details 'initial phase' of its 'Independent Developers @ Xbox' self-publishing program
 Microsoft details SmartGlass integration with Xbox One
@@ -5358,7 +5362,10 @@ The Old Republic's Starfighters available now with Early Access
 The OneUps: Your friendly neighborhood cover band
 The Order: 1886 co-written by Emmy winner Kirk Ellis
 The Order: 1886 gameplay trailer shows you what a next-gen city looks like (update)
+
 The Order: 1886 makes dark, dreary London shine in a first taste of gameplay
+
+
 The Order: 1886 won't feature a multiplayer mode
 The PAX Prime Polynauts Meetup 2013
 The Penny Arcade Report is shutting down
