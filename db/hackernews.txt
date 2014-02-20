@@ -331,6 +331,7 @@ A Material Point Method For Snow Simulation
 A Most Peculiar Test Drive
 A Most Peculiar Test Drive – Follow Up
 A Mysterious Patch Of Light Shows Up In The North Dakota Dark
+A New Car UI: How touch screen controls in cars should really work
 A New Look for Facebook
 A New Name for Stack Overflow (with surprise ending)
 A New Species Discovered ... On Flickr
@@ -1040,6 +1041,7 @@ Are coders worth it?
 Are founders really 1000x more valuable than their employees?
 Are jobs obsolete?
 Are mass shootings really random events? A look at the US numbers
+Are we shooting ourselves in the foot with stack overflows?
 Are you a Facebook employee?
 Are you a technical person?
 Are you alone in San Francisco on Thanksgiving? Join Us
@@ -1407,6 +1409,7 @@ Bitey: Import LLVM bitcode directly into Python
 Bitrot and atomic COWs: Inside “next-gen” filesystems
 Bitterness, Anger And Betrayal At MySpace
 Bittersweet news from Groklaw: mission accomplished, signing off
+Bizarre Shadowy Paper-Based Payment System Being Rolled Out Worldwide
 Bjarne Stroustrup on Dennis Ritchie: They said it couldn't be done, & he did it
 Black Perl
 Black Start
@@ -1565,6 +1568,7 @@ Buttons with built-in loading indicators
 Buying Adobe Photoshop CS6
 Buying VMWare Fusion: A lesson in how to drive customers away
 Buying the new MacBook Air
+By The Time You Give Them a Raise, They’re Already Out The Door
 Bye Bye Craigslist
 Byron Sonne’s G20 security focus cost him dearly
 Bzr is dying; Emacs needs to move
@@ -1877,6 +1881,7 @@ Company backed by James Cameron & Google founders may mine asteroids
 Company was hosting cardiac patient monitoring on EC2
 Company withdrawing from Facebook as analytics show 80% of ad clicks from bots
 Comparing PHP, Perl, Python and Ruby
+Complaint-Driven Development
 Complete, stand alone Stanford machine learning course notes
 Comprehend Systems (YC W11) hiring frontend and backend engineers
 Compromised Linode, thousands of BitCoins stolen
@@ -2690,6 +2695,7 @@ Facebook Ads: The Cheapest Traffic You'll Ever Buy
 Facebook Android app sends phone number to Facebook servers without consent
 Facebook Bankers Secretly Cut FB Revenue Estimates In Middle Of IPO Roadshow
 Facebook Blames Email Problems On User "Confusion"
+Facebook Buying WhatsApp for $16B in Cash and Stock Plus $3B in RSUs
 Facebook CSRF leading to full account takeover (fixed)
 Facebook CTO Bret Taylor Departs (For Start-Ups Unknown)
 Facebook Didn't Kill Digg, Reddit Did
@@ -3123,6 +3129,7 @@ Game Over: Zynga Shuts Down PetVille And 10 Other Titles
 Game Preview: Voxatron - voxel-based, destructible environment, 8bit soundtrack
 Game Programmer Quits Job To Sell Street Food, Doubles Salary
 Game Programming Patterns
+Game Theory: How 70,000 Pokemon Players Sabotage Themselves
 Game developer David Braben creates a USB stick PC for $25
 Game of Thrones CGI
 Game theory article from a professional Starcraft player/caster.
@@ -4446,6 +4453,7 @@ Hyperloop
 Hyperloop Alpha [pdf]
 Hyperloop: Not so fast
 Hyperpolyglot: PHP, Perl, Python, Ruby
+I Am A Ukrainian, This Needs To Go Viral
 I Am An Object Of Internet Ridicule, Ask Me Anything
 I Am Not Satoshi
 I Am Worried About The Future Of Python
@@ -4454,6 +4462,7 @@ I Bought A Firetruck
 I Bought An Apartment To Rent Out On Airbnb
 I Can Be Just As Capable. Let Me.
 I Can Crack Your App With Just A Shell (And How To Stop Me)
+I Crashed a Wall Street Secret Society
 I Don't Have Time
 I Don't Understand
 I Don't Understand What Anyone Is Saying Anymore
@@ -4943,6 +4952,7 @@ Iran forged the wrong SSL certificate
 Iranian Web Programmer’s Death Sentence to Be Carried Out Any Moment
 Iranian nuclear program hacked, made to play AC/DC
 Iron Ring
+Irrational Games (Bioshock Infinite) is shutting down
 Is Berlin the new home for tech start-up business? [video]
 Is Godaddy delaying domain transfer requests?
 Is Google Burying Firefox With User Agent Strings?
@@ -5692,6 +5702,7 @@ Machine Learning in Python Has Never Been Easier
 Machine Learning: A Love Story
 Machine Vision made Easy - SimpleCV
 Machine learning is easier than it looks
+Machines are better referees than humans but we’ll be sued if we use them
 Macros in Python
 Maddox - I hope SOPA passes
 Maddox on Link-Baiting Aggregation Sites
@@ -7154,6 +7165,7 @@ Push, push, push. Expanding your comfort zone
 Pushing Nginx to its limit with Lua
 Put Alan Turing on the next £10 note
 Put.io
+Putin on the Ritz
 Putin: A Plea for Caution From Russia
 Putting "Search" into Google yields a surprising result
 Pwning a Spammer's Keylogger
@@ -7919,6 +7931,7 @@ Show HN: I made an HN for the financial industry
 Show HN: I mapped US medical prices. Save thousands by driving a few miles
 Show HN: I mixed selling t-shirts with a little bit of game theory
 Show HN: I open-sourced my web app alternative to Illustrator
+Show HN: I redesigned the Microsoft employee badge
 Show HN: I spent two years working on an HTML5 game. I finally released it
 Show HN: I'm 14, I learned Objective-C, and this is my first iPhone game
 Show HN: I'm building an open-source, high-frequency trading system
@@ -8190,6 +8203,7 @@ Snapshot: Viaweb, June 1998
 Sneak peek of Macaw – a code-savvy web design tool [video]
 Snow Fall: The Avalanche at Tunnel Creek
 Snowden Disclosures Finally Hit 12 on a Scale of 1 to 10
+Snowden Documents Reveal Surveillance and Pressure Tactics Aimed at WikiLeaks
 Snowden Interview with Jacob Applebaum
 Snowden Leaves Hong Kong on Commercial Flight to Moscow
 Snowden ally Appelbaum claims his Berlin apartment was invaded
@@ -8925,6 +8939,7 @@ The Emails That Got My Unsexy Start-Up Covered By TechCrunch
 The End of Ragequitting
 The End of the Credit Card? New Square app: Card Case
 The End: NZBMatrix closes
+The Engineer Crunch
 The Engineer Who converted 12,100 Cups Of Pudding to 1.25 Million Air Miles
 The Evolution of a Python Programmer
 The Extraordinary Science of Addictive Junk Food
@@ -9403,6 +9418,7 @@ The frequent fliers who flew too much
 The front page of HN almost exactly 5 years ago
 The future Firefox UI
 The future is specific
+The future of Fiber
 The futures of Facebook and Google are embedded in these two images
 The game of life emulated in the game of life
 The genius and folly of MongoDB
@@ -9523,6 +9539,7 @@ The year 2000 illustrated in 1900
 Theranos
 There Are Giant Camera Resolution Test Charts Scattered Across the US
 There Are Only Four Billion Floats – So Test Them All
+There Are Whales Alive Today Who Were Born Before Moby Dick Was Written
 There is no place for just shitting all over other people's work
 There is no point to distributing music in 24-bit/192kHz format.
 There is no retirement
@@ -10132,6 +10149,7 @@ Voyager Set to Enter Interstellar Space
 Vulnerabilities in Heroku's Build System
 W3C HTML5 Logo Unveiled
 W3C OKs Adding DRM into HTML5 Spec
+WRT120N fprintf Stack Overflow
 WTF Google, you stole my $5
 WTFM - Write The Freaking Manual
 WTFWG
@@ -10254,6 +10272,7 @@ Web developer will work for you for free
 WebGL Car Viewer
 WebGL Nyan cat
 WebGL Terrain Flyover Demo
+WebGL Water
 WebGL Water Simulation
 WebGL: 80,000 particles
 WebKit for Developers
@@ -10956,6 +10975,7 @@ Why we ditched PayPal for Stripe
 Why we don't hire programmers based on puzzles and tricks
 Why we gave up web design after 10 successful years to move to products
 Why we have to boycott RSA
+Why we left AngularJS
 Why we love Mozilla Persona
 Why we moved from NodeJS to Ruby on Rails
 Why we need an Open Wireless movement

@@ -300,6 +300,7 @@ Android's Presence at E3 2011: The Rundown
 Animating Nebulae with Artificial 3D Parallax
 Animating Still Photos with Parallax Compositing
 Animating the AT-AT Walkers in The Empire Strikes Back
+Animation - 2/18/2014
 Animation on the Surface of a Vinyl Record
 Animatronic Robot Puppet is Part Toy, Part Learning Tool
 Another Day, Another Amazing Boston Dynamics DARPA Robot
@@ -930,6 +931,7 @@ Dark Art: Making 3D Shadow Puppets
 Darpa's Cheetah Bot Sets Speed Record for Robotic Running [Video]
 DataBot Mouse Intensifies the Drag-and-Drop Experience [Video]
 Daydreaming Correlates with Higher Working Memory
+Dear Comcast, re: Throttling Netflix and the Relative Value of Your Services
 Death Star-Inspired Home Theater Wall Tiling
 Dedicated GPS with Android Taps into Wi-Fi, Apps
 Deep Shot App Copies Web Data to Phone via Camera Photo
@@ -1653,6 +1655,7 @@ How To Use Android's Safe Mode to Save a Phone from Boot Loops
 How To Use Filters to Teach an Old Camera Lens New Tricks
 How To Use LEGO CAD Software To Make Amazing Custom Builds
 How To Use a PlayStation 4 Controller on PC
+How To Use the Xposed Framework for Android
 How To View the Venus Transit Today
 How To Visualize Graham's Number, If You Dare
 How Toshiba's New TV Sucks Zero Power in Standby Mode
@@ -1803,6 +1806,7 @@ Invention Through Illustration: Examples of Great Patent Art
 Investigating Why Boeing's 787 Dreamliner Batteries Caught Fire
 Invisibility Cloaks Made Possible with Carbon Nanotubes [Video]
 Ira Glass: The Gap Between Taste and Skill
+Iron Man 3 Scanline VFX Breakdown Reel
 Is It Too Late for a Unified Active 3D HDTV Standard?
 Is This Android Ice Cream Sandwich Running on a Nexus S?
 Is Verizon Violating FCC Rules By Blocking Free Tethering?
@@ -2349,6 +2353,7 @@ NYC's Second Ave Subway Project Photos are Otherworldly
 Nano-Technologists Aim to Improve the Ketchup Bottle
 Nanocapacitor Spray Has the Potential to Put Antennas Anywhere
 National Geographic Launches Phenomenal New Tumblr
+National Geographic's Vintage Collection Archivist
 Natural Machines Sets 3D Food Printing Sights on the Kitchen
 Nature's Seasons in Beautiful Time-Lapse
 Neal Stephenson Wants to Make Sword-Fighting in Games Not Suck
@@ -2478,6 +2483,7 @@ OnLive Desktop Streams Windows 7 to iPads
 One Day Builds: Adam Savage Demonstrates Weathering Tricks
 One Day Builds: Adam Savage Makes a Blade Runner Blaster Carrying Case
 One Day Builds: Adam Savage's Traveling Beaver Box
+One Day Builds: Customizing Adam's Hero Sword
 One Day Builds: Han Solo's DL-44 Blaster from Star Wars
 One Drug May Shrink Many Tumors
 One of Life's Greatest Challenges Solved: One-Handed Zippers
@@ -3262,6 +3268,7 @@ The Art and Technology of the New $100 Bill
 The Art of Film & Television Title Sequence Design
 The Art of Making Holograms
 The Art of Pen Making
+The Art of Photogrammetry: How To Take Your Photos
 The Art of Photogrammetry: Introduction to Software and Hardware
 The Art of Sculpting Ice
 The Art of the Cinematic Car Chase
@@ -3346,6 +3353,7 @@ The Best SSDs Today
 The Best Small TV Today (32-Inches or Smaller)
 The Best Small TV Today (32-Inches)
 The Best Standing Desks for Your Home or Office
+The Best Surge Protector Today
 The Best Travel Mug Today
 The Best Travel Power Strip (with USB) Today
 The Best USB 3.0 Thumb Drive
@@ -3425,6 +3433,7 @@ The Four Things Google Needs to Add to the Android Market
 The Future of App Development: Native or HTML5?
 The Future of Blu-ray: Compatibility, Compression, Confusion
 The Future of Skype: Tight WP7 and Xbox Integration, More Ads
+The Game Frame Pixel Art LED Display
 The George Lucas Super Live Adventure
 The GoPro Quadcopter Rises
 The Good and Bad News from an Early Galaxy Nexus Review
@@ -3460,6 +3469,7 @@ The Living Room PC, Part 2: The Keyboard and Mouse Problem
 The Lost Story of E.T.'s BMX Stunt Riders
 The Low Budget Camera Tech of Sam Raimi’s Evil Dead
 The Low Tech Origins of Found Footage Films
+The Magnified World, Up Close
 The Mailing Address of the International Space Station
 The Maker Movement's Precarious Place in Society and Education
 The Makers of Gorilla Glass Unveil Lotus Glass
@@ -3550,6 +3560,7 @@ The Samsung Galaxy Tab 7.0's $250 Pricing Problem
 The Science and Myth of Burning In New Headphones
 The Science of Cyanide in Skyfall and Other Spy Flicks
 The Science of Football Helmet Testing
+The Science of Sleep Paralysis
 The Science of Spherification: How to Transform Food to Balls!
 The Science of Strike-Anywhere Matches
 The Science of Tintype Photography

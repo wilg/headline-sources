@@ -670,6 +670,7 @@ $8 Billion: What This Week's Market Losses Cost The World's Richest Man
 366,000 New Claims For Jobless Benefits, Down Only Slightly
 37 Charged In Drug Sting At Boeing's Pa. Plant
 37 Killed In Fire At Russian Psychiatric Hospital
+4 Dead In Thai Protests; Prime Minister Faces Charges In Rice Deal
 4 Dead, 17 Hurt As Train Hits Veterans Parade Trailer In Texas
 4 Exchanges You Should Listen To About NSA Surveillance
 4 Killed As Cambodian Police Fire At Striking Garment Workers
@@ -757,6 +758,7 @@ A 'Numb' Colleague On Hetherington, Hondros And What Photojournalists Do
 A 'Recurring Wound': Penn State Removes Joe Paterno Statue
 A 'Transformational Gift': New York's Met Will Receive $1 Billion Cubism Collection
 A 2,000-Mile Mistake: An Emperor Penguin Ends Up In New Zealand
+A Big Asteroid Just Flew By, And Guess What? More Are Coming
 A Blooming Mistake: Irish James Joyce Coin Misquotes Author
 A Bombing In Syria Wipes Out A Family, But A Baby Survives
 A Brief History Of Oklahoma Tornadoes
@@ -1390,6 +1392,7 @@ Anti-Bullying Case: Students Ordered To Hit 6-Year-Old, Police Say
 Anti-Corruption Crusader Strikes Deal With Indian Police, Ending Standoff
 Anti-Doping Chief: Armstrong Knows Truth, Sticking To 'Baseless Soundbites'
 Anti-Government Demonstrations Rock Thai Capital
+Anti-Government Protests In Ukraine Turn Deadly
 Anti-Japan Protests Erupt In China Over Disputed Islands
 Antitrust Monitor Ordered For Apple Over E-Book Price Fixing
 Antitrust Settlement With EU Calls For Google To Tweak Results
@@ -1898,6 +1901,7 @@ Beer Fridge Blamed For Cellphone Network Blackout
 Before And After Irene, Ron Paul's No Fan Of FEMA
 Before Dying In Inferno, Little Boys Were Struck
 Before He Became 'Tricky Dick,' Richard Nixon Wrote Love Letters
+Before Northeast Thaws, Thundersnow Will Roll Through
 Before Obama Invites Teddy Roosevelt Comparisons, Read TR's Words
 Before Obama's Plan Is Out, NRA Calls Him An 'Elitist Hypocrite'
 Behind Closed Doors: Abortion In The African-American Community:
@@ -2252,6 +2256,7 @@ Book News: Italy Has A New Reality Show â For Writers
 Book News: J.K. Rowling 'Very Angry' That Law Firm Leaked Her Name
 Book News: J.K. Rowling Says She Regrets Matching Ron And Hermione
 Book News: J.K. Rowling Tells 'Harry Potter' Backstories
+Book News: J.K. Rowling's Second Crime Novel Coming Out In June
 Book News: James McBride, Surprise National Book Award Winner
 Book News: Jane Austen Bank Note Dinged As 'Airbrushed Makeover'
 Book News: Jane Austen To Replace Darwin On The 10-Pound Note
@@ -2278,6 +2283,7 @@ Book News: Manil Suri Takes Bad Sex In Fiction Award
 Book News: Marcella Hazan, Italian Cookbook Author, Dies
 Book News: Margaret Thatcher Authorized A Posthumous Biography
 Book News: Mary Ingalls May Not Have Gone Blind From Scarlet Fever
+Book News: Mavis Gallant, Master Of The Short Story, Dies At 91
 Book News: Maya Angelou Out Of Hospital, Recovering At Home
 Book News: Medical Thriller Writer Michael Palmer Dies At 71
 Book News: Memoir Coming From Obama's Half-Brother
@@ -2559,6 +2565,7 @@ CBO Estimates $1.1 Trillion Federal Deficit
 CBO Warns Again: Ignoring Fiscal Cliff Could Result In Recession
 CBO: Budget Compromise Would Cut At Least $2.1 Trillion
 CBO: Economy Remains In 'Severe Slump'
+CBO: Minimum Wage Hike Could Boost Paychecks â And Cut Jobs
 CBO: Supreme Court Ruling On Health Care Saves U.S. $84 Billion Over 11 Years
 CBS News: Roberts Switched His Vote On Health Care
 CBS's Lara Logan Feared 'Tortuous Death'
@@ -2880,6 +2887,7 @@ Chinese Cyber-Hacking Discussed At Obama-Xi Summit
 Chinese Debate Former Tycoon's Death Sentence For Fraud
 Chinese Dissident Reportedly Hiding In U.S. Embassy
 Chinese Dreams: Freedom, Democracy And Clean Air
+Chinese Firm Gets Approval To Buy Electric Carmaker Fisker
 Chinese Military Scholars Accuse U.S. Of Launching 'Internet War'
 Chinese Paper Makes Unprecedented Plea For Reporter's Release
 Chinese Patrol Boats Stand Down In Islands Row With Japan
@@ -3713,6 +3721,7 @@ Dozens Sickened By Fumes From Refinery Fire Near San Francisco
 Dozens, Including Sierra Club Director, Arrested At White House Keystone Protest
 Dr. Jack Kevorkian In Hospital
 Dr. Jack Kevorkian, 'Dr. Death,' Has Died
+Dr. Seuss's Private Hat Collection Is Quite A Sight
 Dramatic Crash Video Among Latest Clues In Asiana Accident
 Dramatic End To Alabama Hostage Standoff Took Careful Planning
 Dramatic Video: Airbus Jet Clips Tail Of Second Plane
@@ -4178,6 +4187,7 @@ Facebook Unveils Graph Search, Adding A New 'Pillar' To Services
 Facebook Ups Its Forecast: Says Shares Will Sell For $34 To $38
 Facebook Users Don't 'Like' This: Status Update Error Messages
 Facebook Will Allow Users To Vote On Privacy Changes
+Facebook Will Buy WhatsApp Message Service For $19 Billion
 Facebook Will Reportedly Shift Privacy Policy To 'Opt In' â Not 'Opt Out'
 Facebook's Announcement: Video Calling
 Facebook's IPO Filing Could Come Next Week, 'Wall Street Journal' Says
@@ -5650,6 +5660,7 @@ If The World Picked U.S. President, Election Would Be A Blowout
 If Verizon Sells A Record $49B In Bonds, Are Good Times Ahead?
 If WikiLeaks' Assange Steps Out, He's Due To Be Arrested
 If Women Are In Combat, Men May Try To Protect Them, Santorum Says
+If Yellowstone Could Talk, It Might Squeak. Blame The Helium
 If You Believe The Farmer's Almanac, Get A Good Coat
 If You Love Dogs, You'll Love This Video
 If You Must Fry A Turkey, Listen To William Shatner First
@@ -5698,6 +5709,7 @@ In A Long And Bloody War, A Potential Breakthrough
 In A Swirl Of Humanity, A Chance Encounter With A Saint
 In About-Face, Massey COO Chris Adkins Will Not Stay After Merger
 In About-Face, R.I. Governor Describes Spruce As A Christmas Tree
+In Act Of Protest, Ai Weiwei Vase Is Destroyed At Miami Museum
 In Afghanistan, A Struggle To Stem Deaths From 'Insider Attacks'
 In Afghanistan, Panetta Says Mission Continues
 In Afghanistan: Bomb Kills Six Americans; Shocking Video Of Woman's Execution
@@ -6294,6 +6306,7 @@ Jack Welch Says He Was 'Right About That Strange Jobs Report'
 Jacob & Sophia Rule Among Baby Names, But Liz & Liam Are Hot
 Jailed Leader Of Egypt's Muslim Brotherhood Suffers Heart Attack
 Jailed Massey Mine Boss Claims He Was Company's Sacrificial Lamb
+Jailed Protest Leader Urges Venezuelans To Keep Demonstrating
 Jailed Tunisian Rapper Is Freed; Song Called Police 'Dogs'
 Jailing Of Ukrainian Opposition Leader Sparks Outrage In Europe
 James 'Whitey' Bulger Guilty Of Murder, Racketeering
@@ -6382,6 +6395,7 @@ Jim Kelly, Actor In 'Enter The Dragon,' Dies
 Jim Lehrer Stepping Away From Anchor Role On 'PBS NewsHour'
 Jim Marshall, Amp Pioneer Known As 'The Father Of Loud,' Has Died
 Jiminy Cricket! Just What We Need: A Cockroach That Jumps
+Jimmy Fallon, 'Your Host ... For Now,' Takes Over 'Tonight'
 Jimmy Savile Sexually Abused Hundreds, Police Report Concludes
 Jimmy Wong Wants To Give Alexandra Wallace 'A Big Hug'
 Jittery Central Bankers Opt For Lower Rates In Europe, China
@@ -6654,6 +6668,7 @@ Justice Department's Handling Of Sen. Stevens Case To Be Aired On Capitol Hill
 Justice Department's No. 3 Stepping Down
 Justice Department: Violent Crime Drops 12 Percent In 2010
 Justice Dept. Accuses Apple And Others Of Fixing E-Book Prices
+Justice Dept. Asks For Help Finding Prisoners Who Deserve Clemency
 Justice Dept. Drops Non-Disclosure Proposal For FOIA Requests
 Justice Dept. Finds No Malfeasance In Black Panther Voter Intimidation Case
 Justice Dept. Lawyer Exonerated, Back With Public Integrity Section
@@ -7963,6 +7978,7 @@ Need A Hug? Go To 'The Nicest Place On The Internet'
 Need A Lift? Check Out Michigan Retirement Home Residents' 'LipDub'
 Need A Lift? See Japan's New 'Branomics Bra'
 Need A Tattoo Translated? Forget The British Foreign Office
+Negotiations In Ukraine Under Close Scrutiny After Bloodshed
 Negotiators At Six-Nation Talks See Signs Of Hope In Iran Nuclear Standoff
 Neighbor In Cleveland: 'I Thought This Girl Was Dead!'
 Neighboring Crises In South Sudan, Central African Republic
@@ -8350,6 +8366,7 @@ Nuclear Waste Seeping From 6 Containers In Washington
 Nuclear Waste Seeping From Container In Hazardous Wash. State Facility
 Number Of Domain Names To Explode
 Number Of Homeless Declines Again, But Gains Aren't Universal
+Nun Who Broke Into Nuclear Complex Gets 35-Month Jail Term
 Nuns' Objection To Health Care Law Is Unwarranted, Justice Dept. Says
 Nurse Who Fell Victim To Royal Hoax Was Found Hanged, Authorities Say
 Nurse Who Transferred Prank Call About Pregnant Kate Middleton Is Found Dead
@@ -8517,6 +8534,7 @@ Obama Vs. Romney: It's Debate Night In Denver
 Obama Vs. Romney: The Presidential Candidates Set For Round 2
 Obama Wants 'Explanation' For Opposing Jobs Plan
 Obama Wants FBI Chief To Stay Two Extra Years
+Obama Wants Tougher Fuel Standards For Big Trucks
 Obama Was 'Spewing Coals' When Budget Deal Collapsed, Boehner Says
 Obama Will Announce Aid Package For Egypt And Tunisia
 Obama Will Appoint Julia Pierson As Secret Service Director
@@ -9512,6 +9530,7 @@ Punxsutawney Phil Vs. The Farmers' Almanac: Whom Do You Trust?
 Puny Humans: Robot Plays Rock, Paper, Scissors With 100 Percent Accuracy
 Purging Candidates Offers Pakistan A Bit Of Comic Relief
 Push Comes To Shove In Turkey's Parliament Over Judicial Bill
+Pussy Riot's Nadya And Masha Detained In Sochi, Then Released
 Pusuke, World's Oldest Dog, Dies At Age 26 (Or 125 In 'Human Years')
 Put A Camera On An Eagle And What Do You Get? Soaring VIDEO
 Put Off By 'Too Many Mitts,' 'Salt Lake Tribune' Endorses Obama
@@ -10805,6 +10824,7 @@ Soldier Accused Of Massacre 'Just Snapped,' Official Says
 Soldier Doesn't Remember Much, Lawyer Says
 Soldier Suspected In Massacre To Meet With Lawyer Today
 Soldier Who Admitted To Massacre Hears From Afghan Survivors
+Soldiers' 'Fun' Photo With Flag-Draped Coffin Sparks Outrage
 Somali Militants Claim To Have Shot Down U.S. Drone
 Somalia: Stolen Food Aid, And All To Blame
 Some Bit Of Good News: Philadelphia 'Dodged A Bullet'
@@ -11660,6 +11680,7 @@ There It Is! Area 51 Revealed In Declassified CIA Report
 There May Never Be An Explanation In Death Of MI6 Agent Found In Locked Bag
 There Will Be No Friday This Week In Samoa
 There's A 'Bear Epidemic' Out West, And It's 'About To Get Worse'
+There's A Clown Shortage: Who Will Fill Those Big Shoes?
 There's No Ignoring This 800-Pound Gator
 There's No Place For Sex Assaults In Military, Obama Says
 These Cats Are Mules: Kitties Smuggle Goods Into Prisons
@@ -11984,6 +12005,7 @@ Top Stories: Deadly Minn. Office Shooting; Chinese Politician Accused Of Corrupt
 Top Stories: Deadly Palestinian - Israeli Fighting; BP Ready To Plead Guilty?
 Top Stories: Deadly Texas Twisters; Suicide Blast In Afghanistan
 Top Stories: Deadly Train Crash; Manning Trial Nears End
+Top Stories: Deadly Ukrainian Unrest; Nun Sentenced
 Top Stories: Deal On Greek Debt; Key Step In Afghanistan
 Top Stories: Debt Deal In Europe, Banks Swindled In Iran
 Top Stories: Debt Limit History; Signing Up For Obamacare
@@ -12264,6 +12286,7 @@ Top Stories: Privacy Questions Mount; Latest Jobless Numbers
 Top Stories: Private Rocket Launched Into Space; Checking Iran's Nuclear Program
 Top Stories: Private Rocket Returning Home; Bloomberg Wants Big Gulp Ban
 Top Stories: Private Space Rocket To Dock; Egypt Faces Possible Runoff Vote
+Top Stories: Pussy Riot Members Detained; Fallon On 'Tonight'
 Top Stories: Pussy Riot Releases; Deadline Day For Health Care
 Top Stories: Questions In Libya; Rangers Win; Jobs Bill Blocked
 Top Stories: Questions On Syria; Nobel Winning Poet Heaney Dies
@@ -12660,6 +12683,7 @@ U.K. Admits 'Limited' Role In India's 1984 Raid On Sikh Shrine
 U.K. Aided India In Raid On Sikh Shrine, Documents Suggest
 U.K. Back In Recession, After First Quarter Contraction
 U.K. Blocks Extradition Of Hacker Accused Of Accessing Pentagon Computers
+U.K. Court OKs Detention Of Reporter Glenn Greenwald's Partner
 U.K. Defense Secretary Steps Down
 U.K. Expels Iranian Diplomats
 U.K. Faces Massive Strike In Protest Of Austerity Measures
@@ -12808,6 +12832,7 @@ U.S. Gas Prices Expected To Remain Low For Summer
 U.S. General Apologizes To 'Noble People Of Afghanistan' For Quran Burnings
 U.S. Gives Afghanistan New Ally Status As Part Of 2014 Transition
 U.S. Government Sues Wells Fargo In Mortgage Case
+U.S. Government Will Back Loans For Nuclear Power
 U.S. Growth Still Sluggish, But Better Than First Thought
 U.S. HVAC Firm Reportedly Linked To Target's Data Security Breach
 U.S. Has Growing Concerns About Syria's Chemical Weapon Stockpile
@@ -13573,6 +13598,7 @@ Washington Navy Yard, Site Of Shooting, Has Long History
 Washington Set To Be Seventh State To OK Same-Sex Marriages
 Washington State Governor Certifies Gay Marriage Law
 Washington State Lawmakers OK Gay Marriage
+Washington's Corcoran Museum To Be Taken Over By National Gallery
 Wasting Away: An Earth Day Look At Living Among Garbage
 Watch Out! More Space Debris Coming Our Way
 Watch Out! Small Asteroid Will Narrowly Miss Earth Today
@@ -14090,6 +14116,7 @@ World Series Matchup Is Set: Giants, Tigers, Both Plucky, Will Face Off
 World War II Code Is Broken, Decades After POW Used It
 World War II-Era German Bomber Raised Near English Coast
 World's Largest Ferris Wheel Takes Shape In Las Vegas
+World's Largest Oyster Is Size Of A Man's Shoe
 World's Most Expensive Whisky? It's Not The One We Toasted
 World's Timekeepers Will Decide The Fate Of The Leap Second
 World-Record Snakehead Fish Caught In U.S.
