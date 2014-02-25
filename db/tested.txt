@@ -115,6 +115,7 @@ A Transhuman Conundrum: Implantable Sensors
 A Transhuman Conundrum: The Retinal Implant
 A Transhuman Conundrum: Uploading Your Consciousness
 A Tribute to The Drive-In Movie Theater
+A Tribute to the 1966 Batman TV Series
 A Video Exploration of Pluto's Planetary Status
 A Weather Balloon, Six GoPro Cameras, and Space Battleship Yamato
 AMD Adds Custom Application Profiles to Catalyst 12.1 Drivers
@@ -232,6 +233,7 @@ Amazon's New Flow App Scans Objects in Real-Time
 Amazon's New Locker Service: Crazy or Crazy Brilliant?
 An $11,000 Reason You Shouldn't Point Lasers at Airplanes
 An Android Advocate's Perspective on Apple iOS 5
+An Argument Against Binge Watching TV
 An Awesome Projector That I Would Buy
 An Empty, Alien Philadelphia in Time-Lapse
 An Expert Weighs in on the "Problem" with 48FPS in the Hobbit
@@ -592,6 +594,7 @@ Bionic Ear Combines Printed Cartilage and Better-Than-Human Hearing
 BitTorrent Bundle is Like Peer-to-Peer Shareware
 Bits to Atoms: An Overview of Today's 3D Printing Technologies
 Bits to Atoms: Making a MintyBoost USB Charger
+Bits to Atoms: Your 3D Printing Software Options
 Bizarre Spycraft: The Most Questionable CIA Operations
 BlackBerry Announces BlackBerry 10, Z10 and Q10 Smartphones
 BlackBerry PlayBook Android App Player Leaked
@@ -1288,6 +1291,7 @@ Google Play App Roundup: Total War Battles, Astro File Manager, and HueBrix
 Google Play App Roundup: TunnelBear VPN, Wild Blood, and Zagat
 Google Play App Roundup: Turntable.fm, Mini Motor Racing, and CloudOn
 Google Play App Roundup: Twilight, Mosaique, and Carmageddon
+Google Play App Roundup: Type Machine, Colin McRae Rally, and Pathogen
 Google Play App Roundup: VSCO Cam, Assassin's Creed Pirates, and Clash of Puppets
 Google Play App Roundup: Valet, Into the Dead, and Epoch
 Google Play App Roundup: WarGames, Radiolab, and Spider-Man
@@ -1588,6 +1592,7 @@ How To Build a Custom Timer Clock and Learn Arduino In The Process
 How To Build a Kick-Ass Gaming PC (2013)
 How To Build a PC Optimized for Gaming
 How To Build a Third-Person Camera Rig with HD Video
+How To Build an Igloo
 How To Build an Inexpensive Vacuum Forming Rig
 How To Buy RAM For Your Next PC
 How To Buy and Test a Third-Party Battery for Android Phones
@@ -2125,6 +2130,7 @@ MakerBot Mystery Build: On The Rocks
 MakerBot Mystery Build: Plastic, Not Tin
 MakerBot Mystery Build: Refinement
 MakerBot Mystery Build: Run of the Mill
+MakerBot Mystery Build: Running Cool
 MakerBot Mystery Build: Seeing Red
 MakerBot Mystery Build: Shenron By Another Name
 MakerBot Mystery Build: Smart Cookie
@@ -2621,6 +2627,7 @@ Practical Effects Masters on the Pros and Cons of CGI
 Practical Special Effects - 8/6/2013
 Precision Gear Porn: Why Mechanical Wrist Watches are so Cool (and Pricey)
 Predicting the Ethical Dilemmas of Fully Autonomous Cars
+Premium: Adam Reacts to the Zero Theorem Trailer
 Premium: Building a Cardboard Kinetic Creatures Kit
 Premium: CES Trendspotting and Michael Bay's Breakdown
 Premium: Gearing Up for the First Day of CES 2014
@@ -3018,6 +3025,7 @@ Show and Tell: Podcasts in the Shower
 Show and Tell: Putting Old Glass to Work
 Show and Tell: Rollin' Rollin' Rollin'
 Show and Tell: Roost Laptop Stand
+Show and Tell: Settlers of Catan Boards
 Show and Tell: Six Million Dollar Home
 Show and Tell: Star Wars Behind-the-Scenes Reads
 Show and Tell: The Best Rubber Band Gun Ever
@@ -3441,6 +3449,7 @@ The Google Hangout Q&A - 6/11/2013
 The Great Smartphone Screen Size Debate
 The HP TouchPad Struggles for Fans, Not Sales
 The Hazards of Removing a Sock in Space
+The Hidden World Of Camouflage
 The History Behind Why We're So Scared of Clowns
 The History of Fallen Astronaut: Man's First Sculpture on the Moon
 The History of LEGO, Beautifully Animated
@@ -3651,6 +3660,7 @@ The Zoidberg Project, Part 4: Let's Start Sculpting!
 The Zoidberg Project, Part 5: Clawing Away
 The Zoidberg Project, Part 6: How I Got Started
 The Zoidberg Project, Part 7: Sculpting the Details
+The Zoidberg Project, Part 8: Rethinking the Claws and Feet
 The iOS 5 Features Apple Didn't Discuss at WWDC
 The iPod Nano's 16 New Watch Faces are a Free Upgrade
 Theoretical vs. Actual Bandwidth: PCI Express and Thunderbolt
@@ -4143,6 +4153,7 @@ Yo, Your Yo-Yo Will Still Work... In Spaaaaaaaace!
 You Can Build Your Own Portal 2 PotatOS
 You Guys Should Probably Be Playing Hundreds
 You Probably Shouldn't Watch This: Video of a LASIK Procedure
+You Should Use A Mechanical Keyboard
 You Should Watch This Perseid Timelapse Right Now
 You Skelly? The Smithsonian’s Fish X-rays Are Unexpectedly Beautiful
 YouSendIt Aims for Dropbox with Unlimited Storage Plan

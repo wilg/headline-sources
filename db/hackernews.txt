@@ -511,6 +511,7 @@ ACLU launches phone app to help motorists secretly record police stops
 ACM considered harmful
 ACTA killed in EU parliament: 478 votes to 39
 ACTA will force border searches of laptops, smartphones for pirated content
+AI
 AI are taking jobs
 AIDS vaccine in final testing
 AK47 assault rifle inventor Kalashnikov dies at 94
@@ -572,6 +573,7 @@ About PayPal's Node vs Java “fight”
 About Python 3
 About normalize.css: a modern, HTML5-ready alternative to CSS resets
 About the Reuters article
+About the security content of iOS 7.0.6
 About those vector icons
 Abrash on Valve: How I Got Here, What It's Like, and What I'm Doing
 Abusing Emoji in iOS and Your Mac
@@ -749,6 +751,7 @@ Amazon’s problem isn’t the outage, it’s the communication
 Amber Waves of Green
 Ambient bus arrival monitor from hacked Linksys WRT54GL
 Amen: the world's most famous sample and the rise of the musical copyright
+America Online to Buy Internet Chat Service for $287 Million (1998)
 America knows everything
 America to immigrants: keep your entrepreneurs
 America's License Raj
@@ -999,6 +1002,7 @@ Apple's HTTP POST caching is a bug
 Apple's Module proposal to replace headers for C-based languages [pdf]
 Apple's New Pinch-To-Zoom Monopoly is Bad News
 Apple's Role in Japan during the Tohoku Earthquake
+Apple's SSL/TLS bug
 Apple's Supply Chain Secret
 Apple's domains
 Apple's iCloud will automatically store, sync data for free
@@ -1018,6 +1022,7 @@ Applications Open for Winter 2012 YC Funding
 Applications Open for Winter 2013 YC Funding
 Applications open for Y Combinator's summer 2012 funding cycle
 Applications open for summer 2013 YC funding
+Applications open for the summer 2014 YC batch
 Appmaker
 Apps? No root? Your device serves others, warns Berners-Lee
 April 5, 2007: "Show HN, Dropbox"
@@ -1277,6 +1282,7 @@ Bank robbery suspect wants NSA phone records for his defense
 BankSimple invites first customers; rebrands itself as Simple
 BankSimple: We have cards
 Bankers now Too Big to Jail
+Banking Startup Simple Acquired for $117M, Will Continue to Operate Separately
 Banned from Kickstarter for Being a Stalking Victim
 Barack Obama Directs All Federal Agencies to Have an API
 BareMetal is a 64-bit OS for x86-64 based computers
@@ -1405,6 +1411,7 @@ Bitcoin-Central.net is now licensed to operate as a bank in Europe
 Bitcoins can now be used to pay for Domino’s Pizza
 Bitcoins the hard way: Using the raw Bitcoin protocol
 Bitcoins: The Second Biggest Ponzi Scheme in History
+Bitcrypt broken
 Bitey: Import LLVM bitcode directly into Python
 Bitrot and atomic COWs: Inside “next-gen” filesystems
 Bitterness, Anger And Betrayal At MySpace
@@ -3160,6 +3167,7 @@ German Parliament says: Stop Granting Software Patents
 German Patent Ruling Threatens Microsoft's Windows Phone Earnings From Android
 German Police Used Only 85 Bullets Against People in 2011
 German government urges public to stop using Internet Explorer
+German tank problem
 Germans Loved Obama. Now We Don’t Trust Him
 Germans accuse U.S. of Stasi tactics before Obama visit
 Germany Minister of Justice demands immediate response to US spying on Germany
@@ -3302,6 +3310,7 @@ Go 1.1 is released
 Go 1.2
 Go 1.2 is released
 Go After 2 Years in Production
+Go Ahead, Let Your Kids Fail
 Go Daddy No Longer Supports SOPA
 Go Pro on a soaring eagle [video]
 Go Rocks - How Can We Avoid Something This Bad In The Future?
@@ -3874,6 +3883,7 @@ Hemingway, Hounded by the Feds
 Herd Immunity Demonstration
 Here come the encryption apps
 Here is Godaddy’s statement in support of SOPA
+Here is a thing that happened
 Here is today
 Here is why vim uses the hjkl keys as arrow keys
 Here's how I deal with users who steal
@@ -4318,6 +4328,7 @@ How to Make Perfect Thin and Crisp French Fries (2010)
 How to Make Text Look Interesting: Minimalist Web Design
 How to Make Trillions of Dollars
 How to Make Your Site Look Half-Decent in Half an Hour
+How to Make Yourself Work When You Just Don’t Want To
 How to Make a Computer Operating System in C/C++
 How to Make and Use a Transparency Grenade
 How to Participate in Hacker News
@@ -4516,6 +4527,7 @@ I did the scariest thing I can imagine: I resigned
 I don't "get" art
 I don't hire unlucky people
 I don't know how to IE6
+I don't know, Timmy, being God is a big responsibility
 I don't learn anything on HN anymore, bring back the upvote count
 I don't program in my spare time. Does that make me a bad developer?
 I don't want to download your app
@@ -4801,6 +4813,7 @@ Injectable oxygen keeps people alive without breathing
 Innovation and the Bell Labs Miracle
 Inserting Artificial Objects into Photographs
 Inside An Illegal Party In An Abandoned Subway Station Deep Under NYC
+Inside DuckDuckGo, Google's Tiniest, Fiercest Competitor
 Inside Google Spanner, the Largest Single Database on Earth
 Inside NASA’s Mysterious Rubber Room
 Inside Nick Denton's phony, hypocritical class war against tech workers
@@ -5006,6 +5019,7 @@ It's like JSON. but fast and small.
 It's not a talent shortage, it's a hiring problem
 It's not just Flash for Mobile, Flex is dead too
 It's official: developers get better with age. And scarcer.
+It's time to break up the NSA
 Italy and the euro: On the edge
 It’s Not China; It’s Efficiency That Is Killing Our Jobs
 It’s Not a Bubble, People; It’s a Pyramid Scheme
@@ -5111,6 +5125,7 @@ JetBrains releases open-source Python IDE
 Jetpants: a MySQL toolkit for managing billions of rows and hundreds of DBs
 Jetstrap for Bootstrap
 Jewish problems
+Jim Weirich's final GitHub commit
 Job placement program for top students in Stanford's online AI class
 Jobs on the importance of saying "no"
 Jobseekers Invited to “Apply Via API”
@@ -5482,6 +5497,7 @@ LinkedIn Intro: Doing the Impossible on iOS
 LinkedIn Is Acquiring Contacts Start-Up Rapportive (YC S10)
 LinkedIn Mobile Moved from Rails to Node: 27 Servers Cut and Up to 20x Faster
 LinkedIn is a Virus
+LinkedIn is not using email contacts to find people who have an account already
 LinkedIn sued by users who say it hacked their e-mail accounts
 LinkedIn ‘Intro’duces Insecurity
 LinkedIn: The Creepiest Social Network
@@ -6127,6 +6143,7 @@ My Ultimate Developer and Power Users Tool List for Mac OS X (2011 Edition)
 My Year as an Amateur Android Game Developer
 My biggest frustration with Google AdWords
 My boss decided to add a “person to blame” field to every bug report
+My children’s book on technology raised 100k within 24 hours – here’s how
 My customer wants me to record a video of how I develop his software product
 My dad taught me cashflow with a soda machine
 My dad unexpectedly uses my Linux laptop to get real work done
@@ -6275,12 +6292,14 @@ Neil Armstrong has died at 82 Today
 Neil Gaiman: Why defend freedom of icky speech?
 Neil deGrasse Tyson AMA
 NeoCities
+Neovim
 Nerd Fort
 Nerds and Male Privilege
 Nest - The Learning Thermostat
 Nest introduces their Smoke Detector
 Net neutrality is half-dead: Court strikes down FCC’s anti-blocking rules
 Netcat – The swiss army knife of networking
+Netflix Agrees to Pay Comcast to End Web Traffic Jam
 Netflix Is Killing BitTorrent in The US
 Netflix Now The Largest Single Source of Internet Traffic In North America
 Netflix Performance on Top ISP Networks
@@ -6614,6 +6633,7 @@ On sexism in the tech industry - rebuttal
 On switching to Arch Linux
 On the Cleverness of Compilers
 On the Phenomenon of Bullshit Jobs
+On the Timing of iOS’s SSL Vulnerability and Apple’s ‘Addition’ to NSA’s PRISM
 On the Usability of Codecademy
 OnLive assets acquired by newly formed company
 OnStar Begins Spying On Customers’ GPS Location For Profit
@@ -6631,6 +6651,7 @@ One cost engineers and product managers don't consider
 One hiring filter that works
 One of Apple’s Best Ideas Ever — Made Worse
 One of the Best Bits of Programming Advice I ever Got
+One of the Most Alarming Internet Proposals I've Seen
 One reason Gmail for iOS still sucks
 One with Vim
 One-electron universe
@@ -7138,6 +7159,7 @@ Progressive Enhancement Is Dead
 Progressive JPEGs: a new best practice
 Project Euler
 Project Loon
+Project Tango
 Projects: hijack (Hijacking the iPhone earphone jack)
 Promising HIV vaccine passes phase one human trials with 90% success rate
 Proof Claimed for Deep Connection between Prime Numbers
@@ -7229,6 +7251,7 @@ Quake Video Game Industry Legend Paul Steed Has Passed Away
 Quantum entanglement shows that reality can't be local
 Quark: A secure Web Browser with a Formally Verified Kernel
 Question for PG/HN: Where do you think we stand on your list of "ideas"?
+Questions People Ask When I Tell Them I Own an Airplane
 Questions about Cameron’s ‘new’ porn-blocking
 Questions to ask your potential employer
 Questions you’ll (probably) get asked at your YC interview
@@ -7276,6 +7299,7 @@ Racism in Tech
 Rackspace accused of patent infringement for hosting Github
 Rackspace cloud beats Amazon EC2, by a lot
 Ractive.js
+Radiation-hardened quine
 Radio Shack to start stocking Arduino, Other Goodies
 Raided 9-Year-Old Pirate Bay Girl Came To Save Us All
 Rails 3 - Fully Loaded
@@ -7648,6 +7672,8 @@ Sally Ride, first American woman in space, has died at 61
 Salman Khan of Khan Academy AMA on reddit
 Salt, We Misjudged You
 Salt: Like Puppet, Except It Doesn’t Suck
+Salted Password Hashing – Doing it Right
+Sam Altman for President
 Sam Altman will clean your house for $5
 Sam Soffes open sources Cheddar for iOS
 Sample App with Backbone.js and Twitter Bootstrap
@@ -7902,6 +7928,7 @@ Show HN: Gitter – Chat for GitHub
 Show HN: Given an API, Generate client libraries in Node, Python, PHP, Ruby
 Show HN: Gmail.js – JavaScript API for Gmail
 Show HN: Google Charts done in Canvas, side project
+Show HN: Google Music for Mac
 Show HN: Gridspot, 10x cheaper cloud compute using distributed computing
 Show HN: HN Trends - like Google Trends, but for Hacker News
 Show HN: Habit List - my first iOS app
@@ -8055,6 +8082,7 @@ Show HN: We made a spam-free lyric search engine
 Show HN: We made an addictive way to browse pictures on reddit
 Show HN: We measure classroom confusion
 Show HN: We open sourced Lockitron's crowdfunding app
+Show HN: We've open-sourced our bootstrapped startup, ShareLaTeX
 Show HN: Webflow - Design responsive websites visually
 Show HN: Weekend project - Magnific Popup
 Show HN: Weekend project, Intro.js
@@ -8219,6 +8247,7 @@ So You Want To Be A Breaker, Part 1: Web Security
 So You Want to Be a Security Expert
 So You Want to be a Programmer
 So You'd Like to Make a Map using Python
+So very sad to hear about the passing of Ruby legend Jim Weirich
 So what happened to the HN server?
 So what's wrong with 1975 programming? (2008)
 So you are making good money, now STFU
@@ -9597,6 +9626,7 @@ This Is Why You Don't Go to the Gym
 This Is the Gyro-Stabilized, Two-Wheeled Future of Transportation
 This Isn't the Petition Response You're Looking For
 This Man Thinks He Never Has to Eat Again
+This Man's $600K Facebook Disaster Is a Warning For All Small Businesses
 This One Hurts: Dr. Walter Bortz on Dr. John McCarthy
 This Photograph Is Not Free
 This Site’s Domain is Stolen
@@ -9679,6 +9709,7 @@ TinyProj connects developers, designers, etc. with paid, short-term projects.
 Tips for Remote Unix Work (SSH, screen, and VNC)
 Tired of Being Tired
 Titan, one of Saturn's moons, has an underground ocean
+Tmux 1.9 released
 To Elon Musk and the Model S: Congratulations
 To Encourage Biking, Cities Lose the Helmets
 To Stop Procrastinating, Look to Science of Mood Repair
@@ -10033,6 +10064,7 @@ Using python and k-means to find dominant colors in images
 Using the HTML5 Fullscreen API for Phishing Attacks
 Using unix as your IDE
 V for Vendetta and the Rise of Anonymous - by Alan Moore
+VAXen, my children, just don't...
 VC Decries Airbnb’s Recent Funding for Founder Control and Cashout
 VC Pitches in a Year or Two
 VLC 2.1.0
@@ -10129,6 +10161,7 @@ Visas for entrepreneurs
 Visitor Tracking Without Cookies (or How To Abuse HTTP 301s)
 Visitor.js
 Visual Cryptography
+Visual Programming Languages – Snapshots
 Visual Studio '11' Announced
 Visual Studio 2013 released to web
 Visual Studio and Team Foundation Server will have Git support
@@ -10146,6 +10179,7 @@ Voyager 1 is on the edge, and so is he
 Voyager 1 spots new region at the edge of the Solar System
 Voyager 1 this close to leaving solar system
 Voyager Set to Enter Interstellar Space
+Voynich Manuscript partially decoded, text is not a hoax, scholar finds
 Vulnerabilities in Heroku's Build System
 W3C HTML5 Logo Unveiled
 W3C OKs Adding DRM into HTML5 Spec
@@ -10559,6 +10593,7 @@ Who Does Facebook Think You Are Searching For?
 Who Killed Men's Hats? Think Of A Three Letter Word Beginning With 'I'
 Who Rules America: An Investment Manager's View on the Top 1%
 Who You Are
+Who helps your Linux distribution run smoothly? Thank a packager today
 Who inherits your iTunes library when you die?
 Who killed videogames?
 Who stole the Mona Lisa?
@@ -11066,6 +11101,7 @@ Wolfram Alpha doesn't "get it"
 Wolfram Language
 Woman Who Couldn’t Be Intimidated by Citigroup Wins $31 Million
 Woman removes SIM card from smart energy meter, uses $193k of 3G data
+Women Outnumber Men For The First Time In Berkeley’s Intro To Computer Science
 Women are rejecting marriage in Asia. The social implications are serious.
 Women, Tech Conferences and the Bullshit Surrounding It
 Woodcut Maps: Handcrafted wood-inlay maps, designed by you
@@ -11137,6 +11173,7 @@ Y Combinator's Graham Doesn't See "Bubble" in Technology
 Y Combinator's Graham Says Startups Must Improve Lives
 Y Combinator, Silicon Valley’s Start-Up Machine
 Y Combinator’s Paul Graham: We’re Looking For People Like Us
+Y Not – Adventures in Functional Programming (2012)
 YC Facelift: EXEC
 YC NYC, September 26
 YC S11 Company Seeks Front-End Hacker
@@ -11167,6 +11204,7 @@ Yale Discovers a Fungus That Eats Plastic
 Yale censored a student's course catalog site. I made an unblockable replacement
 Yale scientists explain how ketamine vanquishes depression within hours
 Yale students made a better version of its course catalog. Yale shut it down
+Yamaha's Latest Silent Brass
 Yammer agrees to Microsoft's $1 billion acquisition offer
 Yammer moving from Scala to Java
 Ydiff: Structural Comparison of Programs
@@ -11249,6 +11287,7 @@ Your First iOS App – 100% Programmatically
 Your IP. In JSON
 Your Lifestyle Has Already Been Designed
 Your Mac Keeps A Log Of Your Downloads
+Your Path to a $16B exit? Build a J2ME App
 Your Progress As A Programmer Is All Up To You
 Your Smartphone's Dirty, Radioactive Secret
 Your Startup Is Spam
@@ -11369,6 +11408,7 @@ xkcd: Instagram
 “Accounts merged and now my files are gone”
 “But The Client Wants IE 6 Support”
 “Dear subscriber, you are registered as a participant in a mass disturbance.”
+“Facebook turned me down” (2009)
 “I am calling you from Windows”: A tech support scammer
 “I hate almost all software” — Ryan Dahl
 “I wrote FAT on an airplane, for heaven's sake”

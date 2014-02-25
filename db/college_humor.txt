@@ -61,6 +61,7 @@
 10 Popular Magazines in the Videogame World
 10 Real Life Mascots for Your College Sporting Event
 10 Really General Affirmations For Your Aunt To Share On Facebook
+10 Reasons Hagrid Is Definitely a Drug Dealer
 10 Reasons It's Good Summer Is Almost Over
 10 Reasons Star Wars Movies Are Already Practically Disney Movies
 10 Reasons Why Bear Week Would Be Better Than Shark Week
@@ -441,6 +442,8 @@
 6 SUPER HOT Sex Moves From PG-13 Movies
 6 Services That Should Exist In The Pokemon World
 6 Sex Moves for When It's Freezing Outside
+6 Signs that House Cats Are Actually Ferocious Wild Animals
+6 Simple Tips for INCREDIBLE Sober Sex
 6 Simple Ways to Improve Bars
 6 Star Fox Advice Animals
 6 TV Shows with Puppets That Failed Miserably
@@ -448,6 +451,7 @@
 6 Things Less Annoying than the Jokes Made About Them
 6 Things Movies Teach You About Relationships That Are Completely Wrong
 6 Things Us Normal People Hate
+6 Things You Never Remember About Karaoke (Until It's Too Late)
 6 Types of Kisses You can Receive on New Year's Eve
 6 Types of Office Pranks
 6 Types of Susan Glenn
@@ -609,6 +613,7 @@
 8 More iPhone Apps I Wish Existed
 8 Movies That Turn To Sh*t After 20 Minutes
 8 New Punctuation Marks We Desperately Need
+8 New Relationship Statuses That Need to Be on Facebook
 8 New Year's Resolutions You'll Make And What You'll Really Do
 8 People Movies Made You Think You'd Meet
 8 Perfectly Cromulent Songs Inspired by The Simpsons
@@ -633,6 +638,7 @@
 8 Things That Still Bother Me About Back to the Future
 8 Things That Still Bother Me About Mrs. Doubtfire
 8 Things That Still Bother Me About She's All That
+8 Things You Don't Regret Not Doing in College
 8 Things You Really Should Do Now, and When You'll Actually Do Them
 8 Things You Saw Parodied A Million Times Before You Even Knew What They Were
 8 Things the Internet Ruined
@@ -646,6 +652,7 @@
 8 Ways To Skip Your Friends' Stupid Sh*t Now That It's Warm Out
 8 Ways to Get Away with Drinking in Public
 8 Weirdly Out Of Character Classic Simpsons Jokes
+8 Words Not to Use in Your OKCupid Profile
 8 Worst Case Scenarios During Sex, and How to Deal With Them
 8 iPhone Apps I Wish Existed
 9 Bumper Stickers for People Who Don't Suck
@@ -873,6 +880,7 @@ Bubbles
 Bus Seat Fabric Fashion Week
 But Why Are the Birds Angry?
 Butts Make the Best Headrests
+CVS Pharmacy Tries to Quit Selling Cigarettes
 Calendar Of Excuses For Why You're Fat
 Call of Duty
 Camping
@@ -1187,6 +1195,7 @@ Flowchart: How Long Would You Survive a Campus-Wide Zombie Outbreak?
 Flowchart: How Long Would You Survive in a Horror Movie?
 Flowchart: How Should You Greet That Person in the Hallway?
 Flowchart: How Should You Treat Your Medical Emergency (If You're on a TV Show)
+Flowchart: How to Start Life After College
 Flowchart: Is Your Favorite College Football Program Dirty?
 Flowchart: Is Your Halloween Costume Racist?
 Flowchart: Is Your NCAA Bracket Busted?
@@ -1386,6 +1395,7 @@ How I Spent My Government Shutdown By John Boehner, Age 63
 How I'll Use the Technology of the Future
 How It Happened: The Necktie
 How Machines Really Work
+How Magicians Pull Rabbits Out of Hats
 How Much Milk Did Cleopatra Use For Baths?
 How Newt Gingrich Really Got Bitten by a Penguin
 How Not to Buy Drugs
@@ -1394,6 +1404,7 @@ How The Hiring Process Works, According To My Highly Active Imagination
 How The South Could Have Kept Its Slaves
 How The World Looks When You're Sick
 How To Be A Perfect Employee In 5 Simple Graphs
+How To Cook a Delicious Dinner For One
 How To Crash An Orgy
 How To Design A Terrible Lyrics Website
 How To F*ck All Romantic
@@ -1403,6 +1414,7 @@ How To Make A Perfect 90s Alternative Music Video
 How To Make Small Talk in Other Languages
 How To Pound A Girly Drink Like A F*ckin' MAN
 How To Really Show 'Em at the High School Reunion
+How To Record a TV Clip for Youtube in 12 Terrible Steps
 How To Smoke Pot For The First Time
 How To Start A Secret Society
 How To Survive Election Night On Social Media
@@ -1486,6 +1498,7 @@ I Peed in Your Laundry Detergent
 I Prefer the Term "Crack Enthusiast"
 I Really Enjoyed That Picture of Your Penis
 I Should Warn you, I'm Psychic
+I Shouldn't Have Given a Perfect Score to the First Figure Skater
 I Skyped Her Boobs
 I Spit on My Family's Food
 I Superglued Her Door Shut
@@ -1572,6 +1585,7 @@ If Disney Princesses Went to Your High School
 If Documentaries Had Sh*tty Sequels
 If Dr. Seuss Was Actually a Doctor
 If Drugs Had Mascots
+If Every Company Solved Problems Like Facebook
 If Every Decision Required a Political Campaign
 If Every Interaction Worked Like the New York City Subway
 If Every Network Tried to Compete with Shark Week
@@ -2467,6 +2481,7 @@ The 6 Types of Voicemails
 The 6 Valentine's Day Cards You'll Give Throughout Your Life
 The 6 Weirdest Tie-in Videogames
 The 6 Worst Characters on Television
+The 6 Worst Things To Say To Someone Who Is On Fire
 The 7 Actual Differences Between Being Single and Being in a Relationship
 The 7 Assh*les You'll Meet on Your Spring Break Trip
 The 7 Bars You'll Go to After College
@@ -2488,6 +2503,7 @@ The 7 People You'll Run Into When You Come Back From Winter Break
 The 7 People You're Always Splitting the Bill With
 The 7 Sexiest Abstinence PSAs to Jerk It To
 The 7 Stages in the Life Cycle of Apple Earbuds
+The 7 Stages of Being Stuck in Traffic
 The 7 Stages of Eating a Burrito
 The 7 Stages of Going to the Gym
 The 7 Stages of Playing Against a Girl on XBox Live
@@ -2734,6 +2750,7 @@ The Old People Bill of Rights
 The Omanyte Before Christmas
 The Only 5 Reasons You Ever Lose in a Video Game
 The Only 6 Lucrative College Majors Left
+The Only Real Way to Make Change
 The Only Thing Worse Than Bedbug Bites
 The Only True Horoscopes You'll Ever Read for Whatever Day it is You're Reading This
 The Order of the Kitsch
@@ -2858,6 +2875,7 @@ The Ultimate Commercial
 The Ultimate Facebook Status Update
 The Ultimate One-Stop Guide to Tipping Etiquette
 The Ultimate Twitter Bio Generator
+The Unofficial Sochi Olympic Figure Skating Scorecard
 The Venn Diagram of Movie Quotes
 The Videogame Food Pyramid
 The Walking Dead Season 3 Mega-Recap
@@ -3019,6 +3037,7 @@ Videogame WebMD
 Videogame Yearbook
 Videogame Yellow Pages
 Virtual Boy Is Not As Fun As It Looks
+Vote for The ACTUAL Best Movie of the Year
 Vuvuzela
 Wacky Uncle Suicide Note
 Wait, How do TV Ratings Work?
@@ -3131,8 +3150,10 @@ What Your Ski Tracks Say About You
 What a Conspiracy Theorist Thinks
 What the NHL Lockout Means for You
 What the Number of Likes On Your Facebook Post Means
+What the World Looks Like When You're a Mom
 What they must have been whispering at the end of Cruel Intentions
 What to Expect From Obama's DNC Speech
+What to Expect When You're Expecting to Enjoy Your 20's
 What to Expect When You're Expecting to Maybe Get a Job
 What to Say When Someone Knocks on the Bathroom Door
 What to Talk About Now That the Super Bowl Has Passed
