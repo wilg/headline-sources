@@ -285,6 +285,7 @@
 5 Animals Taking a Bath
 5 Annoying Types of Gamers
 5 Apps Every Sports Fan Needs
+5 Arguments People Need To Stop Using
 5 Aspects of Videogames and Their Real Life Equivalents
 5 Aspects of the Pokemon Games That We Never Needed
 5 Awkward Facebook Conversations
@@ -360,6 +361,7 @@
 5 Things Everyone Should Know About the Higgs Boson
 5 Things Facebook Needs to Stop Suggesting
 5 Things To Brace Yourself For When Returning From Winter Break
+5 Things To Do Now That the Winter Olympics are Over
 5 Things You'll do This Christmas that Would Blow Your Mind When You Were 7 Years Old
 5 Things You've Been Meaning to Google, and Now You Don't Have to
 5 Thrilling Posters for your Boring Everyday Battles
@@ -422,6 +424,7 @@
 6 Name Change Suggestions for The Washington Redskins
 6 New Google Products More Exciting than Glass
 6 New Headwear Suggestions for LeBron James
+6 New Passive Aggressive Emojis People Would Actually Use
 6 New Sports for White People
 6 New Toasting Techniques for Expert Drinkers
 6 New Winter Cocktail Recipes to Help You Survive Till Spring
@@ -523,6 +526,7 @@
 7 Quotes That Could Have Saved The Star Wars Prequels
 7 Real Life Items and Their Stats
 7 Reasons Being a College Student is Just Like Being Old
+7 Reasons Why We Need Alec Baldwin Back NOW
 7 Rejected Kong Family Members
 7 Serious Diseases Afflicting College Students
 7 Signs You Put No Effort Into Your Girlfriend's Christmas Present
@@ -548,6 +552,7 @@
 7 Tricks for Looking Like a Grown Man and Not a Stupid Teen Baby
 7 Types of End-of-the-Year Lists
 7 Types of Hangovers You WiIl Have on New Years Day
+7 Types of People at Your Oscar Party
 7 Uncomfortable Situations (And How to Avoid Them)
 7 Unimpressive Life Achievements
 7 Vacation Posters for Drugs
@@ -567,6 +572,7 @@
 7 Ways to Make the World Cup More Exciting
 7 Ways to Take Your Workout to the Next Level
 7 Website Mashups
+7 Words That Really Sound Like They Mean Something Else
 7 Words the Internet Should Stop Saying Right Now
 75 More Accurate Answers to Questions Women Asked "Cosmo"
 8 Animal Hybrids That Would Break the Internet if They Existed
@@ -679,6 +685,7 @@ A Birthday Wish
 A Buzzfeed Contributor Tells Her Boyfriend She's Pregnant
 A Coincidental Close Encounter
 A Comprehensive Guide to Prank Channels on YouTube
+A Conversation Between AIM and Facebook Chat
 A Conversation Between My Bed and Me
 A Conversation Between The Hobbit: The Desolation of Smaug and Me
 A Cover Letter Written in the HR Rep's Exact Thoughts About Every Cover Letter
@@ -791,6 +798,7 @@ Apple's Earbuds Are Getting Complicated
 April Fools!
 April's Confession
 Art Is Hard
+Assholes of New York
 Author Bio Gets Cocky
 Awesome Grizzly Bear Trashes Store and Photobombs Camera
 Awful Good Flowchart: Which Sidekick is Right For You?
@@ -1165,6 +1173,7 @@ Firemen Are the Real Heroes
 Fireworks Safety Guide
 First Date
 First World Torture Devices
+First World Yiddish Curses, Translated
 Five Classic Halloween Tricks
 Five Classic Ways to Prank Your Friends
 Five HUGE Plot Holes in Classic Children's Films
@@ -1202,6 +1211,7 @@ Flowchart: Is Your NCAA Bracket Busted?
 Flowchart: Is the World Ending, or Are You Just Having a Bad Day?
 Flowchart: Should I Accept That Friend Request?
 Flowchart: Should You Get That Tattoo?
+Flowchart: Should You Go to the Doctor?
 Flowchart: Should You Hit on That Girl?
 Flowchart: Should You Hug This Person?
 Flowchart: Should You Make a Move?
@@ -1373,6 +1383,7 @@ Honest Movie Titles: Oscars 2012
 Honest Music Festival Map
 Honest Names for Hotel Items
 Honest Rules for 5 Leisure Sports
+Honest Rules for Every Game of Darts
 Honest Sex Coupons
 Honest Shopping Mall Map
 Honest Shopping Mall Map: Holiday Edition
@@ -1407,6 +1418,7 @@ How To Be A Perfect Employee In 5 Simple Graphs
 How To Cook a Delicious Dinner For One
 How To Crash An Orgy
 How To Design A Terrible Lyrics Website
+How To Escape The Cold Weather (In Your Mind)
 How To F*ck All Romantic
 How To Get Nothing Done: An Illustrated Guide
 How To Go Abroad (And Come Back An A-hole)
@@ -1513,6 +1525,7 @@ I Think Jimmy Wales Has A Cocaine Problem...
 I Think My Barista is Into Me
 I Think My Boss Is Monitoring My Internet Usage
 I Think My Draw Something Partner Might Have Been Kidnapped
+I Think My Mom Is The Fortune Cookie Writer
 I Think My Mom is Telling Groupon What to Send Me
 I Think My R.A. Killed Someone
 I Think My Roommate's Novel Is About Me
@@ -1581,6 +1594,8 @@ If Congress Got Stuff Done Like Roommates
 If Congress Tried to Split a Lunch Check
 If Countries Were Websites
 If Dating Worked Like College Apps
+If Disney Characters Met on Tinder
+If Disney Characters Were Modern-Day Celebrities
 If Disney Princesses Went to Your High School
 If Documentaries Had Sh*tty Sequels
 If Dr. Seuss Was Actually a Doctor
@@ -1647,6 +1662,7 @@ If These Walls Could Talk
 If Today's Pop Stars Had Their Own Cartoon Shows
 If U.S. Politicians Were The X-Men
 If Upworthy Existed Throughout History
+If Walking Dead Characters Were Classic WWE Wrestlers
 If Websites Were Pets
 If Winter Break Advertised Like Spring Break
 If Work Was Like College
@@ -1712,6 +1728,7 @@ It Truly Was The Greatest Wikipedia Game
 It could be worse! - What I'd Probably Do If I Were President for a Day
 It's Hotmail, Not Hot Male
 It's Me, Monday
+It's OSCARS BINGO TIME!
 It's So Big! The Spider, I Mean
 It's not called "DOWNTOWN Abbey," Twitter People
 It's the Public Transportation Dating Game!
@@ -2178,6 +2195,7 @@ Rough Love: We're Back!
 Royal Baby = ILLUMINATI
 Rules in Heaven
 Russian Music Video is Insane POV Action Sequence
+Rust Cohle's OkCupid Profile
 Ryu is Terrible With Women
 Ryu's First Date
 SAT Questions I Wish I Had Gotten Right Before Going to College - Spring Break Edition
@@ -2212,6 +2230,7 @@ Seven Goals You Didn't Accomplish This Summer
 Seven Ways to Avoid Giving Christmas Gifts this Year
 Sex Advice from Reggie Watts
 Sex Dice for More Specific Situations
+Sex Moves to Celebrate Oscar Movies
 Sex Positions for the Heavily Inebriated
 Sex Statistics: What Are YOU Doing in Bed?
 Sex, Hygiene, and Sex Survey Results
@@ -2452,6 +2471,7 @@ The 5 People You Meet In College (if they were comedians)
 The 5 Stages of Graduation Grief
 The 5 Texters You Know and Hate
 The 5 Types of Employees You'll (Unfortunately) Encounter at Every Job
+The 5 Types of Nights to Avoid
 The 5 Types of Thanksgivings Your Friends Will Have
 The 5 Ways You Could Have Spent New Year's Eve
 The 5 Ways to Receive a Present
@@ -2571,6 +2591,7 @@ The Body Goes To Sleep
 The Body Wakes Up
 The Boston Bombers Were from Where?!
 The Brutally Honest Restaurant Tip Calculator
+The Chris Pratt Guide to Getting Super Ripped
 The Cinco de Mayo Spanish Test
 The Clean Plate Club Discusses the Possible Addition of a New Member
 The Closer You Get to Graduation
@@ -2743,7 +2764,9 @@ The Night Before Thanksgiving: The Red Carpet Coverage
 The Nine Possible Reactions to the New Arrested Development
 The Noblest Sacrifice in Azeroth
 The Official "Fun vs. Effort" Graph of Pets
+The Official Drinking Game for Your Alcohol Intervention
 The Official Matrix of Fun
+The Official Oscar Bait Tackle Box
 The Official Roommate Scorecard
 The Official Rules Of Curling KIND OF EXPLAINED I Think
 The Old People Bill of Rights
@@ -3255,6 +3278,7 @@ Your Hookah Pipe Cleaner Is My Plunger
 Your Internship, According To Your Resume
 Your Life's Supervillains
 Your Love Life, As Told Through Pizza
+Your Mom's Guide To The Oscars
 Your OFFICIAL 2011 Puppy Bowl Scouting Report
 Your Phone Is Like Your Drunk Friend
 Your Phone Is Watching You
