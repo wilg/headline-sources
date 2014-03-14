@@ -10,9 +10,11 @@
 "Monotony Collapses Time; Novelty Unfolds It."
 "On the Freeway You Limit Your Choices"
 "Success Doesn't Have a Template"
+"Take a Breath"
 "The Credit Belongs to the Man in the Arena"
 "There's Never Enough Time to Do All the Nothing You Want"
 "Uncertainty Is a Signpost of Possibility"
+"We Aren't Something, Until We Are"
 "When You Do Something Guaranteed to Succeed, You Close the Door"
 "Write It. Shoot It. Publish It. Crochet It, Sauté It, Whatever, MAKE"
 "You Are What You Settle For"
@@ -39,6 +41,7 @@ $80 AirPlay Speaker, the Best Roku, and the Best Shave [Deals]
 10 Stubborn Sex Myths That Just Won't Die, Debunked
 10 Surprisingly Inspirational Quotes from Evil People
 10 Things You Can Do On a PC Without Ever Touching the Mouse
+10 Things You Need to Know About Driver's License Points
 10 Things You Should Never Pay For
 10 Things to Stop Saying to Your Kids (and What to Say Instead)
 10 Ways to Earn Frequent Flyer Miles Without Boarding a Flight
@@ -46,12 +49,14 @@ $80 AirPlay Speaker, the Best Roku, and the Best Shave [Deals]
 100 Motivates You to Learn a New Skill in 100 Days
 11 Super Smart Gifts That Connect Your Home to the Internet of Things
 11 Tips to Keep iOS 7 From Destroying Your Battery Life
+12+ Tips and Tricks to Work Faster in Microsoft Outlook
 13 Things Not to Buy on Black Friday
 15 Free Google Helpouts to Get Expert Tips for Your Everyday Problems
 1Keyboard Connects Any Mac Keyboard to Your iOS Device
 1Password Gets Password Sharing, Better Encryption, and a Ton More
 1TB Samsung SSD, $5 off at Amazon, Power Tools Galore [Deals]
 2 Psychology Rules for Getting Better at Chess--and Life
+20 Minutes of Exercise Before an Exam Can Boost Your Scores
 25 Different Ways to Wear a Scarf, in One 5-Minute Video
 3 Questions to Ask at Dinner to Make Your Family Stronger
 3-Minute Journal Helps You Count Your Blessings with Charts
@@ -94,6 +99,7 @@ A Guide For Cleaning Every Possible Thanksgiving Stain (Like Blood)
 A Huge External Charger, Kindle Fire Deals, SSDs of All Sizes [Deals]
 A Kindle For Under $50, iTunes Cash, WeMo Switch, Sonicare [Deals]
 A La Carte Cellphone Carrier Ting Has a Semi-Secret iPhone User Beta
+A Laptop-Charging External Battery, Sony Headphones, Cree LEDs [Deals]
 A Minimalist, Integrated Ecosystem: Part 2
 A Night Owl's Guide to More Productive Mornings
 A Pilot Explains How To Avoid Getting Screwed After January 5th
@@ -118,9 +124,11 @@ Accomplish Any Goal by Doing Something Small, Every Day
 Actions for iPad Adds "Flows" for More Complex Keyboard Shortcuts
 Adblock Plus Now Block YouTube's Biggest Annoyances
 Adblock Plus Now Blocks Facebook's Biggest Annoyances
+Add DIY Permanent Volume Markings on a Metal Pot
 Add Extra Storage to Your Kitchen with Some Under-Cabinet Drawers
 Add Lemon to Green Tea for an Even Healthier Drink
 Add Luxury Purchases to Your Calendar One Month From Now
+Add Sauteed Vegetables to Make Store-Bought Pasta Sauce Taste Homemade
 Add Search Shortcuts to Your Smartphone for Quicker Research
 Add Sugru to Your Keys to Identify Them by Touch
 Add Wireless Storage to Phones, Tablets, and Laptops with Wi-Fi Drives
@@ -134,13 +142,17 @@ Add2Run Adds Custom App Aliases to the Run Dialog
 Addy Creates a Custom URL for Instant Address Sharing
 Adjusting Your Mindset May Work Best When You Have No Control
 Adobe Resets Free Trial for Creative Cloud, Everyone Gets Another Go
+Adobe Revel Organizes, Shares, and Edits Your Photos on Android
 Adobe VideoBite Makes Editing and Sharing Movies from Your Phone Easy
 Adult Budgeting 101: How to Create Your First Budget In the Real World
 AeroFS Syncs Files Between Computers without Storing Them Online
 Agent Automates Common Android Tasks, Saves Your Battery, and More
+AirHelp Gets You Real Money Back for a Cancelled or Delayed Flight
 AirPlay Recorder Records Songs from iTunes Radio
 AirPort Extreme, An Awesome Projector, Sony NEX-7 [Deals]
 Airbnb Wants to Know The Secrets Of Your City
+AlarmPad for Android Lets You Set Useful, Recurring Alarms
+All the Airlines That Serve Free Alcohol
 All the Awesome Stuff You Can Do with a Custom Android Launcher
 All the New Keyboard Shortcuts in iOS 7
 All the New Stuff in Android 4.4 KitKat
@@ -153,8 +165,10 @@ Alleviate Stress by Sharing it With Other Stressed People
 Allow Goals to Be Flexible to Maintain Optimism
 Allow Right-Click Enables Context Menus on Sites That Block It
 Always Add Value When Replying to Email
+Amazing parents' perfect lip-sync to Frozen song
 Amazon Bumps Free Shipping Threshold to $35, Now You Really Want Prime
 Amazon Has The Moto X For 50 Bucks
+Amazon Prime Is Raising Its Price to $99 a Year, Is Still Awesome
 Amazon's Amazing Free Overnight Shipping: The Best Gifts
 Amazon's Black Friday Starts This Sunday [Update: Sears Too]
 Amazon's Cloud Player App Streams, Syncs, and Plays Your Music Offline
@@ -165,6 +179,7 @@ Amazon's New "Login and Pay" Service Makes It Easier to Shop Online
 Amazon's Running a Sale on Everything You Need to Build a PC
 Amazon's Taking 15 Percent Off Kindles Today in Honor of the FAA
 AmazonSmile Donates Part of Your Purchases to Your Favorite Charity
+An Art White Wall and Wiimote Control: the GrooveSpace Workspace
 An Engineer Explains Why You Should Always Order the Larger Pizza
 AndrOpen Office Brings OpenOffice to Android Tablets
 Android Device Manager App Lands on the Play Store
@@ -175,6 +190,7 @@ Angle Your Feet and Body Away From Someone to Reduce Conflict
 Answer Irrelevant Job Interview Questions by Relating Them to Work
 Anti-Bacterial Soap Doesn't Make Your Hands Any Cleaner
 Anti-Virus Boot Times Compared: Paid Options Come Out On Top
+AnyFont Installs Additional Fonts In iOS
 Apologize for Anything Before Asking for a Favor
 App Lock Protects Individual Apps With Passwords, Gestures, Patterns
 App Ops Brings Per-App Permission Management Back to KitKat
@@ -207,6 +223,8 @@ Ask an Expert: All About Home Construction and Remodeling
 Ask an Expert: All About Identity Protection
 Ask an Expert: All About Mobile Banking
 Ask an Expert: All About Organizing Your Inbox
+Ask an Expert: All About Perfecting Your Resume
+Ask an Expert: All About Physical Therapy
 Ask an Expert: All About Running
 Ask an Expert: All About Slashing Your Energy Bill
 Ask an Expert: All About Smarter Grocery Shopping
@@ -230,9 +248,12 @@ Audio Technica Headphones, External Batteries, 1TB Flash Drive [Deals]
 Auto Finder Remembers Where You Parked, No Setup Required
 Automate Minor Tasks to Fight Decision Fatigue
 Automated Device Brings "And/Or" Rules for Androids with Easy Setup
+Automatic Driving Assistant, Travel Router, $100 Off Tires [Deals]
 Automatic Links Up with IFTTT to Make Your Car Text, Tweet, and More
 Automatic Tracks Your Driving and Your Car to Save You Money and Time
+Automatically Create DayOne Journal Entries from Any IFTTT Recipe
 Automatically Download Metadata for Your Ebooks with Calibre
+Automatically Text Your Significant Other If You'll Be Home Late
 Avast 2014 Features a New Simpler Interface, Built-In Apps, and More
 Aviate Is a Smart Home Screen that Adapts To You (And We Have Invites)
 Avoid "Comparison Syndrome" to Make a Good Impression at a New Job
@@ -245,6 +266,7 @@ Avoid Email Distractions with a Custom Auto-Reply Message
 Avoid Foreign Transaction Fees for Plane Tickets with These Strategies
 Avoid Getting Starstruck with People You Admire by Being Useful First
 Avoid Making These Hand Signals When Traveling Abroad
+Avoid Negotiating Down Without Seeking Alternative Concessions
 Avoid Pointless Measurements and Focus on Real Life Experiences
 Avoid Space Issues at Potluck Buffets with Post-It Notes
 Avoid These Bad Study Habits to Actually Retain Information in School
@@ -258,7 +280,9 @@ Backtick Supercharges Chrome with Handy Commands and Scripts
 Bake Soft, Perfectly Sized Cookies in a Muffin Pan
 Bake a Carrot Cake in a Slow Cooker
 Bake an Apple Pie in an Apple for Impressive Individual Servings
+Ban Telemarketers, Get a Job You Love, and (Don't) Speed Read
 Banish Stains with this DIY Carpet Cleaner
+Barnacle Ships Your Packages Through Regular People to Save You Money
 Base Your Budget on Maslow's Hierarchy of Needs
 Be Curious Today on Friday's Open Thread
 Be Friendly in your Friday Open Thread
@@ -281,6 +305,7 @@ Bento Showcases the Best Resources for Learning to Code
 Best Friend Friday Thread of Openness
 Best Graphics Card For The Money, Voting
 Better History Filters, Sorts, and Tags Your Browsing History
+Beyond Immersion: Learn a New Language with Better Listening Skills
 Beyond PB&J: How to Take the Hassle Out of Making School Lunches
 Beyond Steam: The Best Places to Find Deals on PC Games
 Big Roomba Discounts, Rasperry Pi Case, Long Lightning Cable [Deals]
@@ -311,6 +336,7 @@ Break In a Hardcover Book (Without Ruining the Spine)
 Break a Car Window with a Headrest in an Emergency
 Breathe New Life Into Old Speakers by Re-foaming Them
 Bring Back Google's Black Menu Bar with This Custom URL
+Bring Back the Hidden iTunes Store Power Search
 Bring Full Names Back to iOS 7's Text Messages
 Bring Your Home Folder's Library Back with One Checkbox in Mavericks
 Bring Your Retro Games Into the Modern Age with These Emulator Tricks
@@ -328,6 +354,7 @@ Build This Wall-Mounted, Folding Workbench to Save Space In the Garage
 Build Your Own Arduino-Powered Car Tracking System
 Build Your Own Bicycle-Powered Battery for Emergency Power
 Build Your Own Car Computer with a Raspberry Pi
+Build Your Own DIY Solar Panel Rig
 Build Your Own Desoldering Station for About $70
 Build Your Own FM Transmitter and Send Your Music to Any Stereo
 Build Your Own GPS Car Tracking System
@@ -382,6 +409,8 @@ Camera Image Sensor Compares Specs of Popular Digital Camera
 Camera+ Adds Full Resolution Burst Mode and New Filters
 Camera+ Adds a Ton of New Editing Filters, Shooting Options, and More
 Camera+ Adds a Widescreen Shooting Mode, Photo Editing Improvements
+Can I Be Funny at Work Without Ruining My Reputation?
+Can I Really Make a Living by Blogging?
 Can I Reinstall Windows On My Computer Without the Bloatware?
 Can I get an online comp-sci degree from a respected institution?
 Can I upgrade my Verizon phone without losing my unlimited plan?
@@ -393,6 +422,7 @@ Canon T4i, Logitech Keyboard, Launch Center Pro [Deals]
 Capture Post-It Notes with Evernote Camera
 Capture the "Triangle" with Your Webcam to Look Better on Video Calls
 Carbon for Twitter Updates with New Design, Timeline Improvements
+Carry Your Tools in this DIY Tool Roll
 Carry a "Leave-Behind" for Successful Interviews
 Carry a Tennis Ball on Flights to Relieve Sore Muscles
 Carve a Pumpkin with Cookie Cutters (and Other Pumpkin Carving Hacks)
@@ -407,6 +437,7 @@ Challenge Winner: Get Better Control of Your Cats' Eating Habits
 Change Up Your Running Shoe Lacing Technique to Improve Comfort
 Change Your Ringtone to Get Over a Breakup Faster
 Charge Everything at Once, Store Everything on One Drive [Deals]
+Chartspree Makes Interactive, Embeddable Charts With Just a URL
 Cheap Alternatives to Expensive Creative Mac Software
 Cheap Amazon Goods, Great Headphones, and Too Much Apple
 Cheap Anker Gear, Apple TV, iMac, Early Black Friday [Deals]
@@ -414,12 +445,14 @@ Cheap Drobo Mini, Eye-Fi SD Card, Huge Battery Pack [Deals]
 Cheap SanDisk Flash Storage, Today Only On Amazon
 Cheating Could Lead to Better Creativity
 Check Out Lifehacker's Sub-Blogs for More Tips and Tricks
+Check Out Lifehacker's Sub-Blogs for More Tips and Tricks [Updated]
 Check Out the Best From This Week's Open Thread
 Check the Critical Hip Area for Properly Fitting Women's Clothes
 Check the Fat Content to Tell Good Cocoa Powder from the Cheap Stuff
 Check the Newspaper Before Meetings for Better Body Language
 Check timezones with this xkcd cheat sheet
 Check whether your USB is a charging/powering or data connection.
+Choose Ripe Fruit with the Face Test
 Choose the Airport Security Line Based on the Number of TSA Agents
 Choose the Best Bicycle and the Right Equipment for Your Ride
 Choose the Spanish Option for Better Customer Service
@@ -456,10 +489,12 @@ Clean the Grime Between Your Oven's Window with a Hanger
 Clear All Cached App Data At Once on Android
 Clear for iOS Adds iPad Support
 Clear for iPhone Updated for iOS 7 with a Tweaked Interface and Fixes
+Click&Clean Provides One-Click Access to Privacy Features
 Clip Better Adds Link Previews to Emails to Provide Context to Links
 Clipjump Manages Multiple Channels of Clipboard History
 Close All Mobile Safari Tabs at Once by Going into Private Mode
 CloudMagic Searches All Your Inboxes in Real Time
+CloudyTabs Pulls Up Your iCloud Bookmarks Right In Your Menubar
 Coat Hooks, Door Stops, and Grease Stains
 Cogi Annotates Voice Notes with Smart Highlights, Tags and Pictures
 Cold Turkey Blocks Distracting Websites and Apps on Your Schedule
@@ -487,6 +522,7 @@ Conojo Is a Flexible Whiteboard and Drawing App for iPad
 Contacts+ Updates, Adds Quick Action Buttons and Customization Tools
 Contexts Simplifies Window Switching in OS X
 Continued Exposure to Bad News May Prevent a Bad Mood
+Control Your Mac with a Pebble Smartwatch
 Control the Raspberry Pi from Your iPad
 Controllers for All Pairs Your PS3 Controller with an iOS Device
 Controls+ Puts an iOS-Like Control Center in Your Mac's Menubar
@@ -512,11 +548,13 @@ Create an Air Travel "Emergency" Kit to Survive Common Airplane Woes
 Create an Industrial Strength Hand Cleaner with Oatmeal and Milk
 CrowdInspect Scans Active Programs for Malware
 CrxMouse Adds Mouse and Trackpad Gestures to Chrome
+Cryptocat Creates Private, Encrypted Chatrooms on the iPhone
 CtrlTwit Controls Other Apps Through Twitter Commands
 Cure Your Hangover with Science
 Curl Up In Today's Open Thread
 Curl Your Hair with a Flat Iron
 Customized Androids, Prepaid Cellphone Plans, and Refurbished Laptops
+Cut Handles in Cardboard Boxes for Easy Moving
 Cut These Vague, Cliched, and Meaningless Words from Your Resume
 Cut the Greens Off Fresh Carrots to Store Them Longer
 CyanogenMod GalleryNext Beta Sorts Your Local and Cloud Photos
@@ -530,12 +568,15 @@ DIY Soylent: Should You Make Your Own Food Substitute?
 DIY Speakers, Web Site Fonts, and Netflix Enhancements
 DIY Stove Burner Covers Double the Counter Space in Your Kitchen
 DIY Studio Mic Gobo / Shield
+Dadhacker: The Surprising Benefits of Exercise
+Dangerous Foods Your Pet Should Not Eat
 Dark Sky Updates with iOS 7 Design and Extended Forecasts
 Darth Vader Meets Iron Man: The Updated Sleek White Workspace
 Dash Reads Your Car's Diagnostic Info, Tracks Driving Data, Finds Gas
 DashPlus Is a Powerful GTD-Style To-Do App with Gestures
 Data Compression Proxy for Chrome Helps Keep Your Bandwidth Down
 Day One Adds Music Integration, Motion Activity, and a New Design
+Day One Adds a Publish Function to Make Journal Entries Public
 Day One for Mac Updates with Maps Integration, Filters, and More
 Days is a Beautiful Countdown Widget to Remember the Big Date
 De-Wrinkle Clothes with a Hair Dryer (and Other Fashion Tricks)
@@ -582,6 +623,8 @@ Disable Blur Effects in iOS 7 for Easier Reading, Better Performance
 Disable Image Previews in the New Twitter Mobile Apps
 Disable Motion Smoothing to Get Rid of "Soap Opera Effect" on New TVs
 Disconnect Search Makes Your Google, Bing, and Yahoo Searches Private
+Disconnect Search for Android Makes Your Web Searches Private
+Discounted Mohu Leaf, Nighthawk Router, Cheap Laser Printer [Deals]
 Discounted PC Parts And Your Favorite PC Peripherals, SONOS [Deals]
 Disguise Ugly Electronics by Wrapping Them for the Holidays
 Disk Diag Quickly Weeds Out Unnecessary Files on Your Mac
@@ -615,12 +658,15 @@ Do you use two-factor authentication?
 DockMod Customizes the Color and Look of Your Mac's Dock
 Does "Merry Christmas" really offend those who don't celebrate it?
 Does Bluetooth Audio Still Suck?
+Does Juicing Have Any Real Health Benefits?
 Does a higher life expectancy drive up the retirement age?
 Does anyone really use roux to thicken meat sauces anymore?
 Does brown bagging your lunch really save that much money?
 Does meditation really work for anxiety relief?
 Does pessimism help you in your job?
 Does using government benefits lead to dependency?
+Dogs or Cats: Which Is the Better Pet?
+Dogs vs. Cats: Your Best Arguments
 Dolphin Browser Adds Night Mode, Themes, Master Password and More
 Dolphin Zero is an Entire Browser Devoted to Privacy
 Don't Always Aim to Meet Unrealistic Deadlines
@@ -656,6 +702,7 @@ Dropbox 3.0 for iOS Launches New Design, AirDrop Support, and More
 Dropbox Adds Forced Arbitration to Its Terms of Service, Opt Out Here
 Dropbox Updates with Automatic Screenshot Saving and iPhoto Importing
 Dyson Hand Dryers, URL Text Expansion, and Pocket Knives
+E-Ink Kindles, Including the Paperwhite, Are $20 Off Today
 ER Wait Watcher Finds the Nearest Emergency Room with a Short Wait
 ETA Shows Driving Times to Your Favorite Locations
 Eaby Finds Misspelled Items on Ebay for Cheaper Prices
@@ -667,8 +714,10 @@ Eat Out with Like-Minded Friends to Help Stick to a Diet
 Ecoute Is a Simple and Attractive Alternative to the iPhone Music App
 Educational eBooks, The Best Electric Razor, Battery Case [Deals]
 Eidetic Helps You Remember Anything Through Repetition
+Eight Myths About Jury Duty, Debunked
 Eight Small Financial Changes That Yield Huge Results
 Eight Things You Can Discard to Downsize Your Life
+Elephant Wallets Are Ultra Slim, Cheap Organizers for Your Pockets
 Eliminate Loose Ends for the Perfect, Secure Camera Strap
 Eliminate Paths of Least Resistance to Break Bad Spending Habits
 Ember Organizes All Your Digital Junk
@@ -690,6 +739,8 @@ Erase Your Notes to Remember Them Better
 Establish Lunch Traditions with Your Coworkers to Boost Productivity
 Event Flow Calendar Widget Brings Events and Weather Together
 Evernote + Keyboard Maestro = More Productive Filing
+Evernote Adds Handwriting Support and Highlighting to Android
+Evernote Adds Skitch Annotation and Faster Sync to Windows
 Evernote Adds a Smarter, More Natural Way to Search Your Notes
 Evernote Gets Two-Factor Authentication, Turn It On Now
 Evernote Reminders, Emergency Supplies, and Steering Wheels
@@ -706,6 +757,8 @@ Everything You Need to Know About Black Friday and Cyber Monday
 Everything You Need to Know About Choosing a Retirement Plan
 Everything You Need to Know About Managing Credit on One Post-It Note
 Everything You Need to Know About OS X Mavericks In Four Minutes
+Everything You Need to Know About Working for a Non-Profit
+Everything You Need to Know About the New Privacy-Focused Smartphones
 Everything You Should Do Now to Prepare for Thanksgiving
 Everything.Me Updates, Shows You Apps and More When You Need Them
 Evomail+ Updates with a Simplified Interface, Notifications, and More
@@ -720,13 +773,16 @@ Extension Defender Roots Out Adware Extensions in Chrome
 External Storage, Wireless Storage, and Storage Analyzers All On Sale
 Eye Contact Is Great, but Too Much Can Backfire When Making Your Case
 F.lux Updates with New Color Modes, Temperatures, Hotkeys, and More
+F.lux for Mac Adds New Time Options to Work with Your Schedule
 Fabulous Friday Open Thread
+Facebook Announces Uncluttered, Minimal News Feed Design
 Facebook Begins Testing Auto-Playing Video Ads
 Facebook Buying WhatsApp, But The App Isn't Going Anywhere
 Facebook Chat Pro Customizes Notifications, Privacy for Messenger
 Facebook Deletion, Flickr Automation, and Cheap Media Centers
 Facebook Finally Lets You Edit Posts After Publishing
 Facebook Notifications, Gmail Contacts, and LEGO Key Holders
+Facebook Now Includes Auto-Play Video Ads for Everyone
 Facebook Paper Wants to Help You Read and Discover the News
 Facebook Unveils a New Native App for Windows 8.1
 Facebook vs. Google+: Your Best Arguments
@@ -739,16 +795,19 @@ Favorite Friday Open Thread
 Feedly Adds "Lite" Article Searching for Free and Other New Features
 Feedly Updates iOS App with Quick Navigation, iPad Design, Night Theme
 Ferro Makes It Possible to Use Chrome with Just a Keyboard
+FiftyThree's Paper Improves Zoom and Ink Tools, Gets Rebuilt for iOS 7
 FileFiller Creates Dummy Files of Custom Size and Format
 Finally Go Paperless With 25% Off Doxie Go
 Finally: You Can Now Use Electronic Devices Before Takeoff and Landing
 Finances aren't always just about the money.
 Find Interesting Bits of Any Web Page with Reddit’s Hive Mind
+Find Out How Much Your Time Is Really Worth with This Calculator
 Find Out If You're a Good Liar or Not with This Five Second Test
 Find Out If You're a Highly Sensitive Person with This Test
 Find Out Which Modems Are Compatible With Your Cable Company
 Find Out Your "Fitness Age" by Answering Five Questions
 Find Unadvertised Job Openings with a Clever Google Search
+Find Your Jeans Quicker with Hanging Labels
 Find Your Own Alternative Flight When Your Flight Is Cancelled
 Find Your Own Way In Today's Open Thread
 Find the "Good Side" of Your Face to Instantly Look Better in Photos
@@ -766,6 +825,7 @@ Five Best DVD Ripping Tools
 Five Best Desktop Video Players
 Five Best External Hard Drives
 Five Best Feature Phones
+Five Best Home Wi-Fi Routers
 Five Best Indoor Over-the-Air HD Antennae
 Five Best Language Learning Tools
 Five Best Meal Planning Apps
@@ -784,15 +844,18 @@ Five Best Travel Routers
 Five Best USB Hubs
 Five Best iPad Cases
 Five Career Mistakes You Might Not Know You're Making
+Five Communication Mistakes Almost Every Couple Makes
 Five Excellent, Customizable Start Pages to Replace iGoogle
 Five Financial Beliefs I Was Wrong About
 Five Lessons Your First Job Can Teach You About Your Entire Career
 Five Money Excuses That Held Me Back (and How I Overcame Them)
 Five Reasons to Lower Your Thermostat (Besides Saving Money)
+Five Rules the Grateful Dead Followed to Find Success
 Five Sauces Everyone Should Know How to Make for Endless Meal Options
 Five Steps to Take Immediately If You're the Victim of Identity Theft
 Five Things Bing Does Better Than Google
 Five Things I Wish I Had Known When I Started Working for Myself
+Five Things You Should Negotiate at Work Besides Your Salary
 Five Worst Cellphone Carriers
 Fix Bad Habit Relapses with a Postmortem
 Fix Hard-to-Shut Doors with Toothpicks
@@ -822,11 +885,15 @@ Four Tricks for Sticking to Your Financial Resolutions
 Frame Contrary Positions as Collaborative Problems to Avoid Conflict
 Frame Your Goals as Questions to Motivate Accomplishments
 Free Cloud Storage, GoPro Black Edition, Logitech K800 [Deals]
+Free Up Bathroom Counter Space with Mounted Mason Jars
 FreeFixer Removes Unwanted Programs from Your PC
 FreedomPop Now Offers Completely Free Mobile Phone Service
+Freeze Eggs in Ice Cube Trays to Preserve Them Longer
 Frenzy Is a Private, Dropbox-Powered Social Network
+Frequency Shows How Much Time You Spend in Your Apps
 Freshen Freezer Ice with Baking Soda
 Freshen Your Mattress with Baking Soda and Essential Oils
+Freshen any Room with Baking Soda and a Crockpot
 Fruumo Is a Feature-Packed but Fast New Tab Page for Chrome
 Fry in Lard at High Temperatures for Healthier Fried Foods
 Fuel My Run Tracks Your Workout and Helps You Decide When to Eat
@@ -836,6 +903,7 @@ GBA4iOS Emulates Gameboy Advance Games on iOS, No Jailbreak Required
 GIF Delayer Eliminates Choppy Animations to Play GIFs After Loading
 GIFwrapped Saves GIFs from Twitter, Photos and Searches for Later
 Galaxy Gear Smartwatch Review: A Pain in the Wrist
+Game Maven Teaches You How to Code While Making Games
 Game Up Alarm Clock Wakes You Up with Simple Puzzles to Solve
 Gamify Your Exercise Routine This Weekend
 Gamma Ray Computer Glasses Are a Cheap Alternative to Gunnars
@@ -852,11 +920,14 @@ Get 88% off Udemy's Complete iOS 7 Development Course
 Get Alerts for Best Seller Kindle Ebooks in Favorite Genres with IFTTT
 Get Amazon Add-on Items Shipped Without the $25 Minimum
 Get Android KitKat's Keyboard On Your Current Jelly Bean Phone
+Get Another Year of Amazon Prime for $79, Even as a Current Subscriber
 Get Better Photos at the Office Party by Adjusting for Overhead Lights
 Get Better Results from Your Touch ID by Scanning Your Fingers Right
 Get Better Sound from Your Favorite Headphones with These DIY Mods
 Get Black Friday Deals Now--Without All the Hassle
 Get Buff, Not Broke: How to Build a Budget-Friendly Home Gym
+Get Buttons Back in iOS 7
+Get Cookies Off Baking Trays Easier with Dental Floss
 Get Excited, Not Calmer, to Deal with Performance Anxiety
 Get Extra Close with These Macro Photo Wallpapers
 Get Free Check Engine Diagnostics From Auto Parts Stores
@@ -913,13 +984,16 @@ Go “Back to the Future” to Make Better Decisions
 GoPro Hero3+ Silver, Two 4K Monitors, iTunes Credit [Deals]
 GoPro or Go Home, Newegg Premier Membership, Lowe's Gift Cards [Deals]
 Google Adds Hands-Free Voice Search to Chrome (Just Say "OK Google")
+Google Adds Restaurant Menus to Search Results
 Google Adds an "Unsubscribe" Button Right to Your Inbox
 Google Chromecast For $30
 Google Drive Adds Activity Stream to See Changes Made to Shared Files
+Google Drive Storage Plans Have Dropped to Ridiculously Low Prices
 Google Hangouts Is Adding SMS Support, Location Sharing, and GIFs
 Google Hangouts for iOS Adds Free Voice Calling
 Google Hangouts with SMS Support and Location Sharing Now Available
 Google Helpouts Connects You With Experts via Video Chat
+Google Launches Add-ons to Supercharge Google Docs and Sheets
 Google Maps Adds Step-by-Step Previews, Live Traffic Reports, More
 Google Maps Gets Multiple Destinations, Reservations, and Events
 Google Maps Shows Your Hotel, Flight, and Restaurant Reservations
@@ -955,6 +1029,7 @@ Grab a Free Gift Card with a Kindle, Turkey Gear, Hybrid Drive [Deals]
 Grab a MacBook Air for $200 off, External Drives, Halloween Candy
 Grab the FreedomPop High Speed WiFi Hotspot, Now Available for $29.99
 Gravity Highlighter Shows Related Stories As You Browse the Web
+Gravity Screen Uses Sensors to Turn your Phone On, Off Automatically
 GravityBox Adds a Ton of Tweaks to Android in One Customizable Package
 Great Deals on a Variety of Transcend Storage Today on Amazon
 Great Deals on our Favorite PC Case, Jawbone JAMBOX, and a Maglite
@@ -967,6 +1042,7 @@ Groopic Takes Group Photos Without Needing to Ask Strangers to Shoot
 Groupiful Is a To-Do App Ideal for Organizing Small Teams or Families
 HTTPS Everywhere for Firefox for Android Secures Your Mobile Browsing
 Habit Streak Plan Puts Jerry Seinfeld's Productivity Secret on Android
+HabitClock Helps You Build Productive Morning Habits
 Hack Wireless Into a SNES Controller with a Logitech Receiver
 Hack Your Wireless Mouse into a DIY Power Glove
 Hack Your Xbox One Headset into a Universal Headset Adapter
@@ -976,6 +1052,7 @@ Hack an Old Router to Add Wireless Control and Live View to a Camera
 Hacker Vision Darkens Bright Web Sites and Makes Them Easier to Read
 Half Price Starbucks, 2-For-1 Windshield Wipers, Windows 7 DVD [Deals]
 Handle Mavericks Tagging in Alfred with This Workflow
+Handy Photo Offers Photo Uncropping, Smart Tools, Clone Stamp, More
 Hang Posters With Toothpaste to Avoid Holes
 Hang Your Razor in the Shower With PVC Pipe
 Hang Your Recycling Bins for Easier Access
@@ -983,6 +1060,7 @@ Hangouts Widget Puts Your Messages on Your Home Screen
 Hangover Cures: Myth, Legend, and Fact
 Happify Trains You to Be Happier, Using Games Backed by Science
 Harness the Power of Physics to Make Winter Driving Easier
+Have Three Good Stories Ready to Always Be Interesting
 Have You Ever Bought a Counterfeit Item Online?
 Have You Ever Built Something with an Arduino?
 Have You Ever Built a Custom Game Console?
@@ -1014,6 +1092,7 @@ Hide Valuables in a Dental Floss Container
 Hide Your Speakers with a DIY Bookshelf Boombox
 Hide Your Valuables in Plain Sight with This DIY False Bottom Crate
 High-Capacity SSDs, Windows 8.1, Moto X for a Penny [Deals]
+Hitbliss Lets You Earn Money for Movies and TV Shows by Watching Ads
 Hitlist Finds the Cheapest Time to Travel to Your Dream Destination
 Hold Shift to Scroll Horizontally on Wide Web Pages
 Hold Your Pencil at an Angle to Get a Better Measurement
@@ -1025,12 +1104,14 @@ Home Improvement Projects that Cost More than They're Worth
 HomeSlice Tracks and Splits Bills, Chores, and Supplies for Roommates
 Hour of Code Offers Coding Tutorials from Bill Gates, Zuckerberg, Etc
 How "Fuzzy-Trace Theory" Impacts Your Finances
+How App Stores Changed the Way We Buy Software, for Better and Worse
 How Beginning Runners Can Improve Skills and Avoid Injuries
 How Big Numbers Short-Circuit Your Brain and Your Finances
 How Caffeine Can Boost Your Memory
 How Can I Avoid Buying a Stolen Phone?
 How Can I Avoid Filler Words Like "Um" When I Talk?
 How Can I Avoid Using Too Much Smartphone Data?
+How Can I Best Absorb Information While Reading?
 How Can I Build a Home Theater in a Small Space?
 How Can I Build an Irregular Habit?
 How Can I Connect Two Windows 8 Machines with Wi-Fi Direct?
@@ -1040,6 +1121,7 @@ How Can I Delegate to an Unreliable Person?
 How Can I Effectively Negotiate My Rent?
 How Can I Fall Asleep Faster?
 How Can I Get Help With My Finances?
+How Can I Get My Family More Organized?
 How Can I Get My Friends to Fix Their Own Computer?
 How Can I Get Un-Banned After Breaking a Terms of Service Agreement?
 How Can I Get Used to Working the Night Shift?
@@ -1087,6 +1169,7 @@ How Do You Back Up Your Stuff?
 How Do You Get to Work?
 How Do You Prefer to Read Your Books?
 How Do You Take Notes at Meetings?
+How Do You Take the Agony Out of Cleaning and Make It Fun?
 How Do You Test a New Pair of Headphones?
 How Do You Use Up the Balance on Old Gift Cards?
 How Do You Wake Up?
@@ -1097,6 +1180,7 @@ How Doing What You Love Can Become a Double-Edged Sword
 How Getting Rid of Your Home PC Could Actually Improve Your Life
 How Hard Is It to Switch to Linux?
 How Have You Dealt with a Job You Hated?
+How High-Impact Exercise Actually Strengthens Your Bones
 How Hyper-Threading Works (and When You Want It In Your PC)
 How I Became the Kind of Person Who Can Work a Room
 How I Built the Media Center of My Dreams for Under $500 [UPDATED]
@@ -1122,6 +1206,7 @@ How Many Devices Do You Carry?
 How Many Meals Do You Prepare Yourself Each Day?
 How Many Remotes Do You Use for Your Home Entertainment Center?
 How Much Alcohol Causes a Hangover, and the Best Drinks to Avoid One
+How Much Coffee Is Too Much?
 How Much Do You Spend on Technology Services Each Month?
 How Much Inheritance Should You Leave Your Kids?
 How Much Money Should Be In Your Emergency Fund?
@@ -1131,6 +1216,7 @@ How Much Time Should You Spend Preparing for a Job Interview?
 How Much Water You Should Drink Before, During, and After Exercise
 How Much You'll Save for Retirement If You Invest Just $50 a Month
 How Much of Your Disposable Income Do You Save?
+How Much to Spend on Your Next Car, Based on How You Feel About Cars
 How Much to Tip Your Bartender If You Want the Best Service
 How Music Affects and Benefits Your Brain
 How Not to Be The Coworker Everyone Hates
@@ -1152,10 +1238,13 @@ How Tinkering Can Help You Learn
 How To Access iTunes Radio Outside The US (Without a Proxy)
 How To Build Your Own Carbonation Rig That Adds Bubbles to Anything
 How To Choose The Best Hard Drive Upgrade For Your PS4
+How To Get Out of a Gaming Funk
 How To Hack Personal Essay Writing
 How To Make a Long Board Game Bearable
+How To Pick a Lock Using Nothing But Hairpins
 How To Properly Tow A U-Haul Trailer
 How To Spot a Good Salesperson
+How To Take Care of Your Tools
 How To Use Evernote for Writing Fiction
 How To-Do Lists Give Us a False Sense of Accomplishment
 How To: Password Protect Your Android (Only) When Away From Home
@@ -1173,6 +1262,7 @@ How Will the New Health Care Law Affect My Taxes?
 How Working Against Your Circadian Rhythm Affects Your Health
 How You Work: Automation, Personal Organization, and the 1-3-5 System
 How You Work: Brain Tricks, Office Noise, and Productive Naps
+How You Work: College Workspaces, Whiteboards, and Automate It All
 How You Work: DIY Desks, Text Expansion, and Harsh Truths
 How You Work: Excel Notes, Positive Attitude, and Multiple Monitors
 How You Work: Repurposed Furniture, Podcasts, and Novel Writing
@@ -1200,6 +1290,7 @@ How the Nexus 5 Compares to Its Toughest Smartphone Competition
 How to "Just Say No" to Peer Pressured Spending
 How to Access Gmail When It’s Down
 How to Accumulate All of Your Frequent Flyer Miles in One Place
+How to Afford Traveling the World
 How to Avoid Injuring Yourself During Everyday Activities
 How to Avoid Spreading Myths and Misinformation Online
 How to Beat the Winter Blues When You Work from Home
@@ -1213,11 +1304,14 @@ How to Break the Living Paycheck-to-Paycheck Cycle
 How to Bring Libraries Back in Windows 8.1
 How to Build an Arduino TV Annoyer
 How to Buy a Good, Versatile Suit for Any Occasion
+How to Buy a Home Without a Down Payment
 How to Change Your Email Address without Screwing Everything Up
 How to Check Your Windows and Doors for Costly Air Leaks
 How to Choose the Best Renters Insurance
 How to Choose, Buy, and Safely Use a Good Surge Protector
 How to Clean Up and Fine Tune Your Twitter Feed
+How to Clean Your Smelly Workout Clothes Properly
+How to Clean the Grossest, Most Difficult Stains with Household Items
 How to Completely Anonymize Your BitTorrent Traffic with a Proxy
 How to Conduct a Home Energy Audit in Just 30 Minutes
 How to Configure or Disable Bing Web Search in Windows 8.1
@@ -1230,6 +1324,7 @@ How to Craft the Perfect Home Office
 How to Craft the Perfect Running Route
 How to Create Your Own Customized Version of Android with Xposed
 How to Create Your Own Windows 8 Disc for a Customized Clean Install
+How to Create a More Effective Debt Pay-Down Plan
 How to Create an OS X Mavericks USB Installation Drive
 How to Curb Your Financial "Cravings"
 How to Deal with Death in the Digital Age
@@ -1239,6 +1334,7 @@ How to Deal with Workplace Envy
 How to Decide If Premium Gasoline Is Worth The Money
 How to Declutter Your Facebook News Feed Once and For All
 How to Defeat the Urge to Binge Shop
+How to Dig Yourself Out After a Foreclosure
 How to Disable Avast's Annoying Sounds and Popups
 How to Disable Gmail's New Feature that Let Google+ Users Email You
 How to Eat Well While Traveling (and Not Break the Bank)
@@ -1249,6 +1345,7 @@ How to Escape Comcast and Get Your Internet Elsewhere
 How to Explain Complex Ideas (Like Tech) to Those Who Don’t Understand
 How to Feel Confident Sharing Your Creative Work In Public
 How to Filter Out Email "Fluff"
+How to Finance Your Bucket List
 How to Financially Prepare for 4 Big Life Milestones
 How to Find Evidence to Support Any Argument
 How to Find Out If Your Flight Has In-Seat Power Outlets
@@ -1264,9 +1361,11 @@ How to Flash a ROM to Your Android Phone
 How to Follow Someone Like a PI Without Getting Caught
 How to Free Yourself from Recipes with a Few Golden Cooking Ratios
 How to Get Away with Talking at the Movie Theater
+How to Get Better Sleep (and Need Less Every Night)
 How to Get Into Exclusive Parties and Clubs Without an Invitation
 How to Get Rid of SkyDrive in Windows 8.1 Explorer
 How to Get Student Discounts Forever
+How to Get Your Garden Ready for Spring Planting
 How to Get Your Kids to Go the F*** to Sleep: An Age-by-Age Guide
 How to Get a Complete Workout with Nothing But Your Body
 How to Get the Best Deal on an Engagement Ring
@@ -1275,6 +1374,7 @@ How to Get the Most Bleeding Edge App Updates on Android
 How to Get the Most Money Selling Your Used Stuff on Amazon
 How to Go Beyond Online Petitions and Make Your Voice Really Count
 How to Grow Your Personal Brand When You're an Introvert
+How to Handle an Unexpected Windfall
 How to Handle the Most Common Roadside Emergencies
 How to Harness Your Brain's Dopamine Supply and Increase Motivation
 How to Have Great Ideas More Often, According to Science
@@ -1316,6 +1416,7 @@ How to Optimize Your PC Games' Graphics Settings in One Click
 How to Organize A Lot of Clothing in Very Little Closet Space
 How to Organize Your Sale Stockpile
 How to Overcome Decision Fatigue
+How to Painlessly Switch Banks
 How to Pay Expensive Vet Bills Without Going Broke
 How to Pick Your Life Partner
 How to Pick Your Next Android Phone: 2013 Edition
@@ -1326,6 +1427,7 @@ How to Plan a Trip Itinerary Using Custom Google Maps
 How to Plant Ideas in Someone's Mind
 How to Properly Set Your Subwoofer's Volume (Without Shaking the Roof)
 How to Pull Up Old, Dismissed Notifications in Android
+How to Qualify for Tax Deductible Moving Expenses
 How to Remap the Hardware Buttons On Your Android Phone
 How to Return Nearly Anything Without a Receipt
 How to Rip a DVD to Your Computer
@@ -1336,12 +1438,16 @@ How to Share Small Spaces
 How to Shop for Clothes Online and Get a Perfect Fit
 How to Skip the Regular Airport Security Line and Get on the Elite One
 How to Start Exercising When You're Already Overweight
+How to Start Saving for a Home Down Payment
 How to Stay Calm and Not Yell at Your Kids (Even If You're Really Mad)
 How to Stay Productive In an Open Working Environment
 How to Stay Productive While Caring for a New Baby
 How to Stay Productive on a 4 to 6 Hour Sleep Cycle
+How to Stay Safe If You're Caught in a Mass Shooting
 How to Stay Sane When You're Going Through Tough Financial Times
+How to Stop Being a Cynical Asshole
 How to Stop Credit Card Offers from Littering Your Mailbox
+How to Stop Fighting About Money with Your Significant Other
 How to Stop Giving a F*ck What People Think
 How to Stop Google+ from Taking Over All of Your Google Apps
 How to Stop Web Sites from Potentially Listening to Your Microphone
@@ -1350,7 +1456,10 @@ How to Survive Long Holiday Shifts as a Retail Worker
 How to Survive a Fancy Formal Dinner
 How to Survive the Perils of New Year's Eve
 How to Sync Your Saved PC Games Between Computers with Dropbox
+How to Take a Cruise for as Little as $30 Per Day
+How to Take a Pay Cut for a Job You Actually Love (and Survive)
 How to Take a Screenshot on Most Nook Devices
+How to Take a Screenshot on Your Windows Phone
 How to Talk to Your Kids About Drugs
 How to Teach Kids the "Time Value" of Money
 How to Teach Young Kids Budgeting Habits Early On
@@ -1366,6 +1475,7 @@ How to Turn Grid Lines On and Off in iOS 7's Camera
 How to Turn Your Favorite Pair of Headphones Into a Headset
 How to Undo and Avoid Sending Accidentally Embarrassing Messages
 How to Upgrade Your Garage Workshop Without Spending a Fortune
+How to Use Bullet Points Most Effectively to Break Down Ideas
 How to Use Mind Maps to Unleash Your Brain's Creativity and Potential
 How to Use Your Cellphone on the Go Without Dying
 How to Use Your Smartphone As an Essential Part of Your Disaster Kit
@@ -1398,15 +1508,18 @@ I'm Gentry Underwood, and This Is the Story Behind Mailbox
 I'm Jamie Todd Rubin, and This Is How I Work
 I'm Joel Gascoigne, and This Is the Story Behind Buffer
 I'm John Hodgman, and This Is How I Work
+I'm Kathryn Minshew, CEO of The Muse, and This Is How I Work
 I'm Nate Weiner, and This Is the Story Behind Pocket's Highlights
 I'm Omer Perchik, and This Is the Story Behind Any.do
 I'm Robby Macdonell, and This Is the Story Behind RescueTime
 I'm Ryan Holiday, and This Is How I Work
+I'm a Telemarketer. Here's How to Get Rid of Me
 I'm about to go to college and could use some financial advice.
 I've Been Using Evernote All Wrong. Here's Why It's Actually Amazing
 I've Been Using Tags All Wrong
 IFTTT for iPhone Adds a New Location Channel
 IFTTT for iPhone Updates with New Photo and Reminder Actions
+IQTELL Puts GTD, Notes and Email in a Single Productivity App
 Identify Askers and Guessers to Request Favors More Effectively
 Identify Nail Polish, Paint Cans, and More By Painting Stickers On Top
 If You Have a Variable Income, You Need a Variable Savings Plan
@@ -1414,28 +1527,37 @@ If You Used Yahoo This Week, You Might Have Malware (Updated)
 If You're a Wallflower, Seek Out Other Wallflowers at Events
 Iframely for Gmail Adds Inline Previews to Links in Gmail
 ImDisk Creates Dynamically Resizing RAM Disks
+ImageCacheViewer Finds and Views All Images Saved to Your Cache
 Imagine Three Different Futures to Help You Make Better Decisions
 Imagus is a Hover Zoom Replacement to Enlarge Images on Mouseover
 Immediately Subtract One Thing From Your To-Do List When Overwhelmed
+Impala Auto-sorts iOS Photos into Albums
 Import Your Current Location Into TextExpander with This Script
 Improve Your Dental Health This Weekend
 Improve Your Listening Skills by Turning Off Your Expectations
 Impulse Buy a Chromebook, Track Your Data Usage, and Make Great Coffee
 In Dre We Trust: Why You Should Try Beats Music
+Include Certifications in Job-Hunting Subject Lines to Get Noticed
 Incorporate a Daily Prioritization Meeting into Your Morning Routine
 Increase Savings with a Cyclical Mindset Towards Time
 Indestructible Headphones, Great Apps, Lightning Cables [Deals]
 Indigo Keeps You Organized Across Android, Windows Phone, and Now, iOS
+Indoor Aeroponics Kit, $9 External Charger, iPad Mini Sale [Deals]
 Infinit Makes File Transfers Between Macs Fast and Painless
 Infuse Updates, Plays Video from Your Home Network, Even Offline
+Ink Cards Mails Old Fashioned Physical Cards to Your Loved Ones
 Instagram Direct Offers Private and Group Photo and Video Messaging
 Install Android on a Windows 8 Tablet
 Instant Heart Rate Measures Your Heart Rate with Your Phone's Camera
 Instapaper for Android Gets a New Interface, Sorting Options, and More
 Instapaper for iPad Gets a Redesign, Sorting Options, and More
+Institute a "Think Week" to Get Your Creativity Back on Track
 Intel NUC PCs Pack a Ton of Power into a Tiny Little Case
 Intel and Arduino Team Up to Launch the Galileo
+IntelliScreen X 7 Enhances Your iOS Lock Screen, Now Works with iOS 7
 Interviewy Simplifies Voice Recording and Transcribing
+Introducing Group Chats, Now On Lifehacker
+Introducing Two Cents: a Lifehacker Blog All About Personal Finance
 Invert Broom Heads to Organize Your Desk
 Invisible Lock Screen Widget Locks Your Tablet with a Tap
 Is Building a PC Really Cheaper than Buying One?
@@ -1456,6 +1578,7 @@ It's No Surprise Anymore: Your Data is Never Safe Online
 It's Safe To Come Out From Under the Bed Now. Open Thread
 Jay-Z's Best Productivity Tricks
 Jazz And Rain Plays the Most Soothing of Sounds While You Work
+Jedi-Approved Productivity Tricks for the Business Traveler
 Jerry Seinfeld's Six Best Productivity Tips
 Jobscan Analyzes Your Resume, Helps You Get Past Computer Screeners
 Joguru Creates Itineraries Recommended by Travellers & Locals
@@ -1472,6 +1595,7 @@ Keep Cats Off the Furniture With a Spray of Vinegar
 Keep Cut Cheese from Drying Out with a Dab of Butter
 Keep Dice from Rolling All Over the Place with a Toy Container
 Keep Earbud Cables Tidy with this DIY Organizer
+Keep Email Subjects Between 6-10 Words To Make Sure They Get Opened
 Keep Faucets Shiny Longer with Wax Paper
 Keep Fruits and Vegetables Fresh Longer with an Ethylene Gas Absorber
 Keep Greeting Cards in Your Car for Emergency Thoughtfulness
@@ -1481,6 +1605,7 @@ Keep Messy Containers Clean with a Paper Towel and a Rubber Band
 Keep Negative Feedback Short to Make it More Effective
 Keep Newspaper in Plastic Containers to Remove Odors
 Keep Playing Cards Together with a Soap Box
+Keep Separate Desks For Creative and Regular Work
 Keep Stuffed Animals Clean and Smelling Good with Baking Soda
 Keep These Three Oils in Stock for More Versatile Cooking
 Keep Your Blender Carafe Clean and Clear with Lemons
@@ -1490,6 +1615,7 @@ Keep Your Mirror Fog-Free with a Bar of Soap
 Keep Your Resolutions with Jelly Bean "Prescriptions"
 Keep Your Slow Cooker On After Cooking for Easy Cleaning
 Keep Your Tire Pressure Gauge In the Trunk So You Check the Spare, Too
+Keep Your Toilet Seat Nice and Warm with Socks
 Keep a "New Ideas" Document for Creativity Without Guilt
 Keep a Fitted Sheet from Slipping with Velcro
 Keep a Trash Can in Your Car for Snow Emergencies (and Trash)
@@ -1501,6 +1627,7 @@ KillSpinners Stops Pages from Loading After Set Time
 Kindle Fire and Nexus 7, Belkin WeMo, Samsung SSDs [Deals]
 Kindle Paperwhite (2013) Review: Faster, Prettier, Still the Best
 Kitchen Scraps You Can Regrow with Nothing But Water
+Klutch Makes Getting Groups and Friends Together Quick and Easy
 Knock Unlocks Your Mac with Your Phone
 Know My App Rates Apps Based on Data Usage
 Know These Major Retailers' Online Price-Match Policies Before You Buy
@@ -1522,11 +1649,14 @@ Launch Center Pro Brings App Shortcuts to the iPad
 Launch an OS X Terminal Window from a Specific Folder
 Launchbot Is a Customizable Start Page for All Your Browsers
 Lay-N-Go Traveler Makes Finding Small Items in Your Bag Super Easy
+League of Legends Pro Attempted Suicide After Tournament Scandal
 Learn All the GIMP Keyboard Shortcuts with This Cheat Sheet
 Learn How to Use a Multimeter for All Your DIY Electronics Projects
 Learn Over 60 Google Now Commands with This Infographic
 Learn Your Target Net Worth Multiples to Guide Your Savings Plan
+Learn a New Language, Scan Your Car, Preorder a Chromebox [Deals]
 Learn the Basics of Android KitKat with This Free eBook from Google
+Learn the Basics of Breadboards and Perfboards with This Video
 Learn the Military Tuck for Keeping a Dress Shirt Neat with This Video
 Learn the Science of Baking Cookies with This Video
 Learn the Science of Cooking with This Free Harvard Course
@@ -1547,12 +1677,14 @@ Let.ter Is an Email Client for Just Writing and Sending Email
 Level Budgets Your Money and Shows One Thing: How Much You Can Spend
 Life Hacks for The Depressed Amongst Us
 LifeProof Your Devices, Grab A New Or Second Monitor, Eneloops [Deals]
+Lifehacker UK: Coming Soon to an Internet Near You
 Lifehacker: The Index
 Lift for Android Keeps You Motivated and On Track to Your Goals
 Light is a Stripped Down Firefox Build Made for Performance
 LightZone Is a Free, Awesome Photo Editor and Alternative to Lightroom
 LighterBro Turns Your Bic Lighter into a Multitool
 Like to Tinker? Use Chrome? You'll Want To Bookmark This URL
+Likeastore Collects All Your Social Likes and Favorites in One Place
 Limitless Tracks How Productive You Are Online, Motivates You to Focus
 LinkedIn Can Connect You to Non-Profits for Volunteering Opportunities
 LinkedIn Viewed History, Elevated Photos, and Cheese Fondue
@@ -1579,6 +1711,7 @@ Made Smart Interlocking Storage Bins Can Organize Any Drawer in a Snap
 Magical Jelly Bean KeyFinder Finds Product Keys for All Your Programs
 Magus Controls Your Phone with Physical Gestures (not On-Screen Ones)
 Mail Pilot Turns Your Email Into To-Dos, Is Now in Public Beta for Mac
+MailTamer Unclutters Your Inbox Fast
 Maintain a Wood Cutting Board with 5 Minutes of Work a Month
 Make "Instant" Hot Cocoa from Real Chocolate That's Easy to Store
 Make 20 Meals to Feed a Family of Four for $150 and One Trip to Costco
@@ -1609,6 +1742,7 @@ Make Sunny-Side Up or Poached Eggs in the Microwave
 Make Super-Soil for Your Plants from Diapers
 Make Two-Ingredient Banana Pancakes for a Fun and Easy Breakfast
 Make Vitamin-Rich Tea from Pine Needles
+Make Yellow Pillows Look Like New Again with a DIY Whitening Solution
 Make Your Bed Sheets Last Twice as Long Between Washing
 Make Your Desktop Weird with These Wallpapers
 Make Your Mouse Scroll Smoothly with Some Light Gadget Surgery
@@ -1617,6 +1751,7 @@ Make Your Own $100 Belt for Less Than Half the Price
 Make Your Own All-Natural DIY Dusting Spray
 Make Your Own Awesome Salad Dressing with This Simple Cooking Formula
 Make Your Own Baking Powder Next Time You Run Out
+Make Your Own Bath Bomb
 Make Your Own Bluetooth Speaker for $15
 Make Your Own Cold-Brewed Tea in a Jar
 Make Your Own DIY IKEA Camera Slider
@@ -1625,6 +1760,7 @@ Make Your Own DIY Magnetic Key Shelf
 Make Your Own DIY Makeup Removal Wipes
 Make Your Own DIY Nail Polish Remover-in-a-Jar
 Make Your Own DIY Printed Coasters
+Make Your Own Electronics Workstation in a Box
 Make Your Own Flexible Carbon Fiber Electric Blanket
 Make Your Own GPS Pet Tracker with TinyDuino
 Make Your Own Headphone Bass Amp
@@ -1707,8 +1843,10 @@ Microsoft Releases Remote Desktop for Android and iOS
 Microsoft SkyDrive Is Now OneDrive, Comes with More Storage, Features
 Microwave Dish Towels in a Ziploc for an Emergency DIY Hot Water Bottle
 Microwave Kale for a Healthy Alternative to Potato Chips
+Mime-O Beefs Up Android's Clipboard with Dictionary, Send to PC, More
 Mindly Makes Mind Mapping Simple and Beautiful on Small Screens
 Minimum Font Eliminates Small Text from Web Pages
+Missed Calls, Neck Stretches, and Amazon Prime Spoilers
 Mizuu Turns Your Android Device into a Good-Looking Media Center
 Mobile Firefox History, Facebook Spoilers, and Changing Habits
 Mobile Substrate Updates for iOS 7, Supports More Jailbreak Tweaks
@@ -1738,6 +1876,7 @@ Most Popular Featured Desktops and Home Screens of 2013
 Most Popular Featured Workspaces of 2013
 Most Popular Firefox Extensions and Posts of 2013
 Most Popular Hive Fives of 2013
+Most Popular Home Wi-Fi Router: ASUS RT-AC66U
 Most Popular How-To Guides of 2013
 Most Popular Indoor Over-the-Air Antenna: Mohu Leaf
 Most Popular Interviews of 2013
@@ -1745,6 +1884,7 @@ Most Popular Language Learning Tool: Duolingo
 Most Popular Lifehacker Videos of 2013
 Most Popular Longform Features of 2013
 Most Popular Mac Downloads and Posts of 2013
+Most Popular Meal Planning App: Cook Smarts
 Most Popular Mechanical Keyboard: Das Keyboard Ultimate Model S
 Most Popular Mobile Hotspot: Your Smartphone or Tablet
 Most Popular Nexus 7 Case: Devicewear Ridge
@@ -1774,10 +1914,12 @@ Move Your Mac's Dock to the Corner with a Terminal Command
 Moves Updates to Track 60 Different Types of Activity
 Moves Updates with Battery Saving Mode and iPhone 5s Support
 MovieScanner Lists Metadata for All Your Digital Movies
+Muffins, Maps, and Conversions
 Multiling is a Light, Customizable and Privacy-Friendly Keyboard
 Multiple File Selection, Shipping Weights, and Olympic Medals
 Mumble! Customizes SMS Notifications Based on Message Contents
 Mustbin Guides You to Securely Capture, Organize and Share Private Data
+Mute Mic Prevents Your Phone's Microphone From Recording Audio
 Mute.fm Automatically Mutes Your Music When You Play a Video
 Muzei Rotates Android Wallpaper with Paintings, Instagrams, and More
 Muzzy Gives You Menu Bar Access to iTunes
@@ -1790,12 +1932,14 @@ MyPhotostream Gives You Instant Access to Photos in Your Photo Stream
 MyScript Calculator Uses Handwriting Recognition to Do Math
 MyTime Schedules Appointments at Almost Any Local Business
 Naked With Cash Reveals How Much Money Some People Make, Spend or Save
+Name Your Own Price On This Top Learn To Code Bundle
 Name Your Own Price for $461 Worth of Mac Apps
 NanoLeaf Bulbs Provide Unusually Bright, Energy-Efficient LED Lighting
 Narcissism May Be a Helpful Trait in High-Profile Careers
 Navigate Files Like a Pro with These Finder Tips and Tricks
 Navigate Files Like a Pro with These Windows Explorer Tips and Tricks
 Navigate Straight to an App's Settings with Siri in iOS 7
+Neatly Roll Crepes with a Fork
 Negatives Beautifies Instagram Browsing on Android and iOS
 Nerd Herder Wallets Store Your Money and Your Gadgets
 Nest Thermostat, Expand Your Mac's Storage, Lightning Charger [Deals]
@@ -1807,6 +1951,7 @@ Netflix Trailer Button Adder Lets You Preview Movies Before Watching
 Network Better as an Introvert with a “Socialization Quota”
 Network Connections Monitors and Logs Your Phone's Connections
 New App Lets People in Abusive Relationships Seek Help Quickly
+New Netflix Phishing Scam Tricks You Into Calling Fake "Tech Support"
 Newegg Premier Offers Free Shipping and Returns for $50 a Year
 NewsToEbook Converts RSS and Feedly Subscriptions Into Epub
 Nexus 5 Review: The Best Android Can Offer (Especially For the Price)
@@ -1816,11 +1961,13 @@ Nexus 7 With Free Extras, iPhone 5s for Cheap, SodaStream [Deals]
 Night Mode Drops Your Phone's Brightness Far Below Normal Levels
 Nike+ Move Is a Battery-Efficient Pedometer and Tracker for the iPhone
 Nine Windows 8.1 Features You Might Have Overlooked
+No Tire Patches? Fix a Bike Flat with This One Weird Trick
 No, The PS4 Doesn't Have A "Wobbling" Problem
 NoRoot Firewall Controls Internet Access for Apps
 Noisli Generates Background Sounds to Keep You Creative and Relaxed
 Noon Pacific for iPhone Takes Your Awesome Weekly Playlists With You
 Not Just for VIPs: Everything You Need to Know About Airport Lounges
+Note Your Biases Before Making Decisions for Better Results
 Note.It Is a Fast, Elegant iPhone App for Quick Notes or Checklists
 NoteHub Creates Throwaway HTML-Enabled Note Pages
 Noted Is a Colorful, Fast, and Clutter-Free Notes App
@@ -1836,7 +1983,9 @@ Octonius Searches & Groups Files From Evernote, Dropbox, Google Drive
 OldNewExplorer Customizes Windows Explorer to Be More Like Windows 7
 Olympic Schedules, Safari Pages, and Amazon Shipping
 OmniSidebar Makes Firefox Sidebar Hacks Easier Than Ever
+One Notebook or Many Notebooks?
 One Sentence Diary Makes Journaling Brief and Easy
+One of the best habits for happy living may also be the least practiced
 One-Day Kindle Sale, Tiny Bluetooth Boombox, Lightning Cables [Deals]
 OneClick Scroll Jumps to the Top or Bottom of a Page With One Tap
 OneNote Summaries, Flickr Viewers, and Testicular Health
@@ -1857,6 +2006,7 @@ Order Secret Menu Items at Fast Food Chains
 Order Starbucks Drinks at "Kids' Temperatures" to Avoid a Burnt Tongue
 Order a Quesarito and other Secret Chipotle Menu Items
 Order the "Poor Man's Big Mac," and Other McDonald's Secret Menu Hacks
+Order the Lucky 7, the Elvis, Or Other Potbelly Secret Menu Items
 Order the Subway Old Cut and Other Secret Menu Items
 Organize Metal Pot Lids with a Magnetic Knife Rack
 Organize Your Entire Garage with a DIY Wall of Storage
@@ -1872,6 +2022,7 @@ Outread, the Speed Reading App for iOS, Is Now Available for iPad
 Over Praising May Do More Harm than Good to Low Self-Esteems
 Overcome Stage Fright with a Storyboard and a Structured Format
 Override Your Hotel Room Thermostat and Set It As Hot or Cold You Like
+Ovia Fertility Adds Real Science to Your Family Planning
 PDF Convert Instantly Turns an Email Into a PDF
 PS4 vs. Xbox One: The Comparison We Had To Make
 PSA: Your Phone Logs Everywhere You Go. Here's How to Turn It Off
@@ -1901,6 +2052,7 @@ Pay Yourself a Wage Based on Expenses When Making a Variable Income
 Paying Off Credit Cards Is the Best Financial Return for Your Money
 Paying Yourself, Spare Chargers, and Toilet Stains
 Pebble Steel Review: The Best Smartwatch, Now Also Beautiful
+Peeing in the Pool is Gross and May Actually Be Bad For You
 Peek Inside Your Computer with These Wallpapers
 Peek Is a Colorful, Gesture-Based Calendar
 PeeperPeeper Catches Who Has Been Snooping on Your Private Messages
@@ -1915,6 +2067,7 @@ Physicists Reveal the Best Way to Pee Into a Urinal
 Pick Calculates and Tracks Shopping Savings
 Pick Running Shoes Based on Comfort to Prevent Foot Injury
 Pick the Best Batteries for Those "Batteries Not Included" Gifts
+Pick the Perfect March Madness Bracket with Tips from a Mathematician
 Pick the Right "Scoring" Metric to Target Success
 Pick the Right Wallpaper to Make Parallax on iOS 7 Shine
 Picture in Picture Turns Tabs into Collapsible Mini Windows
@@ -1931,12 +2084,16 @@ Plug.dj Is Social Streaming Music, Ready to Fill Turntable.fm's Shoes
 Pocket Adds Google Account Support, Offline Evernote Sharing, and More
 Pocket Gets New Design, Keyboard Shortcuts on the Web
 Pod Wrangler Is the Simplest Podcast Manager We've Seen
+Popcorn Time Streams Movie Torrents from a Huge Library
+Portable Pegboard Storage System Lets You Create Anywhere
+Post Forward Replaces Banner Ads With Social Media Feeds
 Potluck Delivers Bite-Sized News to Discuss With Friends
 Pour Grease into Eggshells When Frying Bacon and Eggs for Easy Cleanup
 Power a Car Stereo with a Raspberry Pi
 Power a Set of Voice-Controlled Electrical Outlets with a Raspberry Pi
 Power a Vintage Stereo with a Raspberry Pi
 PowerCurl Mini Neatly Contains an iPhone Power Adapters and Cable
+PowerQube Will Power and Charge Any Nine Devices at Home or On the Go
 Poweradd Apollo Solar Battery Recharges Your Phone on the Cheap
 Practical Math Shortcuts For Everyday Life
 Practice may not make perfect, but it can make permanent.
@@ -1967,18 +2124,23 @@ Protect Your iPhone 5S, Sony NEX-5TL, Everything Logitech [Deals]
 Puffin Web Browser Brings Flash to Mobile Phones
 PushBullet Sends Links, Files, Notes and More to Chrome from Android
 PushBullet Sends Your Phone's Alerts and Notifications to Your PC
+PushBullet Shares Anything Between Your PC and iPhone In Seconds
 Put Dryer Sheets at the Bottom of Trash Cans to Ward Off Stench
 Put On a Smile (Even When You're Stressed) to Improve Your Mood
 Put Some (Fake) Planets on Your Desktop with These Wallpapers
+Put Some Cute on Your Desktop with These Wallpapers
 Put Some Evil Villains on Your Desktop
 Put Some Lego People on Your Desktop With These Wallpapers
 Put Some Mustaches on Your Desktop in Honor of Movember
+Put Some Useful Information on Your Desktop
 Put These Solitary Trees Front and Center with These Wallpapers
+Put a Mirror in Your Kitchen to Trick Yourself to Eat Healthier
 Put the Best Wallpapers of 2013 on Your Desktop
 Put the City on Your Desktop with These Wallpapers
 Put the Elements of the Earth on Your Desktop with These Wallpapers
 Put the Wallpapers of OS X Mavericks on Your Desktop
 Putting the Focus on Your Goals May Be Holding You Back
+Qello Is Like Netflix for Music Documentaries and Concerts
 Quick Food Fixes to Save Your Thanksgiving Disasters
 Quick-Soak Dried Beans in One Hour with a Short Boil
 Quicker Logins, Hanger Bumps, and Exchange Availability
@@ -2064,12 +2226,17 @@ Reward Failure to Encourage New Ideas
 Ringer Customizes Your Phone's Ring Settings, Links to Calendar Events
 Rinse Bacon in Water Before Cooking to Reduce Shrinkage by 50 Percent
 Roast a Whole Chicken in Half the Time with a Preheated Skillet
+Roku Streaming Stick, Synology NAS, Dyson Handheld Vacuum [Deals]
+Roku's New HDMI Streaming Stick: $50 and More Than 1,000 Channels
 Romantimatic Reminds You to Say I Love You
+Rooster Makes Books Bite Size for People Too Busy to Read
 RootCloak Hides Root Access From Specific Applications
+Rotate Toys to Keep Kids Engaged and Their Rooms Uncluttered
 Roth IRAs, Cydia Tweaks, and Speedtest
 Router and Modem Combo Pack, SSDs of All Sizes, WeMo Switch [Deals]
 Rub Sugar into Lemon Skins for Perfect Lemonade
 RunKeeper Updates with Support for the iPhone 5s
+RunKeeper for Android Adds Training Tab with an Array of Fitness Plans
 SD Cards Galore, Wireless Keyboard and Trackpad, GorillaPod [Deals]
 SIMPLcase Makes Carrying Multiple SIM Cards with Your iPhone Easy
 SafeSpot Sends a Geo-Tagged SOS if You’re Incapacitated
@@ -2079,6 +2246,7 @@ Samsung Galaxy Note 3 Review: Biggerer and Betterer
 Satechi Smart Travel Router Fits Any Plug and Charges Your USB Gadgets
 Save 100% of Your Secondary Income Streams to Budget Better
 Save 30% On Subscribe & Save Items From Amazon
+Save Big on Sony SD Cards, Flash Drives, and More Today on Amazon
 Save Money (and Avoid FOMO) By Closing the Facebook Tab
 Save Money at the Gym by Getting Off-Peak Memberships
 Save Money on Pregnancy Tests by Buying Test Strips in Bulk
@@ -2111,15 +2279,19 @@ Secret Sharp Encrypts Text, Can Only Be Decrypted By a Group
 Secure Extension Cords with a Simple DIY Cleat
 Securesha.re Sends Encrypted Files with Just a Browser
 See Which Safari Tabs Hog System Resources with Activity Monitor
+Select All Text with the Same Formatting in Microsoft Word
 Sell Your Used Junk for More Money by Letting Amazon Store and Ship It
 Send Twitter DMs on Apps That Won’t Let You with This Trick
 Sendola Pushes Contact Info from Company Web Sites to Your Phone
+SeriesGuide Turns Your New Tab Page into a TV Show Calendar
+Seriously, folks, you need to stop refrigerating your tomatoes
 Set Aside “Prefrontal Mondays” for Thinking and Planning Big Decisions
 Set Geographical Locations as Distance Goals to Motivate Workouts
 Set Goals by Time Instead of Distance or Quantity
 Set OS X Mavericks to Update Software When You Want
 Set Up Opening and Closing Rituals to Form Better Habits
 Set Up and Get to Know Your New iPhone, Android, PC, or Mac
+Set Your Alarm 30 Minutes Earlier Than Normal to Solve More Problems
 Set Yourself Small Challenges To Overcome Shyness
 Set a Dollar Limit to Decide Whether Your Old Junk Is Worth Selling
 Set a Schedule Instead of a Deadline to Make a Habit Stick
@@ -2130,6 +2302,7 @@ Seven Parenting Behaviors That Can Harm Your Child's Future
 Seven Retailers That Let You Stack Coupons
 Seven Things I Wish I Had Known Before Getting Married
 Seven Things I Wish I Knew Before Getting My First Apartment
+Seven Things I Wish I Knew When I Was Still in College
 Seven Time-Saving Android Shortcuts
 Seven Tips and Tricks to Get More Out of OneNote
 Seven Year-End Tax Tips You Might Not Know About
@@ -2137,10 +2310,12 @@ Shake Off a Shy Reputation at Work by Making Your Strengths Clearer
 Share Direct Links to Files in Google Drive and Skip the Web Viewer
 Share a Digital Contact Card Right After You Exchange Business Cards
 Share in Friday's Open Thread
+Shatter a Car Window with a Sparkplug in an Emergency
 Shave with Olive Oil to Save Money and Get Smoother Skin
 Sheath Multi-Use Scissors Protect Your Hand from the Blade
 Shifu Reminds You of Tasks by Time, People, Location or Network
 Shoots & Leaves Instantly Turns iPhone Photos Into Links
+Should I Ever Care When One Tech Company Buys Another?
 Should I Move to a New Division or a New Company?
 Should I Start My Own Business?
 Should I Study Abroad?
@@ -2232,12 +2407,14 @@ Sony SD Cards Are Over Half Off on Amazon Right Now
 Sort Fresh Herbs by Hard and Soft for Better Freshness
 SoundVolumeView Manages Audio Profiles, Mutes Devices and Applications
 Speak with Live Chat Assistants to Get Discounts on the Web
+Speaky Reads Articles Out Loud to You
 SpecificFeeds Delivers a Customized Version of Your RSS Feeds
 Specify Skill and Personality Trait for Great LinkedIn Recommendations
 Speed Up Google Now with This Simple Tweak
 Speed Up Your Family's Morning Routine
 Speek Offers Free, One-Click Web and Conference Calls
 Spend Less with a Smaller Wallet or Pocketbook
+Split Payments, Air Conditioning, and Pocket Tags
 Split Up Household Budgeting to Spend Wisely and Save Money
 Spot Bad Excuses by Examining Your Own Reactions to Them
 Spot Fake Fashion Items With This Infographic
@@ -2246,23 +2423,28 @@ Spotiamp is a Spotify Player to Serve Your Winamp Nostalgia
 Spotify Announces Free Service For Phones and Tablets
 Spread Out Your Customer Service Requests or Lose Your Place in Line
 Spread Salt More Evenly with a Flower Pot
+Spreed Teaches You Speed Reading with Any Text Online
 Springpad Unveils Notebook Templates for Movies, Gift Ideas, and More
 Sprint Announces "Framily" Plan, Provides Discounts for Sharing Plans
 Sputnik Is a Pretty, Shortcut-Based Desktop RSS Reader
 SquadMail for Chrome Easily Shares Your Inbox with Others
 Square Cash Lets You Send Money Without Creating Another Account
+SquareOne Organizes Your Inbox So You Focus On the Important Things
 SquareWear Is a Tiny, Wearable Arduino
+Squawk Displays Reminders When You Unlock Your Android
 Stabilize a Shaky Camera with Your Face
 Stack Exchange Releases Android App, Answers Questions on the Go
 Stack Your Shoes Vertically with an IKEA End Unit
 Stand Out by Building Your Strengths, Rather Than Fixing Every Flaw
 Stand to Make Calculates How Much Your App or Other Project Could Earn
 Standing on Weekdays Burns Calories Like Running 10 Marathons a Year
+Staring at a Screen Won't Permanently Damage Your Eyes
 Start A Free Trial Of Amazon Prime Today, Have It For Holiday Shopping
 Start Drinking More Water This Weekend
 Start Screen Customizer Makes the Start Screen Transparent
 Start Your Morning Off with Funny Videos to Be More Creative
 Start a Magazine Trade to Bond with Your Co-Workers
+Start a Pirate Radio Station with a Raspberry Pi and a Single Wire
 Stay Alive Keeps Your Screen Awake on a Per-App Basis
 Stay Alive in Today's Open Thread
 Stay Connected as an Introvert with a Weekly Social Hour
@@ -2271,6 +2453,7 @@ Staying Productive When You're Sick, but not Stay-Home Sick
 Steam Adds User Reviews to Its Digital Video Game Store
 Steam Now Allows Users to Tag Games, Get Recommended Games from Tags
 Steam's Autumn Sale Is On, Now Through December 3rd
+Steam's Family Sharing Feature Now Available to Everyone
 Steam's Holiday Sale Is On, Now Through January 3rd
 SteamOS Beta Now Supports Dual-Boot and Custom Partitioning
 SteamOS Beta is Available for Download
@@ -2289,6 +2472,7 @@ Stop Overthinking Your Life
 Stop Sweat Stains from Ruining Your Shirts with a Little Baby Powder
 Stop Trying to "Keep Up with the Joneses"
 Stop Using Past Experience to Measure Future Success
+Stop Waiting for that One Thing to Make You Happy
 Stop Wasting Money: Buy the Identical, Cheaper Versions of Big Brands
 Stop Working at the Best Part to Easily Resume Later
 Stop a Door from Swinging Open by Bending the Hinge Pin
@@ -2299,12 +2483,14 @@ Store a Ton of iPhone Pictures for Free with iOS' Shared Photo Streams
 Stow Adds Templates, TripIt Support, and More to Make Packing a Breeze
 Streak Tracks Your Email, Lets You Know Who Read It, When, and Where
 Streambels Streams Your Phone to TVs, Consoles, and Set-Top Boxes
+Streaming Device Showdown: Who Wins the Battle for Your TV?
 Streamus Turns Chrome Into a YouTube Powered Music Player
 Stress Your Love of the Company to Get a Job When You're Overqualified
 Stretch Your Mac's SSD, Bluetooth Handsfree, Game of Thrones [Deals]
 Study Shows Playing Video Games Really Can Make Your Brain Bigger
 Study Shows the Benefits of a Brisk Walk Over a Slow One
 Su Chef Finds and Filters Recipes, Tells You What to Make for Dinner
+Sumry Builds Good-Looking Web Resumes, Lets You Apply to Jobs Directly
 Sunday Deals On The iPad Mini Retina, Kindle Paperwhite, 2DS, And More
 Sunlit Automatically Makes a Photo Journal Using App.net Storage
 Sunrise, the Smart Calendar for iPhone, Is Now Available for iPad
@@ -2317,6 +2503,7 @@ Supercharge Your Gmail Filters with These System Labels
 Supercharge Your Podcasts This Weekend
 Suprise.ly Shares Links to Clutter-Free YouTube Videos
 Sure You Can Take A Vacation -- As Long As You Continue To Work
+Surf's Up on the Friday Open Thread
 Surface Pro 2 Review: A Little Bit Better, But So Much the Same
 Surface Pro for $500, Roku 3, iMacs and MacBook All On Sale [Deals]
 Surfly Shares Your Browsing Session Without Downloading Anything
@@ -2346,12 +2533,15 @@ Sync Your Keyboard Shortcuts Between iOS and Mavericks with iCloud
 T-Mobile Announces Free, Unlimited Roaming in 100 Countries
 T-Mobile Will Pay Up to $350 to Customers Coming From Other Carriers
 TIME Planner Manages Your Time in Simple List Structure
+TV Streaming Head-to-Head: Netflix vs Hulu vs Amazon Prime
 Taasky Creates Quick, Beautiful, Simple To-Do Lists
 Tab Ahead Quickly Finds the Tab You Need When You Start Typing
 Tab Killer Turns Links You Want to Read Later into Pop-Out Bookmarks
 TabletRocket Compares Tablet Specs and Benchmarks Side by Side
 Tabs Always In Titlebar Saves Some Vertical Space in Firefox
+Tackle Problems Better by Identifying How They Affect People
 Tadaa SLR Shoots Now, Focuses Later for Lytro-Like Photos
+TagSale Posts Items for Sale in the Time It Takes to Snap a Photo
 Take $20 Off The iPad Air On Day One
 Take 30 Seconds to Write Down Key Points After Lectures or Meetings
 Take Photos From Above the Eyes for Great Portraits
@@ -2405,6 +2595,8 @@ The 50 Free Apps We're Most Thankful For
 The APC SurgeArrest Keeps Your Gear Safe and Offers Plenty of Outlets
 The Adafruit PiTFT Makes Adding a Touch Screen to a Raspberry Pi Easy
 The Always Up-to-Date Guide to Building a Hackintosh (OS X 10.9)
+The Always Up-to-Date Guide to Building a Hackintosh (OS X 10.9.2)
+The Analog Digital Go Bag
 The Android Benchmarks You Can Actually Trust
 The Art Gallery Workspace
 The Audio Fix-It Bag
@@ -2412,6 +2604,7 @@ The Benefits of Working In an Office Before Going Out on Your Own
 The Best (and Worst) Foods to Help You Recover When You're Sick
 The Best About:Config Tweaks That Make Firefox Better
 The Best Action Cam, 4K TVs For Cheap, Smartphone Battery Pack [Deals]
+The Best Add-Ons for Google Drive
 The Best Address Book App for Android
 The Best App Updater for Windows
 The Best Apps and Sites for Tracking Holiday Shopping Deals
@@ -2423,6 +2616,8 @@ The Best Budget Office Upgrades Money Can Buy
 The Best Calendar App for Android
 The Best Camera App for Android
 The Best Car Tricks and Upgrades to Make Your Ride More Awesome
+The Best Cheap Ways to Decorate Your Home
+The Best Chromecast Apps
 The Best Clever Uses for Old Gift Cards
 The Best Clever Uses for Text Expansion
 The Best Collaboration Tools for Small Groups and Teams
@@ -2441,6 +2636,7 @@ The Best Hidden Settings You Can Unlock with OS X's Terminal
 The Best Home Remedies for Any Ailment, Backed By Research
 The Best Image Editing App for Mac OS X
 The Best Informative, Brain-Boosting Podcasts Worth Subscribing To
+The Best Instant Messaging Application for iPhone
 The Best Jailbreak Apps and Tweaks for iOS 7
 The Best Jailbreak Apps and Tweaks for iOS 7, Part II
 The Best Kitchen Upgrades Money Can Buy
@@ -2448,7 +2644,10 @@ The Best Mac Apps, $8 Raspberry Pi Case, $150 off Macs [Deals]
 The Best Multitasking Phone Cases
 The Best Music Download Stores You're Not Using (but Should)
 The Best Music Player Application for Windows
+The Best Music to Work or Study To Could Be Video Game Soundtracks
 The Best News Sites to Break Out of Your Filter Bubble
+The Best Olive Oil for Your Money May Be at Trader Joe's
+The Best Online Lectures and Talks to Boost Your Brain
 The Best PCs You Can Build for $300, $600, and $1200
 The Best Package Tracker for Android
 The Best Personal Finance Tips from Evil Millionaires
@@ -2462,20 +2661,26 @@ The Best Resources for Writers
 The Best Resources to Learn to Code
 The Best Snacks to Have Before a Workout
 The Best Subscription Gifts You Can Give
+The Best TV Streaming Apps, Steam Sharing, and Camera Comparisons
 The Best TV, Eneloop Rechargeables, and a Cheap IPS Monitor [Deals]
 The Best TV, Your Nominations
+The Best Tablets Around, $8 Lightning Cable, Sony SD Cards [Deals]
 The Best Temperatures and Uses for Common Cooking Oils
 The Best Themer Themes to Refresh and Customize Your Android Phone
 The Best Things to Buy In December
 The Best Things to Buy In November
 The Best Things to Buy in February
+The Best Things to Buy in March
 The Best Things to Buy in October
 The Best Time and Time of Day to Book Airline Tickets
+The Best Time of Day for Creative Thinking
 The Best Time to Buy Anything During the Year
+The Best Time to Buy Sold-Out Tickets Is a Month After They're Gone
 The Best Time to Go to the Post Office (and Avoid the Crowds)
 The Best Time to Play the Powerball Lottery, According to Math
 The Best Tools to (Productively) Gamify Every Aspect of Your Life
 The Best Uses for Android Home Screen Shortcuts
+The Best Uses for IFTTT's Feed Channel
 The Best Uses for IFTTT's Location Channel
 The Best Vegetables for Lazy Cooks Who Want to Eat Healthy
 The Best Video Chat Application for Android
@@ -2494,7 +2699,9 @@ The Best iOS Apps, Clean Your Headlights, Acer Laptop [Deals]
 The Best, Cheap Ways to Decorate Your Boring Walls
 The Biggest Lessons I've Learned from Managing Anxiety
 The Biggest Money Mistakes We Make, According to Warren Buffett
+The Biggest Money Mistakes to Avoid in Your 20s
 The Bluetech Home Screen
+The Breastfeeding Supplies You Shouldn't Waste Your Money On
 The Brilliant Cord-Wrangling Workstation for Two
 The Brushed Rainbow Desktop
 The Camera You Want For Under $300, Cheaper Storage, Apple TV [Deals]
@@ -2508,12 +2715,14 @@ The Complete Guide to Solid-State Drives
 The Cross-Country Traveller's Bag
 The DIY Corner Workspace
 The DIY Snow Ripper Can Eliminate Snow From Your Roof in Minutes
+The Dark Alcove Workspace
 The Dark Arch Desktop
 The Decision Stack: How to Better Analyze Your Financial Choices
 The DeskCycle Is a Space-Saving Exercise Bike that Fits Under the Desk
 The Difference Between High Achievers and the Unsuccessful Is Grit
 The Difference Between Knowledge and Experience
 The Difference Between Thanksgiving, Black Friday, and Cyber Monday
+The Differences Between a DSLR and Smartphone Camera, in Video Form
 The Disappearing Workspace
 The Distant Clouds Desktop
 The Dos and Don'ts of Holiday Tipping
@@ -2522,9 +2731,11 @@ The Easiest Way to Open and Turn a Bag of Snacks into a Bowl
 The Easiest Way to Roll or Fold the Perfect Omelet
 The Easiest Way to Saber a Champagne Bottle
 The Easy Everyday Carry Bag
+The Easy Way to Calculate How Much You'll Need to Save for Retirement
 The Easy Way to Make a Big Batch of Cocktails for Your Super Bowl Party
 The Essential Kitchen Skills No One Taught (but Everyone Should Know)
 The Essential Life Hacking Supplies You Can Get for $1
+The Essentials Pouch
 The Extreme Closeup Desktop
 The Fastest Way to Prep Leafy Greens for Cooking
 The FiOS Box Is Huge (and Other Things to Know Before You Get FiOS)
@@ -2536,6 +2747,7 @@ The Fitbit Force Hands-On: Ahh, This Is More Like It
 The Five Basic Questions Interviewers Really Want You to Answer
 The Five Best Careers for Aspiring Evildoers
 The Five Best Ways to Pack an Efficient and Organized Suitcase
+The Five-Second Rule Is Now Supported by Actual Scientific Evidence
 The Fix for Apple's Scary OS X Security Flaw Is Here
 The Fix or Fraud Quiz Tests Your Knowledge of Health and Nutrition
 The Forest Hideaway Desktop
@@ -2558,6 +2770,7 @@ The Kitchen Appliances Everyone on a Budget Should Have
 The Kitchen Gadgets Worth Your Money
 The Landscape Home Screen
 The Laptops Worth Your Money
+The Living Wage Calculator Finds What You Need to Support Your Family
 The Magic of Being in Monk Mode
 The Marble Desktop
 The Master Sleeve Roll Keeps Shirt Sleeves from Unfolding
@@ -2566,12 +2779,14 @@ The Metro Minimalist Bag
 The Minimalist's Go Bag
 The Mint Library Workspace
 The Misty Desktop
+The Mix Tape Desktop
 The Most (and Least) Fake Extra Virgin Olive Oil Brands
 The Most (and Least) Reliable Hard Drive Brands
 The Most Common Home Repairs You Can Easily Do Yourself
 The Most Common Smartphone Repairs You Can Do Yourself
 The Most Dangerous Things About Credit Cards (and How to Fight Back)
 The Most Effective Way to Get a Bartender's Attention in a Crowded Bar
+The Most Important Setting to Change in LinkedIn Before Your Job Hunt
 The Most Obvious, Yet Elusive Technology Tip of All: Read the Manual
 The Most Productive Ways to Spend 30 Seconds of Down Time
 The Most Useful Life Skills That Everyone Should Know
@@ -2580,11 +2795,13 @@ The Moto X Is $100 Cheaper On Amazon Right Now
 The Myth of the Single Credit Score
 The Nap-Friendly Workspace
 The Neat, "Crow's Nest" Workspace
+The Neuroscience of How We Make Decisions, Summed Up in 30 Seconds
 The New Glif Mounts Any Smartphone to a Tripod
 The New Parisian Desktop
 The New Year's Resolutions Most Likely to Fail, and What to Do Instead
 The New iPad Mini: Everything You Need to Know
 The Nightlight Collects the Best Baby Products and Guides
+The Non-Jailbreakers Guide to Emulation on iOS
 The Non-traditional Student's Bag
 The Nutritional Differences Between Fresh and Frozen Food Explained
 The OUYA Doesn't Actually Suck: How to Make the Indie Console Great
@@ -2609,6 +2826,7 @@ The Real Reason Why Sleep Deprivation Can Destroy You
 The Reality of Earning Money Online
 The Refinished Wood Workspace
 The Retailers that Have Your Back When You Forget Your Coupon
+The Right Type of Ice Melt to Buy for Your Home and Climate
 The Right Way to Detail Your Car
 The Right Way to Merge Lanes to Avoid Traffic-Induced Road Rage
 The Right Way to Parallel Park, Step-by-Step
@@ -2624,6 +2842,7 @@ The Science of Inspiration (and How to Make It Work for You)
 The Scientifically Best Time to Drink Your Coffee
 The Second Cheapest Wine Has the Highest Markup (and Other Secrets)
 The Secret Features of OS X Mavericks
+The Secret to Holding Your Breath for 20 Minutes
 The Secret to Perfect Steak: Start with Warm Meat
 The Shaving Gear Worth Your Money
 The Sheep and the Wolves: Smart Investing Made Simple
@@ -2649,6 +2868,8 @@ The Traveler's Workspace
 The Traveling Ombudsman's Go Bag
 The Triangle Dual-Monitor Desktop
 The Triangle of Happiness Calculates How Happy You Are With Your Job
+The Truth About Speed Reading
+The Two Features Worth Paying for at a Car Wash
 The Two Mechanisms That Make Hiccup Cures Actually Work
 The Two Simple Equations That Lead to Financial Success
 The Ultimate Guide to Buying in Bulk
@@ -2661,6 +2882,7 @@ The Verbal "Tee-Ups" That Often Reveal Dishonesty
 The Verizon Jetpack Is a Flexible 4G Hotspot with Crazy Battery Life
 The Walk Motivates You to Exercise with a Story
 The Way the Toilet Paper Rolls: Your Best Arguments
+The Ways Your Brain Tricks You Into Doing Things You Shouldn't Do
 The Window Seat Workspace
 The World Line Home Screen
 The Worst Gifts You Can Possibly Get Someone for the Holidays
@@ -2678,13 +2900,17 @@ These Awesome Life Hacks Will Make Your Holidays Happier
 These DIY Chalkboard Magazine Files Can Be Used and Reused Forever
 These DIY Crampons Give You Traction in the Ice and Snow
 These DIY Toilet Tablets Bust Through Clogged Drains
+These Three Questions Tell You If Your Relationship Is Likely to Last
 Think "Instead," Not "No," to Stop Unhealthy Snacking
 Think Experience, Not Location, for Best Weekend Getaways
 Think of Life as a Video Game to Make the Most of Your Time on Earth
+This 1950s Video Guide Teaches You to Live Off the Land If You Have To
 This Brand New 128GB MicroSD Card is Already $80 Off
 This Calculator Tallies Up How Much the New Health Care Plan Costs You
+This Chart Shows Which Home Renovations Add the Most (and Least) Value
 This Chart Shows Which Plants Grow Well Together (and Which Don't)
 This Chart Shows You How to Silence Your Footsteps Like a Ninja
+This Course in Behavioral Economics Explains Why We Do Stupid Things
 This DIY Blind Minder Automatically Opens and Closes Your Blinds
 This DIY Chess Table Safe Requires the Right Moves to Open
 This DIY Dog Doorbell Lets Your Pet Tell You When It's Time to Go Out
@@ -2701,9 +2927,11 @@ This Free Course in Music Engineering Teaches You with Music You Love
 This GTD Workflow Is How I Finally Got My Email Inbox Under Control
 This Guide to Holiday Shipping Cutoffs Ensures Your Gifts Are on Time
 This IFTTT Recipe Lets Your Friends Know You're Back in Town
+This Infographic Reveals How to Raise Happy and Healthy Kids
 This Infographic Reveals the Secrets of the Happiest Couples
 This Infographic Shows Which Sites Properly Encrypt Your Data
 This Infographic Shows You How to Answer Police and Avoid Arrest
+This Infographic Shows You How to Delete Yourself from the Internet
 This Infographic Shows You How to Organize Your Fridge
 This Infographic Shows You How to Wear a Tie with Style
 This Infographic Shows You What Documents to Shred, Scan, or Store
@@ -2745,6 +2973,7 @@ This Week's Most Popular Posts: December 20th to 27th
 This Week's Most Popular Posts: December 6th to 13th
 This Week's Most Popular Posts: February 14th to 21st
 This Week's Most Popular Posts: February 21st to 28th
+This Week's Most Popular Posts: February 28th to March 7th
 This Week's Most Popular Posts: February 7th to 14th
 This Week's Most Popular Posts: January 10th to 17th
 This Week's Most Popular Posts: January 17th to 24th
@@ -2768,13 +2997,16 @@ Three Cheap but Awesome Alternatives to the Apple Cinema Display
 Three Mental Tricks to Deal with People Who Annoy You
 Three People, Three Salaries: How They Spend and Save
 Three Questions You Should Ask Yourself Before Making a Purchase
+Three Self Exams Everyone Should Perform Regularly
 Three Simple Rules to Sustain Creativity
 Three Steps for Dealing with Overwhelming Debt
 Three Tips for Making Your Frying Oil More Reusable
+Three-Port Anker Charger, Bluetooth For Any Speaker, Canon T3i [Deals]
 Thyme Gives You Separate Timers for Each Part of Your Stove
 Tick Is a Colorful, Category-Based To-Do App
 Tidy Automatically Organizes Photos and Makes Albums Easily
 Tie Your Shoes in Two Moves For the Fastest Knot
+Timbuk2 Bags On Sale, Kindle Paperwhite, Sony Alpha NEX-7 [Deals]
 Time Warner Is Setting HBO Free For $30/Month
 Time Your Power Nap Naturally with Einstein and Dali's Key Method
 TimeStats Tracks How Much Time You Spend on Web Sites
@@ -2800,6 +3032,7 @@ Top 10 Apps and Services That Are More Than Meets the Eye
 Top 10 Clever Google Search Tricks
 Top 10 Clothing Annoyances, Fixed
 Top 10 DIY Office Upgrades
+Top 10 DIY Projects That Simplify Your Kitchen
 Top 10 Free Upgrades to Make Your PC Better
 Top 10 Inspirational Quotes Worthy of Your Refrigerator
 Top 10 Reasons to Exercise Regularly (Besides Losing Weight)
@@ -2838,6 +3071,7 @@ Translate Crowd-sources Translations With Text, Voice, and Camera
 Travel Billow Combines Blanket and Pillow for Comfortable Flying
 Treat Budgeting Like a Diet to Manage Spending
 Treat Every Dollar Like a Brick Used to Build Your Future
+Treat Failure Like a Scientist
 Treat Savings and Investments Like a Bill
 Treat Sore Throats and Coughs with this DIY Syrup
 Treat Your Money as an Employee to Expect Growth
@@ -2849,6 +3083,7 @@ Try Sitting Somewhere New at Work for a Brainstorming Boost
 Try an S.O.S. (Stop, Organize, Secure) When You’re Overwhelmed
 Tuesdays are the Most Productive Day of the Week
 Tunebox Organizes and Streams Your Dropbox Music Files to iOS
+Tuner Turns YouTube Into a Music Player on Your iPhone
 TunnelBear Adds Privacy Protection, Always On Security for PC and Mac
 Turn Any Fruit Juice Into Homemade Alcohol
 Turn Apple's Reminders Into a Quality GTD App
@@ -2856,6 +3091,7 @@ Turn Beer Bottles into Attractive, Cheap Glasses
 Turn Down the Lights to Trick Yourself Into Eating Less
 Turn Off Cell Phone Data for Specific Apps in iOS
 Turn Off Your Mac's Volume Pop Sound with a Click
+Turn Old French Fries into Delicious Waffle Fries
 Turn Old T-Shirts into Wall Art with Embroidery Hoops
 Turn Old Wine Corks into Built-In Pot Holders
 Turn One Room into Two with IKEA Wardrobe Doors
@@ -2884,24 +3120,29 @@ Tweet7 Simplifies Twitter with an iOS 7 Friendly Interface
 TweetBits Sorts Your Favorited Tweets for Later Reading
 Tweetbot 3 Rebuilt for iOS 7 with Tons of New Features
 Tweetbot Adds New Gestures, Dynamic Type Sizes, and Better Lists
+Tweetbot Adds a New Font Option, Larger Thumbnails, and Better Muting
 Tweetbot Updated with Night Mode, Quick Account Switching, and More
 Tweetings for Twitter Allows You to Customize Almost Anything
 TweetsPie Shows the Best Tweets from Your Recent Timeline
 Twitter Adds Photos to Direct Messages
 Twitter Adds Search Filters, Narrow By People You Follow, Local, More
 Twitter Lets Any User Send You Direct Messages (If You Enable It)
+Two Sentences That Will Get Your Kids to Tell the Truth
 Two Tricks for Making Easy-to-Peel, Foolproof Boiled Eggs
 Two Ways to Avoid the Pains of Plastic Cling Wrap
 Type Machine Recovers Entered Text in Crashed Apps in Android
 Uh Oh, Chrome's Incognito Mode Is Broken on iOS 7
 Ultimate Sound Control Can Tweak Every Noise Your Android Phone Makes
+Unblock YouTube Bypasses Region Filtering on YouTube Videos
 Unbound Is a Fast and Easy to Use iPhoto Alternative
 Unbrick a Router with a Raspberry Pi
 Unchecky Ensures You Never Accidentally Install Bundleware Again
+Unclog a Toilet Like a Plumber
 Uncommon Uses for Common Pantry Items
 Uncover Mavericks' 43 Secret Wallpapers
 Unf**k Your Habitat Maliciously Motivates You to Form Better Habits
 Unfriend Notify for Facebook Sends an Alert When You Lose a Pal
+Uni Promark View Doesn't Obscure Text as You Highlight
 Unibox Sorts Email by Person to Simplify Your Inbox
 Unlock Your Car with a Bluetooth Powered Keyless Entry System
 Unofficial Google Dialer Download Adds Smart Search to KitKat Phones
@@ -2925,6 +3166,7 @@ Use Candles and Flower Pots to Heat a Small Room More Effectively
 Use Elon Musk's "First Principles" Method for Better Brainstorming
 Use Flickr to Help You Find Your Next Camera
 Use Glitter Nail Polish to Make Your Laptop Tamper-Proof
+Use Google Docs' Resume Templates for a Free, Good-Looking Resume
 Use Google Street View to Find the Best Room Locations in a Hotel
 Use Layout-Based Grocery List Templates to Save Money While Shopping
 Use Leftover Juicer Pulp to Make Broth or Veggie Crackers
@@ -2963,6 +3205,7 @@ Use the First-In-First-Out Rule to Keep Email Inbox in Shape
 Use the Hairy Arm Technique to Deal with Overly Critical Bosses
 Use the One-N-Done Approach to Prioritize Money-Saving Strategies
 Use the Rule of 10 to Rate Current Purchases Against Your Retirement
+Use the Rule of 300 to Quickly Estimate of How Much You Need to Retire
 Use the Science of Stretching to Decide If You Need to Do It
 Use the Two Minute Rule to Stop Procrastinating and Get Things Done
 Using Your Smartphone at Night Can Wreck Your Productivity Tomorrow
@@ -2974,6 +3217,7 @@ Verizon's More Everything Plan Doubles the Data on Some Plans
 Vibe Shows Info About Any Email Contact Across the Browser
 Vidd.me Uploads Streaming Videos Without Sign-ups
 Video Pinner Keeps YouTube Videos on Top While Scrolling Down
+VineClient is a Full-Fledged Vine App for Chrome
 Viral Adds Pop Out Videos and Better Search Options to YouTube
 Voice Control Your Nest Thermostat from Your Android Phone
 Vox Refines Its Look, Improves the Search Engine, and More
@@ -2982,7 +3226,9 @@ Waiting to Invest Can Have a Worse Impact Than Making a Bad Investment
 Wake Alarm 2 Adds New Motion Controls, Voice Commands, and More
 Wakeup.io Wakes You With a Free Wake Up Call, Anywhere in the World
 Wall Street Survivor Teaches Everything You Need to Know About Money
+Wallet TrackR Quickly Locates Your Missing Stuff with Your Smartphone
 Walmart Will Match Competing Black Friday Prices A Week Early
+Wanderu Finds and Books Cheap Bus or Train Tickets for Your Next Trip
 Want to Contribute to Lifehacker?
 Warranty Tracker Ensures You Never Miss a Repair or Rebate Deadline
 Wash Your "Dry Clean" Clothes at Home
@@ -2993,6 +3239,7 @@ Watch Google Play Videos on Your iOS Device with the YouTube App
 Watch Out for These Misleading Computer Cables
 Watch Out: SnapHack Saves Your Snapchats Without You Ever Knowing
 Water Temperature, Word Layout, and Fresh Caulk
+We Are the Founders of Asana, and This Is the Story Behind the App
 We're the Lifehacker Team. Ask Us Anything. [UPDATE: Q&A's Over]
 We've Updated Our Favorite Web Browser for Android
 Wear Your Bathrobe All Morning Long to Avoid Spills and Messes
@@ -3021,6 +3268,7 @@ What Device Do You Use Most?
 What Did You Learn From Your First Crappy Job That Helped Your Career?
 What Do You Do While You Watch TV?
 What Do You Want To See In Our Black Friday Coverage?
+What Does the Shape and Color of My Poop Mean?
 What Free Apps Are You Thankful For This Year?
 What Happens Over Time If You Don't Pay Your Credit Card Bills
 What Healthy Snacks Can I Bring to the Office?
@@ -3028,6 +3276,7 @@ What Home Health Remedies Do You Swear By?
 What I Learned from a Six Month Spending Freeze
 What I Wish I'd Known Before Moving Halfway Around the World
 What I've Learned from 2 Years of Intermittent Fasting
+What Is 4K and Should I Buy a 4K Display Right Now?
 What Is Cholesterol and Why Should I Care About It?
 What Is Tor and Should I Use It?
 What Is the Best Alternative to Milk?
@@ -3074,6 +3323,7 @@ What's The Best 5.1 Surround Speaker System?
 What's The Best Desktop Video Player?
 What's The Best Feature Phone?
 What's The Best Gaming Headset?
+What's The Best Home Wi-Fi Router?
 What's The Best Indoor Over-the-Air HD Antenna?
 What's The Best Language Learning Tool?
 What's The Best Mechanical Keyboard?
@@ -3083,6 +3333,7 @@ What's The Best Photoshop Alternative?
 What's The Best Remote Desktop Tool?
 What's The Best Standing Desk?
 What's The Best Surge Protector?
+What's The Best To-Do List Manager?
 What's The Best Travel Router?
 What's The Best iPad Case?
 What's The Most You'll Pay for a Mobile App?
@@ -3103,6 +3354,7 @@ What's the Best Battery Backup/UPS?
 What's the Best External Hard Drive?
 What's the Best Meal Planning App?
 What's the Best Nexus 7 Case?
+What's the Best Picture You've Taken with Your Smartphone?
 What's the Best Pre-Paid Cellphone Carrier?
 What's the Best Programming Language for First-Time Learners?
 What's the Best Temperature for My Water Heater?
@@ -3130,9 +3382,11 @@ When Did You Start Shaving?
 When RAM Speed Matters (and How It Affects Your Games)
 When You Feel the Need to Be Liked, Do Nothing
 When to Buy Avocados and How to Store Them for Game Day Guacamole
+When to Buy Your Plane Ticket, Based on Data from Four Million Trips
 When to Use Quickoffice vs Google Drive
 When's The Best Time to Shop for a House or Apartment?
 Where Can I Buy Better Coffee Beans?
+Where Can I Learn Home Improvement Skills?
 Where Digital Fails: The Pitfalls of Ditching Your Physical Media
 Where Do You Stand In The Great Juice Cleanse Debate?
 Where Should I Splurge and Where Should I Save in a Home Remodel?
@@ -3155,6 +3409,7 @@ Why (and How) You Should Regularly Calibrate Your Laptop's Battery
 Why Apple's Recent Security Flaw Is So Scary
 Why Cheating Makes You Feel So Good
 Why Confidence Is So Important (and How to Improve Yours)
+Why Creative Geniuses Often Keep a Messy Desk
 Why Desk Plants Can Make You More Productive
 Why Do Media Companies Block Movies, Music, and TV Based on Location?
 Why Empathy Is Your Most Important Skill (and How to Practice It)
@@ -3164,14 +3419,17 @@ Why I Love to Haggle (and How You Can Get Started)
 Why I'm a Console Gamer
 Why I'm a PC Gamer
 Why Is My Internet Suddenly So Slow?
+Why It's So Hard to Say "No"
 Why Knockoff Lightning Cables Probably Aren't Worth It
 Why Liars Tend to Say "I" Less Often
 Why Music Helps You Memorize Items
 Why Rebooting Your Computer Fixes Problems
 Why Saving Money Is So Hard, and How to Trick Yourself to Save More
+Why Saying "I Don't Know" Adds Credibility
 Why Summer Might Not Be the Best Time for a Vacation
 Why Tea Is So Healthy for You (and How to Get the Most from Every Cup)
 Why The Hell Does Your Drink Cost So Much?
+Why Time Feels Like It Passes Quicker as You Get Older
 Why Upgrading Your RAM Is No Longer a Silver Bullet
 Why Video Games Like Flappy Bird Are So Addictive
 Why We Eat Too Much (and Why Kids Say They Hate Foods They Love)
@@ -3187,6 +3445,7 @@ Why You Should Hold a Mock Interview with a Friend for a Job You Want
 Why You Should Learn to Run a Server Before You Learn to Code
 Why You Should Never Be Afraid to Negotiate a Higher Salary
 Why You Should Never Drive Alongside a Large Truck
+Why You Should Opt Out of Forced Arbitration Whenever Possible
 Why You Should Pack a Lemon in Your Lunch Bag
 Why You Should Seek Quiet Every Day
 Why You Should Think Less Like a Superhero and More Like a Villain
@@ -3211,6 +3470,7 @@ Why you really get sick on planes – and how to prevent it
 Wi-Fi Matic Disables Wi-Fi When You're Away From Networks Sans GPS
 WifiInfoView Shows Info About Nearby Networks, Finds Clear Channels
 WikiExplorer Creates Wikipedia Reading Lists, Finds Local Articles
+WikiMapper Tracks Your Convoluted Trail Down the Wikipedia Rabbit Hole
 Wikipedia Launches Beta Features, Media Viewer and New Fonts Up First
 Winamp Closes Down, Laptop Manufacturers Ranked, and iOS Controllers
 Winamp Review: Still Surprisingly Rad
@@ -3231,6 +3491,7 @@ WordHippo Finds the Right Word You're Looking For
 Work During “Power Hours” to Get More Done in Less Time
 Work More Productively on Your Own by Playing "Workstation Popcorn"
 Work Off Thanksgiving with a Fitbit, Rosetta Stone, 27" IPS [Deals]
+Working Long Hours Is Hazardous to Your Health and Your Productivity
 Working Long Hours Is Like Working for Free
 Working Remotely Doesn't Mean You Should Work from Home
 Workout Tracker Bodbot Adds Nutrition Suggestions and Food Tracking
@@ -3245,6 +3506,7 @@ Write Down Exactly What Your Savings Are Allowed to Be Spent On
 Write Down Intentions When Starting a Task to Stay Focused
 Write Only Your Preferred Contact Option in Email Signatures
 Write Recipes on Jars for Easy Make-Ahead Mixes
+Write Things You Need to Remember About People in Contact Books
 Write To-Do Lists in Different Colors for a Systematic Workflow
 Write Your Bill's Due Date on Your Credit Card and Never Forget to Pay
 Write for Mac Brings the Minimal iOS Notes and Writing App to Desktop
@@ -3262,18 +3524,22 @@ You May Have Conditioned Yourself to Sleep Poorly
 You Might Be Using Your Mouse Wrong
 You need grounded outlets for proper surge suppression.
 YouTube Overhauls Comments, Hopes They'll Be Less Horrible
+YouTube Resize Customizes Video Sizes to Your Liking
 YouTube Watch History, Rechargeable Batteries, and Scrambled Eggs
 Younity Accesses Files on Your PC or Mac from iPhone
 Your 6 Nominations For Best Gaming Headset
 Your BMI Might Make You Think You're Healthier Than You Are
+Your Favorite Logitech Gaming Accessories Are On Sale Today
 Your Favorite Logitech Peripherals are All on Sale Today
 Your Flex Spending Account Might Allow a $500 Rollover
 Your Homeowner's Insurance May Cover If Your Dog Bites Someone
+Your Kitchen Sink Is Dirtier Than Your Toilet
 Your Least Favorite Cellphone Carrier: AT&T
 Your Side Business Is Probably Not Going to Be the Next Big Thing
 Your WeMo Home Automation Device May Have a Risky Vulnerability
 ZDlock Hides Locked Apps Behind Fake Crashes and a PIN
 Zero Dollar Movies Finds Free Films on YouTube
+ZeroWidth Stops Twitter From Converting Dots and Mentions Into Links
 Zest Collects and Organizes Recipes, Helps You Cook Them Step-by-Step
 Zikk Simplifies Remote Assistance for Android Settings, Contacts, Apps
 Zillow Digs Showcases Home Improvement Projects, Complete with Costs
@@ -3284,7 +3550,10 @@ Zombies, Run! Updated with Better Music Playback, Local Maps, and More
 Zoom In on Instagram with iOS’ Accessibility Settings
 Zoom While Taking Photos to Remember the Event Perfectly
 cClean Attaches a Screen Cleaning Wipe to Your Mobile Device
+iBetterCharge Monitors Your iPhone's Battery from Your Computer
 iChrome Turns Your New Tab Page into an iGoogle Lookalike
+iCloud Tabs, Inbox Receipts, and Siri Voices
+iCracked Sends Repair Techs to Fix Your Busted iPhone or iPad Screen
 iMessage GIFs, Raspberry piBeacons, and Weatherproofed Gear
 iOS 7 Alt Text, Amazon Rewards, and Gmail Archiving
 iOS 7 Bugs, Podcast Downloaders, and Horrible Cellphone Reception
@@ -3293,6 +3562,8 @@ iOS 7 Draft Mail, Gunky Mice, and Web Page Notes
 iOS 7 New Tab Page Makes Chrome's New Tab Look Like an iPhone
 iOS 7's Most Common Bugs (and How to Fix Them)
 iOS 7.0.3 Released to Fix iMessage Bugs, Calibration Issues, and More
+iOS 7.1 Is Out with Siri Update, Visual Tweaks, and CarPlay Support
+iOS 7.1 Makes Your iPhone 4 Usable Again
 iOS Keyboards, Google Alert Feeds, and Bottle Cap Codes
 iPad Air $40 Off, A TV Fit for the Super Bowl, Kindle Fire HDX [Deals]
 iPad Air Review: Bigger Gets So Much Better
@@ -3314,6 +3585,7 @@ uListen Plays Just YouTube Audio in the Background While You Multitask
 ​15+ Awesome Google+ Tricks You Might Not Know About
 ​20+ Time-Saving Cooking Tips from Chefs and Food Experts
 ​8 Basic Life-Saving Skills Everyone Should Know
+​Ask Dr. Nerdlove: How Do I Ask Out The GameStop Girl?
 ​Ask Dr. Nerdlove: How Do I Make Friends?
 ​Ask Dr. Nerdlove: My Date Doesn't Approve Of My Geeky Hobbies
 ​Ask Dr. Nerdlove: When A 'Nice Guy' Won't Leave You Alone
@@ -3326,6 +3598,7 @@ uListen Plays Just YouTube Audio in the Background While You Multitask
 ​How to Train Google Now to Give You Better Suggestions
 ​How to Use Amazon Glacier as a Dirt Cheap Backup Solution
 ​Is It Bad If I Crack My Knuckles or Other Joints?
+​Seth Rogen Names Celebrities He's Gotten High With
 ​Sony A7, A7r Review: So Long DSLRs, Hello Future of Photography
 ​The Xbox One: The Kotaku Review
 ​What Is "Mindfulness," and Why Is Everyone Talking About It?

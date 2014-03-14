@@ -31,9 +31,11 @@
 10 Crossover TV Couples That Should Exist
 10 Easy Ways to Ignore Shia LaBeouf
 10 Essential Things No One Ever Tells You About Your Twenties
+10 Facebook Friends Everyone Has But No One Wants
 10 Famous Lines From Videogame Literature
 10 Food Hybrids We're Calling Now Before They Become Trendy
 10 Foods That Should Exist
+10 Genius Life Hacks for Passive-Aggressive Roommates
 10 Girls in Bikinis Falling Down
 10 Guidelines for Commentators During Olympic Coverage
 10 High Schools with Better Team Names Than Your High School's
@@ -49,6 +51,7 @@
 10 More Absurd Quizzes For Your Friends To Share On Facebook
 10 More Lazy Pokemon Designs
 10 More Scientific Inaccuracies in 'Gravity'
+10 More Shocking Things Happening on "Russia Today"
 10 New New Year's Resolutions (Now That You've Broken Your Old Ones)
 10 New Pop Culture Expressions We Desperately Need
 10 Other Career Switches I'd Like to See
@@ -134,6 +137,7 @@
 11 Signs You're Definitely In A Dive Bar
 11 Signs Your Thanksgiving Turkey Was Fed Growth Hormones
 11 Spoiled Teens Being Dicks About Their Christmas Presents
+11 Stupid Things You'll Obsess Over This Semester Then Forget
 11 Surefire Platonic Pickup Lines
 11 Videogame Drinking Games
 11 YouTube Comments That Kinda Have a Point
@@ -200,6 +204,7 @@
 17 Things Not to Mention When Calling in Sick to Work
 18 Exact Moments When You Know You F*cked Up
 18 Existential Shower Thoughts That Will Change Your Entire Day
+18 Facebook Status MadLibs
 18 GIFs of Dads Dancing
 18 New And Improved Ways To Say "Screwed The Pooch"
 18 Signs You'll Click on Anything That's a List
@@ -352,6 +357,7 @@
 5 Rejected Zelda Temples
 5 Reviews from a Water Aficianado
 5 Sitcom Problems That Aren't Funny in Real Life
+5 Social Activities That Are Way Better Alone
 5 Songs Covered by Chickens
 5 Specific Christmas Characters We Need For Manipulating Children
 5 Stages of Dealing with Grief, as told by Magazines
@@ -401,6 +407,7 @@
 6 Classic Nightmares and their Modern Equivalents
 6 Complaints I Am Tired of Hearing About the Sochi Olympics
 6 Dating Apps for When You're in a Relationship
+6 Diseases You Can Catch from the Internet
 6 Easy Steps to Eating Healthier
 6 Easy Yoga Poses for the Average College Student
 6 Educated Guesses
@@ -418,6 +425,7 @@
 6 Life Hacks for Incredibly Lazy People
 6 Lord of the Rings Pickup Lines
 6 Mario Worlds and Their Real World Equivalents
+6 McConaughey-Inspired Words to Expand Your McConaughabulary
 6 More Breaking Bad Spin-Offs That Will Definitely Happen
 6 Movies Every College Student Lives Through
 6 Musical Moments from The Simpsons, Looped Forever
@@ -445,11 +453,13 @@
 6 SUPER HOT Sex Moves From PG-13 Movies
 6 Services That Should Exist In The Pokemon World
 6 Sex Moves for When It's Freezing Outside
+6 Sex Techniques You'll Learn in College Clubs
 6 Signs that House Cats Are Actually Ferocious Wild Animals
 6 Simple Tips for INCREDIBLE Sober Sex
 6 Simple Ways to Improve Bars
 6 Star Fox Advice Animals
 6 TV Shows with Puppets That Failed Miserably
+6 Talents You Only Think You Have Because You're Drunk
 6 Things Kate and Will's Royal Baby Has that You Don't
 6 Things Less Annoying than the Jokes Made About Them
 6 Things Movies Teach You About Relationships That Are Completely Wrong
@@ -478,6 +488,7 @@
 7 Annoying Types of Gamers
 7 Arrested Development Themed Cocktails
 7 Athletes Who Unfortunately Released Their Own Scents
+7 Beaches With Incredible Views
 7 Charity Posters for Your Precious Little Problems
 7 Classes You Took Without Even Knowing It
 7 Classic Simpsons Jokes In Foreign Languages
@@ -526,6 +537,7 @@
 7 Quotes That Could Have Saved The Star Wars Prequels
 7 Real Life Items and Their Stats
 7 Reasons Being a College Student is Just Like Being Old
+7 Reasons Why Being an Intern is Like Being a Toddler Again
 7 Reasons Why We Need Alec Baldwin Back NOW
 7 Rejected Kong Family Members
 7 Serious Diseases Afflicting College Students
@@ -667,6 +679,7 @@
 9 Inappropriate Items on Etsy's Kids Section
 9 Less Controversial PSAs
 9 Movie Reasons Why You're Bleeding Right Now
+9 Movies You Should Watch as a Teenager and then NEVER AGAIN
 9 Musicals Based on Albums From the '90s
 9 New Suits You Won't Be Seeing in Iron Man 3
 9 People You'll See in the Stands at Every College Football Game
@@ -697,6 +710,7 @@ A Deleted Scene from 'Lady and the Tramp'
 A Facebook Story
 A Fantasy Nerd's Fantasy Comes True
 A Fart Critic Reviews Masterful Works of Fart
+A Frank Underwood Guide to High School English Vocabulary Words
 A Fun Invitation To Jury Duty
 A Great Discovery
 A Guide to Awkward Handshakes
@@ -1100,6 +1114,7 @@ Every Haircut You'll Ever Have
 Every Infomercial Ever Summed Up In 11 GIFS
 Every James Hetfield "Yea"... ever.
 Every Man's Treasure
+Every OKCupid Message Ever
 Every Party Playlist Ever
 Every Power Hour Ever
 Every Question I Answer Will Lead to Another Question
@@ -1211,6 +1226,7 @@ Flowchart: Is Your NCAA Bracket Busted?
 Flowchart: Is the World Ending, or Are You Just Having a Bad Day?
 Flowchart: Should I Accept That Friend Request?
 Flowchart: Should You Get That Tattoo?
+Flowchart: Should You Go Out Tonight?
 Flowchart: Should You Go to the Doctor?
 Flowchart: Should You Hit on That Girl?
 Flowchart: Should You Hug This Person?
@@ -1311,6 +1327,7 @@ Guitar For Douchebags
 Gulf Coast Oil
 Guy Fieri Responds to the New York Times Review of his Restaurant
 Guy Reviews TV Movie "Cyberbully," Rips it to Shreds
+Guys, I Think Subway Is High As Sh*t
 Gym Terminology for People Who Just Started Working Out
 HCG: The Final Match-Up
 HD Porn Titles
@@ -1424,6 +1441,7 @@ How To Get Nothing Done: An Illustrated Guide
 How To Go Abroad (And Come Back An A-hole)
 How To Make A Perfect 90s Alternative Music Video
 How To Make Small Talk in Other Languages
+How To Make Your Future Self Hate You
 How To Pound A Girly Drink Like A F*ckin' MAN
 How To Really Show 'Em at the High School Reunion
 How To Record a TV Clip for Youtube in 12 Terrible Steps
@@ -1474,7 +1492,9 @@ How to Make the Most of Your Thanksgiving Break
 How to Make the Perfect Old Fashioned
 How to OWN Any Situation
 How to Pad Your Paper in 7 Easy Steps
+How to Play Board Games While High
 How to Play WoW and Maintain a Healthy Relationship
+How to Properly Respond to an Important Email
 How to Repurpose Your Clothing for Other Situations
 How to Reverse a Gypsy's Spell
 How to Review Music
@@ -1554,6 +1574,7 @@ I'm Pretty Sure the Creator of Marmaduke is on Drugs
 I'm Ra, your RA
 I'm Really Close With My Rich Uncle
 I'm That Man On a Kid's Bike Riding Past a Strip Mall
+I'm the Doctor From Sum 41's "Fat Lip", And Here's My Side of the Story
 I'm the Reason You're Balding
 IKEA Meatball Instructions
 IRL LOTR: Offering Aragorn The One Ring
@@ -1580,6 +1601,7 @@ If Boring Cereals Had Mascots
 If Build-A-Bears Were As Terrible As Real Children
 If Bullies Made Street Signs
 If Bullies Wrote Advertisements
+If Buzzfeed and Upworthy Headlines Actually Worked
 If Call of Duty Death Quotes Were Written by Call of Duty Players
 If Characters Acted Like Their Nerdy Fans
 If Classic Children's Books Were About Sports
@@ -1596,6 +1618,7 @@ If Countries Were Websites
 If Dating Worked Like College Apps
 If Disney Characters Met on Tinder
 If Disney Characters Were Modern-Day Celebrities
+If Disney Movies Had Politically Correct Titles
 If Disney Princesses Went to Your High School
 If Documentaries Had Sh*tty Sequels
 If Dr. Seuss Was Actually a Doctor
@@ -1630,6 +1653,7 @@ If My Childhood Participation Trophies Had Been Less Sensitive
 If NFL Training Camps Were More Like Summer Camps
 If Old People Ran the Internet
 If Older Brothers Wrote Text Books
+If Other Businesses Worked Like the Cable Company
 If Other Coaches Talked Trash Like Rex Ryan
 If Other Magazines Were About Sports
 If Other Products Had Cigarette-Style Graphic Warnings
@@ -1652,6 +1676,7 @@ If State License Plate Slogans Were About Sports
 If Superheroes Were Hipsters
 If TV Channels were Your Family
 If TV Shows Were Relationships
+If Textbooks Covered What Students Actually Read
 If The Great Gatsby Were Narrated By Other Characters
 If The Internet Was An Amusement Park
 If The Real World Had College Rules
@@ -1659,7 +1684,9 @@ If The Sorting Hat Sorted Everything
 If The X-Men Went to Public School
 If There Were "Kids Tables" for Other Members of Your Family
 If These Walls Could Talk
+If Those Dumb Tween Magazines Were Actually Honest
 If Today's Pop Stars Had Their Own Cartoon Shows
+If Types Of Alcohol Were Pokemon
 If U.S. Politicians Were The X-Men
 If Upworthy Existed Throughout History
 If Walking Dead Characters Were Classic WWE Wrestlers
@@ -1669,6 +1696,7 @@ If Work Was Like College
 If You Argued in Real Life Like You Do on Facebook
 If You Ate At Restaurants Like You Did At The Dining Hall
 If You Had Dating Profiles Through Life
+If You Listed Your ACTUAL Skills On Your Résumé
 If You Remix Twerk Team Videos With Norah Jones, You Get This
 If YouTube Comments Were Slam Poems
 If Your Awkward Sex Life Were a Romance Novel
@@ -1766,6 +1794,7 @@ LEAKED Plans For The Sochi Olympics Opening Ceremonies
 LEAKED: Joey Fatone Comeback Single "Last Call for Party"
 LEAKED: Justin Bieber's "I Never Had Sex with You" Single
 LEAKED: Shocking Final Voicemail From Manti Te'o's Girlfriend
+LEAKED: The Shocking True Detective Finale
 LOOK AT MY F*CKING CANADA GOOSE JACKET!
 Last Day Itinerary
 Last Meal
@@ -2003,6 +2032,7 @@ Peggy Olson's Next 6 Awesome Predictions
 Penalty Kick
 Penny for Your Thoughts
 People Randomly Sh*tting On Justin Bieber In Unrelated Youtube Videos
+People Took Obama's "Between Two Ferns" A LITTLE Seriously...
 Pet-Sitting Instructions For Your Fake Pets
 Pharmacy Receipts are Getting Insanely Long
 Phases of Life Explained with TV Shows
@@ -2075,6 +2105,7 @@ Promised Land
 Proof Doc Louis Has Been Trying to Kill Little Mac
 Proof That Boy Meets World Secretly Takes Place in a Horrifying Sci-fi Universe
 Proof That Peach Is The Real Villain Of The Super Mario Franchise
+Proof That The News Has Always Been Stupid
 Public Display of Stupidity
 Public Safety Announcements From The Mushroom Kingdom
 Punching Bag
@@ -2200,6 +2231,7 @@ Ryu is Terrible With Women
 Ryu's First Date
 SAT Questions I Wish I Had Gotten Right Before Going to College - Spring Break Edition
 SAT Questions That I Wish I Had Gotten Right Before Going to College
+SEX! Now that I have your attention, Kiev
 STDs
 Sabrina The Teenage Witch Names Her Cat
 Sad Libs
@@ -2238,6 +2270,7 @@ Sexiest Summer Fashion for Women and Least Sexy Fashion for Men
 Sexism
 Sexual History CarFax
 Sexual Merit Badges
+Sh*t That's F*cked Up
 Shark Attack 6: Infinite Pursuit
 Shark Attack III
 Shark Attack IV: Sharktober Spooktacular
@@ -2391,6 +2424,7 @@ That's no moon, it's a PR failure.
 The "This Is The End" Guys Really, REALLY Just Want To Be Liked
 The 10 Best (and Most Unrealistic) Graduation Speeches in Fictional History
 The 10 Best Best Friends of All-Time
+The 10 Best Characters in the Harry Potter Universe
 The 10 Best Disney-Rap Mashups
 The 10 Best Movie Bad Guys
 The 10 Best Summer Camp Movies
@@ -2444,6 +2478,7 @@ The 15 Worst Jobs in Sports
 The 15 Worst Sports Movie Casting Decisions
 The 15 Worst Uniforms in Sports History
 The 18 Biggest Internet Trends of 2013
+The 19 Stages of Leaving Your Phone at Home
 The 20 Most Ill-Conceived Athlete Endorsements of All-Time
 The 20 Most Ridiculously Humiliating Sports Injuries of All Time
 The 20 Things You'll Buy This Summer (But Really Shouldn't)
@@ -2495,6 +2530,7 @@ The 6 Spookiest Places in Your Hometown
 The 6 Stages of Growing Your Hair Out
 The 6 Types of Pokemon Namers
 The 6 Types of Professors (and The Final Exams They'll Give You)
+The 6 Types of Students During Midterms
 The 6 Types of Studiers
 The 6 Types of Trolls (and How to Defend Against Them)
 The 6 Types of Voicemails
@@ -2502,11 +2538,13 @@ The 6 Valentine's Day Cards You'll Give Throughout Your Life
 The 6 Weirdest Tie-in Videogames
 The 6 Worst Characters on Television
 The 6 Worst Things To Say To Someone Who Is On Fire
+The 7 ACTUAL Reasons I'm Depressed After True Detective
 The 7 Actual Differences Between Being Single and Being in a Relationship
 The 7 Assh*les You'll Meet on Your Spring Break Trip
 The 7 Bars You'll Go to After College
 The 7 Breeds of Dog People
 The 7 Coats Every Guy Wears In Life
+The 7 Deadly Sins of Public Transportation
 The 7 Dumbest Scenes in Otherwise Great Movies
 The 7 Emails You're Ignoring in Your Inbox
 The 7 Films You Will See In Your Freshman Film Class
@@ -2754,6 +2792,7 @@ The Most Terrifying Thing in the World
 The Muppet Christmas Carol: Christmas Classic, or Liberal Brainwashing?
 The NBA's Apology Letter To Lebron James
 The NFL's Official Facebook Page During Super Bowl XLV
+The New Field Sobriety Tests Are Ridiculous
 The New Siri is Kind of Douchey
 The New Starting Pokemon Plead Their Cases
 The New Strip Club Emcee is Still Finding his Rhythm
@@ -2771,6 +2810,7 @@ The Official Roommate Scorecard
 The Official Rules Of Curling KIND OF EXPLAINED I Think
 The Old People Bill of Rights
 The Omanyte Before Christmas
+The One Thing You Don't Want To Hear After Your Haircut
 The Only 5 Reasons You Ever Lose in a Video Game
 The Only 6 Lucrative College Majors Left
 The Only Real Way to Make Change
@@ -2856,6 +2896,7 @@ The Troll: Cheese, Bees, and Same-Sex Marriage
 The Troll: Chef Boyardee Saved My Life
 The Troll: Chipotle, Orangutans, and Stallone
 The Troll: Chuck E. Cheese, World's Heaviest Woman, and Snakes
+The Troll: Crock Pots and New Planets
 The Troll: December 13, 2012
 The Troll: December 20, 2012
 The Troll: December 6, 2012
@@ -2896,9 +2937,11 @@ The True Meaning of Christmas, According to Christmas Movies
 The True Origin of Scorpion and Sub-Zero
 The Ultimate Commercial
 The Ultimate Facebook Status Update
+The Ultimate Matthew McConaughey Character Matrix
 The Ultimate One-Stop Guide to Tipping Etiquette
 The Ultimate Twitter Bio Generator
 The Unofficial Sochi Olympic Figure Skating Scorecard
+The Ups and Downs of Visiting Your Grandma
 The Venn Diagram of Movie Quotes
 The Videogame Food Pyramid
 The Walking Dead Season 3 Mega-Recap
@@ -3131,12 +3174,14 @@ What Really Happens in the ER
 What Sexy Babes at the Beach are Definitely Thinking
 What Should Politicians Be For Halloween?
 What Should Politicians Be for Halloween 2013?
+What Subway Announcements Really Mean
 What The Government Shutdown Means For Your Nachos
 What The Guy Who Always Puts Tomato On My Sandwich Must Be Thinking
 What Time You Show Up to a Party And What That Means
 What To Expect When You're Expecting a Mustache
 What To Pack If You Are Time Traveling For The Holidays
 What Will Definitely Happen When I Go to This Cool Nightclub
+What Women Want in Bed
 What You Actually Read When You Read A Syllabus
 What You Can Do After Sex, Based on How Long You've Been Together
 What You Say About the Oscars, and What You Really Mean
@@ -3210,10 +3255,12 @@ Why Neo Never Would Have Left the Matrix
 Why People Put Toothpicks in Sandwiches
 Why The Supreme Court Unanimously Ruled that Human Genes Can't Be Patented
 Why War is Never Worth the Risk
+Why You Can Never Have Enough Condoms
 Why You Say You're Late and Why You're Actually Late
 Why You Should Avoid Discount Condoms
 Why You Should Never Be Facebook Friends with Your Family
 Why You Should Never Go SkyDiving
+Why You Should Never Pack Your Lunch You Stupid Moron
 Why You Should Never Spit After Giving Road Head
 Why You Should Only Use Round Pokemon
 Why the Oscar NEEDS to go to Daniel Day Lewis
@@ -3227,6 +3274,7 @@ Work Bathroom
 Work Before Beer
 Work Sucks: The Best of the Worst
 Work Whoas
+Working for the Toon Town Bomb Squad Seems Pretty Easy
 World War II Countries' Tic-Tac-Toe Strategies
 World War II as a Facebook News Feed
 World's Biggest Badass
