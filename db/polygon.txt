@@ -205,6 +205,7 @@ Amazon to re-open Xbox One Day One Edition console orders today
 Amazon's AppStream cloud streaming available to all interested devs
 Amazon's AppStream lets developers stream games from cloud to any device
 Amazon's Square Enix Gamer's Bundle features four titles for $14.99
+Amazon's controller revealed in Brazilian FCC photos
 Amazon's lightning next-gen deals include Battlefield 4, Assassin's Creed 4 and more
 America's Army: Proving Grounds goes back to basics with strategy and teamwork
 American McGee's episodic fairytale Grimm hits Steam
@@ -284,6 +285,7 @@ Arma 3 video offers more than an hour of Zeus gameplay
 Arma 3's campaign continues today with Adapt
 Arma 3's final campaign episode, Win, coming March 20
 Arma 3's second campaign content arrives in December and January
+Art on the Marquee flaunts game-inspired art on an 80-foot-tall screen during PAX East
 Artillery shows HTML5 browser game platform
 Artist creates a Lego Atari 2600
 Artists turn video games into Japanese wood block prints
@@ -767,6 +769,7 @@ Broken Sword: The Serpent's Curse headed to PS Vita
 Broncos linebacker relaxes with Pokemon before the Super Bowl
 Brooklyn-based startup Turbo gets SoftBank investment to build 'cross-screen' core games
 Brothers, Worms: Battle Islands join PS Plus as PS Vita deal begins
+Brothers: A Tale of Two Sons creator teases new project
 Brothers: A Tale of Two Sons soundtrack arrives
 Brothers: How a film director shook up Starbreeze
 Browser-based clicker Candy Box 2 launches tomorrow
@@ -873,6 +876,7 @@ Candy Crush Saga dev files for IPO, reports half a billion in profits
 Candy Crush Saga developer trademarks 'candy'
 Candy Crush creator abandons 'candy' trademark efforts (update)
 Candy Crush creator estimates its IPO could value the company at $7 billion
+Candy Crush is officially a hard game, according to math
 Capcom 2013 financial results sees revenue climb despite poor game sales
 Capcom Europe restructuring will reduce staff by half, merge some jobs
 Capcom UK's fan-made Christmas card takes on Monster Hunter
@@ -931,6 +935,7 @@ Castlevania: Lords of Shadow 2 screenshots show Dracula's dark world
 Castlevania: Lords of Shadow 2 trailer examines Dracula's gameplay
 Castlevania: Lords of Shadow 2's Dracula is a Tony Soprano nosferatu
 Castlevania: Lords of Shadow Collection coming to NA Nov. 5, Europe Nov. 8 (update)
+Castlevania: Lords of Shadow â Mirror of Fate HD coming to Steam this month
 Castlevania: Symphony of the Night completed in less than 19 minutes
 Cat complex recreates Marioâs world on your wall
 Catch 10 minutes of Batman: Arkham Origins Blackgate gameplay
@@ -1082,6 +1087,7 @@ Counter-Strike GO's Operation Phoenix brings back fan-favorite maps, new finish
 Counter-Strike community helps build $250K DreamHack prize pool
 Counter-Strike: GO now lets you watch top players compete
 Counter-Strike: Global Offensive coming to Linux, says Newell
+CounterSpy is headed to PS4 this summer
 Court dismisses lawsuit accusing Zynga of manipulating stock
 Court dismisses lawsuit against Valve over accounts, used games
 Court overturns verdict against EA in Madden copyright lawsuit (update)
@@ -1089,6 +1095,7 @@ Court upholds findings in $9.2M Epic Games, Silicon Knights lawsuit
 Cranky Kong suits up in new DKC: Tropical Freeze trailer
 Cranky Kong tackles new heights in Donkey Kong Country: Tropical Freeze
 Crawl pits a Hero against his monstrous multiplayer friends
+Crazy Taxi makes its free-to-play debut with City Rush
 Create Gran Turismo 6 maps with GPS and the Course Maker app
 Create-a-spy: Hands on with Codename Cygnus
 Creating Nayaâs Quest was a 'playful process' of discovery
@@ -1110,6 +1117,7 @@ Crystal Brawl minimalistic sports game is 'Gauntlet meets NBA Jam'
 Crystal White PlayStation Vita available on Amazon for $199
 Crystal see-through DualShock 3 hitting Japan next month
 Crytek aims for flow, not just flash with Ryse: Son of Rome
+Crytek brings action card game The Collectables to iOS and Android
 Crytek to demo CryEngine on Linux at GDC
 Crytek's free-to-play Warface launching Oct. 21 in North America
 Crytek, Double Fine, Vlambeer and more join ID@Xbox dev program
@@ -1883,6 +1891,7 @@ Final Fantasy 7 NES demake overhauled by modders
 Final Fantasy 8 out on Steam today
 Final Fantasy Agito demo shows off gameplay
 Final Fantasy Agito gameplay trailer brings the fight to mobile
+Final Fantasy Type-0 fan-made localization launches Aug 8
 Final Fantasy XIV: ARR - Share Your Impressions
 Final Fantasy character designer joins Unsung Story team
 Final Fantasy concert A New World premieres in London Feb. 15
@@ -1901,6 +1910,7 @@ Firefall dev Red 5 replaces CEO
 Firefighting roguelike Flame Over coming to PS Vita in 2014
 Firefly Online brings the television series to PC and Mac in summer 2014
 Firehose Games is offering free office space to laid off Boston developers following BioShock studio closure
+Firewatch is Campo Santo's first game
 First Arma 3 story DLC arriving Oct. 31
 First Gamers4Christ Tour event to be held Oct. 12 in Texas
 First Ouya Free the Games campaigns surpass funding goals
@@ -1952,6 +1962,7 @@ Former Eidos head founds art in tech high school
 Former Epic Games president joins Remedy Entertainment's board
 Former Galaxy on Fire mobile studio head announces next-gen collective Rockfish
 Former Gears of War, BioShock Infinite producer heading new 2K studio
+Former God of War 3 developers unveil first indie release Viking Ghost
 Former Luigi's Mansion: Dark Moon developers working on comedy RPG
 Former Microsoft, Cisco exec appointed Nvidia EVP and CFO
 Former Mythic dev calls on EA to release server-free version of Warhammer Online
@@ -2503,6 +2514,7 @@ Here's what the Nendoroid Luigi figure looks like
 Here's what the PS4, GTA 5 and grumpy cat have in common
 Here's what the inside of a PS4 game case looks like
 Here's what the three stars of GTA 5 look like in real life
+Here's what to expect from the Heroes of the Storm alpha
 Here's what was sold at the 38 Studios asset auction
 Here's what you can do with Xbox at PAX Prime
 Here's what you can now buy inside World of Warcraft
@@ -2654,6 +2666,7 @@ How I spent my first day waiting for the world to end in Lightning Returns: Fina
 How Ice-T accidentally recorded audio for a Dungeons and Dragons book
 How KickBeat's Kung Fu story evolved from joke to reality
 How MGS 5: Ground Zeroes tells its story like a TV series
+How MLB 14's Road to the Show changes are bleeding over into other modes
 How Mark Cerny fell into the role of Knack's creative director
 How Modern Warfare's writer wound up writing Battlefield 4
 How Myst's developer is returning to its roots with Obduction
@@ -2717,6 +2730,7 @@ How companies are using video games to rate job applicants
 How developers are trying to solve motion sickness in video games
 How devs manage the energy of their crowdfunding communities
 How did South Park make video games funny?
+How do you get good at Titanfall?
 How female representation in games affects women
 How flimsy games characters lead to bad movies
 How game development is changing movie-making
@@ -2966,6 +2980,7 @@ Joe Danger Infinity lands on iOS Jan. 9, despite flooded offices
 Joe Danger and Joe Danger 2 coming to Linux and Mac 'real soon'
 Joe Danger and Joe Danger 2 coming to PC retail in October
 Joe Danger dev 'obsessed' with ensuring Vita ports match originals
+Joel Green, inspiration for That Dragon, Cancer, passes away at age 5
 John Carmack developing games for Oculus Rift
 John Carmack left id because he couldn't work on VR there, he says
 John and Brenda Romero together at UCSC games program
@@ -3324,6 +3339,7 @@ MITâs inFORM uses Kinect to physically interact through a computer
 MLB 14 The Show arriving on PS4, PS3, PS Vita in spring 2014
 MLB 14 The Show comes home in May for PS4, April for PS3 and Vita
 MLB 14 The Show dev details Online Franchise mode
+MLB 14 The Show launches May 6 on PS4
 MLB.TV coming to PS4, Xbox One this spring
 MLG Championship to feature first Call of Duty: Ghosts competition
 MLG Fall Invitational set for Oct. 18-19 at Full Sail University
@@ -3473,6 +3489,7 @@ Metal Gear Solid 5: Ground Zeroes getting exclusive content on Xbox
 Metal Gear Solid 5: Ground Zeroes has exclusive PlayStation content
 Metal Gear Solid 5: Ground Zeroes lands in spring 2014
 Metal Gear Solid 5: Ground Zeroes will run at 1080p natively on PS4, Fox Edition PS4 appears
+Metal Gear Solid sales expectations were low, Kojima says
 Metal Gear creator Hideo Kojima will present Rockstar's BAFTA Fellowship award
 Metal Gear, Silent Hill and more Konami games on sale on Xbox Live Games on Demand
 Metal Slug 3 available for pre-order on Steam
@@ -4166,6 +4183,7 @@ Over my Dead Body 2 animated trailer introduces demon hunter protagonists
 Owlchemy Labs launches Kickstarter for psychological adventure Dyscourse
 PAX Australia expands to larger venue, dates announced
 PAX Australia tickets now on sale
+PAX East 2014 full schedule available now
 PAX East 2014 now accepting submissions for Indie Megabooth
 PAX East 2014 registration goes live Oct. 23
 PAX East 2014 registration now live (update: sold out!)
@@ -4243,6 +4261,7 @@ PS4 won't support CD or MP3 playback at launch
 PS4 won't support external hard drives, specs for replacement drives revealed
 PS4's Japan delay due to a lack of Japanese games
 PS4's Need for Speed Rivals more visually impressive than PC version
+PS4's Playroom gets free Ninja Bots update
 PS4's The PlayRoom air hockey demo is actually kind of a blast
 PS4's x86 architecture is more complex but provides more options, says Cerny
 PS4, Xbox One battle for best-selling, fastest-selling consoles in Nov.
@@ -4393,6 +4412,7 @@ Plants vs. Zombies: Garden Warfare launching without microtransactions
 Plants vs. Zombies: Garden Warfare likely not an Xbox exclusive
 Plants vs. Zombies: Garden Warfare review: turf war
 Plants vs. Zombies: Garden Warfare trailer highlights four core playable zombies
+Platoons for Battlefield 4 now live for all players
 Platoons invade Battlefield 4 beginning Feb. 27
 Play Doom as the cast of Resident Evil with this mod
 Play Killzone: Shadow Fall multiplayer for free next weekend
@@ -4402,6 +4422,7 @@ Play Terry Cavanagh's new game, Naya's Quest, in your browser
 Play Yogscast's Honeydew in Sonic & All-Stars Racing Transformed
 Play an FPS, perceive motion better while walking backward
 Play with absurdity, hopelessness in The Franz Kafka Videogame
+Play with the numbers this spring with the PS Vita's Metrico
 PlayStation 4 12-hour Livestream: Polygon Live on November 13 at noon ET
 PlayStation 4 arrives Feb. 22, 2014 in Japan
 PlayStation 4 arrives in North America on Nov. 15, Europe on Nov. 29
@@ -4523,6 +4544,7 @@ Polytron shares clip of Fez running on Vita
 Pondering our technology-dependent society in Troubadour
 PopCap CEO retiring, co-founder to take the reigns (update)
 PopCap developing Peggle 2 updates, new console project
+PopCap hit with unspecified number of layoffs
 PopCap on designing the unique characters of Plants vs. Zombies: Garden Warfare
 PopCap promises shorter delays in bringing games to new platforms
 Populous and Red Alert 3 added to EA's Humble Origin Bundle
@@ -5048,6 +5070,7 @@ Sega & Sonic All Star Racing arrives on Android
 Sega Australia's pitch to resurrect classic Sega titles
 Sega Genesis retrospective book turns to Kickstarter for funding
 Sega Genesis steampunk shooter Steel Empire heading to Japan on 3DS this March
+Sega Humble Weekly Sale features Company of Heroes, Binary Domain, more
 Sega and Tommo team up for retro accessories
 Sega and tri-Ace discuss the Vita's Phantasy Star Nova
 Sega bringing Sonic & All-Stars Racing, Sonic 2, more to mobile
@@ -5129,6 +5152,7 @@ SimCity collaboration with Red Cross to provide real-world assistance
 SimCity heads to classrooms to teach kids about environment
 SimCity launch awarded a 'Shonky' over sneaky business practices (update)
 SimCity modding rules detailed by Maxis
+SimCity offline update in 'final testing,' states Maxis
 SimCity's first expansion explores Cities of Tomorrow Nov. 12
 SimCity's offline mode required more than six months of rework, Maxis says
 SimCity: Cities of Tomorrow intro video dissects the city of the future
@@ -5881,6 +5905,7 @@ The Long Dark will include 'willpower' gameplay mechanic
 The Lord of the Rings Online license extended through 2017
 The Lord of the Rings Online's Helm's Deep update delayed
 The Lord of the Rings Online: Helm's Deep expansion hits today
+The Madden ambulance, and other features the NFL made EA remove or tweak
 The Making of The Last of Us documentary now on YouTube
 The Mark of Kri coming to PSN next week
 The Matrix Online had fewer than 500 active players before shutting down
@@ -6101,6 +6126,7 @@ This emotionally challenging game attempts to bring home the pain of slavery
 This game has 14 dinosaurs you can tame and ride
 This game tracks your fear and teaches you how to master it
 This is how Ultimate Team works in NBA Live 14
+This is how they're making the alien for Alien: Isolation
 This is the Riddick game Vin Diesel was talking about
 This is the only PlayStation 4 video you need to watch
 This is what Valve's Steam Machine prototype looks like
@@ -6115,6 +6141,7 @@ This virtual reality game about cheating dolphins in an undersea classroom shows
 This will let you say 'Happy Birthday,' 'Get Well Soon' with a video game
 Thomas Was Alone doesn't need a sequel now, says dev
 Thor: The Dark World launches on iOS and Android
+Thralled, the colonial-era Brazilian slave story, comes to Ouya this fall
 Three men impersonate cops to cut GTA 5 waiting line
 Three mini-games removed from South Park: The Stick of Truth Australia, now features a crying Koala
 Three new Pokemon found hiding in Pokemon X and Y
@@ -6160,6 +6187,7 @@ Titanfall beta opens to all PC users who registered
 Titanfall beta registration opens for Xbox One, PC, kicks off Feb. 14
 Titanfall creators in talks with Aspyr about Mac version
 Titanfall dev debuts new Titan classes Ogre and Stryder (update)
+Titanfall dev working on a companion app, new colors and private lobbies
 Titanfall devs wanted to 'stretch the limits' of FPS multiplayer games
 Titanfall fan creates a teeny Titan replica
 Titanfall for Xbox 360 being developed by Bluepoint Games
@@ -6247,6 +6275,7 @@ Total War: Rome 2 mod tools now available in beta on Steam
 Total War: Rome 2 multiplayer takes center stage in new video
 Total War: Rome 2 patch improves AI waiting times
 Total War: Rome 2 video details naval warfare
+Total War: Rome 2's Hannibal at the Gates DLC hits March 27
 Total War: Rome 2's first patch coming this Friday
 Total War: Rome 2's second patch beta expected this week
 Total War: Rome 2's second patch is now live
@@ -6261,6 +6290,7 @@ TowerFall Ascension will have no online multiplayer
 TowerFall Ascension's Quest and Trials modes detailed
 TowerFall PC version expected in January 2014
 TowerFall, incubated on Ouya, may be PS4's first streaming killer app
+Towerfall Ascension - Overview video
 Toy Rush raises plush toy army for strategic tower defense game
 Toy Rush's pre-alpha video shows off path building and adorable monkeys
 Toyota's FT-1 Concept arrives free in Gran Turismo 6 Jan. 14
@@ -6278,6 +6308,7 @@ Train Chop on Android today with GTA 5's iFruit app
 Train Franklinâs mutt with Grand Theft Auto 5 app iFruit
 Train Jam 2014 turns game development into a traveling affair
 Train Jam uses a change of scenery to inspire creativity
+Transformers Universe introduces Conduit and Front-Line ahead of beta this weekend
 Transformers Universe trailer is all speed and robot carnage
 Transformers: Rise of the Dark Spark coming this June (update)
 Transistor's voice-over is a character in the world who cares about you
@@ -6740,6 +6771,7 @@ Why Nidhogg's creator chased 'the slow game'
 Why Nintendo was the right decision for Bayonetta 2
 Why Norwegian students are playing The Walking Dead in class
 Why Nuclear Throne is heading to PS4 first
+Why Phoenix Wright creator did not want the series to continue
 Why Renegade Kid is creating a free-style scooter game
 Why Renegade Kid waited out the rights for Moon Chronicles
 Why Roll7 brought OlliOlli to PS Vita instead of iOS
@@ -6801,6 +6833,7 @@ Wii Fit U review: glass joe
 Wii Karaoke U app arrives Oct. 4 in Europe
 Wii Karaoke U getting over 60 new songs
 Wii Mini coming to U.S. this month, bundled with Mario Kart Wii
+Wii Sports Club gets another free weekend on the Wii U
 Wii Sports Club introduces golf to the mix starting today
 Wii Sports Club will automatically download with SpotPass approval
 Wii U Batman: Arkham Origins season pass support killed because of low demand
@@ -7030,6 +7063,7 @@ Xbox One controller vs. the PS4 controller
 Xbox Oneâs Kinect won't harvest marketing data, Microsoft says
 Xbox Video now available on the web
 Xbox at Gamescom 2013: Indie plans, Kinect games and more
+Xbox gamer breaks 1 million Gamerscore playing Titanfall, vows to watch TV
 Xbox multimedia executive Blair Westlake leaves Microsoft over company's change in direction
 Xbox users can earn cash value with Xbox Live Rewards program
 Xbox, watch TV: inside Microsoft's audacious plan to take over the living room
@@ -7059,6 +7093,7 @@ Yoshi's Cookie being removed from Wii Virtual Console Oct. 18
 Yoshi's New Island coming to 3DS spring 2014
 Yoshi's New Island hitting 3DS March 14
 Yoshi's New Island multiplayer leaves the baby at home
+Yoshi's New Island review: bringing up baby
 Yoshi's New Island spans exotic, painterly locations
 Yoshida wants to keep a 'steady flow' of post-launch PS4 games
 Yoshida: PS4 demo from Gamescom showed just a 'small portion' of UI

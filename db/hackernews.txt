@@ -2195,6 +2195,7 @@ Dell/Alienware release Ubuntu gaming desktop
 Demands on Lavabit violated Fourth Amendment, lawyers say
 Demonstrating responsive design to clients.
 Demonstrations to protest NSA spying planned for July 4th
+Denial of Service Attacks
 Dennis Ritchie
 Dennis Ritchie's first C compiler on Github
 Dennis Ritchie: The Shoulders Steve Jobs Stood On
@@ -2575,6 +2576,7 @@ Elon Musk's determination
 Elon Musk: "I would like to die on Mars"
 Elon Musk: 'Europe's rocket has no chance'
 Elon Musk: Boeing 787 battery fundamentally unsafe
+Elon Musk: To the People of New Jersey
 Elon Musk’s Mission to Mars
 Eloquent JavaScript, Second Edition
 Elsevier = Evil
@@ -3372,6 +3374,7 @@ Go 1.2
 Go 1.2 is released
 Go After 2 Years in Production
 Go Ahead, Let Your Kids Fail
+Go Concurrency Patterns: Pipelines and cancellation
 Go Daddy No Longer Supports SOPA
 Go Pro on a soaring eagle [video]
 Go Rocks - How Can We Avoid Something This Bad In The Future?
@@ -3423,6 +3426,7 @@ Goodbye Basecamp, This Is The End
 Goodbye Facebook
 Goodbye Facebook.
 Goodbye Google Analytics. Hello Piwik
+Goodbye Popcorn Time
 Goodbye Sticky. Hello Ara
 Goodbye to academic research
 Goodbye, CouchDB
@@ -3524,6 +3528,7 @@ Google Plus Deleting Accounts En Masse: No Clear Answers
 Google Plus: Tagging automatically shares private photos
 Google Pressure Cookers and Backpacks, Get a Visit from the Feds
 Google Reader Apocalypse Extremely Fucking Nigh
+Google Reader announced its shutdown exactly a year ago
 Google Reader is dead
 Google Reader shutting down
 Google Reexam Requests Devastating to Lodsys
@@ -3944,6 +3949,7 @@ Help build the worlds biggest gaming social network at Heyzap (YC W09)
 Help find a bright object on Mars
 Help me distribute $100,000 to new entrepreneurs in Africa
 Help, I’m on the IRS hit list
+Helsinki’s personalized bus service is like Uber for public transit
 Hemingway makes your writing bold and clear
 Hemingway, Hounded by the Feds
 Herd Immunity Demonstration
@@ -6918,6 +6924,7 @@ Papers Every Programmer Should Read (At Least Twice)
 Papers and essays that every programmer should be aware of
 Papers, Please - A Dystopian Document Thriller
 Papers, Please: A Dystopian Document Thriller
+Papers, Please: The 'boring' game that became a smash hit
 Parallella, a $99 Linux Supercomputer
 Paralyzed Woman Controls Robotic Arm With Her Mind
 Paranoia and deletion: the wipe man page
@@ -7722,6 +7729,7 @@ Run Mac OS System 7 in your browser
 Run Windows 1.01 in your browser
 Running a startup on Haskell
 Russ Olsen: The Best Programming Advice I Ever Got
+Russia Blocks Access to Major Independent News Sites
 Russia in color, a century ago
 Russia plans $65bn tunnel to America
 Russia's Crime of the Century
@@ -8135,6 +8143,7 @@ Show HN: Multiplayer Snake in Go
 Show HN: Music for Geeks and Nerds
 Show HN: My 1-year project, iPad IDE with GitHub and Heroku integration
 Show HN: My 4-hour project, already profitable
+Show HN: My Desk Chair
 Show HN: My Github résumé
 Show HN: My Node.js two weekend project. Color palettes from Flickr images.
 Show HN: My Weekend Hack - Stack-Ed: Learn from the best on StackOverflow
@@ -9265,6 +9274,7 @@ The Mature Programmer
 The McDonald's Theory of Bad Ideas
 The Meditations of Marcus Aurelius
 The Merge Button
+The Meteoric Rise of DigitalOcean
 The Microsoft Update mechanism has been used to spread malware
 The Mid-Career Crisis of the Perl Programmer
 The Million Dollar Question
