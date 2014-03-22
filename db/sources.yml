@@ -14,6 +14,14 @@ lifehacker:
   name: Lifehacker
   category: Tech
   default: false
+daringfireball:
+  name: Daring Fireball Links
+  category: Tech
+  default: false
+macrumors:
+  name: MacRumors
+  category: Tech
+  default: false
 gizmodo:
   name: Gizmodo
   category: Tech
@@ -124,6 +132,10 @@ cnn_blog:
   default: false
 guardian_blogs:
   name: Guardian Blogs
+  category: News
+  default: false
+fivethirtyeight:
+  name: FiveThirtyEight
   category: News
   default: false
 nature_blog:

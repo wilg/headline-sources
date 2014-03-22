@@ -186,6 +186,7 @@ Adam Savage's Everyday Carry (EDC)
 Adam Savage's Keynote at the XOXO Festival
 Adam Savage's Mercury Spacesuit Replica
 Adam Savage's One Day Builds: Strandbeest Model Kit
+Adam Savage's SXSW 2014 Keynote: Art and Science
 Adam Savage's SXSW 2014 Keynote: Art and Technology
 Adam Savage, Phil Plait, and Veronica Belmont Talk Science
 Adam Unveils Wired's Comic-Con 2013 Robot
@@ -597,6 +598,7 @@ Bing Lasso Streamlines Copy-and-Paste on iPad [Video]
 Biologists Grow the Next Wonder Material in a Vat of Algae
 Bionic Ear Combines Printed Cartilage and Better-Than-Human Hearing
 BitTorrent Bundle is Like Peer-to-Peer Shareware
+Bits to Atoms: 3D Modeling Best Practices for 3D Printing
 Bits to Atoms: 3D Printing an Accurate Replica TARDIS
 Bits to Atoms: An Overview of Today's 3D Printing Technologies
 Bits to Atoms: Making a MintyBoost USB Charger
@@ -1125,6 +1127,7 @@ Flying Eagle with GoPro Camera
 Flying a 16-Foot Airbus A380 RC Plane
 Foldable Displays Demand New User Experience Design [Video]
 Follow Focus Adds Leverage and Accuracy to DSLRs [Video]
+Font Men, A Short Film about Type Faces and Foundries
 Food Fraud: The Substitutes We Never Know About
 Food Industry Meeting Could've Curbed the Rise of Sugar, Salt and Fat in Foods
 For The Love of Cassette Tapes
@@ -1161,6 +1164,8 @@ GM Hopes for Self-Driving Cars By the End of the Decade
 Galaxy S II Skipping Verizon for Next Week's US Debut
 Galaxy Tab 10.1 Challenges iPad 2 for Tablet Display Dominance
 Gallery: The Art of Tekhnika Molodezhi
+Gallery: The Posters of Flatstock 43 at SXSW 2014
+Game of Thrones: The Exhibition at SXSW 2014
 Garmin's HUD Projects Driving Direction onto Windshields
 Geckos don't stick to Teflon
 Geeking Out at Seattle's EMP Museum
@@ -1253,6 +1258,7 @@ Google Play App Roundup: Instagram, Another World, Tasks
 Google Play App Roundup: Kairobotica, Sudo QuickLaunch, and Megatroid
 Google Play App Roundup: Machinarium, doubleTwist Alarm Clock, and Pix'n Love Rush
 Google Play App Roundup: Mercury Browser, Star Command, and Type:Rider
+Google Play App Roundup: Minuum Keyboard, Rochard, and Beyond Space
 Google Play App Roundup: Monsters Ate My Condo, Aviary, and Max Payne
 Google Play App Roundup: Moves, Incredipede, and Zombie Gunship
 Google Play App Roundup: Muzei, The Room Two, and Amateur Surgeon 3
@@ -1423,7 +1429,9 @@ Hands-On with the Hario Electric Pour-Over Kettle
 Hands-On with the Lenovo Yoga 2 Pro
 Hands-On: Adobe Photoshop CS6 Beta
 Hands-On: Google Chrome OS "Aura" User Interface
+Hands-On: Oculus Rift Development Kit 2 Virtual Reality Headset
 Hands-On: Sony NEX-F3 Mirrorless Interchangeable Lens Camera
+Hands-On: Sony's 'Project Morpheus' PS4 Virtual Reality Headset
 Hands-On: Taposé App Attempts to Fulfill Microsoft Courier's Dreams
 Hands-On: The Four Best New Features of Microsoft Windows 8
 Handy Tips and Hidden Tricks for Mac OS X Lion
@@ -1585,6 +1593,7 @@ How Sand Becomes a CPU
 How Sci-Fi Propaganda Art Influenced The US and Soviet Space Race
 How Scientists Generated The First Two MegaJoule UV Laser Shot
 How Security Cameras Can Provide Anonymous Shopper Statistics
+How Smart Cars and Traffic will Change the World
 How Smart Headphones Save Your Ears from the Decibel Danger Zone
 How Snowflakes Form their Shape: Chemistry!
 How Sony's 3DTV Displays Two Game Screens at Once
@@ -1627,6 +1636,7 @@ How To Fix A Pair Of Broken Headphones
 How To Fold and Tweak a Great Paper Airplane
 How To Follow Along with NASA's Curiosity Rover Landing This Sunday
 How To Get Better Depth of Field Photos with Your Camera
+How To Get Into Hobby RC: Radios and Motors
 How To Get Started With iCloud Backups and Sync in iOS 5
 How To Get Started with 3D Modeling for 3D Printing
 How To Get Started with Arduino
@@ -1845,6 +1855,7 @@ Jamie & Adam's Costume Hunt for Halloween
 Jamie Answers: What More Can Be Done to Introduce Science to Girls?
 Jamie Answers: What's One Myth You've Always Wanted to Test?
 Jamie Hyneman Answers: Home Improvement Projects
+Jamie Hyneman Describes His Perfect Sunday
 Jamie Hyneman On Welding in His Workshop
 Jamie Hyneman Tests the Oculus Rift Virtual Reality Goggles
 Jamie Hyneman on "Innovation, Explosions, and the Benefit of Adolescent Behavior"
@@ -2142,6 +2153,7 @@ MakerBot Mystery Build: Lessons in Failure
 MakerBot Mystery Build: Line Waiting
 MakerBot Mystery Build: Make Mine Neat
 MakerBot Mystery Build: Mind Your Manners
+MakerBot Mystery Build: Mr. Rogers Would Approve
 MakerBot Mystery Build: Nemo's Friend
 MakerBot Mystery Build: Not Included
 MakerBot Mystery Build: OK to Go
@@ -2572,6 +2584,7 @@ PBS Off Book: The Art of Animation and Motion Graphics
 PBS Off Book: The Art of Stop-Motion Animation
 PBS Off Book: The Creativity of Indie Video Games
 PC Build Race 2013: The Return
+PC Building: Pay More Up Front or Upgrade Regularly?
 PETMAN Robot Climbs Stairs, Walks on a Treadmill, Does Pushups
 PIN Cracking Robot Hacks Phones in Less Than 20 Hours
 POV: Solving Three Rubik's Cubes While Juggling
@@ -2623,6 +2636,7 @@ Physicists Form New Matter By Coaxing Photons Into Molecules
 Physics Nobel Prize 2012 - Sixty Symbols
 Picade Arcade Cabinet Kit Runs on Raspberry Pi Microcomputer
 Piccolo CNC Bot Draws on More Than Eggs for $70 [Video]
+Picking and Gutting a Prison Lock
 PicoBrew Zymatic Is Like an Open Source Coffee Maker for Beer
 Pierre Jaquet-Droz's 'The Writer' Automata
 Pilot's Eye View of A380 Landing in SFO
@@ -2653,6 +2667,7 @@ Premium: Adam Reacts to the Zero Theorem Trailer
 Premium: Building a Cardboard Kinetic Creatures Kit
 Premium: CES Trendspotting and Michael Bay's Breakdown
 Premium: Gearing Up for the First Day of CES 2014
+Premium: Norm Chews 30-Year-Old Gum ('Nuff Said)
 Premium: Norm's Lifecast Time-Lapse
 Premium: Putting on Adam's Mercury Spacesuit
 Premium: Setting Up the High-Speed Camera Test
@@ -3004,6 +3019,7 @@ Shake Weighted: Simulating a 6.7 Earthquake
 Shaolin Warriors in Slow Motion
 Shapeways' New Sizzle Reel Shows a Different Side of 3D Printing
 Sharing Taboo 3D Printer Files with Distortion Encryption
+Shawn Thorsson's ED-209 Build for Maker Faire
 Shingled Magnetic Recording Paves the Way for 5TB Hard Drives
 Shipping Pallets Make the World Go Round
 Shoot the Sky: The Technology Invented for Astro Cinematography
@@ -3033,6 +3049,7 @@ Show and Tell: Favorite Cable Organizer
 Show and Tell: Favorite Pocket Flashlights
 Show and Tell: Gakken SX-150 D-I-Y Synthesizer
 Show and Tell: Geek Dad
+Show and Tell: Guts of Glory Boardgame
 Show and Tell: H.R. Giger's Alien Diaries
 Show and Tell: Hot Toys Iron Man Mark VII 1/6 Scale Figure
 Show and Tell: How Wide is It?
@@ -3177,6 +3194,7 @@ Star Trek x Space Invaders 3D Chalk Art
 Star Trek: Into Darkness Starship Models from Quantum Mechanix
 Star Wars Despecialized Edition Gets a Remastered Release
 Star Wars Lego Barrel Organ Plays Star Wars Theme
+Star Wars and the Explosion of Dolby Stereo
 Startup Aims to Reinvent Disposable Coffee Cup Technology
 Startup's Wireless Charging Technology Works Across an Entire Room
 Statc is a Portable Magnetic Camera Mount
@@ -3207,6 +3225,7 @@ Suidobashi Heavy Industry Unveils Its Kuratas Mech
 Sunday Morning Silly - Shredding a VW Bug
 SuperTalent Packs Solid State Storage Into a USB 3 Stick
 Supercharged: USB 3.0 to Carry 100 Watts of Power in 2012
+Superman with a GoPro (Phantom Drone Footage)
 Surface Pro 2 and Windows Battery Life with Haswell
 Surface Strategy: A Conversation with Microsoft's Panos Panay
 Surprising Complexity Lurks Within a Simple Airline Bag Tag
@@ -3250,6 +3269,7 @@ Test podcast to bump iTunes feed. Do not listen!
 Testing 5K Video as a Replacement for Still Photography
 Testing Adam Savage's New Dissection Microscope
 Testing Camera Gear with Adam Savage
+Testing Maxwell: Nvidia's Six-Inch Hammer
 Testing NeverWet on Wearable Electronics
 Testing the CastAR Augmented Reality Glasses
 Testing the Limits of Engineering Designs
@@ -3287,6 +3307,7 @@ The 10 Best Android Apps and Games of 2013
 The 10 Best Android Apps of 2011
 The 10 Essential Apps Every Android User Should Have
 The 2013 US Aeropress Champ Recipe
+The 2014 CinemaTech Awards: Our Favorite Sci/Tech Movies
 The 2014 World's Fair, Imagined by Isaac Asimov
 The 2048x1536 Dream: Will it Happen with the iPad 3?
 The 5 Tweaks Every New Galaxy Nexus Owner Should Do Immediately
@@ -3359,6 +3380,7 @@ The Best Budget Laptop Today
 The Best Cat Video on the Internet: Henri 2, Paw de Deux
 The Best Cheap In-Ear Headphones are $12
 The Best Compact Camera for Less Than $450
+The Best Computer Speakers Today
 The Best Dash Cam For Your Car Costs $60
 The Best External Desktop Hard Drive Today
 The Best Fitness Tracker Today
@@ -3632,6 +3654,7 @@ The State of Content Creation on Android Devices
 The State of Digital Wallets: Back to Plastic
 The State of Free Tethering and Wi-Fi Hotspot on Android
 The State of Keyboard and Mouse Input on Android
+The State of OEM User Interfaces on Android
 The State of PC Gaming Graphics and The Real Cost of DirectX 11
 The State of Practical Special Effects in Filmmaking
 The Steel Soccer Balls Soviets Shot at the Moon
@@ -3698,6 +3721,7 @@ The Zoidberg Project, Part 5: Clawing Away
 The Zoidberg Project, Part 6: How I Got Started
 The Zoidberg Project, Part 7: Sculpting the Details
 The Zoidberg Project, Part 8: Rethinking the Claws and Feet
+The Zoidberg Project, Part 9: All About Molding
 The iOS 5 Features Apple Didn't Discuss at WWDC
 The iPod Nano's 16 New Watch Faces are a Free Upgrade
 Theoretical vs. Actual Bandwidth: PCI Express and Thunderbolt
@@ -3826,6 +3850,7 @@ Valve Offers 1000 Spots for Steam Linux Beta
 Valve to Release Beta Controller-Friendly, Living Room UI for Steam Today
 Valve to Release Source Filmmaker Machinima Tool
 Valve's Rumored "Steam Boxes" Are Just Test Hardware for Big Picture Mode
+Valve's Steam Controller Prototype Hands-On at GDC 2014
 Valve's Steam Controller: Trackpads, Haptics, Touchscreen
 Valve's Steam Machines: What We Know So Far
 Valve's Steam Now Allows Remote Game Installation
@@ -3885,6 +3910,7 @@ Waterproofing Electronics: Gimmick or Underused Feature?
 We Miss You Buddy...
 We Require More Minerals: Space Mining for Science and Profit
 We Shouldn't Be Afraid of Facial Recognition and Other Amazing Technology
+We Went to SXSW - 3/18/2014
 We're Travelling The Rest of This Week
 Web Users Still Love to Type in www.Facebook.com
 Weird Cooking: Steaming and Poaching in the Dishwasher and Coffee Maker

@@ -46,7 +46,7 @@ module HeadlineSources
         begin
 
           page_start = formatted_headlines.length
-          perform_partial_fetch!
+          out = perform_partial_fetch!
           page_end = formatted_headlines.length
 
           @repeated_page_count += 1 if page_end - page_start == 0
@@ -55,6 +55,10 @@ module HeadlineSources
 
           if @repeated_page_count == REPEAT_PAGE_LIMIT && !@push_through_repeats
             puts "#{REPEAT_PAGE_LIMIT} fetches without new headlines, done.".yellow
+            return
+          end
+          if out == :done
+            puts "Fetcher is done.".yellow
             return
           end
 

@@ -148,6 +148,7 @@
 12 Idiot Kids with Their Heads Stuck in Chairs
 12 Man of Steel Pickup Lines
 12 Movie Moments We Never Need To See Again
+12 New Irish Toasts for St. Patrick's Day 2014
 12 Parts In The Ghostbusters Movies That Still Bother Me
 12 Patented Athlete Sex Moves
 12 People Being CHAMPIONS of the Gym
@@ -242,6 +243,7 @@
 25 Phrases You'll Hear When You Go Out, and What They Really Mean
 25 Possible Reasons Why No One is Going to See Your Band
 25 Signs You Spend Too Much Time on the Internet
+25 Things That Shouldn't End With "Sort Of"
 25 Things You Hate Yourself For Thinking But Never Say
 25 Things You Hate Yourself for Saying
 25 Things You Need to Stop Doing
@@ -335,6 +337,7 @@
 5 Movie Superheroes Who Suck (And Who Should Replace Them)
 5 New Air Fresheners Inspired by Comic Con
 5 New Senses The Human Body Desperately Needs
+5 New St. Patrick's Day Cocktails for Secret Drinking
 5 New Ways to Get Blasted at the Gym
 5 New Ways to Tie a Tie
 5 New Year's Resolutions That Really Go For It
@@ -540,6 +543,7 @@
 7 Reasons Being a College Student is Just Like Being Old
 7 Reasons Why Being an Intern is Like Being a Toddler Again
 7 Reasons Why We Need Alec Baldwin Back NOW
+7 Rejected Google Doodles
 7 Rejected Kong Family Members
 7 Serious Diseases Afflicting College Students
 7 Signs You Put No Effort Into Your Girlfriend's Christmas Present
@@ -639,6 +643,7 @@
 8 Perfectly Cromulent Songs Inspired by The Simpsons
 8 Pokemon Hipsters
 8 Positions for Sex at Your Parents' Place
+8 Problems That Only Guys Who F*ck Real Good Will Understand
 8 Protest Signs for Everyday Problems
 8 Rap Songs Perfectly Synched with Kids' Shows
 8 Real & Fictional Addresses of Superheroes in New York City
@@ -722,6 +727,7 @@ A Guide to Summer Migratory Species
 A Guide to Your 7 Unexpected Survival Skills
 A Hand
 A Hands Free Call
+A Handy Drinking Game For Your Awkward First Dates
 A Handy Survival Guide To Getting Super Laid
 A How To Guide for Idioms
 A Letter About Our Restaurant Rating
@@ -1250,6 +1256,7 @@ Flowchart: What to Do at an Office Party
 Flowchart: Which Christmas Movie Should You Watch?
 Flowchart: Which Final Fantasy VII Character is Your Favorite?
 Flowchart: Which Movie Should You Watch This Month?
+Flowchart: Which Pet Should You Get?
 Flowchart: Who Should You Root For in the NFL Playoffs?
 Flowchart: Who Will You Be With on Valentine's Day?
 Flowchart: Who Will You Hook Up with During Spring Break
@@ -1272,6 +1279,7 @@ From Splinter Cell to Office Job
 Fun Fact
 Fun Facts About the Canadian Football League
 Future Tourist Attractions - Postcards from 2061 A.D.
+GRAPH: What Happens When You Get A Dog
 Game Of Thrones Season 3 Recap: So, That Happened
 Game Show
 Game of Thrones House Sigils for Other TV Families
@@ -1445,6 +1453,7 @@ How To Make A Perfect 90s Alternative Music Video
 How To Make Small Talk in Other Languages
 How To Make Your Future Self Hate You
 How To Pound A Girly Drink Like A F*ckin' MAN
+How To Pretend To Talk About Politics Real Good
 How To Really Show 'Em at the High School Reunion
 How To Record a TV Clip for Youtube in 12 Terrible Steps
 How To Smoke Pot For The First Time
@@ -1469,6 +1478,7 @@ How to Be the Female Protagonist of an Hourlong Drama
 How to Choose the Ultimate Fake Family
 How to Cure a Cold in 10 Easy Steps
 How to DEFINITELY Die Doing What You Love
+How to Do Work at a Coffee Shop
 How to Do Your Laundry in 14 Easy Steps
 How to Draw a Picture-Perfect Horse in 7 Easy Steps
 How to Eat a Bag of Tostitos Hint of Lime Chips in One Sitting
@@ -1486,6 +1496,7 @@ How to Get Out of Playing Sports
 How to Get the Most Out of Black Friday Sales
 How to Hack a Computer in an Action Movie
 How to Handle Your Hangover
+How to Have an Incredible Spring Break (When You Can't Actually Afford To)
 How to Interact with Friends Who Have Better Jobs Than You Do
 How to Live Life on Expert Mode
 How to Look Like You're Having Fun at Parties
@@ -1516,6 +1527,7 @@ How to Vote
 How to Watch Porn at Work
 How to Watch TV Illegally Online
 How to Watch the Game Just Like You're at the Stadium
+How to Win a Music Volume War Against Your Roommate
 How to Write Bestselling Erotic Fiction
 How-To Guide for Everyday Ninja Moves
 Hunger Games PSAs
@@ -1684,6 +1696,7 @@ If The Great Gatsby Were Narrated By Other Characters
 If The Internet Was An Amusement Park
 If The Real World Had College Rules
 If The Sorting Hat Sorted Everything
+If The Walking Dead Challenged Game of Thrones To a Fight
 If The X-Men Went to Public School
 If There Were "Kids Tables" for Other Members of Your Family
 If These Walls Could Talk
@@ -2493,6 +2506,7 @@ The 3 Best Parents on Facebook
 The 4 Greatest Parents on Facebook
 The 4 Stages of Comedic Evolution
 The 47 Types of Hangover
+The 5 Bars You'll Visit in Your 20s
 The 5 Best Dance Moves Ever Captured on Screen
 The 5 Best Facebook Romances
 The 5 Best Parts of Melissa Joan Hart's Horrible Failure of a Kickstarter
@@ -2580,6 +2594,7 @@ The 7 Wonders of Your Apartment
 The 7 Worst Conversations We've All Had
 The 77 Greatest U.S. Presidents Ever
 The 8 Hardest Unimportant Decisions You'll Have to Make
+The 8 Hottest New Terrible Start-Ups of SXSW 2014
 The 8 Kinds of Christmas Cards
 The 8 Most Insane Things About will.i.am (The Website)
 The 8 Nakedest College Traditions
@@ -2727,6 +2742,7 @@ The Haunting
 The Headphone Knot Guide
 The History of Beer Drinking
 The HoBro Code: A Vagrant's Guide to Your College Dorm
+The Honest Rules of Bowling
 The Hotter It Gets
 The IT Department at Cosmopolitan Magazine
 The Illest Sick Day
@@ -3194,6 +3210,7 @@ What You Say When Meeting Your Boyfriend or Girlfriend's Parents vs. What You Re
 What You Say You'll Do in College vs. What You'll Actually Do
 What You Text vs. What I See
 What You Think When You Read Your Favorite Kids' Books as An Adult
+What You're ACTUALLY Saying With Your Joke
 What You're Actually Saying With Your Reading Material
 What You're Reading at Every Stage of Your Life
 What You're Really Buying at the Gift Shop
@@ -3221,6 +3238,7 @@ What Your Ski Tracks Say About You
 What a Conspiracy Theorist Thinks
 What the NHL Lockout Means for You
 What the Number of Likes On Your Facebook Post Means
+What the World Looks Like After a Bad Breakup
 What the World Looks Like When You're a Mom
 What they must have been whispering at the end of Cruel Intentions
 What to Expect From Obama's DNC Speech
@@ -3230,6 +3248,7 @@ What to Say When Someone Knocks on the Bathroom Door
 What to Talk About Now That the Super Bowl Has Passed
 What your Email Response Time Says About You
 What your Super Smash Bros Character Says About You
+What's Going Through Your Mom's Head When She Texts You At 7 AM
 What's It Like To Be The Pope?
 What's Underneath Justin Bieber's Hair?
 When Did Parents Get So Sleazy? Oh, Right, When They Joined Facebook
