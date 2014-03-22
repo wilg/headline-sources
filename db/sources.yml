@@ -90,6 +90,18 @@ buzzfeed:
   name: BuzzFeed
   category: Trash
   default: true
+pitchfork:
+  name: Pitchfork
+  category: Entertainment
+  default: true
+mcsweenys:
+  name: McSweeny's
+  category: Hipster
+  default: false
+av_club:
+  name: The A.V. Club
+  category: Entertainment
+  default: true
 college_humor:
   name: CollegeHumor
   category: Trash
@@ -98,6 +110,10 @@ the_chive:
   name: The Chive
   category: Trash
   default: false
+cracked:
+  name: Cracked
+  category: Trash
+  default: true
 bro_bible:
   name: BroBible
   category: Trash
@@ -113,6 +129,18 @@ gawker:
 defamer:
   name: Defamer
   category: Entertainment
+  default: false
+uproxx:
+  name: Uproxx
+  category: Entertainment
+  default: false
+hitfix:
+  name: HitFix
+  category: Entertainment
+  default: false
+mental_floss:
+  name: Mental Floss
+  category: Trash
   default: false
 jezebel:
   name: Jezebel
@@ -134,6 +162,10 @@ guardian_blogs:
   name: Guardian Blogs
   category: News
   default: false
+business_insider:
+  name: Business Insider
+  category: News
+  default: true
 fivethirtyeight:
   name: FiveThirtyEight
   category: News

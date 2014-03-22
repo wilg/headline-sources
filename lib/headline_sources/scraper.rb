@@ -7,9 +7,9 @@ module HeadlineSources
       puts "#{@progress}   |   #{new_headlines_this_run} new   |   #{formatted_headlines.length} total"
       @progress = initial_progress if @progress == 0
       @progress = scrape_page_and_progress(@progress)
-    rescue
+    rescue Exception => e
       @progress = next_progress(@progress)
-      raise "Error while fetching"
+      raise e
     end
 
     def scrape_page_and_progress(progress)
@@ -25,11 +25,15 @@ module HeadlineSources
       progress + 1
     end
 
+    def html_for_url(url)
+      open(url)
+    end
+
     # Override this or override url_for_progress and headline_css_selector
     def scrape_page(progress)
       url = url_for_progress(progress)
-      # puts url.cyan
-      @nokogiri_document = Nokogiri::HTML(open(url))
+      puts url.cyan
+      @nokogiri_document = Nokogiri::HTML(html_for_url(url))
       @nokogiri_document.css(headline_css_selector).each do |link|
         add_headline! link.content
       end
