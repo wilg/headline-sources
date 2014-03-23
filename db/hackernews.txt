@@ -244,6 +244,7 @@ $99 ARM-based PC runs either Ubuntu or Android
 75-year-old soybean farmer sees Monsanto lawsuit reach U.S. Supreme Court
 8-Bit Generation Documentary
 8.9 earthquake hits Japan
+8402: 2048 from the other side
 87% of the U.S. Population are uniquely identified by {DOB, gender, zip}
 88% there: "Don't Mess With The Internet" billboard in Lamar Smith's district
 9 Eyes – Interesting photos from Google Street View
@@ -583,6 +584,7 @@ About 33 bits
 About PayPal's Node vs Java “fight”
 About Python 3
 About normalize.css: a modern, HTML5-ready alternative to CSS resets
+About that time Google spied on my Gmail
 About the Reuters article
 About the security content of iOS 7.0.6
 About those vector icons
@@ -985,6 +987,7 @@ Apple Wins Patent Ruling As Jury Finds Samsung Infringes
 Apple ][+ in HTML5
 Apple accused of ripping off famous Swiss clock design
 Apple acquired mind-blowing 3D mapping company C3 Technologies
+Apple and Google’s wage-fixing involved dozens more companies, over 1M employees
 Apple and the Kindle
 Apple announces Mac OS X 10.8 Mountain Lion
 Apple betrayed by its own law firm
@@ -1913,6 +1916,7 @@ Come and help save Posterous from oblivion
 Come hack the auto industry at CarWoo! (YCS09)
 Come here and work on hard problems – except the ones on our doorstep
 Coming Home to Vim
+Coming Soon to Hacker News: Pending Comments
 Coming soon: Stripe CTF3, distributed systems edition
 Coming soon: make your phone your wallet
 Command & Conquer in HTML5 with multiplayer
@@ -3011,6 +3015,7 @@ Flappy Bird is proof that no one knows what the audience wants
 Flappy Space Program
 Flash For Linux Will Only Be Available For Chrome
 Flash Game Simulates Living on $9/hr.
+Flash is dead, long live OpenFL
 Flash is dead. Long live the internet.
 Flashback trojan reportedly controls half a million Macs and counting
 Flask 0.7 Released (Python Web Framework)
@@ -5120,6 +5125,7 @@ Issac Asimov: What Is Intelligence, Anyway?
 Issue 224182 - chromium - Chrome wakes me up in the middle of the night
 Issue 8788 - Every day around 9 AM Brussels time, huge drop in GAE performance
 It Flies: Da Vinci's Dream Comes True
+It Is Time For Basic Income
 It Takes 6 Days to Change 1 Line of Code
 It all began with a strange email
 It is cheaper to fly to US than buy Adobe software in Australia
@@ -6678,6 +6684,7 @@ Notifo (YC W10) Will be Shutting Down
 Now That It’s in the Broadband Game, Google Flip-Flops on Network Neutrality
 Now That's What I Call Social Proof
 Now that people are considering NOSQL will more people consider no-DB
+Npm security post-mortem
 Npm's Self-Signed Certificate is No More
 Nuclear Power is Safest Way to Make Electricity
 Nuclear fusion milestone passed at US lab
@@ -7040,6 +7047,7 @@ Pebble E-Paper Watch Raises $1M In 28 Hours
 Peititon for Wikpedia to become first digital World Heritage Site
 Peity - Little charts for little projects
 Pencil
+Pending Comments
 Penny Arcade Sells Out
 Penny Arcade’s Insultingly Horrible Job
 Pentium-III autopsy
@@ -7678,6 +7686,7 @@ Reveal App
 Reveal.js
 Revealed: The guy behind IMDb
 Revel, high-productivity Go web framework modeled on Play Framework
+Revelations of N.S.A. Spying Cost U.S. Tech Companies
 Reversal: Australian Govt picks ODF doc standard over Microsoft
 Reverse Engineering a D-Link Backdoor
 Reverse-Engineering Xkcd's 'Frequency'
@@ -11131,6 +11140,7 @@ Why apps are not the future
 Why are Europeans White?
 Why are payment forms so complicated?
 Why are restaurant websites so awful? Because of restaurant culture.
+Why are roller coaster loops not circular?
 Why are software development estimates regularly off by a factor of 2-3?
 Why are there no true cross-platform filesystems?
 Why are you people defending Apple?

@@ -70,6 +70,14 @@ daily_kos:
   name: Daily Kos
   category: Left-wing Opinion
   default: false
+distractify:
+  name: Distractify
+  category: Trash
+  default: false
+mashable:
+  name: Mashable
+  category: Trash
+  default: false
 tmz:
   name: TMZ
   category: Entertainment
@@ -118,6 +126,10 @@ bro_bible:
   name: BroBible
   category: Trash
   default: false
+zergnet:
+  name: ZergNet
+  category: Trash
+  default: true
 upworthy:
   name: Upworthy
   category: Trash

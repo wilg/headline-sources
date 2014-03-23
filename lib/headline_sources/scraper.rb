@@ -26,7 +26,11 @@ module HeadlineSources
     end
 
     def html_for_url(url)
-      open(url)
+      open(url, http_headers)
+    end
+
+    def http_headers
+      {}
     end
 
     # Override this or override url_for_progress and headline_css_selector
