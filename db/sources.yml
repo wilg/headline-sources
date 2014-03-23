@@ -1,50 +1,50 @@
 hackernews:
   name: Hacker News
-  category: Tech
+  category: Geek
   default: false
 theblaze:
   name: The Blaze
-  category: Right-wing Opinion
+  category: Opinion - Conservative
   default: false
 faith_it:
   name: FaithIt
-  category: Right-wing Opinion
+  category: Opinion - Conservative
   default: false
 lifehacker:
   name: Lifehacker
-  category: Tech
+  category: Geek
   default: false
 daringfireball:
   name: Daring Fireball Links
-  category: Tech
+  category: Geek
   default: false
 macrumors:
   name: MacRumors
-  category: Tech
+  category: Geek
   default: false
 gizmodo:
   name: Gizmodo
-  category: Tech
+  category: Geek
   default: false
 valleywag:
   name: Valleywag
-  category: Tech
+  category: Geek
   default: false
 drudge_report:
   name: Drudge Report
-  category: Right-wing Opinion
+  category: Opinion - Conservative
   default: false
 free_republic:
   name: Free Republic
-  category: Right-wing Opinion
+  category: Opinion - Conservative
   default: false
 cns_news:
   name: CNS News
-  category: Right-wing Opinion
+  category: Opinion - Conservative
   default: false
 hot_air:
   name: HotAir
-  category: Right-wing Opinion
+  category: Opinion - Conservative
   default: false
 deadspin:
   name: Deadspin
@@ -56,27 +56,31 @@ sb_nation:
   default: false
 nypost:
   name: New York Post
-  category: Right-wing Opinion
+  category: Opinion - Conservative
   default: false
 huffpost_blogs:
   name: Huffington Post Blogs
-  category: Left-wing Opinion
+  category: Opinion - Progressive
   default: false
 thinkprogress:
   name: ThinkProgress
-  category: Left-wing Opinion
+  category: Opinion - Progressive
   default: false
 daily_kos:
   name: Daily Kos
-  category: Left-wing Opinion
+  category: Opinion - Progressive
   default: false
 distractify:
   name: Distractify
-  category: Trash
+  category: Hypersensational
   default: false
 mashable:
   name: Mashable
-  category: Trash
+  category: Hypersensational
+  default: false
+sploid:
+  name: Sploid
+  category: Geek
   default: false
 tmz:
   name: TMZ
@@ -84,19 +88,19 @@ tmz:
   default: false
 giantbomb:
   name: Giant Bomb
-  category: Games
+  category: Geek
   default: false
 kotaku:
   name: Kotaku
-  category: Games
+  category: Geek
   default: false
 polygon:
   name: Polygon
-  category: Games
+  category: Geek
   default: false
 buzzfeed:
   name: BuzzFeed
-  category: Trash
+  category: Hypersensational
   default: true
 pitchfork:
   name: Pitchfork
@@ -112,31 +116,31 @@ av_club:
   default: true
 college_humor:
   name: CollegeHumor
-  category: Trash
+  category: Bro
   default: false
 the_chive:
   name: The Chive
-  category: Trash
+  category: Bro
   default: false
 cracked:
   name: Cracked
-  category: Trash
+  category: Hypersensational
   default: true
 bro_bible:
   name: BroBible
-  category: Trash
+  category: Bro
   default: false
 zergnet:
   name: ZergNet
-  category: Trash
+  category: Hypersensational
   default: true
 upworthy:
   name: Upworthy
-  category: Trash
+  category: Hypersensational
   default: true
 gawker:
   name: Gawker
-  category: Trash
+  category: Hypersensational
   default: false
 defamer:
   name: Defamer
@@ -152,7 +156,7 @@ hitfix:
   default: false
 mental_floss:
   name: Mental Floss
-  category: Trash
+  category: Hypersensational
   default: false
 jezebel:
   name: Jezebel
@@ -160,11 +164,11 @@ jezebel:
   default: true
 io9:
   name: io9
-  category: Entertainment
+  category: Geek
   default: true
 tested:
   name: Tested
-  category: Tech
+  category: Geek
   default: false
 cnn_blog:
   name: CNN News Blog
@@ -183,8 +187,8 @@ fivethirtyeight:
   category: News
   default: false
 nature_blog:
-  name: Nature Blog
-  category: Science
+  name: Nature
+  category: Geek
   default: false
 npr_two_way:
   name: NPR Two Way
