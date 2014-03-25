@@ -1118,6 +1118,7 @@ Ask HN: How Can I leave Syria now and get asylum in Europe (Germany)
 Ask HN: How can I do something meaningful?
 Ask HN: How did you become a hardcore back-end developer?
 Ask HN: How did you hack the press when you launched your startup(s)?
+Ask HN: How do you earn your money?
 Ask HN: How do you escape CRUD jobs?
 Ask HN: How do you know if you're burnt out or just being lazy?
 Ask HN: How do you learn to develop exploits?
@@ -1320,6 +1321,7 @@ Banned from Kickstarter for Being a Stalking Victim
 Barack Obama Directs All Federal Agencies to Have an API
 BareMetal is a 64-bit OS for x86-64 based computers
 Barnes & Noble Exposes Microsoft's Trivial Patents and Strategy Against Android
+Basecamp was under network attack
 Bash Shortcuts For Maximum Productivity
 Basic Data Structures and Algorithms in the Linux Kernel
 Basic Neural Network on Python
@@ -1533,6 +1535,7 @@ Breaking a MacBook in memory of Steve Jobs
 Breaking down Amazon's mega dropdown
 Breaking the web with hash-bangs
 Breakup Notifier Shut Down By Facebook
+Brendan Eich becomes Mozilla CEO
 Bret Victor: Learnable Programming
 Brian Harvey: Why SICP matters
 Brick Nintendo before they brick you
@@ -1671,6 +1674,7 @@ California Police Arrest Man for Video Recording, then Kill his Dog
 California State Senator Proposes Funding Open-Source Textbooks
 California To Hit Startup Founders with Big Retroactive Tax Bills
 California passes groundbreaking open textbook legislation
+California police use of body cameras cuts violence and complaints (2013)
 Californians: Ashamed of Senator Feinstein's lies on surveillance? Join Us
 Call Someone Who Cares
 Call me maybe: Cassandra
@@ -2604,6 +2608,7 @@ Email exchange between Edward Snowden and former GOP Senator Gordon Humphrey
 Email is not broken: It’s a framework, not an application
 Email service used by Snowden shuts down, warns against using US-based companies
 Email transparency
+Emails From Schmidt And Sergey Brin Show Agreements Not To Hire Apple Workers
 Ember 101: Learn Ember One Video at a Time
 Ember.js 1.0 Released
 EmberJS Confuses Me
@@ -3231,10 +3236,12 @@ Gary McKinnon saved from extradition to the US
 Gary Vaynerchuk: “99.5 Percent Of Social Media Experts Are Clowns” (TCTV)
 Garzik: An Andre To Remember
 Gate Tower Building
+Gbatteries (YC W14) Launches BatteryBox, A 50Whr Backup Battery For MacBooks
 Geeksphone's Firefox OS smartphones go on sale tomorrow
 Geeky Stats About Magic Mushrooms
 Generation Sell
 Genesis of requiring a "Dropbox folder," versus designated folders
+Genetic Algorithms Produce Winning StarCraft II Build Order (2010)
 Geneva drive
 Geocities Bootstrap Theme
 Geocoder.ca sued by Canada Post for their open database of postal codes
@@ -3919,6 +3926,7 @@ Half of all Tor sites compromised, Freedom Hosting founder arrested
 Half the Facts You Know Are Probably Wrong
 Half-Life 2 released for Steam on Linux
 Halo Creator Unveils Its Next Masterpiece, a Persistent Online World
+Ham Sandwich Nation: Due Process When Everything Is a Crime
 Handbook of Text manipulation on Unix
 Handling Growth with Postgres
 Handsontable - Excel-like table editor in HTML & jQuery
@@ -5630,6 +5638,7 @@ LikeALittle's Ridiculous Hacker House
 Lime – Experimental Sublime Text clone
 Linda Liukas' Programming book for Children has Huge First Day on Kickstarter
 Linear algebra tutorial in four pages
+Link Bubble - A new browser for Android
 LinkedIn Intro: Doing the Impossible on iOS
 LinkedIn Is Acquiring Contacts Start-Up Rapportive (YC S10)
 LinkedIn Mobile Moved from Rails to Node: 27 Servers Cut and Up to 20x Faster
@@ -6056,6 +6065,7 @@ Michael Arrington: Editorial Independence
 Michael Dell buys back PC company he founded in $24.8bn deal
 Michael Hastings Sent Panicked Email Hours Before Car Crash
 Michael Lewis: Don't Eat Fortune's Cookie
+MicroView: Chip-sized Arduino with built-in OLED Display
 Microsoft Announces "Kinect Accelerator" to Turn Hacks into Businesses
 Microsoft CEO Steve Ballmer to retire within 12 months
 Microsoft Censors Pirate Bay Links in Windows Live Messenger
@@ -7260,6 +7270,7 @@ PostgreSQL Rising
 PostgreSQL Studio
 PostgreSQL as Schemaless Database [pdf]
 PostgreSQL tips and tricks
+PostgreSQL: Jsonb has committed
 Postgres 9.2 will feature linear read scalability up to 64 cores
 Postgres on the GPU
 Postgres: The Bits You Haven't Found
@@ -8122,6 +8133,7 @@ Show HN: Fluid iPad App Concept
 Show HN: Flutter - Control Spotify or iTunes Using Gestures thru Webcam
 Show HN: Framebase.io, Video for Developers
 Show HN: Free hi-resolution photos for your website. 10 new photos every 10 days
+Show HN: Fresh-baked rustic sourdough bread, delivered within 20 minutes
 Show HN: Game where you write Python robots to fight other players
 Show HN: Github for Designers
 Show HN: Gitter – Chat for GitHub
@@ -8844,6 +8856,7 @@ Supreme Court: Natural Isolated DNA Not Patentable, Synthetic DNA Is [pdf]
 Surf Air: Unlimited Flights for $1k/mo
 Surface Pro 2
 Surface Pro versus MacBook Air: Who's being dishonest with storage space?
+Surfing the Modern Web with Ancient Browsers
 Surprise: People hate being forced to use Facebook
 Surprises from numerical linear algebra (2010)
 Surprisingly undervalued books
@@ -9112,6 +9125,7 @@ The Boy Who Stole Half-Life 2
 The Bozo Event Horizon
 The Brilliance of Dwarf Fortress
 The Broken Promises of MRI/REE/YARV
+The Brutal Ageism of Tech
 The Builder's High
 The C Conference
 The C10M problem
@@ -9980,6 +9994,7 @@ Tor exit node operator raided in Austria
 Tor project decides to fork Firefox
 Tor project needs volunteers to help Iranian users access the internet
 Tor trip report to an FBI conference
+Tor: Directly connecting users from Turkey
 Torsploit takedown: analysis, reverse engineering, forensic
 Tortured by the Japanese in WW2, a former POW met his tormentor 50 years later
 Torus-Earth
@@ -10043,6 +10058,7 @@ Tumblr Architecture - 15B Page Views a Month and Harder to Scale than Twitter
 Tumblr's anti-censorship message generated 87,834 phone calls to representatives
 Tune In, Turn On, Drop Out – The Startup Genome Project
 Tupac image performs at Coachella [video]
+Turkey becomes first country ever to ban Google DNS
 Turkey blocks use of Twitter after prime minister attacks social media site
 Turn It Off: NSA's Achilles' Heel
 Turn a Raspberry Pi into an FM transmitter
@@ -10413,6 +10429,7 @@ Visual Studio and Team Foundation Server will have Git support
 Visualisation of Machine Learning Algorithms
 Visualization of stock market performance over time, adjusted for inflation
 Visualization: Movies Are Getting Worse
+Visualizing Git Concepts with D3.js
 ViziCities Dev Diary #1: Visualising Cities in 3D using WebGL
 Volvo Gave Away the Most Important Design They Ever Patented
 Voronoi Polygonal Map Generation
@@ -10430,6 +10447,7 @@ W3C HTML5 Logo Unveiled
 W3C OKs Adding DRM into HTML5 Spec
 WRT120N fprintf Stack Overflow
 WTF Google, you stole my $5
+WTF, HTML and CSS?
 WTFM - Write The Freaking Manual
 WTFWG
 WTH is happening to Rails? I'll tell you.
@@ -10442,6 +10460,7 @@ Walking on a cube-shaped planet
 Walking out of an interview
 Walmart Node.js Memory Leak
 Walter Isaacson’s ‘Steve Jobs’
+Wanelo: The First Million Users
 Want Hacker News Comment Scores Back? Check out HNPoints.com
 Want To Disrupt An Industry? Try Actually Working In It First
 Want good programmers? Then pay them.
@@ -10629,6 +10648,7 @@ What I Learned Building Twitter Bootstrap
 What I Learned From Fixing my Laptop's Motherboard
 What I Learned From Increasing My Prices
 What I Learned From Opening a Bookstore
+What I Learned Negotiating With Steve Jobs
 What I Learned from a Sex-Crazed Short-Order Cook
 What I Wish I Had Known Before Selling to Google
 What I Wish I Knew When Learning Haskell

@@ -1349,6 +1349,7 @@ App Store Success Reportedly Overwhelms Even Apple's Expectations
 App Store Tops 100,000 Available iPad Applications
 App Store Updates Now Propagating as Holiday Shutdown Ends
 App Store Updates: iPad Swiping, Chinese Yuan, Kindle Fire Added to Amazon Lawsuit
+App Store and iTunes Prices in UK May Increase Up to 20%
 App Store's 25 Billionth Download Comes From China with 'Where's My Water? Free'
 App Store's Meteoric Growth Compared to iTunes Song Downloads
 App Store: Apps Available for Download on iTunes
@@ -2389,6 +2390,7 @@ Apple Hires Expert in Wearable Computing
 Apple Hires Former AltaVista and Amazon Search Exec to Run Siri Unit
 Apple Hires Former Levi's Senior VP for Retail Team
 Apple Hires Former Security Director of One Laptop Per Child
+Apple Hires Former Senate Staffer as New Lobbyist in Washington
 Apple Hires Key Chip Designer from Samsung
 Apple Hires Key Digital Music Industry Legal Executive
 Apple Hires Microsoft's Data Center Manager
@@ -4138,6 +4140,7 @@ Apple Sending iOS 5 to iPhone Assemblers at End of September, No Sign of Redesig
 Apple Sending iWork for iCloud Beta Invites to Non-Developers
 Apple Sends Another MobileMe Apology E-mail and Extension
 Apple Sends Apology Letter, 30-Day Extension to MobileMe Customers
+Apple Sends Email to iTunes Users Offering Refunds for Unauthorized In-App Purchases
 Apple Sends Emailed Apologies for iCloud Outage
 Apple Sends Mac Pro Posters to Journalists: 'The Computer We Were Insane to Build'
 Apple Sends Out Invitations for October 22 Media Event: 'We Still Have a Lot to Cover'
@@ -4949,6 +4952,7 @@ Apple in Talks to Bring HBO Go to the Apple TV
 Apple in Talks to Build Cable Set-Top Box to Display Live Television
 Apple in Talks to Buy Israeli Flash Storage Company Anobit for Over $400 Million
 Apple in Talks to Open R&D Facility in Russia's Skolkovo Innovation Centre?
+Apple in Talks with Comcast to Provide Streaming TV Service on Future Apple TV
 Apple in Talks with Intel?
 Apple in Talks with Korea's SK Telecom for iPhone Supporting Faster LTE-Advanced Networks
 Apple in Talks with Sony about Blu-ray Drives
@@ -5110,6 +5114,7 @@ Apple to Make All New Mac Shipments Adobe Flash-Free
 Apple to Make an Offer to Acquire ARM?
 Apple to Manufacture Verizon-Compatible iPhone in Q3 2010?
 Apple to Move Mac mini Production to U.S.
+Apple to Move Production of iPhone Batteries to Automated Lines
 Apple to Move from Intel to ARM Processors in Future Laptops?
 Apple to Offer 'Season Pass' for TV Shows
 Apple to Offer 99-Cent TV Show Rentals?
@@ -6796,6 +6801,7 @@ Eminem and Apple Head to Court Over iTunes Distribution
 Eminem's Publisher Sues Apple
 Eminem's Publisher Sues Apple for Unauthorized Music Sales
 Emoji Apps No Longer Welcome in App Store Following Native iOS 6 Support
+Employee Anti-Poaching Agreements May Extend Far Beyond Apple and Google
 Emulate a Mac
 End of Iridium
 End of Shake, Phenomenon in 2008?
@@ -10946,6 +10952,7 @@ Online Apple Stores in U.S., Canada, and Europe Go Down Ahead of iPad Air Launch
 Online Orders for iPhone 5s Begin at 12:01 AM Pacific Time on Friday, September 20
 Online iPad 2 Availability Pushed to 4-5 Weeks, First Deliveries Arrive
 Online iPad 2 Orders Begin to Ship
+Only One of Two Larger iPhone 6 Models Likely, According to Analyst
 Open Road Films Launches New 'JOBS' Featurette, Live YouTube Event Coming Friday
 OpenCL 1.0 Specification Completed in Time for Snow Leopard
 OpenCL Benchmarks and Support for Both MacBook Pro GPUs
@@ -15111,6 +15118,7 @@ iTunes Plus Upgrades Now Available on a Per-Track Basis
 iTunes PreInstalled HPs - End of March
 iTunes Producer and Indies - Growing Pains?
 iTunes Psychedelic Posters
+iTunes Radio Adds NPR, with More News Channels on the Way
 iTunes Radio May Be Coming Soon to Canada
 iTunes Radio to Debut in September with Multiple High-Profile Advertising Partners
 iTunes Rental Pricing Flexibility and Earlier Releases
