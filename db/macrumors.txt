@@ -1777,6 +1777,7 @@ Apple Begins Seeding of iOS 5.1 Beta, Xcode 4.3 to Developers
 Apple Begins Shipping Free iPhone 4 Bumpers to UK Customers
 Apple Begins Shipping iPhone 4 to Customers
 Apple Begins Showing Mac Pro Teaser in Movie Theaters with 'Fall 2013' Announcement
+Apple Begins Testing Related Search Suggestions Feature on App Store
 Apple Begins Training Support Staff for Mac OS X Snow Leopard
 Apple Begins Training U.S. Retail Store Employees for Upcoming iPhone Trade-In Program
 Apple Begins Using 'iTun.es' As Link Shortener
@@ -1803,6 +1804,7 @@ Apple Board Members Response to Fred Anderson
 Apple Board Modifies Tim Cook CEO Bonus Stock Award to Be More Performance Based
 Apple Board of Directors 'Concerned' About the Speed of Innovation?
 Apple Board of Directors to Meet Next Tuesday to Discuss Schmidt's Replacement
+Apple Bolsters Online Retail Team With Former Delta VP
 Apple Boosting Gold iPhone 5s Production Amid Strong Demand
 Apple Boosts Market Share in Slumping U.S. PC Market
 Apple Boosts Over-the-Air App Store Download Limits to 50 MB
@@ -3044,6 +3046,7 @@ Apple Planning Ultra-Portable?
 Apple Planning for 7.85-Inch 'iPad Mini' with IGZO Display Later This Year?
 Apple Planning on Doubling Their Just Completed NC Data Center?
 Apple Planning to Add Bluetooth Support for AirPlay, and Expand iOS Accessory Capabilities
+Apple Planning to Add More Diversity to Emoji Character Set
 Apple Planning to Introduce White iPod Touch Later This Year?
 Apple Planning to Invest $1 Billion in New Data Center and Other Facilities in Reno, Nevada
 Apple Planning to Make Over 40 Million iPhones in Next 12 Months?
@@ -3290,6 +3293,7 @@ Apple Quietly Releases 802.11n Capable Airport Extreme [Updated]
 Apple Quietly Releases 802.11n Enabler
 Apple Quietly Releases Apple TV 2.0.2 Update
 Apple Quietly Releases Fix for Flickering on 24-Inch LED Cinema Display over Thunderbolt [Update: Pulled]
+Apple Quietly Sells Its 500 Millionth iPhone
 Apple Quietly Updates Antimalware Protection in Mac OS X 10.6.4
 Apple Quietly Updates Entry-Level White MacBook
 Apple Quietly Updates Mac Minis
@@ -5856,6 +5860,7 @@ Ashton Kutcher Talks More About Playing the Role of Steve Jobs
 Ashton Kutcher and Josh Gad Talk 'Jobs' at Macworld
 Ashton Kutcher on Why He Chose to Play Steve Jobs
 Ashton Kutcher to Play Steve Jobs in Upcoming Indie Film "Jobs"
+Ashton Kutcher's 'Jobs' Biopic Now Available to Stream on Netflix
 Ashton Kutcher's 'Jobs' Film to Launch on August 16
 Ashton Kutcher's 'Jobs' Movie Now Available on iTunes
 Aside from Signal Issue, Consumer Reports Rates iPhone 4 Highest Amongst All Smartphones
@@ -10994,6 +10999,7 @@ Orders for New Apple TV Arriving in Customers' Hands [Updated]
 Original MacBook Air Capable of 4 Finger Gestures Through Software Update
 Original Macintosh Team Gathers to Celebrate 30th Anniversary with Stories, Demos and Laughter
 Original iPad 3G Customers Begin Receiving Claim Forms for Apple/AT&T Data Plan Settlement
+Original iPhone Engineer Greg Christie Gives Details on Development Process
 Original iPhone Prototype Spotted on eBay
 Original iPhone Will Soon Be 'Obsolete' In Apple Retail Stores
 Other Adobe Apps for OS X

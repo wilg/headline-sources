@@ -67,6 +67,7 @@ $weet deal: Google interns make more than average American
 1973 movie ‘The Candy Snatchers’ caught in copyright fight
 1978 Lufthansa heist was one of the country’s biggest
 1998 embassy bombing suspect arrives in NY
+19th-century physics key in hunt for missing jet
 1st Obama judge confirmed since Senate changed filibuster rules
 1st bitcoin ATMs to open in Seattle, Austin
 2 Guantanamo Bay prisoners sent to Saudi Arabia
@@ -249,6 +250,7 @@ Aaron Hernandez was high before slay: report
 Aaron Hernandez was hooked on angel dust, lived with paranoia: report
 Aaron Hernandez was ‘heavy user of angel dust — so paranoid he carried a gun everywhere’
 Aaron Hernandez’s fugitive witness found
+Aborted babies incinerated to heat UK hospitals: report
 Abortion rate falls to 40-year low in US
 Accused heroin kingpin extradited to NY
 Acquitted Texas man who shot prostitute after she refused sex was just ‘protecting himself from theft’: court
@@ -285,6 +287,7 @@ Agency drops plan to allow small knives on planes
 Aging London theaters ‘still safe’ after collapse injures 79
 Aid agencies cap Syrian refugees fleeing into Iraq at 3,000 per day
 Aid reaching Philippines, but not where it’s needed
+Aide who found Scott’s body arrives in LA for funeral
 Ailing Mandela, 95, back in hosp
 Ain’t afraid of no ghosts! Inside Bulgaria’s spirit-banishing spring festival
 Air Force cargo planes headed into storage
@@ -430,6 +433,7 @@ Arafat’s death not caused by radiation, Russia says
 Arby’s wins auction for Pharrell’s famous hat
 Archaeologists in Turkey discover ‘a piece of a cross’ associated with Jesus
 Archives: How The Post broke the news of JFK’s assassination
+Are Chile’s 300 earthquakes this week a harbinger of doom?
 Area 51? It exists! CIA finally acknowledges existence of secret testing ground
 Ariel Castro accepts plea deal to avoid death penalty – life in jail without parole, plus 1,000 years for kidnap monster
 Ariel Castro lured Michelle Knight with a puppy
@@ -785,6 +789,7 @@ Brit rugby rats charged in cop assault
 Britain barring leaker
 Britain legalizes gay marriage as Queen Elizabeth II gives royal stamp of approval
 Britain’s Mideast Web spies
+British Guiana stamp expected to sell for record $10-20M
 British database of cat DNA database helps put convicted killer away for life – a ‘real boon for forensic science’ says project leader
 British man charged with hacking US military networks
 Britney Spears’ songs used to fight Somali pirates
@@ -887,6 +892,7 @@ Caroline Kennedy arrives to take up Tokyo position
 Caroline Kennedy makes regal arrival for Japan post
 Carrying the Olympic torch into space
 Cartel ‘enforcer’ picked up for murder admits to 30 more killings: ‘I’m the guy that pays you a visit if you don’t pay’
+Carter: Russia invading Crimea was ‘inevitable’
 Case dropped against newlywed whose wife died in BASE jump
 Casinos ban gamblers from using Google Glass
 Castro may have died of auto-erotic asphyxiation
@@ -935,6 +941,7 @@ Cheney ‘quit’ VP job in 2001
 Chess coach: I’m not a cheater!
 Chicago gun carnage a ‘snapshot of NYC’s future’
 Chicago school closings would push kids’ walk to school into gangs’ line of fire: expert
+Chicago train-crash conductor may have dozed off
 Chihuahua-carrying burglar done in by pup’s bright collar
 Child dies from pet rat bite; family sues Petco
 Child porn victim uses law passed in her name to sue exploiters
@@ -951,6 +958,7 @@ China arrests bloggers for ‘rumor-mongering’
 China blames separatists for knife attack that killed 29
 China court upholds Bo Xilai conviction, life term
 China cracks down on ‘sex capital’ following TV exposé
+China demands satellite data as weather stops search
 China easing 1-child policy, abolishing labor camps
 China finds no terror links to citizens on missing jet
 China lands rover on moon; 1st soft-landing in 37 years
@@ -998,6 +1006,7 @@ Christie would top Cuomo in NY vote for president
 Christmas around the world
 Christmas day bombings kill at least 37 in Iraq
 Christmas gifts and ants rocket off to space station
+Christopher Reeves busted wearing Superman shirt
 Chris’ special-election plan irks Dems, GOP
 Chrysler in van recall
 Chrysler orders destruction of $250K Dodge Vipers
@@ -1220,6 +1229,7 @@ Cuomo rejects ObamaCare revamp
 Cuomo, Pataki come together to condemn gov. shutdown
 Cuomo’s bold stand on charter schools may be his finest hour
 Cuomo’s presidential tweet looks like a dig at Hillary Clinton
+Cuomo’s ratings slip as voters fret over economy, education
 Curiosity rover finds water on Mars
 Customer gives 3 waitresses checks for $5,000 each
 Cute new creature is ‘aww!’ inspiring
@@ -1828,6 +1838,7 @@ Filner felt me, too: Great-gran accuses San Diego mayor of lewd talk, forced ki
 Final arguments wrap up in Trayvon Martin slay trial – Jury set to begin deciding Zimmerman’s fate
 Final installment of Nixon tapes reveal ‘tumultuous’ 3 months before Watergate: 340 hours of audio, 140,000 released
 Finally! Someone crafts spreadable beer
+Fire engulfs Texas apartments
 Fire on train kills at least 26 in India
 Fire, water-filled race nets top ‘tough guy’
 Fired Walmart worker keeps uniform to steal thousands of dollars
@@ -1855,6 +1866,7 @@ Flame-haired actress who fingered husband for Bloomberg, Obama ricin letters arr
 Flames engulf a duck boat in London
 Fleeing Concordia captain refused to return to doomed ship
 Flesh-eating drug Krokodil shows up in US
+Flight MH370 search resumes in Indian Ocean
 Flights cancelled as Northeast braces for polar vortex 2
 Flights cancelled as snow hits Northeast
 Flirty Obama owes us an apology
@@ -3216,10 +3228,12 @@ Michael Skakel to stay in jail while awaiting new trial
 Michelle Knight returns to the neighborhood where she was held captive for a decade; wants park, statue at scene of her torment
 Michelle Obama embraces ‘enemy’ Schwarzman
 Michelle Obama joins Bono for lunch in Ireland
+Michelle Obama learns tai chi from Chinese high schoolers
 Michelle Obama on extended Hawaiian holiday
 Michelle Obama pitches in for Girl Scouts
 Michelle Obama readies rap album
 Michelle Obama says life in the White House like being in ‘a really nice prison’
+Michelle Obama takes up tai chi as turmoil in her office is revealed
 Michelle Obama threatens to leave $10,000 per place DNC fund-raiser after fight with LGBT activist, WH removes threat from transcript
 Michelle Obama traveling to China with daughters, mom
 Michelle Obama won’t rule out plastic surgery
@@ -3789,6 +3803,7 @@ Obama to honor Clinton, Oprah with Freedom Medal
 Obama to host new Ukrainian PM in jab against Russia
 Obama to meet Pope Francis in March
 Obama to meet with lawmakers over shutdown
+Obama to propose curbing NSA’s phone-data collection
 Obama to raise federal minimum wage
 Obama to seek authorization from Congress for Syria strike
 Obama tours South African prison that held Nelson Mandela
@@ -3878,6 +3893,7 @@ Obama’s new ‘red line’ — Iran
 Obama’s pick to be CIA #2 used to run ‘Erotica Nights’ readings after dropping out of grad school
 Obama’s term ‘rotting away’ because of broken promises: Romney
 Obama’s top economic adviser: extend jobless benefits
+Obama’s top fear is Manhattan getting nuked
 Obama’s top tech officer subpoenaed
 Obama’s ‘model’ enrollee: Health plan ‘screwed’ me
 Obesity is now a disease: American Medical Association
@@ -4103,6 +4119,7 @@ Pistorius dating co-ed ahead of murder trial
 Pistorius defense claims police moved evidence at crime scene
 Pistorius fired gun through sunroof after traffic stop
 Pistorius going broke fighting murder charge
+Pistorius has no choice but to testify in own defense: lawyers
 Pistorius knew it was illegal to shoot first: firearms expert
 Pistorius pens Valentine’s tribute to Reeva 1 year after killing her
 Pistorius prosecutor to end his case next week
@@ -4116,6 +4133,7 @@ Pistorius vomits during ‘graphic’ testimony
 Pistorius ‘murder witness’ heard ‘blood-curdling’ screams
 Pistorius: ‘You can’t just touch another man’s gun’
 Pistorius’ blood-stained prosthetics shown in court
+Pistorius’ defense emphasizes loving texts between couple
 Pistorius’ lawyer tries to undermine witness
 Pistorius’ lawyers call on US forensic experts
 Pistorius’ murder trial to have 24-hour TV channel
@@ -4441,6 +4459,7 @@ Real-life ‘Cast Away’ finally returns to El Salvador home
 Realtors probed after ‘home is overpriced to use it as sex pad’
 Rebuilding Philippines could take 10 years
 Recently released files reveal one LA Catholic priest abused more than 100 boys
+Record-breaking Girl Scout sells 18K boxes of cookies
 Records reveal AG aide’s calls to ex-co-worker involved in AIG fraud case
 Recounting the famed escapades of black soldiers who fought the Civil war and inspired ‘Glory’
 Red Sox big buys the Globe
@@ -4547,6 +4566,7 @@ Rubio: Obama’s art history apology ‘pathetic’
 Rudy: PC views hurt terror war
 Rule lets unions avoid ObamaCare tax
 Russell Simmons apologizes for Harriet Tubman ‘sex tape’
+Russia booted out of G8
 Russia grants asylum to Snowden, White House ‘extremely disappointed’
 Russia jails top opposition leader, Putin denounced as dictator
 Russia locks down Crimea with land mines ahead of referendum
@@ -4614,6 +4634,7 @@ Sandy task force warns coastal communities to ‘plan for future storms…and ri
 Sandy victims still waiting for help
 Sanford ONLY makes $174K a year, girlfriend whines
 Santa Claus called to jury duty
+Sasha Obama is not impressed with trip to China
 Satanic serial killer Richard ‘Night Stalker’ Ramirez turned green before his death: sources
 Saudi Airlines discriminating against Israeli citizens – refuses to sell tickets to fliers with Israel passports, de Blasio probe reveals
 Saudi Arabia sentences man to seven years in prison, 600 lashes for creating freedom of religion Web site
@@ -4678,6 +4699,7 @@ Search crew spots possible door from downed airliner
 Search for Madeleine McCann heats up
 Search for missing jet expands to Australia
 Search on for ‘the world’s loneliest’ whale’ who ‘speaks’ at a higher frequency than rest of species … and never hears back
+Searchers race to find black boxes before pings stop
 Seattle construction workers unearth mammoth tusk
 Seattle news chopper crashes in fiery blast, 2 dead
 Sebelius a White House regular ahead of ObamaCare launch
@@ -4769,6 +4791,7 @@ Shoe-bomb plotter to testify at trial of bin Laden’s son-in-law
 Shoot down a drone, get a $100: Rural community takes the fight to ‘surveillance society’
 Shooter identified in murder of 1-year-old boy
 Shooting at the Washington Navy Yard
+Shooting of Boston bomber’s friend was justified: prosecutor
 Shots fired as pro-Russia forces storm Ukrainian base
 Shots fired as pro-Russian forces storm Ukrainian base
 Shouting match erupts during House hearing on IRS scandal
@@ -5044,6 +5067,7 @@ Surviving Nazis’ Angel of Death Auschwitz experiments
 Surviving firefighter who lost 19 team members breaks his silence: talks of grief, guilt and the last words he heard
 Suspect busted in Christmas double slay of Newark teens
 Suspect charged in deadly SXSW crash
+Suspect disarms officer, kills sailor at Norfolk naval base
 Suspect in UK soldier terror slay kisses Koran in 1st court appearance
 Suspect in custody after gunman reported in New Haven university
 Suspect in custody after reports of gunfire at Atlanta-area elementary school
@@ -5602,6 +5626,7 @@ Ukrainian forces make ‘final stand’ in Crimea
 Ukrainian protesters attack police stronghold
 Ukrainian serviceman killed in Crimea clash
 Ukrainian skier drops out of Olympics over Kiev uprising
+Ukrainian women launch sex boycott against Russian men
 Un-happy holidays: Ohio woman ordered to spend next 5 Christmases in jail after issuing state ID’s and driver’s licenses to illegal aliens
 Undersea explorer follows ‘yellow brick road’ to buried treasure
 Underwater explorers find dozens of WWII U-boats in watery graveyard
@@ -5752,6 +5777,7 @@ Wash. state lawmakers can’t get speeding tickets
 Washington DC highlights safety of city in pitch for 2024 Olympics
 Washington Post hacked by Syrian Electronic Army, same group that broke into Twitter feeds of AP, BBC and Al-Jazeera English
 Washington letter that started first spy ring goes on display
+Washington mudslide death toll hits 14
 Washington state’s ObamaCare exchange mistakenly charges customers
 Washington, Colorado have few ways to stop carry-on weed
 Watch Obama & Biden jog around the White House
@@ -6021,6 +6047,7 @@ iPhone’s prints charming
 ‘Bribe tape’ GOP boss is toast, party says
 ‘Buddha’s remains’ stolen from shrine
 ‘Bungled’ ObamaCare rollout an embarassment: former WH flack
+‘Burger King baby’ finds mom with Internet’s help
 ‘Cannibal’ who killed homeless man, ate his eyes and brain found not guilty by reason of insanity
 ‘Catastrophic’ winter storm threatens Atlanta
 ‘Catch me if you can’ biker busted after video brag
@@ -6089,6 +6116,7 @@ iPhone’s prints charming
 ‘Homesick’ hijacker denied bail
 ‘Hometown hero’ busted for alleged lewd acts with kids; cops find over 1,000 hidden-camera videos of young girls
 ‘Hooray, I guess’ — House passes $1.1 trillion spending bill
+‘Houses exploded’ during mudslide in which dozens are missing
 ‘Humiliated’ Christie accepts responsibility for bridge scandal — then blames staff
 ‘I am Chelsea Manning. I am female’: Army leaker Bradley Manning will live as woman in prison
 ‘I couldn’t see that’: Witness with best view never saw Trayvon Martin banging Zimmerman’s head into sidewalk
@@ -6107,6 +6135,7 @@ iPhone’s prints charming
 ‘Iron Man’ survives government shutdown
 ‘Iron Man’ water jetpacks spark safety, environmental concerns in Hawaii
 ‘It blows my mind’: neighbors shocked after learning of the Nazi next door
+‘It is a miracle that nobody died’ in Chicago train crash: Expert
 ‘I’m dying. I know I’m going to die.’ – Rescuer recounts horror after saving woman who lost arm in Maui shark attack
 ‘I’m not a monster … there was harmony in that home’: Ariel Castro blames sex addiction for hideous crimes in stomach-turning statement to victims
 ‘I’m not a strong-willed person’ – China’s crooked politician Bo Xilai continues claim that his confession was coerced

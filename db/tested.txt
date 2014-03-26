@@ -1058,6 +1058,7 @@ Everything You Should Know About Sony's S1 and S2 Android Tablets
 Everything You Should Know about Micro Four Thirds Mirrorless Cameras
 Everything You Should Know about Microsoft's Xbox One Console
 Everything is a Remix Case Study: The iPhone
+Exhibit Design at The Tech Museum of Innovation
 Expanded Xbox Live Support and 14 Games Coming to WP7
 Exploding Gingerbread House And More Awesome Slo-Mo Videos From Conan
 Exploring Modernist Cuisine: The Science of Contemporary Cooking
@@ -1625,6 +1626,7 @@ How To Check if Your PC is UEFI-Ready for Windows 8
 How To Choose an All-in-One CPU Water Cooler
 How To Choose an SSD for Your Next PC Build
 How To Choose the Perfect Bag for Your DSLR
+How To Control and Manage Your Android Phone from Your Desktop
 How To Cook a Great Steak Using Sous Vide in a Cooler
 How To Create Your Own OS X Lion Bootdisk and Cure Installation Woes
 How To Deep Fry a Turkey without Burning Your House Down
@@ -1790,6 +1792,7 @@ Inside Adam Savage's Tour Bus
 Inside Artist Frank Kozik's Studio
 Inside Hasbro's Transformers Toy Design Studio
 Inside Jamie Hyneman's Behind the Myths Tour Bus
+Inside MIT's Tangible Media Group
 Inside Will's Fix-It (and Take-It-Apart) Toolkit
 Inside the Botcave: A Conversation with MakerBot Industries' Bre Pettis
 Inside the Modernist Cuisine Kitchen: Cryo-Fried Steak and Perfect French Fries
@@ -2513,6 +2516,7 @@ On Cosplay and Dragon*Con - 10/1/2013
 On Design Influences - 2/12/2013
 On Holiday Shopping - 12/12/2012
 On Hunter Thompson and the New Journalism - 10/15/2013
+On Public Speaking and Dyson Spheres - 3/25/2014
 On Sony's PS Vita Design and PSP Gaming on Android Devices
 On The Big Screen, iTunes 1080p Holds Its Own Against Blu-ray
 On The Limitations of ARM vs. x86 for Mac OS, Windows
@@ -2625,6 +2629,7 @@ Photo Gallery: Bricks By the Bay 2013
 Photo Gallery: Inside NASA's Neutral Buoyancy Lab
 Photo Gallery: NASA's Mission Control and Mock-Up Facility
 Photo Gallery: Sideshow Collectibles' Awesome Toys
+Photo Gallery: Star Wars Prop and Costume Exhibition
 Photo Gallery: Up Close with NASA's EMU Space Suit
 Photo and Video of Guns Firing Underwater
 Photographing All of the World's Coral Reefs
@@ -2665,6 +2670,7 @@ Practical Special Effects - 8/6/2013
 Precision Gear Porn: Why Mechanical Wrist Watches are so Cool (and Pricey)
 Predicting the Ethical Dilemmas of Fully Autonomous Cars
 Premium: Adam Reacts to the Zero Theorem Trailer
+Premium: Behind the Scenes with Adam Savage at SXSW
 Premium: Building a Cardboard Kinetic Creatures Kit
 Premium: CES Trendspotting and Michael Bay's Breakdown
 Premium: Gearing Up for the First Day of CES 2014
@@ -2892,6 +2898,7 @@ Reports: 8GB iPhone 4 and Dual-Mode iPhone 5 Incoming
 Republic Wireless's $19/Month Cellular Service: Too Good to be True?
 Repurposed Industrial Robot Prints Chairs from Recycled Refrigerators
 Research Project Explores Potential of 3D-Printed Lunar Settlements [Video]
+Research Robots That Get Us Excited (and Terrified)
 Researchers 'Sherlock Holmes' the Mystery Force Discovered on Pioneer Probes
 Researchers Demonstrate Direct Brain-to-Brain Communication
 Researchers Develop Method to Boost CPU/GPU Hybrid Performance
@@ -3331,6 +3338,7 @@ The Art of Making Holograms
 The Art of Pen Making
 The Art of Photogrammetry: How To Take Your Photos
 The Art of Photogrammetry: Introduction to Software and Hardware
+The Art of Photogrammetry: Replicating Hellboy’s Samaritan Pistol!
 The Art of Sculpting Ice
 The Art of the Cinematic Car Chase
 The Awesome Robot Battles of ComBots Cup 2012
@@ -3424,6 +3432,7 @@ The Best USB 3.0 Thumb Drive
 The Best USB Battery Pack for Travel
 The Best USB Microphone Today
 The Best USB Thumbdrive: Patriot Supersonic
+The Best Utility Knife Today
 The Best Waterproof iPhone Case
 The Best Ways to Watch Your Video Files on Android
 The Best Wi-Fi Extender (If You're Out of Options)
@@ -4051,6 +4060,7 @@ Why Do Deep Sea Explorers Wear Tiny Knit Caps?
 Why Doesn't Honey Get Moldy at Room Temperature?
 Why Don't Consumers Desire the 7-Inch Tablet Size?
 Why Everyone Should Take Advantage of Amazon's Free Android App of the Day
+Why Facebook Buying Oculus VR Is Probably a Good Thing
 Why Facebook's "Listen With" is a Serious Social Music Play
 Why Fuel Cell Battery Chargers Still Aren't Practical
 Why Generic-Brand Batteries Aren't Completely Worthless (Science!)

@@ -1651,6 +1651,7 @@ CPU reliability – Linus Torvalds (2007)
 CSS 3D Clouds
 CSS Absolute Centering
 CSS Architecture
+CSS Diner
 CSS Hat translates Photoshop layer styles to CSS3
 CSS Lint
 CSS Lint is harmful
@@ -1840,6 +1841,7 @@ Client-side full text search in CSS
 Clippy.JS - Add Clippy and friends to any website
 Clojure & Python, Side by Side
 Clojure 1.5
+Clojure 1.6 released
 Clojure core.async Channels
 Clojure from the ground up
 Clojure on Heroku
@@ -2793,6 +2795,7 @@ Facebook PR: Tonight We Dine In Hell
 Facebook Pages: Why I don’t like Nest thermostat or anything else anymore
 Facebook Partners with Stack Overflow
 Facebook Publications
+Facebook Refused No-Poaching Agreement With Google
 Facebook Releases Data, Including All National Security Requests
 Facebook Removing Option To Be Unsearchable By Name
 Facebook Timeline
@@ -2802,6 +2805,7 @@ Facebook Unsocial Reader
 Facebook Wants You To Snitch On Friends Not Using Their Real Name
 Facebook Wins “Worst API” in Developer Survey
 Facebook acquires Instagram
+Facebook acquires Oculus VR
 Facebook and Heroku
 Facebook and many other sites also bypass Internet Explorer privacy controls
 Facebook autobot going berserker
@@ -3472,6 +3476,7 @@ Google Address Sanitizer ("compile-time valgrind") to be part of GCC 4.8
 Google Admits Handing over European User Data to US Intelligence Agencies
 Google Already had a Like Button (and other redundancy)
 Google Announces Global Campaign To Legalize Gay Marriage
+Google Announces Massive Price Drops for Cloud Computing Services, Storage
 Google Announces Project Glass
 Google App Engine Pricing Angers Developers, Kills PlusFeed
 Google App Engine for Go
@@ -4784,6 +4789,7 @@ IPv6 Attack Kills Mac OS X and makes Windows Server 2012 restart in Seconds
 IPv6 Day Has Started
 IPython gets $1.15M funding
 IRC Networks Under Systematic Attack From Governments
+IRS Says Bitcoin Is Property
 IRS claims it can read your e-mail without a warrant
 IRecognition: I am no longer Apple's Target Market
 ISO C is increasingly moronic
@@ -6094,6 +6100,7 @@ Microsoft launches an HTML5 version of Cut the Rope
 Microsoft looking to release Office for Linux in 2014
 Microsoft made their own IE6-countdown site.
 Microsoft makes 5 times more income from Android than from Windows Phone
+Microsoft makes source code for MS-DOS and Word for Windows available to public
 Microsoft may halt development work on Silverlight plugin after next release
 Microsoft needs Wizards: A 1984 Microsoft job posting
 Microsoft please clean your store of junk
@@ -8797,6 +8804,7 @@ Stripe open-sources Einhorn
 Stripe partners with Chilling Effects
 Stripe raises $18 million from Sequoia
 Stripe's 22-Year-Old Irish-Born Founder Is Just Getting Started
+Stripe: Marketplaces
 Stripe: instant payment processing for developers
 Strongbox and Aaron Swartz
 Structure and Interpretation of Classical Mechanics
@@ -10607,6 +10615,7 @@ Well-Kept Gardens Die By Pacifism
 Well-funded YC startup looking for seasoned devs. Great pay + perks + happiness
 Went Off The Rails: Why I'm Rebuilding Archaeopteryx In CoffeeScript
 We’re About to Lose Net Neutrality
+We’re Fucked, It’s Over: Coming Back from the Brink
 We’re In The Middle Of A Terrible Blubble
 We’re not going to have a jobless recovery. We’re going to have a jobless future
 What 4chan thinks of HN
@@ -11006,6 +11015,7 @@ Why I left Google
 Why I left Google (2012)
 Why I left Google. What happened to my book. What I work on at Facebook.
 Why I left Heroku, and notes on my new AWS setup
+Why I like Java
 Why I moved to Miami
 Why I no longer contribute to Stack Overflow
 Why I now, unfortunately, hate Hacker News..

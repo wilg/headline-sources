@@ -4,6 +4,7 @@
 "Genius Hits a Target No One Else Can See"
 "Give Your Success Time to Cook"
 "Good Leadership Is Always Human"
+"How Do I Stop Saying 'Um'?" and Other FAQs About Presentations
 "If You Want People to Think, Give Them Intent—Not Instruction"
 "Intelligence Without Ambition Is a Bird Without Wings"
 "It Takes 20 Years to Build a Reputation and Five Minutes to Ruin It"
@@ -30,6 +31,7 @@ $20 off the Fitbit Force, Bodum Coffeemaker, Change Your Oil [Deals]
 $20 off the Very Best SSD and DIY Pumpkin Spice Lattes [Deals]
 $25 off $100 in DEWALT Tools on Amazon
 $250 off the New MacBook Pro, 50" Vizio, Flash Storage [Deals]
+$30 Off the Ever-Hackable OUYA, Lytro Camera, DIY Ice Cream [Deals]
 $30 off the Nexus 7, Tons of Games, MacBook Pro, iTunes Cash [Deals]
 $5 Amazon Site-Wide Discount, Tons of Tools, 1TB Samsung SSD [Deals]
 $50 Kindle, Galaxy Gear and Pebble Smart Watches, Free Redbox [Deals]
@@ -666,6 +668,7 @@ Disable Automatic Image Loading in Gmail to Save Data and Privacy
 Disable Blur Effects in iOS 7 for Easier Reading, Better Performance
 Disable Image Previews in the New Twitter Mobile Apps
 Disable Motion Smoothing to Get Rid of "Soap Opera Effect" on New TVs
+Disconnect Search Leaves Beta, Makes Web Search Private and Encrypted
 Disconnect Search Makes Your Google, Bing, and Yahoo Searches Private
 Disconnect Search for Android Makes Your Web Searches Private
 Discounted Mohu Leaf, Nighthawk Router, Cheap Laser Printer [Deals]
@@ -830,6 +833,7 @@ Fabulous Friday Open Thread
 Facebook Announces Uncluttered, Minimal News Feed Design
 Facebook Begins Testing Auto-Playing Video Ads
 Facebook Buying WhatsApp, But The App Isn't Going Anywhere
+Facebook Buys Oculus Rift For $2 Billion
 Facebook Chat Pro Customizes Notifications, Privacy for Messenger
 Facebook Deletion, Flickr Automation, and Cheap Media Centers
 Facebook Favorite Saves Facebook Posts for Later
@@ -1044,6 +1048,7 @@ Give the Gift of the Stuff We Like This Year
 Gliph Adds Encrypted, Private Web Chat to Its Mobile Messaging Service
 Gloss Is a Simplified Web Clipper for Saving Important Content
 Gmail and Google Docs Now Support Handwriting Input
+Gmail's Adding a Thumbnail View to the Promotions Tab, Sign Up Here
 Gmail's New Smart Labels Auto Categorize Purchases, Travel, and More
 Go “Back to the Future” to Make Better Decisions
 GoPro Hero3+ Silver, Two 4K Monitors, iTunes Credit [Deals]
@@ -1307,6 +1312,7 @@ How Often Do You Increase Your Savings Contributions?
 How Often Do You Need to Charge Your Smartphone?
 How Often Do You Really Need to Shower?
 How Old Should Your Kids Be For Their First Smartphone?
+How People Can Track You On Twitter, Even If You Don't Use Geotags
 How People Pleasers Can Learn to Say "No" More Often
 How Procrastination Can Become a Productive Activity
 How Secure Is Android, Really?
@@ -1340,6 +1346,7 @@ How We Work, 2014: Whitson Gordon's Gear and Productivity Tricks
 How Well DIY Wi-Fi Boosters Work (and Other Wi-Fi Speed Myths Tested)
 How Will the New Health Care Law Affect My Taxes?
 How Working Against Your Circadian Rhythm Affects Your Health
+How You Admit When You're Wrong Makes a Difference
 How You Can Learn to Finally, Really Relax
 How You Leak Your Privacy Every Day (and How to Stop)
 How You Work: Automation, Personal Organization, and the 1-3-5 System
@@ -1434,6 +1441,7 @@ How to Finance Your Bucket List
 How to Financially Prepare for 4 Big Life Milestones
 How to Find Evidence to Support Any Argument
 How to Find Out If Your Flight Has In-Seat Power Outlets
+How to Find Out What Woke Up Your Computer Last
 How to Find Your Best Budget Strategy and Stick With It
 How to Find Your Financial Footing After a Divorce
 How to Find Your Way Without a Smartphone or GPS
@@ -1475,6 +1483,7 @@ How to Install the SteamOS Beta on Your Computer
 How to Jailbreak Your iPhone: The Always Up-to-Date Guide [iOS 7.0.4]
 How to Listen When Your Communication Styles Don't Match
 How to Lock Down Facebook Privacy Now That Old Posts Are Searchable
+How to Make Browsing the Web on Your Phone Suck Less
 How to Make Foolproof Homemade Pasta
 How to Make Google's Voice Search Easier to Use on the Desktop
 How to Make Money Doing (Almost) Nothing
@@ -1485,6 +1494,7 @@ How to Make Your Clothes Last Longer
 How to Make Your Snail Mail Work More Like Email
 How to Make a Battery-Powered, Gadget-Charging Go Bag
 How to Make the Airport Less Crappy (and More Fun)
+How to Make the Best of a Long Haul Flight
 How to Manage Finances When You’re Shacking Up
 How to Manage Holiday and Family Stress with Mindfulness
 How to Manage Your Finances When You Switch Careers
@@ -1518,6 +1528,7 @@ How to Plant Ideas in Someone's Mind
 How to Properly Set Your Subwoofer's Volume (Without Shaking the Roof)
 How to Pull Up Old, Dismissed Notifications in Android
 How to Qualify for Tax Deductible Moving Expenses
+How to Recover from Vomiting with Grace and Elegance
 How to Remap the Hardware Buttons On Your Android Phone
 How to Return Nearly Anything Without a Receipt
 How to Rip a DVD to Your Computer
@@ -1543,6 +1554,7 @@ How to Stop Giving a F*ck What People Think
 How to Stop Google+ from Taking Over All of Your Google Apps
 How to Stop Web Sites from Potentially Listening to Your Microphone
 How to Strategize for a Better Salary in Your 20s, 30s, and 40s
+How to Stream Your Movie Collection Anywhere with Google Drive
 How to Streamline Your Household Cleaning
 How to Survive Long Holiday Shifts as a Retail Worker
 How to Survive a Fancy Formal Dinner
@@ -1779,6 +1791,8 @@ Let.ter Is an Email Client for Just Writing and Sending Email
 Level Budgets Your Money and Shows One Thing: How Much You Can Spend
 Life Hacks for The Depressed Amongst Us
 LifeProof Your Devices, Grab A New Or Second Monitor, Eneloops [Deals]
+Lifehacker Faceoff: OneNote vs. Evernote
+Lifehacker Is Looking for Some New Writers
 Lifehacker UK: Coming Soon to an Internet Near You
 Lifehacker: The Index
 Lift for Android Keeps You Motivated and On Track to Your Goals
@@ -1847,6 +1861,7 @@ Make Homestyle Butter (and Buttermilk) in Your Blender
 Make Moral Decisions in the Morning
 Make People Feel Good About Themselves with Two Questions
 Make QR Codes Faster with This URL
+Make Scented Linen Powder to Keep Your Sheets Fresher for Longer
 Make Smaller, More Frequent Credit Card Payments to Reduce Interest
 Make Store-Bought Mozzarella Taste Fresher, Like Homemade
 Make Strong, Reusable, Flexible Ties Out of Aluminum Wire and Paracord
@@ -1929,6 +1944,7 @@ Make a Travel-Friendly Lap Desk
 Make an "Anxiety List" to Figure Out Today's Must-Do Item
 Make an Articulating Camera Mount with a Lamp and Some Wood
 Make an Awesome Wooden Lap Desk for $20
+Make an Easier Poached Egg with Olive Oil Instead of Water
 Make an Easy DIY Pour Spout for a Mason Jar
 Make an Intercom from Two Corded Phones
 Make the First Person to Check Their Phone at Dinner Pay
@@ -1944,6 +1960,7 @@ Map Your Representatives Finds Your Government Officials in a Flash
 Marie Curie's Best Productivity Tricks
 Marissa Mayer Explains Why Having To-Dos Is Better than Finishing Them
 Mark Expiration Dates on Leftover Foods With Sticky Notes
+MarkAsRead Adds a Read Button to Gmail Notifications
 MarkDrop Is a Markdown App that Makes Sharing Simple
 Match the Color and Tone of Any Photo with Three Simple Adjustments
 Measure Two Distant Points With a Water Tube Level
@@ -1989,6 +2006,7 @@ Money-Saving Phone Calls: How to Negotiate Out of Bank Fees
 Monoprice 5.1 System, Sub-$100 IPS Display, Griffin Sale [Deals]
 Monster Outlets to Go Is a Tiny Travel Surge Protector with USB
 Moovit Helps You Master Public Transit in Any City, at Home or Abroad
+More Isn't Always Better with Student Loan Offers
 Most Popular 5.1 Surround Speaker Set: Logitech Z-5500
 Most Popular Android Downloads and Posts of 2013
 Most Popular Battery Backup/UPS Unit: Cyberpower 1350
@@ -2047,6 +2065,7 @@ Moves Updates with Battery Saving Mode and iPhone 5s Support
 MovieScanner Lists Metadata for All Your Digital Movies
 Muffins, Maps, and Conversions
 Multiling is a Light, Customizable and Privacy-Friendly Keyboard
+Multiple Attachments Makes Attaching Files in iOS Less Painful
 Multiple File Selection, Shipping Weights, and Olympic Medals
 Multitasking Adds a Suite of Floating, Resizable Apps to Android
 Mumble! Customizes SMS Notifications Based on Message Contents
@@ -2233,6 +2252,7 @@ Plug.dj Is Social Streaming Music, Ready to Fill Turntable.fm's Shoes
 Pocket Adds Google Account Support, Offline Evernote Sharing, and More
 Pocket Gets New Design, Keyboard Shortcuts on the Web
 Pod Wrangler Is the Simplest Podcast Manager We've Seen
+Poop More Effectively by Repositioning One Leg
 Popcorn Time Streams Movie Torrents from a Huge Library
 Portable Pegboard Storage System Lets You Create Anywhere
 Post Forward Replaces Banner Ads With Social Media Feeds
@@ -2348,6 +2368,7 @@ Relocate Lost Windows Using a Full Screen Windows 8 App
 Remember "Rot-Low, Wilt-High" for Storing Veggies in Humidity Drawers
 Remember Names and Details with this 15-Minute Nightly Exercise
 Remember the 2:2:2:1 Ratio for Perfect, Recipe-free Punch
+Remember the 90 Minute Rule to Ensure a Refreshing Night's Sleep
 Remember to Tape Down the Terminals on Batteries Before Tossing Them
 Reminder: Check Out Our Reader-Run Blog, Hackerspace!
 Reminder: Facebook Is Making Everyone Searchable, Check Your Privacy
@@ -2382,6 +2403,7 @@ Restore the Windows Start Screen to Its Default Layout
 Retina iPad Mini Review: A Sight for Sore Eyes
 Reuse Old Baking Sheets for Perfect Roasted Veggies
 Reveal the Skeletons in Your Closet to Business Partners Early
+Review Your Entire Idea File Every Few Months to Keep Ideas Fresh
 Reward Failure to Encourage New Ideas
 Ringer Customizes Your Phone's Ring Settings, Links to Calendar Events
 Rinse Bacon in Water Before Cooking to Reduce Shrinkage by 50 Percent
@@ -2431,6 +2453,7 @@ Science Explains Why Slacking Online Really Makes You More Productive
 Science Explains Why Social Support Is the Best Cure for Stress
 Science Explains Why We Get Nervous (and How to Deal With It)
 Score a $75 SSD, Cheap Galaxy Note 3, Complete Cookware Set [Deals]
+Scoring a Great Deal Isn't Just About Luck
 Scratch for Arduino Makes Programing the Arduino More Visual
 Screen Controls Adjusts Your Brightness and Timeout On a Per App Basis
 Screen Lock Lets You Show Photos with Touch Input Disabled
@@ -2908,6 +2931,7 @@ The Dark Alcove Workspace
 The Dark Arch Desktop
 The Decision Stack: How to Better Analyze Your Financial Choices
 The DeskCycle Is a Space-Saving Exercise Bike that Fits Under the Desk
+The Deus Ex Short Film Is Awesome
 The Difference Between High Achievers and the Unsuccessful Is Grit
 The Difference Between Knowledge and Experience
 The Difference Between Thanksgiving, Black Friday, and Cyber Monday
@@ -2982,6 +3006,7 @@ The Most Important Setting to Change in LinkedIn Before Your Job Hunt
 The Most Obvious, Yet Elusive Technology Tip of All: Read the Manual
 The Most Productive Ways to Spend 30 Seconds of Down Time
 The Most Useful Life Skills That Everyone Should Know
+The Most Valuable Traits in a Potential Employee, According to Google
 The Mostly Empty Desktop
 The Moto X Is $100 Cheaper On Amazon Right Now
 The Myth of the Single Credit Score
@@ -3284,6 +3309,7 @@ Treat Sore Throats and Coughs with this DIY Syrup
 Treat Your Email Like Tetris: One Action At a Time
 Treat Your Money as an Employee to Expect Growth
 Treat Your Skin in Advance to Avoid Irritation When Shaving
+Trick Kids into Doing Boring Things with Interesting Information
 Trove Provides Curated and Lightweight News Reading
 Try Chrome Apps Without Installing Them in Chrome Beta
 Try Facebook's Alpha and Beta Channels for Bleeding Edge Updates
@@ -3456,6 +3482,7 @@ Wash Your Face Once a Day at Night for Better Skin
 Washing Soda Easily Removes Labels from Glass Bottles
 Watch Age Restricted YouTube Videos Without Signing In
 Watch Google Play Videos on Your iOS Device with the YouTube App
+Watch Out for These IRS Red Flags to Avoid an Audit
 Watch Out for These Misleading Computer Cables
 Watch Out: SnapHack Saves Your Snapchats Without You Ever Knowing
 Watch a Sicilian Nun Singing Alicia Keys Bring a Rapper to Tears
@@ -3490,6 +3517,7 @@ What Conveniences Are You Willing to Pay For?
 What Cool Things Can I Do with All This Free Cloud Storage Space?
 What Device Do You Use Most?
 What Did You Learn From Your First Crappy Job That Helped Your Career?
+What Do I Do When Someone Has a Domain Name I Want?
 What Do You Do While You Watch TV?
 What Do You Want To See In Our Black Friday Coverage?
 What Does the Shape and Color of My Poop Mean?
@@ -3691,6 +3719,7 @@ Why You Think You’re Great at Everything, Even When You Suck
 Why You're More Likely to Lie in the Afternoon
 Why Your Brain Craves Junk Food (and What You Can Do About It)
 Why Your Ears Keep Ringing (And What You Can Do About It)
+Why Your Taste in Wine Changes Based on Expectations or Environment
 Why do developers often favor iOS over Android and Windows Phone?
 Why do people still download music when it's so easy to stream?
 Why does anyone need to "come out" anyway?
@@ -3718,9 +3747,11 @@ Windows and Ubuntu Updates, Android Security, and Health Myths Galore
 Winter-Proof Your Chapped Cheeks With DIY, Natural Chapsticks
 Winterboard Updated for iOS 7, Ready for Customization
 Wipebook Is a Dry Erase Notebook You Can Reuse Indefinitely
+Woman Abandoned as a Baby in Burger King Bathroom Reunites with Mom
 Wonderful Post Holiday Enjoyment Open Thread
 Wondervoice Finds Parking, Plays Music, Reads Facebook Aloud, and More
 WordHippo Finds the Right Word You're Looking For
+WordLookup Finds Dictionary Definitions Just About Anywhere in Android
 Work During “Power Hours” to Get More Done in Less Time
 Work More Productively on Your Own by Playing "Workstation Popcorn"
 Work Off Thanksgiving with a Fitbit, Rosetta Stone, 27" IPS [Deals]
@@ -3828,6 +3859,7 @@ uListen Plays Just YouTube Audio in the Background While You Multitask
 ​Do Skin Care Products and Toiletries Ever Expire?
 ​Four Questions You Should Ask to Decide Between a New or Used Car
 ​Four Skills That Will Turn You Into a Spreadsheet Ninja
+​HTC One 2014 Review: Faster, Stronger, Bigger, Better
 ​Hack a Tart Pan with Aluminum Foil for Custom Sizes
 ​How Can I Protect My Skin and Eyes from the Biting Cold?
 ​How to Save the Most Money on Your Grocery Budget with a Price Book

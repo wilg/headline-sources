@@ -5,6 +5,7 @@
 "Doctor Who" Worldwide 50th Anniversary Special Is Today at 2:50PM ET
 "Everyone Else Has One" Is a Perfectly Good Reason to Buy an iPhone
 "Game Consoles" Are the Final Key to Digital Domination
+"How Do I Stop Saying 'Um'?" and Other FAQs About Presentations
 "I'm the Actor Who Provided the Voice for Siri"
 "Murmur" Shows Room Noise On The Walls
 "Nasal Ranger" Smelloscope Will Save Denver From Stinky Pot
@@ -42,6 +43,7 @@ $50 Off Every iPad Air, SwissGear Backpacks, Samsung 840 EVO [Deals]
 10 Gorgeous Fireworks Displays That Have Nothing To Do With July 4th
 10 Great "Sound (in) Art" Starting Points
 10 Greatest Laser Scenes in Movie History
+10 Haunting Photos From the Exxon Valdez Oil Spill Catastrophe
 10 Health Myths That Just Won't Die, Debunked by Science
 10 Iconic Dieter Rams Designs From a Store That Sells His Classics
 10 Incredible DIY Castles Built by a Single Person
@@ -260,6 +262,7 @@ $50 Off Every iPad Air, SwissGear Backpacks, Samsung 840 EVO [Deals]
 27 Cutaway Drawings That Show All the Secrets of Buildings
 27 More Things Hiding In New York City's Secret Tunnels
 27 Radiant Photos Of Rust
+27 Serendipitous Shots Of Spring
 27 Unearthly Objects Made Of Stars
 27 of the Most Eye-Popping Cargo Aircraft Ever Built
 28 Gorgeous Wind Tunnels That Will Blow You Away
@@ -488,6 +491,7 @@ $50 Off Every iPad Air, SwissGear Backpacks, Samsung 840 EVO [Deals]
 9 Great GIFs That Turn Your Favorite Movies Into 8-Bit Masterpieces
 9 Incredible Aerial Pics Of London, Seen From A Police Helicopter
 9 Massive Refugee Camps That Are Home to Nearly 1.5 Million People
+9 Paper Buildings By the Winner of Architecture's Top Prize
 9 Photos In Good Old Classic Monochrome
 9 Photos of Grisly Vintage Crime Scenes on Today's NYC Streets
 9 Sad Valentine's Gifts for Very Lonely People
@@ -592,6 +596,8 @@ A Cheetah-Like Tail Lets This RC Car Make Sharp Turns Without Rolling
 A Children's Treasury of Insane Designs for Kazakhstan's World Expo
 A Cinematographer's Watch That Counts Down To "Action!"
 A City Getting Google Fiber Explains How Awesome Google Fiber Is
+A City by City Guide to America's Filthy Porn Searches
+A Clampable Lantern That Stays Perched Wherever You Need Light
 A Classic Fiat 500 Had To Die So You Can Keep Your Drinks Cool
 A Clever Perpetual Calendar That Hides a Secret Compartment
 A Cleverly Curved Axe Head Turns Anyone Into Paul Bunyan
@@ -843,6 +849,7 @@ A New Drug Could End Chronic Pain Forever
 A New Echolocation Algorithm Can Map Spaces Based on Sound Alone
 A New Flexible Filament Lets You 3D-Print Custom Sneakers
 A New Frankenstein Molecule Makes HIV Self-Destruct
+A New Geo-Tagged Storytelling Site Might Be The Ultimate Travel Tool
 A New Hope: China's Rover May Still Be Alive!
 A New Kind of Microchip Mimics the Human Brain in Real Time
 A New Study Says You Sell More Music If You Get Rid Of Content Locks
@@ -1052,6 +1059,7 @@ A Tower Grown From Fungus Is Coming to NYC This Summer
 A Travel Bag That Keeps Your Clean and Dirty Clothes Separate
 A Treasury of Rare and Weird Star Wars Posters From Around the World
 A Tribe Called Red: Look At This
+A Trippy Remix Of Wisdom From The OG Jedi Master
 A Twelve-Track Sequencer That Plays Analogue Music Boxes
 A Twitter Survival Guide for Watching the Year's Biggest Sporting Event
 A Two-Pound Cast Iron Tape Dispenser Guarantees One-Handed Operation
@@ -1102,6 +1110,7 @@ A football field compared to the International Space Station
 A frozen Niagara Falls light show looks like a magical wonderland
 A genius guy invented the perfect machine to make a single cookie
 A guy got knocked unconscious skydiving but somehow survived
+A magic pancake stacking robot machine is why technology exists
 A man had $1.35 billion in Nazi-stolen paintings in this apartment
 A map showing which countries own the most guns
 A music video of The White Stripes without the music is so awkward
@@ -1780,6 +1789,7 @@ Barnes and Noble's New Nook GlowLight Is White, Light, and Bright
 Baseball's Downtime Will Be Less Painful With 360 Degree Replays
 Basement Monster Skeleton Discovered By Cable Installer
 Basis Releases Its First App And It's For Android
+Batman actor pulls fun chain prank using his city's phone books
 Battery-Free Wireless Devices Let You Send Texts After Your Phone Dies
 Battlefield ER: Combat Medicine Fights To Keep More Troops Alive
 Be Edward Snowden and run away from CIA agents in this phone game
@@ -1967,6 +1977,7 @@ Bracing for the Next Big Quake With L.A.'s New City Seismologist
 Bradley Manning Sentenced to 35 Years in Prison
 Bradley Manning's Not Guilty of Aiding the Enemy (But Otherwise Guilty)
 Brain Teaser Table Is More Complicated Than Ikea, But Also More Fun
+Brain-Buzzing Thinking Cap Can Make You Smarter or Dumber
 Brave New Garbage: London's Trash Cans Track You Using Your Smartphone
 Brave People Are Building Futuristic Farms on Japan's Radioactive Soil
 Brave the Amazon With a Stand Up Paddleboard That Turns Into a Tent
@@ -2356,6 +2367,7 @@ Crazy Oculus Rift Rig Turns Any Room Into a Holodeck Full of Zombies
 Crazy guy rides a bicycle backwards down a steep mountain
 Crazy tower design takes people in glass pods on a roller coaster loop
 Crazy video: Heavy military trucks being dropped from a plane
+Crazy videos of fearless guys in kayak falling down huge waterfalls
 Crazy-Advanced Malware Has Been Infecting Governments Since 2007
 Create Interactive 360° Panoramic Video With Ease
 Create Your Own Broken Masterpieces with This Glitch Art Generator
@@ -2518,6 +2530,7 @@ Delectable Wine for iOS: Identify Wine and Dole Out Recs Like a Pro
 Demand for Drone Hunting Licenses Overwhelms Tiny Colorado Town
 Dentists May Start Covering Teeth in Growth-Stimulating Diamond Dust
 Depression-Era Teachers Predicted Online Schools Would Look Like This
+Depth Maps Hidden in Google Street View Create Flickering Ghost-Cities
 Derelict Factories Get The David Lynch Treatment In These Creepy Photos
 Design Directives: Remaking Robocop's Interface for the 21st Century
 Design a Better Street For Your City With This Free Web App
@@ -2811,6 +2824,7 @@ Every 2014 Olympic Event Will Stream Online, For a Price
 Every Airline Should Offer This Adorable Flying Cutlery
 Every Android Phone, Ranked
 Every Baby Bottle Needs a Grippy Rollcage
+Every Brand Video You've Ever Seen in One Sweeping Parody
 Every Bus and Amtrak Route Across the US, Mapped
 Every Child Millionaire Needs To Own a Pedal-Porsche
 Every City Should Have This Ingenious "Library of Things"
@@ -2932,8 +2946,10 @@ FT: Apple Hiring Blitz Suggests the iWatch Is a Way Off
 FYI: It's Illegal To Build a Castle On a High Rise Without Permission
 Face It, Computers Are Better Than Us
 Facebook Accidentally Exposed Contact Info for Six Million Users
+Facebook Buys Oculus Rift For $2 Billion
 Facebook Changes Its Mind Again: It's Now Re-Banning Decapitation Videos
 Facebook Could Die Out Like an Infectious Disease By 2017
+Facebook Could Give You the Oculus Rift You Always Wanted
 Facebook Data Show Just How Much Football Games Depress You
 Facebook Data Shows How Many People Graduate College with True Love
 Facebook Denies Zuck Wall Hacker $500 Reward, Internet Gives Him $10K
@@ -2941,6 +2957,7 @@ Facebook Graph Search Let Dev Scrape Thousands of Public Phone Numbers
 Facebook Home Plays Nice With Every Social Network That Isn't Twitter
 Facebook Is Building Its Own "Resort-Inspired" Factory Town
 Facebook Is Buying Messaging App WhatsApp for $16 Billion
+Facebook Is Buying Oculus VR, The Incredible Future of Virtual Reality
 Facebook Is Finally Getting Rid of Obnoxious "Sponsored Stories"
 Facebook Is Finally Letting You Edit Your Posts
 Facebook Is Finally Letting You Search for Old Posts
@@ -3209,6 +3226,7 @@ Galaxy Note 3, Discount Microsoft Credit, Doctor Who [Deals]
 Galaxy S4 and HTC One Google Edition Hands-On: The Best Got Better
 Galileo Was Even Smarter Than We Thought
 Game of Drones: Yes, Quadcopter Fight Clubs Exist
+Game of Thrones music video is made of auto-tuned might and magic
 Gamer forgets he's in his room during 5-hour Virtual Reality session
 Garbage Can That Looks Like the Mac Pro Is a Hot Item in Japan
 Garmin Approach S4 Lets You Keep Tabs on Email While You're Out Golfing
@@ -3254,6 +3272,7 @@ Get Another Year of Amazon Prime for $79, Even as a Current Subscriber
 Get Back Into The Habit Of Winding Your Clocks
 Get Great Book Recommendations From Interesting People
 Get Lost In These Abstract Maps of the World's Great Cities
+Get Lost Inside This Seriously Hypnotic Spinning Clay Art
 Get More Birthdays By Celebrating Mathematically Significant Dates
 Get Out of Work Early With This Handy Happy Hour Virus
 Get Out of the Way: A History of How Ambulance Lights Save Lives
@@ -3370,6 +3389,7 @@ Google Chromecast Review: A Little Dongle With Big Potential
 Google Chromecast Rooted, Revealing Google TV Origins
 Google Chrome’s Insanely Open Password Security Strategy
 Google Confirms Its Android Camera App Is About to Get Way Better
+Google Deal With Ray-Ban and Oakley Could (Possibly) Make Glass Cool
 Google Docs Auto-Search Just Made Linking Easier Than Ever
 Google Edition Phones Aren't the Answer You Were Hoping For
 Google Fiber Continues the Awful ISP Tradition of Banning “Servers”
@@ -3535,10 +3555,12 @@ HP Would Very Much Rather You Buy a Windows 7 PC
 HP: We're Going to Make Another Smartphone
 HTC One Max: Shiny Aluminum, 5.9-Inch Screen and a Fingerprint Scanner
 HTC One Mini Hands On: Hey There Lil' Speedster
+HTC Will Fix Your Busted Screen For Free in the First Six Months
 HVAC Vendor Confirms Link to the Massive Target Data Breach
 Ha, the Most Hated Customer Service Companies Are All Cable and ISPs
 Hack a 3D Printer Into a Surprisingly Skilled Air Hockey Robot
 Hack a Bicycle Helmet To Hunt Down Citi Bike Stations
+Hackers Can Force ATMs to Spit Out Money With a Text Message
 Hackers Can Take Over Your Car With This Simple $26 Device
 Hackers Can Use the Labels On Your Snail Mail to Mess You Up Online
 Hackers Claim Mt. Gox Still Has Investors' Bitcoins
@@ -3634,6 +3656,7 @@ Here Are the Xbox One's Launch Games
 Here Come The Leap Motion Music Apps
 Here Is NYC's Most Gigantic Affordable Housing Project Since the 1960s
 Here Is a Video of Tiny Mice Decorating a Tiny Christmas Tree
+Here are 10 things that could wipe out life on Earth as we know it
 Here are 7 facts about superheroes you probably didn't know
 Here are some more impressions of foreign languages that sound so real
 Here are the Coolest Custom Lego Minifigs You Can Buy on Etsy Right Now
@@ -3907,6 +3930,7 @@ How Forensic Wizards Bring Phones Back from the Dead
 How Formula Drift Secretly Built The World's Most Powerful Road Racecars
 How Formula One's Amazing New Hybrid Turbo Engine Works
 How Gesture Control Actually Works
+How Global Warming Is Dissolving Sea Life (And What We Can Do About It)
 How Good Data Makes Transit Feel More Efficient—Even When It's Not
 How Good Does Your Phone's Camera Need To Be?
 How Google Gives Your Information to the NSA
@@ -3951,6 +3975,7 @@ How Long You Have to Work Minimum Wage For One Beer, By Country
 How Los Angeles Erased Entire Hills From Its Urban Core
 How Low Earth Orbit Astronauts Are the New Pioneers
 How Machines Think
+How Malaria Defeats Our Drugs
 How Manic Are You About Organizing Emails?
 How Many Apps Does an App Need to Sell to Be in the Top Apps List?
 How Many Clocks Did You Change Yourself For Daylight Savings?
@@ -4058,6 +4083,7 @@ How Tech Made the Boston Bombing Manhunt Possible
 How Technology Has Innovated Loneliness
 How Teeth Whitening Strips Attack Stains Like Tiny Spaceships
 How Tequila Geniuses Made the Best-Tasting Spirit I've Ever Had
+How Testosterone Makes You Hairy
 How The AMNH Is Using 3D Printing To Copy Dinosaur Bones
 How The Corvette Museum Rescued Its Cars From A Giant Sinkhole
 How The NSA Deploys Malware
@@ -4180,6 +4206,7 @@ How an Illegal Streaming Kingpin Makes a Living Off Piracy
 How an Underwater Bomb in Australia Was Heard Around the World
 How and Why the NSA's Been Hacking Sys Admins Worldwide
 How big is the Universe explained in a way you will easily understand
+How big is the Universe, explained in a way you will easily understand
 How cauterizing a wound works and why you should never try it
 How did a toy car magically appear behind these two pieces of paper?
 How funny would it be if Google was a real person you had to talk to?
@@ -4220,6 +4247,7 @@ How the Mother of All Demos Should Have Played Out
 How the Moto X Compares to the Competition
 How the NSA Misleads the Public Without Technically Lying
 How the NSA's Logo Should Really Look
+How the New HTC One Compares to Its Toughest Competitors
 How the New Nexus 7 Stacks Up to the Competition
 How the New York Botanical Garden Digitizes Nearly 300 Plants a Day
 How the Nexus 5 Compares to Its Toughest Smartphone Competition
@@ -4278,6 +4306,7 @@ How to Find Everything That's Moved in iOS 7
 How to Find Out If Your Flight Has In-Seat Power Outlets
 How to Find Out If Your Flight Has Wi-Fi, and How Much It'll Cost
 How to Find Your Missing Phone
+How to Find a Time-Traveling Laser Cat Stuck in the 1990s
 How to Find the Best Seat in a Theater
 How to Fix iOS 7's Biggest Annoyances
 How to Fly During the Holidays Without Losing Your Mind
@@ -4466,6 +4495,7 @@ I can't believe this fantastic island is real
 I can't believe this frighteningly realistic eyeball is not real
 I can't believe this is not a real forest but a game engine
 I can't believe this isn't a photo
+I can't believe this twisting plane managed to land in such bad weather
 I can't figure out which way the girl in these photographs is standing
 I can't stop watching these monster wood cutting machines in action
 I don't recall Indiana Jones IV being so damn terrible (but it is)
@@ -4505,6 +4535,7 @@ IKEA Uses a Massive One Percent of the World's Commercial Wood Supply
 IKEA's Going to Sell Solar Panels Now (No Assembly Required)
 ILM's Effects For The Lone Ranger Were Way Better Than the Movie
 IMPORTANT NORTH POLE UPDATE: It's Frozen Again
+IRS Declares Bitcoin Is Property and Must Be Taxed As Such
 ISS Astronauts Are Spacewalking Now and You Can Watch It Here Live
 ISS Astronauts Are Testing Water That Acts Like Fire
 ISS Crew "Flew Blind" on Their Way Back to Earth
@@ -4564,6 +4595,7 @@ Ikea's New App Transports Furniture Right Into Your Living Room
 Illuminated Lamps Cascade Up a Huge Swiss Pine Tree
 Illustrating America's Silliest Laws With Equally Silly Photographs
 Image Will Sell All Digital Comics with No DRM
+Imagine plunging into Earth's atmosphere using this re-entry spacesuit
 Imagining Life With the iWatch
 Imgur Now Has a Meme Generator
 Imgur for iOS: Your Favorite Image-Upload Site, Finally in App Form
@@ -4622,6 +4654,7 @@ India Thought Jupiter and Venus Were Actually Chinese Spy Drones
 India's New Long-Range Missile Can Reach Beijing, Europe, and Beyond
 Inexpensive Audio Gifts for the Music Lover
 Infections Fight To The Death Inside This 3D-Printed Chimpanzee Skull
+Inflatable Huggable Robots Could Replace Complex Mechanical Automatons
 Infrared NASA Image Shows the Path of Oklahoma's Devastating Tornado
 Insane New Tower Might Rise Above the Hills in Western Turkey
 Insane Point-of-View Footage of Supercross Riders Battling for the Win
@@ -4664,6 +4697,7 @@ Inside the Incredible, Complex Factories Where Satellites Are Born
 Inside the Intriguing Ancient Underground City of Derinkuyu
 Inside the Mesmerising Robotic Factory Where Teslas Are Born
 Inside the NYC Super-Factory Building America's Tallest Prefab Tower
+Inside the New HTC One Duo Camera: A Whole New Way to Shoot
 Inside the Pentagon's Trillion Dollar F-35 Embarrassment
 Inside the Printing Studio Where Obsolete Tech Will Never Die
 Inside the Push to Wipe Out Polio From the Furthest Corners of Earth
@@ -5153,6 +5187,7 @@ Lobster burger on mac-n-cheese buns and other mind-blowing burgers
 Local Exploration Service Findery Finally Has an App, You Should Try It
 Location-Aware Wi-Fi Could Send You Free Beer at a Football Game
 Lockheed's Senior Peg: The Forgotten Stealth Bomber
+Lockpicks and Cocktails with Atlas Obscura!
 Logitech PowerShell: A Slim, Sturdy, (Maybe Dope) iOS Gaming Controller
 Lomography's New Lens Kit Turns Your Mirrorless Camera Into a Fun Toy
 London Is Building 230 New Towers and 80 Percent of Them Are Housing
@@ -5193,6 +5228,7 @@ Lumens and Lux: Light Words Explained in a Single Image
 Lumia 1020 Spec Leak: 41 Megapixels, 1.5GHz Chip, 4.5-Inch Screen
 Lumia 2520 Review: Not Much More Than a Pretty Face
 Lumia 2520: Nokia Is Making a 10-Inch Tablet Now, Too
+Lytro Cameras over 50% off, DIY Ice Cream, ThinkGeek [Deals]
 Lytro Enables Wi-Fi and Launches a GIF Making App For iOS
 MEMS: The Microscopic Switches That Make the Modern World Possible
 MIT Has Taught Incompetent Robots How To Ask For Help
@@ -5260,6 +5296,7 @@ Making Designer Babies Was Supposed to Be Just Like Shopping for Seeds
 Making Nikola Tesla a Saint Makes Us All Dumber
 Making Plastic, Fertilizer, and Superglue Out of Thin Air
 Making a Stunning, Glow-in-the-Dark Fountain Is Surprisingly Simple
+Malaysia Air Officials: MH370 Is Lost Because Nothing Else Makes Sense
 Malaysia Airlines Flight Carrying 239 Vanishes Off Coast of Vietnam
 Malaysian Prime Minister: Missing Plane Was Deliberately Diverted
 Man Flying to Europe with Helium Balloons Gives Up After Just 350 Miles
@@ -5623,6 +5660,7 @@ NYC's Touchscreen Subway Maps Are Finally Here, and They're Amazing
 NYT: Apple's Smartwatch Could Use Wireless Charging and Solar Power
 NYT: FAA's New Electronic Device Rules to 'Go Into Effect Next Year'
 NYT: Google Glass Is About to Get More Musical
+NYT: Obama Wants to End NSA Bulk Phone Data Collection
 NYT: Rdio Will Have a Free Streaming Radio Service This Year
 NYT: The Government Is Tracking All Your Snail Mail Too
 NYT: The NSA Has "Social Network" Maps That Can Index Everyone You Know
@@ -5913,6 +5951,7 @@ NumberSnap for Android: Secretly Snap Pics and Never Forget a Face
 Nvidia GeForce GTX 780Ti: Gaming in Glorious 4K
 Nvidia Shield Teardown: A Lot's Crammed Into This Strange Device
 Nvidia's First Maxwell Card Is a Power-Sipping Screamer
+Nvidia's Got a New Next-Gen GPU and $3,000 Graphics Card
 Nvidia's New Laptop Cards Are Battery-Saving Scorchers
 O-Zone: Dragostea din tei
 OS X Mavericks First Impressions: A Little Good Going a Long Way
@@ -6322,6 +6361,7 @@ Qualcomm's Snapdragon 801 is 2014's Must-Have Mobile Chipset
 Qualcomm's Toq Smartwatch: $350, Available December 2nd
 Quality Budget Headphones, iTunes Credit, Ice Cream [Deals]
 Quantum Cryptography Could Make Your Phone Uncrackable Someday
+Quantum Research Shows D-Wave's Computers Are (Probably) the Real Deal
 Quick Review of the "#0 Padded Bubble Bag" iPad Mini Case From USPS
 Quick and Easy MacBook Repairs That'll Save You a Small Fortune
 Quirky Cable Management, The Wire, 4KTV, Blade Runner [Deals]
@@ -7355,6 +7395,7 @@ Stunning image of a burning hot Blackbird's jet engine
 Stunning images of the endless buildings and skies of Hong Kong
 Stunning massive sundog captured over Moscow
 Stunning night images of a nuclear ice breaker in the middle of nowhere
+Stunning photo of lightning illuminating Earth
 Stunning photos of Lick Observatory by Laurie Hatch
 Stunning photos of colossal lightning in massive volcano eruption
 Stunning photos taken by the two Russian daredevils atop Shanghai Tower
@@ -7514,6 +7555,7 @@ Terrifying Facts About the World's Deepest Gold Mine
 Terrifying GoPro video from tanks in Syria's war zone
 Terrifying collision between airplane and skydiver, everyone survives
 Terrifying van ride up the Himalayas would scare the life out of me
+Terrifying video of a man stuck in a cave as it fills with water
 Terrifying video of a near collision between fighter jet and airliner
 Terrifying video of fearless kids hanging from buildings with one hand
 Tesco to Use Face Scanners at Gas Pumps for Better Ad Targeting
@@ -7835,6 +7877,7 @@ The Design Genius Behind the NYT Mag Is Leaving to Revamp Apple
 The Design Of Abba's Clothing Was Actually A Form Of Tax Evasion
 The Designers of the World's Tallest Buildings Aim to Build Wood Towers
 The Destruction of Detroit in Heartbreaking Before & After Photographs
+The Deus Ex Short Film Is Awesome
 The Developer of China's Tallest Building Invests In Brooklyn
 The Difference Between Antivirus and Anti-Malware (and Which to Use)
 The Difference Between Real Life and Video Games Is Comically Sad
@@ -8071,6 +8114,7 @@ The Individual Contributions to OpenStreetMap, Visualized
 The Insane 1950s Flight Sim That Taught Airmen to Refuel in Midair
 The Insane Cancer Machines That Used to Live in Shoe Stores Everywhere
 The Insane Morgan Freeman iPad Painting: An Investigation in Four Acts
+The Insanely Expensive F-35 Is Delayed Again, Now Because of Software
 The Inside Story of How Olympic Photographers Get Such Stunning Images
 The Inside Story of How Olympic Timekeeping Is So Amazingly Precise
 The Inside Story of How the iPad Got Its Iconic Design
@@ -8133,6 +8177,7 @@ The Lie Is Out There: Three Types of Alien Encounters
 The Life of a Metal Worker Is Grinding Hard Work
 The LighterBro Multitool Turns You Into John McClane and MacGyver
 The Lindy Lid: A Forgotten Fashion Craze From The Golden Age of Flight
+The Lonely Process And Lovely Work Of Hong Kong's Neon Craftsmen
 The Longest Words in Different Languages Are So Fun to Say
 The Los Angeles Aqueduct Turns 100, or The Mules That Built L.A.
 The Lost Computer Games of Timothy Leary
@@ -8282,9 +8327,11 @@ The New Arrested Development Season, Edited into Chronological Order
 The New Asus Zenbooks Are Covered in Gorilla Glass Now (???)
 The New Basis Band Dives Deeper Into Your Sleep
 The New Chip That Will Help Beam Displays Right at Your Eyes
+The New Click & Grow Herb Garden Does Everything But Harvest Itself
 The New Corvette Stingray Will Come With Built-In Instant Replay
 The New Deadliest Substance Known to Man Is Top Secret (For Now)
 The New Fastest Helicopter on Earth Can Fly at an Insane 300MPH
+The New HTC One: HTC's Flagship Phone Gets a Full Metal Jacket
 The New High Line for Queens Could Include This Human Roller Coaster
 The New Instapaper: Reading Later in iOS 7 Will Be Sleeker and Simpler
 The New JVC Everio Brings Rugged Water-Proofiness to an Old Friend
@@ -8350,6 +8397,7 @@ The One Trick Dumbphones Are Still the Best At
 The Onion Explains Where All "The Teens" Leaving Facebook Are Going
 The Onion's Exclusive Look at Netflix's Genius "Browse Endlessly" Plan
 The Onion's Print Edition Is No More
+The Onion's Useless App Pitch Is Perfect
 The Only Acceptable Way To Shovel Food Into Your Mouth
 The Only Excuse For Having a Desk Phone in This Day and Age
 The Only Fragmentation That Matters (In Charts!)
@@ -8380,6 +8428,7 @@ The Perfect Civic Pride Gifts for City Lovers
 The Perfect Microwave Listens to Popcorn Popping So It Never Burns
 The Perfect Monitor For Normal People Is Your Deal Of The Day
 The Perfect Parody Video to Every Life Hacking Video Ever
+The Perfect Suitcase Keeps Your Smelly Laundry Sealed Off
 The Perfect Toiletry Bag For Those Morally Opposed To Organization
 The Perfect Use For All Your Old Tiny Tires
 The Perfect Valentine's Day Card for Our Times
@@ -8721,6 +8770,7 @@ The Weirdest Thing on the Internet Tonight: How to Keep Smoking
 The Weirdest Thing on the Internet Tonight: I Am the Walrus
 The Weirdest Thing on the Internet Tonight: I Love It
 The Weirdest Thing on the Internet Tonight: I Will Fly
+The Weirdest Thing on the Internet Tonight: Ice Cream Crush
 The Weirdest Thing on the Internet Tonight: Iceberg
 The Weirdest Thing on the Internet Tonight: Imtra
 The Weirdest Thing on the Internet Tonight: In Dreams
@@ -8904,6 +8954,7 @@ The World's Thinnest LED Is Only 3 Atoms Thick
 The World's Thinnest Sheet of Glass Is Just Two Atoms Thick
 The World's Tiniest Saw Is Made From Diamond-Coated Carbon Nanotubes
 The World's Wackiest Monuments, Chosen By You
+The World’s First 3D-Printed Kayak Is Adorably Colorful
 The World’s First Computer Programmer Was a Victorian Mother-of-Three
 The World’s Tallest Waterslide Better End In the World’s Deepest Pool
 The Worst Air Pollution in the World Is NOT in Beijing
@@ -9099,6 +9150,7 @@ These Amazing Illustrations Are Like Google Maps For 1900s Japan
 These Architectural Posters Were Printed With Bike Tires And Ink
 These Are Some of the Best Microscopic Images of the Year
 These Are Supposedly Leaked Photos of the Samsung Galaxy S5
+These Are The Insane Trucks Texans Use To Hunt Birds
 These Are The Most Amazing Images Of Exploding Cars You'll Ever See
 These Are the Brains of the Next Bitcoin Mining Monster
 These Are the First Ever Images of a Heart Injected With Liquid Metal
@@ -9337,6 +9389,7 @@ Things the Authorities Say to Mislead You About NSA Surveillance
 Thinkpad Yoga: Finally a Convertible With Some Grit
 This "Canoe Car" Wants to Revolutionize Your Urban Commute
 This "Caspian Sea Monster" Was a Giant Soviet Spruce Goose
+This "Electric Book Reader" of 1927 Was The Future of Speed Reading
 This "Ionic" Speaker Is Stretchable, See-Through and Mind-Blowing
 This "backpack cannon" will come handy in the zombie apocalypse
 This $20,000 30-foot tapestry tells the entire Star Wars saga
@@ -9813,6 +9866,7 @@ This Is the New iPad You Should Buy
 This Is the New iPhone You Should Get
 This Is the Official Color of 2014
 This Is the Poster for the Ashton Kutcher Steve Jobs Biopic
+This Is the Power Glove Oven Mitt You Want To Buy
 This Is the Sticker That Should Really Be on Your New Computer
 This Is the World's Fastest Memory Card (For a Little While)
 This Is the World's First Working Cell Made From Plastic
@@ -9885,6 +9939,7 @@ This Mobile Sauna Will Warm You Up After Surfing A Snowy Beach
 This Model Tuna Makes Gutting Fish a Much Less Messy Game
 This Modern Home Frames the Winery Around It With Weathered Steel
 This Modular Toy Car Has Steering and Suspension Like the Real Thing
+This Monster Truck Trike Will Stop You From Sinking on Snow and Sand
 This Mortar-Hunting War Truck Just Got a Powerful New Laser Cannon
 This Mos Def-Marvin Gaye Mashup Album Is Perfect (and Free)
 This Motion-Sensing Tingling Spidey-Sense Tee Has Got Your Back
@@ -10081,6 +10136,8 @@ This Swanky Bomb Shelter Might Be Hidden Somewhere Under an NYC Park
 This Sweet Little House-Shaped Humidifier Keeps You Cozy Anywhere
 This Sweet Photobooth Is Triggered By Skin-To-Skin Contact
 This Swing Set Is the World's Coolest Musical Instrument
+This Synthetic Mother of Pearl Is Ten Times Tougher Than Ceramics
+This Synthetic Seaweed Stops Deadly Algae Blooms Before They Start
 This TSA Redesign Could Change the Way You Think About Airport Security
 This Table Charges Your Devices By Mimicking Photosynthesis
 This Table Detects Breast Cancer Using Sound Waves, Not X-Rays
@@ -10457,6 +10514,7 @@ Top Gun: Feel the Need for Speed in a Classic Piece of 80s Camp
 Topsy, Twitter's Google, Now Searches Every Tweet Ever Sent
 Tor Is Developing an Anonymous Instant Messaging Service
 Tor: The Anonymous Internet, and If It's Right for You
+Tornado of burning debris looks like the beginning of the apocalypse
 Toro Will Fully Refund Your New Snowblower If It Doesn't Snow
 Torrent Site Popcorn Time, Shut Down Yesterday, Is Alive Again
 Toshiba Crammed 5 Computers in Its Shape-Shifting Concept 5-in-1 PC
@@ -10563,6 +10621,7 @@ Two Monumental Ways Google Glass Could Help the Blind
 Two Moons That Pass in the Night
 Two New iPhones, Aluminum Airships of the Future, Spacetoad, And More
 Two Tag-Teaming PC Viruses Are Fighting Dirty
+Tying Yourself to a Quadcopter Is the Most Awesome Way to Lose a Tooth
 Type:Rider Is a Mobile Game That Teaches You About Typograhy
 Typhoon Haiyan Even Looks Terrifying From 22,000 Miles Away
 U.S. 4G Coverage Still World's Second-Worst, Now 30% Crappier Than 2013
@@ -10675,6 +10734,7 @@ Video shows horrible high speed train crash in Spain
 Video: 500-pound US bomb lands on US Army soldiers
 Video: BASE Jumper Fails and Miraculously Survives Unharmed
 Video: Don't cook canned ravioli in lava unless you want it to explode
+Video: Dramatic rescue of man trapped in raging 5 alarm fire
 Video: Man defies gravity by running upside down in a 360-degree loop
 Video: Man miraculously survives terrible fall from cliff
 Video: Massive avalanche seems to be alive
@@ -10908,6 +10968,7 @@ Watch This Tiny Ship Steam Its Way Across a Boiling Pot
 Watch This Vinyl Record Play Music and a Full-Color Animation
 Watch Today's ISS Spacewalk Live, Right Here, Right Now
 Watch Today's ISS Spacewalk Right Here, Right Now
+Watch Two Crazy People BASE Jump From One World Trade Center
 Watch Two Crazy People Climb the World's Second Tallest Building
 Watch Two Psychos At Once with Steven Soderbergh's Trippy Movie Mashup
 Watch Us Give the Gizmodo Logo a 3D-Printed Makeover
@@ -11086,6 +11147,7 @@ We're Getting Closer to Finding Mona Lisa's Skeleton
 We're Hiring a Deal Master
 We're Just Dumb Animals Sat In Front of Computers
 We're Lifting Our Unboxing Ban For This Delightful Gent's Packing Peanuts
+We're Not Doing Enough to Protect the World's Nuclear Materials
 We're Way Behind Schedule For Curing the Common Cold
 We've Been Blaming Movies for Real-Life Crime for Over a Century
 We've Finally Figured Out Why Hot Water Freezes Faster Than Cold
@@ -11638,6 +11700,7 @@ Why Mop When a Genius Robot Can Do It Better?
 Why Neil Young's New Pono Music Player Doesn't Make Any Sense
 Why Nest Is Worth Every Penny
 Why Net Neutrality Demands Total Transparency
+Why Netflix Needs To Bring Back Expiration Dates
 Why Norway Might Have to Tear Down These Massive Picasso Murals
 Why Nuclear Bombs Create Mushroom Clouds
 Why Olympic Mascots Are Always So Goddamn Creepy
@@ -11797,6 +11860,7 @@ Witness Ragnarok Tonight on Netflix
 Witness the Birth of a Snowflake
 Witness the Real Life Apollo 13 Disaster As It Actually Happened
 Witness the magic of non-Newtonian fluids in slow motion
+Woman Abandoned as a Baby in Burger King Bathroom Reunites with Mom
 Woman Has Heart-Shaped Twinkle Surgically Implanted on Her Eyeball
 Woman Ticketed For Wearing Google Glass While Driving Judged Innocent
 Woman risks life dancing over a cliff entangled in fabric
@@ -11842,6 +11906,7 @@ Would You Visit Atomic Bomb National Park?
 Would You Wear These Lego-Inspired Fashions?
 Would You Wear This Air Conditioning Hat if It Actually Worked?
 Would You Work In This Viewless Bubble Building?
+Would you like to jump from low Earth orbit using this awesome suit?
 Would you travel inside these pods attached to the wing of a jet?
 Would you want to sit in these morphing airplane seats?
 Wouldn't It Be Fun to Live in a Translucent House?
@@ -12017,6 +12082,7 @@ You Just Missed a Massive, Destructive (Fake) Cyberattack
 You Know What? I'm Getting a Wii U
 You Might Actually Be Able to Afford a 4K Monitor Soon
 You Might Be Able to Snag a New Nexus 7 at Best Buy Today
+You Might Have Free Amazon Money Waiting in Your Inbox
 You Must Read This Test Pilot's Story of an SR-71 Disintegrating Midair
 You Need This Beautiful Machinery If You Want Atomic Precision
 You Need to Hit 1.2 Million MPH to Exit the Milky Way
@@ -12093,6 +12159,7 @@ Young Adult: You Can Go Home Again (But Maybe You Shouldn't?)
 Your Best City Ever! The Proliferation of Self-Help Urbanism
 Your Body Isn't That Much Smaller Than The Whole World
 Your Body Odor Could Help Make Airport Security a Breeze
+Your Bones Don't Shatter Because They're Full of Goo
 Your Brain Forgets Stuff Carefully and on Purpose
 Your Busted Apple MagSafe Cords Power These Clever Lamps
 Your Choice Of 4K Monitors, GoPro, Game Of Thrones [Deals]
@@ -12241,6 +12308,7 @@ iTunes Radio: Apple's Pandora Service Is Finally Here.
 ​Dubai's $7 Billion Expo 2020 Could Become a Glittering White Whale
 ​Geordi La Forge Explains NASA's MAVEN Mission to Mars
 ​Grado Labs Made Gorgeous Cans Out of Irish Whiskey Barrels
+​HTC One 2014 Review: Faster, Stronger, Bigger, Better
 ​How I "Hacked" Kayak and Booked a Cheaper Flight
 ​How Nintendo Plans on Tackling Its Toughest Year
 ​How to Use Amazon Glacier as a Dirt Cheap Backup Solution

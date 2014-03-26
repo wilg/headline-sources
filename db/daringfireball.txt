@@ -1166,6 +1166,7 @@ Android Hardware-Buttons Are (Conceptually) Broken
 Android In-App Payments Coming Soon
 Android Leaking Authentication Tokens in Clear Text
 Android Location Service Cache
+Android Malware
 Android Market
 Android Market Gets Movie Rentals
 Android Market Only Open to Developers in Five Countries
@@ -5463,6 +5464,7 @@ Facebook and Instagram: When Your Favorite App Sells Out
 Facebook and Privacy
 Facebook as a Conglomerate
 Facebook for iPhone Usage Statistics (Requires Flash Player)
+Facebook to Acquire Oculus for $2B
 Facebook to Buy WhatsApp for $16+ Billion
 Facebook to Reveal ‘Home on Android’ at Press Event Next Week
 Facebook, Another Service Helping to Kill Text Messaging
@@ -5637,6 +5639,7 @@ Filed Away for Future Claim Chowder: Mike Arrington Says Google Is Making Its Ow
 Filed Away for Future Claim Chowder
 Filed Under ‘Attention to Detail’
 Filed for Future Claim Chowder: DigiTimes Reports Apple to Use OLED Display in Second-Gen iPads
+Filed for Future Claim Chowder
 Files Are Not for Sharing
 Filing Bugs Against iPhone SDK Restrictions
 Fill-in-the-Blanks
@@ -7366,6 +7369,7 @@ How Bin Laden Emailed Without Being Detected
 How BlackBerry Blew It: The Inside Story
 How Bob Iger Saved Network TV
 How ClickToFlash Works
+How Clones, Fear, Sanitization, and Free-to-Play Soured Apple’s iOS Gaming Revolution
 How Cool Is Cuil?
 How Critics Reviewed the Original Macintosh in 1984
 How David Foster Wallace Prompted a Scalia Book
@@ -16039,6 +16043,7 @@ The HAL Project
 The HIG Is Still Good
 The HIG on Extending Text Selections
 The HP Diet Plan: Buy Our Cameras
+The HTC One M8
 The HTML 5 Equilibrium
 The Hamburdog
 The Hands That Feed
@@ -20139,6 +20144,7 @@ yDSF - Robust CSS Drop Shadows
 ‘Eye of the Tiger’ Remix, Played Entirely Using iPad Apps
 ‘E’: A TextMate-ish Text Editor for Windows
 ‘Fabricado no Brasil’
+‘Facebook Creeps Me Out’
 ‘Facebook Login’
 ‘Finally’
 ‘Finally’ Actually Fits Here
