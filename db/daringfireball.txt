@@ -6567,6 +6567,7 @@ Google GBuy Payments System?
 Google Gadgets for the Mac
 Google Gears
 Google Gears for WebKit
+Google General Counsel Denies Mike Arrington’s Charge That They Read Gmail to Root Out Leaks
 Google Gets Away With What Microsoft Couldn’t
 Google Gets Its Hands Dirty
 Google Glass Banned From Google Shareholder Meeting
@@ -10569,6 +10570,7 @@ Microsoft Office Open XML File Format Converter for Mac
 Microsoft Office Update Adds Spotlight and Sync Services Integration
 Microsoft Office for Mac Security Updates Posted Yesterday Were a ‘Mistake’
 Microsoft Office for iPad Coming Soon?
+Microsoft Office for iPad
 Microsoft Outsourcing IT Services
 Microsoft Partners With Barnes and Noble on E-Books
 Microsoft Patents Adware Delivery Based on Your Hard Drive Contents
@@ -13458,6 +13460,7 @@ Rebel Fighters in Syria Use iPad Accelerometer to Aim Homemade Mortar
 Recap of Friday’s TypePad Outage
 Recipe for Baked WordPress
 Recode: ‘After Google Pressure, Samsung Will Dial Back Android Tweaks, Homegrown Apps’
+Recode: ‘Symantec Fires CEO Steve Bennett; Shares Fall’
 Reconsidering Bill Gates
 Reconstructing Apple’s 2008 Earnings to Reflect iPhone Sales
 Record Labels Contemplate Unrestricted Digital Music
@@ -17405,6 +17408,7 @@ Twitter Acquires Tweetie
 Twitter Adds Always-Use-HTTPS Option
 Twitter Adds Photo Filters to Its Mobile Apps
 Twitter Adds Push Notifications for Its Official iPhone Client
+Twitter Adds Support for Multiple Photos Per Tweet
 Twitter Announces Photo Hosting
 Twitter App Makers Trying to Figure Out the Future
 Twitter Blog: Friends, Followers, and Notifications

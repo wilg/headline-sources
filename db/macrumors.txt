@@ -1168,6 +1168,7 @@ Amazon to Launch DRM-Free Music Store
 Amazon to Sell Unprotected MP3s?
 Amazon's 'Kindle' App Updated to Remove Direct Kindle Store Links [Updated: Nook]
 Amazon's 'Unbox' Video Service Opens
+Amazon's Apple TV Competitor Expected to Debut at April 2 Media Event
 Amazon's German Site Notes October 20th iLife Ship Date [Updated x2]
 Amazon's New Mac Download Store Takes On Apple's Mac App Store
 Amazon's Set-Top Box Competitor to Apple TV and Roku Launching Before Holidays
@@ -2968,6 +2969,7 @@ Apple Passes Microsoft to Become Second-Largest U.S. Company by Market Capitaliz
 Apple Passes Nokia and Holds Off Samsung to Become World's Top Smartphone Vendor [Updated]
 Apple Patent Application Addresses Advanced 'Find My iPhone' Features and Customizability
 Apple Patent Application Addresses Use of Ambient Light Sources for Notebook Backlighting
+Apple Patent Application Describes Use of Oleophobic Coatings on Sapphire Displays
 Apple Patent Application Details Temporary Location-Specific iPhone Applications
 Apple Patent Application Details Touch-Sensitive Unmounting of External Devices From Computers
 Apple Patent Application Details iPhone Control Via Finger Swipes Over Camera
@@ -5104,6 +5106,7 @@ Apple to Launch OS X Mountain Lion on July 25th?
 Apple to Launch Official Development Kit for iPhone in January?
 Apple to Launch Personal Pickup for iPhone 5 Tonight
 Apple to Launch Pre-Cut Ringtones at Next Week's Media Event?
+Apple to Launch Retina MacBook Air Later This Year, According to Supply Chain Sources
 Apple to Launch Ringtone Service?
 Apple to Launch Standalone Podcast App with iOS 6
 Apple to Launch Subscription iTunes?
@@ -5861,6 +5864,7 @@ Ashton Kutcher and Josh Gad Talk 'Jobs' at Macworld
 Ashton Kutcher on Why He Chose to Play Steve Jobs
 Ashton Kutcher to Play Steve Jobs in Upcoming Indie Film "Jobs"
 Ashton Kutcher's 'Jobs' Biopic Now Available to Stream on Netflix
+Ashton Kutcher's 'Jobs' Biopic Now Available to Stream on Netflix [Updated]
 Ashton Kutcher's 'Jobs' Film to Launch on August 16
 Ashton Kutcher's 'Jobs' Movie Now Available on iTunes
 Aside from Signal Issue, Consumer Reports Rates iPhone 4 Highest Amongst All Smartphones
@@ -9260,6 +9264,7 @@ Macworld 2009 Keynote Stream Available
 Macworld 2012: 'Clear' To Do App for iOS, WDC MyBook Thunderbolt Duo
 Macworld 2012: Autodesk Inventor Fusion for Mac Coming
 Macworld 2012: WDC Shows Off MyBook Thunderbolt Duo
+Macworld 2014 First Look: Petcube, Motion Control Ring, Lumo Lift, and More
 Macworld Banner? Reviewing the iTV
 Macworld Best of Show Awards 2009
 Macworld Boston 2004 - 'Strong'
@@ -9427,6 +9432,7 @@ Microsoft Launches New Anti-iPad Surface 2 Ad Highlighting Kickstand and Multipl
 Microsoft Launches New Surface RT vs. iPad Ad Highlighting iPad Shortcomings
 Microsoft Launches Office 365 Subscriptions Alongside Office 2013, But Macs Still Stuck on Office 2011
 Microsoft Launches Zune HD
+Microsoft Launching Word, Excel, and PowerPoint for iPad Today
 Microsoft Lays Out Plans for Windows on ARM Processors
 Microsoft Leaks References to 'Office Mobile for iPhone', 'Excel for iPad' and 'PowerPoint for iPad'
 Microsoft Licenses Adobe Flash Lite for Mobile
@@ -9465,6 +9471,7 @@ Microsoft Office on iPad Spotted, Coming Soon to App Store
 Microsoft Officially Kills Virtual PC
 Microsoft OneNote Going Free with Mac Launch Later This Month
 Microsoft Opens First New Retail Store in Scottsdale, Arizona
+Microsoft Paying Apple 30-Percent Cut on In-App Office 365 Subscription Purchases
 Microsoft Picks IBM Processors for Xbox 2
 Microsoft Piles -- er Stacks?
 Microsoft Planning 75 New Retail Stores to Take on Apple
@@ -10829,6 +10836,7 @@ OS X Lion's HiDPI Modes Lay Groundwork for Retina Monitors
 OS X Mavericks 10.9.1 Beta Seeded to AppleCare Employees
 OS X Mavericks 10.9.3 Beta Contains Native 'Retina' Resolution Option for 4K Displays
 OS X Mavericks Adoption Pushing Past 7% in Under 24 Hours
+OS X Mavericks Adoption Pushing Toward 50%
 OS X Mavericks Now Available Free on Mac App Store
 OS X Mavericks Released for All Mac Developers as Golden Master Seed
 OS X Mavericks Taps Ambient Light Sensors to Detect Motion and Prevent System Sleep
@@ -12320,6 +12328,7 @@ Somthings up at Apple
 Son of MacTheKnife?
 Son of Newton Speculation
 Sonic The Hedgehog iPod Game Released
+Sonnet Announces Mac Pro 4U Rackmount Enclosure and Expansion Chassis
 Sonnet Shipping First New Thunderbolt 2 PCIe Expansion Chassis
 Sony Announces PlayStation 4, Second-Screen Experience PlayStation App for iOS
 Sony Announces PlayStation App for iPhone and iPod Touch
@@ -12742,6 +12751,7 @@ TSMC Reportedly Lands Three-Year Deal for Apple's A8 Chip and Beyond
 TSMC to Begin Trial Production of Apple's A6X Chip This Quarter
 TSMC to Use Current Fingerprint Sensor Processing Method for iPhone 6
 TSMC's 'Rush Orders' Presumably Fueling Broadcom Part Supplies for iPhone 5
+TV Commercials Vault Games to Top Tier of App Store Rankings
 TV Industry Preparing for Voice Recognition Interfaces in 2012
 TV Networks Continuing to Resist Apple's Effort to Slash iTunes Pricing
 Tabbed iChat With iTunes?
@@ -14611,6 +14621,7 @@ iPhone 5s and iPhone 5c Sales Top Nine Million in Launch Weekend
 iPhone 6 Fingerprint Sensor Production Set to Gear Up in Q2 with Increased Efficiency
 iPhone 6 May Include Temperature, Pressure and Humidity Sensors
 iPhone 6 Rear Camera to Retain 8-Megapixel Sensor, Offer Improved Image Stabilization?
+iPhone 6 Reportedly Launching 'As Early As September' in 4.7- and 5.5-Inch Sizes
 iPhone 6 Rumored to Include 10+-Megapixel Camera with f/1.8 Aperture and Improved Filter
 iPhone 6 Said to Adopt 'Bezel-Free' Display
 iPhone 6 Specs Seen by Analyst as 'Locked In' with 4.8-Inch Display and 802.11ac Wi-Fi

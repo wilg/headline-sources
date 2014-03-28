@@ -532,6 +532,7 @@
 28 Shamefully Irrational Fears That Secretly Haunt Us All
 28 Surprising Unseen Sides of Famous Movie Posters
 28 Typos That Would Have Changed Everything
+29 Baffling Rules of Life in Video Game Universes
 29 Business Cards of Famous Fictional Characters
 29 Conspiracy Photos Crazy People Will Be Forwarding Next
 29 Famous Movie Scenes With Glaring Mistakes
@@ -798,6 +799,7 @@
 4 Famous Movies Spoiled by Facebook Updates
 4 Famous Movies and Shows That Lied Their Way into Existence
 4 Famous Musicians That Specialize in Onstage Meltdowns
+4 Famous People Who Get Away With Being Total Hypocrites
 4 Famous People Who Get Away With Being Total Hypocrites									Viral
 4 Famous People Who Have No Clue How to Handle Criticism
 4 Famous Pop Culture Moments Everyone Remembers Incorrectly
@@ -992,6 +994,7 @@
 4 Reasons Spider-Man is Secretly Bad at His Job
 4 Reasons Terminators Suck At Their Jobs
 4 Reasons This New Movie Is Everything Wrong With Hollywood
+4 Reasons This One Kickstarter Proves Humanity Is Doomed
 4 Reasons We Need to Start Making Fun of Terrorists
 4 Reasons We Were Right Not to Boycott the Olympics
 4 Reasons We've Stopped Trusting the Media
@@ -1021,6 +1024,7 @@
 4 Recurring Myths We Apparently Really Want to Believe
 4 Requirements of North Korean Propaganda Videos
 4 Respected Celebrities Who Are Slowly Losing Their Minds
+4 Ridiculous Sex Machines on Amazon (With Hilarious Reviews)									Viral
 4 Ridiculous Things No One Tells You About Being an Adult
 4 Ridiculous Things That Caused Recent Bomb Scares
 4 Ridiculous Ways 'Law & Order' Covered Celebrity Scandals
@@ -1143,6 +1147,7 @@
 4 Ways Hollywood Is Completely Imploding
 4 Ways Honey Boo Boo Redeemed Reality TV
 4 Ways Horse Meat Proves a Zombie Apocalypse Can Happen
+4 Ways Money Actually Can Buy Happiness
 4 Ways Nature Brainwashes You into Taking Care of Babies
 4 Ways Pop Culture Has Returned to the 1990s
 4 Ways Porn Is Baffling the Internet's Biggest Companies
@@ -1230,6 +1235,7 @@
 5 Animals We Should Be Eating [CHART]
 5 Animals Who Can't Hide Their Disdain for People
 5 Animals Who Live Through a Horror Movie Every Day
+5 Annoying Things Parents Say to People Who Don't Have Kids
 5 Annoying Things Parents Say to People Who Don't Have Kids									Viral
 5 Annoying Trends That Make Every Movie Look the Same
 5 Anti-Piracy Strategies That Screwed Over Regular Gamers
@@ -1388,6 +1394,7 @@
 5 Creative Ways People Got Revenge on Cheating Spouses
 5 Creeping Forms of Madness the Internet Is Spreading
 5 Creepy Abandoned Rooms Found Hiding in Plain Sight
+5 Creepy Cartoon Fan Theories That Make Way Too Much Sense
 5 Creepy Cartoon Fan Theories That Make Way Too Much Sense									Viral
 5 Creepy Christmas Traditions from Around the World
 5 Creepy Coincidences You Won't Believe Actually Happened
@@ -1423,6 +1430,7 @@
 5 Disastrous Attempts at Political Commentary in Comic Books
 5 Disgusting Habits Everyone Has (When No One's Looking)
 5 Dismissive Arguments That You Only Use When You're Wrong
+5 Disturbing Details You Didn't Notice in Famous Video Games									Viral
 5 Disturbing New Ways Debt Collectors Are Getting Your Money
 5 Disturbing Old-Timey Ads Obviously Created by Aliens
 5 Disturbing Reasons Not to Trust the News (From a Reporter)
@@ -1944,6 +1952,7 @@
 5 Reasons Cinco de Mayo Is the Most American Holiday
 5 Reasons Daredevil Has the Worst Villains Ever Invented
 5 Reasons Doing Movie Stunts Is Harder Than You Think
+5 Reasons Fighting Wildfires Is More Insane Than You Think
 5 Reasons Flying a Fighter Jet Is Way Crazier Than 'Top Gun'
 5 Reasons GTA IV Is The Worst Great Game Ever Made
 5 Reasons George Washington Was Either Lucky or a Wizard
@@ -2106,6 +2115,7 @@
 5 Sequels Made By People Who Must Not Have Seen the Original
 5 Sexual Innovations From People in Your History Text Books
 5 Shocking Failures in 2013 We Should Have Seen Coming
+5 Shocking Realities of Being Transgender the Media Ignores
 5 Shocking Realities of Being Transgender the Media Ignores									Viral
 5 Shocking Scenes You Won't Believe Are in the Bible
 5 Shocking Side Effects of Foods You Eat Every Day
@@ -2503,6 +2513,7 @@
 6 Awesome Theories That Totally Change Famous Characters
 6 Awesome Vehicles of War with Ridiculous Weaknesses
 6 Awful Jobs That Must Exist in Video Game Universes
+6 Awful Realities Behind the Scenes at SeaWorld
 6 Awful Realities Behind the Scenes at SeaWorld									Viral
 6 B.S. Myths You Probably Believe About America's 'Enemies'
 6 Bad Ideas in Video Game Mash-Ups We'll Probably See Next
@@ -2825,6 +2836,7 @@
 6 More News Stories That Were Just Big Dumb Lies
 6 More Real-Life Soldiers Who Make Rambo Look Like a Pussy
 6 Most Badass Self-Inflicted Medical Experiments
+6 Most Misleading Movie Titles Ever									Viral
 6 Most Popular Definitions of Irony (Are All Wrong) [CHART]
 6 Movie Characters You Didn't Know Died Horrible Deaths
 6 Movie Good Guys You Didn't Notice Were Total Hypocrites
@@ -3126,6 +3138,7 @@
 6 Unassuming People Who Casually Saved Hundreds of Lives
 6 Underrated Predators With Mind-Blowing Abilities
 6 Uneducated Amateurs Whose Genius Changed the World
+6 Unexpected Things I Learned Resisting the Nazis in WWII									Viral
 6 Unintentionally Hilarious Glitches Hidden in Video Games
 6 Unintentionally Hilarious Legacies of Famous Figures
 6 Unintentionally Hilarious Moments in Famous Scary Movies
@@ -6074,6 +6087,7 @@ What Your High School Extracurricular Activity Says About You [CHART]
 What Your Lawn Says About You [CHART]
 What Your Playlist Actually Says About You
 What Your T-Shirt Really Means
+What the 13 Most Popular Dating Sites Are Actually For
 What the Media Won't Tell You About the Manti Te'o Hoax
 What to Expect When Expecting (in the Village of the Damned)
 What to Expect When Your Ex Is Expecting

@@ -33,6 +33,7 @@ $99 Refurbished Kindle Price Points to Kindle 4 Launch
 10 Places Robots and A.I. are Hiding in Plain Sight
 10 Promising Technologies in 2014
 10 Scientific Cooking Tricks That’ll Make Your Life Easier
+10 Things You Should Know about DirectX 12
 10 Years of Roomba Hacks: From Magic Marker Art to Combat
 1080p Phones Mean New Challenges for Mobile Batteries in 2013
 14 Essential Tweaks to Perform on Your New Nexus 5 Smartphone
@@ -1436,6 +1437,7 @@ Hands-On: Sony NEX-F3 Mirrorless Interchangeable Lens Camera
 Hands-On: Sony's 'Project Morpheus' PS4 Virtual Reality Headset
 Hands-On: Taposé App Attempts to Fulfill Microsoft Courier's Dreams
 Hands-On: The Four Best New Features of Microsoft Windows 8
+Hands-On: Virtuix Omni Treadmill with Oculus Rift
 Handy Tips and Hidden Tricks for Mac OS X Lion
 Happy Birthday Richard Feynman!
 Haptic Thermometer Lets You Feel How Hot or Cold It Is Outside [Video]
@@ -1788,6 +1790,7 @@ Inside Adam Savage's Cave: The Rocketeer Rocket Pack
 Inside Adam Savage's Cave: The Tool Boxes
 Inside Adam Savage's Cave: The Zorg Industries ZF-1
 Inside Adam Savage's Cave: Tyrannosaurus Rex Skull
+Inside Adam Savage's Cave: What's in the Mailbag?
 Inside Adam Savage's Tour Bus
 Inside Artist Frank Kozik's Studio
 Inside Hasbro's Transformers Toy Design Studio
@@ -1864,6 +1867,7 @@ Jamie Hyneman On Welding in His Workshop
 Jamie Hyneman Tests the Oculus Rift Virtual Reality Goggles
 Jamie Hyneman on "Innovation, Explosions, and the Benefit of Adolescent Behavior"
 Jamie Hyneman's Electric Outboard Boat Motor
+Jamie Hyneman's Hitchhiking Survival Story
 Jamie Hyneman's Thoughts on Designing and Making with CAD
 Jamie Will Let Reddit Ask Him Anything on Saturday Morning
 Jamie and Adam Costume Hunt 2012: The Winners!
@@ -3265,6 +3269,7 @@ Target Tries to Fight Against Amazon Price Matching, "Showrooming"
 Taste or Tenacity: Why Daredevils Dish on Extreme Foods
 Tasting Astronaut Coffee with David Chang and Traci Des Jardins
 Tasting Astronaut Food: Inside NASA's Space Food Systems Laboratory
+Teaching Hollywood How To Hack
 Ted Talk: The Art of Creating Awe in Special Effects
 Teleporting a Person to Space Would Take Approximately 4.85 Quadrillion Years
 Telescopic Contact Lenses Zoom and Enhance
@@ -3304,6 +3309,7 @@ Testing: Nexus 7 (2013) Performance
 Testing: Pencil Bluetooth iPad Stylus
 Testing: Piloting the Helimax 1SQ Mini Quadcopter
 Testing: Salomon XA Pro Hiking Shoes
+Testing: Sony a7 Full-Frame Mirrorless Camera
 Testing: The New Nexus 7's Battery Life
 Testing: Transporter Private Cloud Storage
 Testing: iPad Mini Retina vs. iPad Air Displays
@@ -3320,6 +3326,7 @@ The 2013 US Aeropress Champ Recipe
 The 2014 CinemaTech Awards: Our Favorite Sci/Tech Movies
 The 2014 World's Fair, Imagined by Isaac Asimov
 The 2048x1536 Dream: Will it Happen with the iPad 3?
+The 3D Godzilla Movie That Almost Was
 The 5 Tweaks Every New Galaxy Nexus Owner Should Do Immediately
 The 5000FPS Batting Camera and the Physics of Baseball
 The 7 Improvements We Want in Android 4.0 and the Galaxy Nexus
@@ -3572,6 +3579,7 @@ The Most Common Passwords and How To Improve Yours
 The Most High-Tech Haunted Houses
 The Most Telling Features of iOS 6 and OS X Mountain Lion
 The Mother of All Demos Revolutionized Computing Interfaces in 1968 [Video]
+The Motion Picture Camera: Past, Present and Future
 The Motorola Droid Bionic: Is This the Android You've Been Looking For?
 The Move to One Flagship Phone
 The Myth of the War of the Worlds Broadcast: Newspaper Tried to Kill the Radio Star
@@ -3935,6 +3943,7 @@ Western Digital Packs a Terabyte Into Laptop Hard Drive
 Wet Animals Shaking in Slow Motion
 Whales Can Barrel Roll (And Other Reasons They're Amazing)
 What Apple Patent #7,966,578 Really Means for Android
+What Astronauts Do When There’s Nothing to Do
 What Chromium and WebKit Mean for Android's Browser
 What Device Makers Can Learn From Android Failures
 What Ditching the Desktop Would Mean for Windows 8 on ARM

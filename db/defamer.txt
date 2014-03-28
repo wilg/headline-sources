@@ -14,6 +14,7 @@
 $1000 Prize Offered for New Nikki Finke Photos
 'Exploding Actresses' Does Exactly What It Says on the Tin
 'Real Housewives of NYC' Cast Caught Staging, Re-filming Scenes
+10 Movies That Were Made Worse By Reshoots
 12 Years A Slave Receives A Standing Ovation at The Toronto Film Fest
 12 Years a Slave: Can a Movie Actually Show the Horror of Slavery?
 16 and Pregnant Returns, Plus MTV Might Revive Original Teen Mom
@@ -43,6 +44,7 @@ AMC Is About To Pick Up Two New Dramas, Knifeman and Galyntine
 Aaron Carter Got Beat Up in Boston for Being on 'New Kids' Turf
 Aaron Paul and Bill Murray Totally Hung Out at a Kings of Leon Concert
 Actor James Rebhorn Penned His Own Heartbreaking Obituary
+Actresses Lament Being Typecast in Pretty Stellar 'Royals' Parody
 Adorable Old Man Vincent Chase Thinks Entourage Stole His Identity
 Advertisers Make The World Go 'Round: This Week's Sponsors
 Agents Love Money: The William Morris Alphabet Dear John Game
@@ -71,6 +73,7 @@ Angelina Jolie's Face Spurs Massive Internet Dialogue
 Animal Planet Cages Sick "Wild" Coyote to Make its Stupid Fake Show
 Anne Hathaway: DRAMA QUEEN
 Anthony Hopkins Wrote Bryan Cranston an Amazing Fan Letter
+Anti-Games Senator Accused Of Being A Grand Theft Auto Character
 Apprentice Washout Hired By Raiders
 Arby's Bought Pharrell's Arby's Hat on Ebay for $44,000
 Archer Promotes Fifth Season by Posting Nudes on Reddit's GoneWild
@@ -364,6 +367,7 @@ Free Bikes? No, It's Just Heidi Klum
 Friends Defense: Our Writers Need to be Filthy to be Semi-Funny
 Friends Finish: Eh, Who Cares If You Find Out?
 Fuck You Too, Piers Morgan: Crashing Sean Penn's Golden Globes Party
+GTA Online Was Made For Heists Like This
 Game Of Thrones Jack Gleeson Is Done Acting Once King Joffrey Is Gone
 Gandolfini's Greatest Hits
 Gandolfini's Last Meal: 8 Drinks, Mayo-Drowned Prawns , NY Post Says
@@ -462,6 +466,7 @@ Hollywood's Cracking Ego Economy
 Hollywood's Least Liked Exec List: A Who's Who Of Hollywood No Names
 Hollywood's Walk Of Fame Throws Some Serious Shade At Kim Kardashian
 Holy crap, this parrot is actually a woman posing in bodypaint
+Holy wow, the full length trailer for Jupiter Ascending is incredible
 How Bad is M. Night Shyamalan's New Movie? (Really Bad.)
 How CBS' President And Variety's Editor In Chief Are In Bed Together
 How Comcast-TWC Will End Your All-You-Can Internet Buffet
@@ -473,6 +478,7 @@ How I Met Your Mother Ends Next Week and Everyone Is Miserable
 How I Met Your Mother's 200th Episode Celebration Is Adorable
 How Isaiah Washington Made One Monster and Destroyed Another
 How OK! Faked Its Jessica Simpson Weight-Loss Cover
+How We Won the War on Dungeons & Dragons
 How the Shutdown Will Screw Hollywood
 How to Get Arrested at Sundance
 How to Get Kicked Out of Chateau Marmont Without Drugs: A Liveblog
@@ -484,6 +490,7 @@ I Can't Stop Watching the New Game of Thrones Trailer
 I Found Anthony Weiner At a Gay Bar
 I Got My Toes Sucked By Tarantino And All I Got Was This Lousy Blog
 I Saw the Full Kanye HBO Pilot and It Is Incredible
+I don't know why I like this animation so much
 If Celebrities Looked Like Their Worst Fan Art
 If You Go to Aaron Paul's House He Will Come Out and Chat With You
 If You Want To Sell A Car, Just Ask Ron Burgundy
@@ -496,6 +503,7 @@ In the White Room With Black Writers: Hollywood's "Diversity Hires"
 Indiana Jones 4: Don't Hold Your Breath
 Indiewire:"What Is a Blog?"
 Insidious Chapter 2 Would Be Scary If It Made Sense
+Instagram Photos Give A Rare Look At Life Inside North Korea
 Insufferable Article Written
 Insufferable Dating Blog Forty Days of Dating Sells Movie Rights to WB
 Iraqi Prisoners Encounter A Nasty Clique
@@ -675,6 +683,7 @@ Merger Mania: NBC and Universal Get It On
 Merry Christmas, Here Is The 22 Jump Street Red Band Trailer
 Miami Police Release Justin Bieber's Booking Video
 Michael Bay Was Attacked By An Air Conditioner Wielding Extortionist
+Michael Bay's First Teenage Mutant Ninja Turtles Trailer Is Here
 Michael Jackson Dies at 50
 Michael Ovitz's Best Laid Plans Dept.
 Mike Fleming Brutally Maligns Nikki Finke In The Battle For Deadline
@@ -731,6 +740,7 @@ New Girl Doesn't Need Your Real Crosswalks, They'll Paint Their Own
 New Hotness: Twins and Trouble
 New Mackenzie Phillips Book Exposes Incestuous Father
 New Mad Men Photos: Which Character Has the Best Late '60s Look?
+New TV Show: Women Tricked Into Believing They're Dating Prince Harry
 New York Times Reviewers Called Hugh Jackman and Anderson Cooper Gay
 New-ish Talent Agency Resolution Gets Into the Women Beating Business
 Next Daredevil Movie: Less Daredevil, Less Affleck
@@ -831,6 +841,7 @@ Report: Amazon Might Create an Online TV Service To Compete With Cable
 Report: Justin Bieber's Jet Detained Because of “Strong Odor of Pot”
 Report: Steve McQueen and John Ridley Fought Over Screenplay Credit
 Report: TV Still Too White
+Rick Santorum's Wholesome Film Studio Has a Smutty Anime Secret
 Rick Santorum, Big-Wig Producer of Unrated Westerns
 Ridley Scott Will Be Directing A Movie About NFL Concussions
 Robert Downey Jr. Made $75 Million This Year
@@ -1056,6 +1067,7 @@ This Is How We Do Things In L Effing B
 This Is The Stupidest, Most LA Business Card Ever
 This Is What God Saw Last Night And Other Defamer Reanimation News
 This Is What Happens When Someone Like Kanye West Attacks You
+This Is What Happens When You Drive Like an Asshole
 This Is the 161-Year-Old New York Times Article About 12 Years a Slave
 This Is the Only Spoils of Babylon Scene You Need To See
 This Kid Probably Has Way More Swag Than You
@@ -1068,6 +1080,7 @@ This Publicist Is the Ultimate Mean Girl
 This Seductive Nickelback Selfie Is the Douchiest Video Ever
 This Vine Of Alison Brie Dancing To "Everybody Dance Now" Is Perfect
 This Week in Tabloids: Kanye Didn't Give Kim a Blingy Push Present
+This is what all the signs and symbols at the airport runway mean
 This video is so insane that I had to stop watching
 Though police suspect he died from an overdose, Philip Seymour Hoff...
 Three Charged In Philip Seymour Hoffman Heroin Investigation
@@ -1216,9 +1229,11 @@ You Can See All The Nazi Stars As You Walk Down Hollywood Boulevard
 You Expected Maybe Penelope Cruz?
 You Might Start Seeing Pro-Obamacare Propaganda In Your TV Shows
 You Won't Believe How Much Everyone on TV Makes
+You must watch this amazing guy playing Star Wars on a pipe organ
 Young Hollywood Men Not Manly Enough, Says Writer
 Your Baby's Name Is Probably Stupider Than "North West"
 Your Guide to Shailene Woodley, America's Sacred Moonchild
+Zac Efron Allegedly Punched in the Face During Skid Row Fight
 Zac Efron's Butt Is Way Cute In The NSFW That Awkward Moment Trailer
 Zach Galifianakis Interviewed President Obama on Between Two Ferns
 Zod Fans Criticizing New Superman in Restroom Run Into Terence Stamp

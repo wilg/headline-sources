@@ -2552,6 +2552,8 @@ Interviews with Barbers: Joe, Who Works at the Barbershop at the Port Authority 
 Interviews with Drivers of Lunch Trucks: Massachusetts Lunch Truck Driver Interview
 Interviews with Drivers of Lunch Trucks: Non-Massachusetts Lunch Truck Driver Interviews
 Interviews with Neighbors
+Interviews with the Authors of McSweeney’s 46: The Latin American Crime Issue: Andrés Felipe Solano
+Interviews with the Authors of McSweeney’s 46: The Latin American Crime Issue: Jorge Enrigue Lage
 Interviews with the Authors of McSweeney’s 46: The Latin American Crime Issue: Mariana Enriquez
 Interviews with the Authors of McSweeney’s 46: The Latin American Crime Issue: Santiago Roncagliolo
 Introducing 90 Days, 90 Reasons
@@ -4970,6 +4972,7 @@ Monologue: Hark! I Am Obama—Slayer of Jobs!
 Monologue: Having Just Completed a Three-Week Throw-Intensive Judo Course, I Strongly Advise You Not to Fuck With Me
 Monologue: Heart for Sale, Slightly Torn
 Monologue: Henry David Thoreau Can’t Take Much More of These Goddamn Steam Whistles
+Monologue: Hey Everyone, I’m Going to Have a Loud Phone Conversation On This Crowded Bus
 Monologue: Holden Caulfield Gives the Commencement Speech to a High School
 Monologue: Holiday Basket Case
 Monologue: I Am Selling Candy for My Basketball Team or My Conceptual Art Project
@@ -5466,6 +5469,7 @@ On the Cutting of Franklin Elementary’s Poker Budget
 On the Implausibility of the Death Star’s Trash Compactor
 On the Night Shift, An interview with Aaron Bostian, on Vacuuming, Scrubbing, and Mopping
 On the Occasion, Give or Take, Of the Fiftieth Anniversary of the First Staging, In Paris, Of Samuel Beckett’s Waiting for Godot, A Few Representative Selections from The Annotated Treasury of Waiting For Godot Parodies
+On the Trail of Mary Jane: Budtender Customer Service and You
 On the Trail of Mary Jane: Down on The Farm
 On the Trail of Mary Jane: Finding the Natural Way
 On the Trail of Mary Jane: The Benefits of Membership
@@ -7249,6 +7253,7 @@ The Severely Allergic Restaurant Critic
 The Sexually Fluid Person’s Guide to a Seamlessly Uneventful Coming Out
 The Short Essay That Conquered the Planet
 The Sigmund Freud Blues Band’s Liner Notes
+The Single Woman’s Guide to Training for a Half-Marathon
 The Sirens’ Performance Review
 The Six Million Dollar Man Writes a Letter to the United States Department of Veterans Affairs
 The Sixth Batch, 2008
@@ -7873,6 +7878,7 @@ You Look at Me Like You’ve Never Seen a Neo-Hipster Before
 You Never Think You’re Going to Be the Type of Space Captain to Throw Someone Out the Airlock
 You Seem Distant Since I’ve Attained Enlightenment
 Your Alien Fetus is a Miracle of Life
+Your Baby’s Klout Score is In the 25th Percentile
 Your Best Friend in a Romantic Comedy Is Always There for You
 Your Best Guy Friend Is Me
 Your Candidate for Class Treasurer Has Something to Disclose

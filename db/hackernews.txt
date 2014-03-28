@@ -540,6 +540,7 @@ APIs that will transform the Web in 2013
 AR Drone That Infects Other Drones With Virus Wins DroneGames
 ARM immediate value encoding
 ARM64 and You
+ASCII Delimited Text – Not CSV or TAB delimited text
 ASCII Google Streetview
 ASCII diagram creator
 ASK PG: Why HN killed a reasonable complain about YC company
@@ -727,6 +728,7 @@ Amazon Coins Launching
 Amazon Digital Markup: 129,000%
 Amazon Drops Price Of EC2 Dedicated Instances By Up To 80%
 Amazon DynamoDB – a Fast and Scalable NoSQL Database Service from AWS
+Amazon EC2 Pricing Changes Effective April 1, 2014
 Amazon EC2 currently down. Affecting Heroku, Reddit, Others
 Amazon Elastic Transcoder
 Amazon Glacier
@@ -735,6 +737,7 @@ Amazon Prime Air
 Amazon Prime members buy twice as much, don't compare on price
 Amazon RDS for PostgreSQL
 Amazon S3 - Cross Origin Resource Sharing Support
+Amazon S3 Pricing Changes Effective April 1, 2014
 Amazon Signs Up Authors, Writing Publishers Out of Deal
 Amazon Staff Meetings: “No Powerpoint”
 Amazon Supply
@@ -1143,6 +1146,7 @@ Ask HN: I'm desperate to stay in Denmark. Anyone need a great web/ios dev?
 Ask HN: I'm lost. Please help
 Ask HN: I'm quadriplegic – can you help me with my security?
 Ask HN: Is TDD/BDD hampering your startup's agility?
+Ask HN: Is it me or ...?
 Ask HN: Just received an offer for our company, what now?
 Ask HN: Learn Math the Hard Way
 Ask HN: Looking for contributors?
@@ -3808,6 +3812,7 @@ Guide to Programming Clojure For Beginners
 Guido van Rossum's Performance tips for Python
 Guido van Rossum: Before Python
 Gunshot detection system transforms and raises issues
+Gunshot victims to be suspended between life and death
 Guy Asks For Software Crack, Creator Provides Free App Instead
 Guy Kawasaki: What I learned from Steve Jobs
 Guy commits his genome to Github, smartass forks and issues a pull request
@@ -5846,6 +5851,7 @@ MITx positions to offer certification for completing courses online
 MIT’s Non-Stick Coating Keeps Ketchup Flowing
 MIT’s ‘Artificial leaf’ makes fuel from sunlight
 ML researcher replies to request to review paper for closed journal
+MLB.com is using my Google Analytics code
 MLPY - high-performance Python library for predictive modeling
 MMM Receives Legal Threats
 MMO Asteroids
@@ -6096,6 +6102,7 @@ Microsoft helped the NSA bypass encryption, new Snowden leak reveals
 Microsoft hires designer behind "The Next Microsoft", Andrew Kim
 Microsoft just bought Nokia for $0
 Microsoft keeps it old-school with a pricey text adventure game
+Microsoft launches Office for iPad
 Microsoft launches an HTML5 version of Cut the Rope
 Microsoft looking to release Office for Linux in 2014
 Microsoft made their own IE6-countdown site.
@@ -6132,6 +6139,7 @@ Mihai Pătraşcu 1982–2012
 Miles Davis – blind listening test
 Militarizing your backyard with Python, Arduino, and computer vision.
 MineCraftWebGL
+Minecraft creator says he’s canceled talks for Oculus Rift version
 Minimal wireframing tool - for free
 Minimalism: It Works
 Minimum Viable Personality
@@ -6249,6 +6257,7 @@ Mozilla urges its users to raise their voice against SOPA
 Mozilla will add H.264 to Firefox as Cisco makes push for WebRTC’s future
 Mozilla's BrowserQuest - Massively Multiplayer HTML5 Experiment
 Mozilla's New Fira Typeface
+Mozilla's low-overhead open source replay debugger
 Mozilla's secure coding guidelines for web developers
 Mozilla, EFF, Reddit And 83 Other Organizations Launch StopWatching.Us
 Mozilla, WebKit To Support Debugging CoffeeScript and other JS Languages
@@ -6772,6 +6781,7 @@ Occupy Portland's Dec 3rd Tactic to Neutralize Police
 Occupy Wall Street activists buy $15m of Americans' personal debt
 Ocean acidification due to carbon emissions is at highest for 300m years
 Octopress - A blogging framework for hackers
+Oculus Joins Facebook
 Oculus Rift Will Change Your Gaming World
 Oculus Rift co-founder killed by gang trying to escape police
 Oculus Rift: Step Into the Game
@@ -7773,6 +7783,7 @@ Ron Paul Launches Snowden Clemency Petition
 Ron Paul speaks against SOPA
 Ron Paul’s Farewell Address: The Internet Can Stop Big Government
 Room Temperature Superconductivity Found in Graphite Grains
+RoomScan: Get a Floor Plan in Minutes Just By Walking Around the Room
 Root Domain Website Hosting for Amazon S3
 Root keys for Sony’s PlayStation 3 go public
 Rootbeer GPU Compiler Lets Almost Any Java Code Run On the GPU
@@ -8744,6 +8755,7 @@ Steve Jobs' exchange with Palm CEO Ed Colligan
 Steve Jobs' memo to startups
 Steve Jobs' reality distortion takes its toll on truth
 Steve Jobs's Real Genius
+Steve Jobs's response after getting a Google employee fired.
 Steve Jobs, BMW & eBay
 Steve Jobs, LSD and Drug Freedom
 Steve Jobs: Thank you for disobeying me
@@ -8804,6 +8816,7 @@ Stripe open-sources Einhorn
 Stripe partners with Chilling Effects
 Stripe raises $18 million from Sequoia
 Stripe's 22-Year-Old Irish-Born Founder Is Just Getting Started
+Stripe: Bitcoin Sign-up
 Stripe: Marketplaces
 Stripe: instant payment processing for developers
 Strongbox and Aaron Swartz
@@ -10068,6 +10081,7 @@ Tune In, Turn On, Drop Out – The Startup Genome Project
 Tupac image performs at Coachella [video]
 Turkey becomes first country ever to ban Google DNS
 Turkey blocks use of Twitter after prime minister attacks social media site
+Turkish government takes down YouTube too
 Turn It Off: NSA's Achilles' Heel
 Turn a Raspberry Pi into an FM transmitter
 Turn any application that uses stdin/stdout into a WebSocket server
@@ -10423,6 +10437,7 @@ Vimroom
 Vinod Khosla Wants Californians To Keep Out of Martins Beach
 Violated: A traveler’s lost faith, a difficult lesson learned
 Viral Video About Body Scanners
+Virtual Reality is going to change the world
 Virtual lane graphics for swimming with CSS3
 VirtualBox hotfix now available for OS X 10.8.2 problem
 Virtualenv to be part of Python 3.3
@@ -10537,6 +10552,7 @@ We got a takedown notice from LifeShield for our positive review
 We have an employee whose last name is Null. He kills our employee lookup (2012)
 We know what you're doing
 We made something. We use it. We love it. Apple rejected it
+We may have witnessed a NSA "Shotgiant" TAO-like action
 We need a GitHub of Science
 We need help with the disappearance of Security Researcher Dancho Danchev
 We now have an effective vaccine for Malaria
@@ -10763,6 +10779,7 @@ What it's Really Like Working with Steve Jobs
 What it's like in Egypt: An email from my mom
 What it's like to skydive through a thunderstorm
 What it's like to uncover a $1 billion fraud
+What it's like to use Haskell
 What it’s like to die
 What it’s like to work for Stripe
 What killed the Linux desktop
@@ -10812,6 +10829,7 @@ What's up with HN?
 What's with this anti-directory structure movement?
 What's wrong with OKCupid's matching algorithm.
 What's wrong with this code, really?
+Whatever goes up, that’s what we do
 Whatever happened to due process?
 Whatever happened to the Hurd? – The story of the GNU OS
 Whatever works for you
@@ -11208,6 +11226,7 @@ Why does that QR Code go to justinsomnia.org?
 Why does the C preprocessor interpret the word “linux” as the constant “1”?
 Why does the alarm clock snooze button give you nine extra minutes, not ten?
 Why does this png display differently in Chrome/Firefox than in Safari/IE?
+Why doesn't GCC optimize a*a*a*a*a*a to (a*a*a)*(a*a*a)? (2013)
 Why doesn't every company buy developers the best hardware?
 Why don't metals bond when touched together?
 Why don't they just..?
@@ -11718,6 +11737,7 @@ xkcd: Instagram
 “Please let me know if I should stop developing apps for Google Products”
 “Real Names” Policies Are an Abuse of Power
 “Right click and save as” needs to go away
+“The Mill” – It just might Work
 “The Tesla Model S is our top-scoring car”
 “The working group should not agree to freeze whatever syntax Chrome ships”
 “This presentation can’t be opened because it’s too old”
