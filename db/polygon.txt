@@ -142,6 +142,7 @@ Activision Blizzard finalizes purchase from Vivendi
 Activision Blizzard hit with lawsuit by shareholder
 Activision Blizzard separation halted
 Activision beats its expectations for third-quarter 2013 earnings
+Activision closing UK-based Call of Duty mobile studio
 Activision confirms new Tony Hawk game in development
 Activision eyeing possible closure of Call of Duty mobile studio
 Activision files software patent infringement suit against Worlds Inc
@@ -255,6 +256,7 @@ Angry Birds theme park opens in China
 Angry Birds' next game gets a knightly teaser trailer
 Angry Birds: Star Wars' PS4 features aim to 'sell that couch experience'
 Angry fun in local co-op with side-scrolling shooter Enemy Mind
+Animal Crossing's creators on new console versions, mobile connectivity and fatigue
 Animal Crossing: New Leaf devs to give postmortem talk at GDC 2014
 Animal Crossing: New Leaf director says team diversity, communication core to its success
 Animating BioShock Infinite's Elizabeth to foster emotional connections
@@ -437,6 +439,7 @@ BandFuse: Rock Legends hits PS3 and Xbox 360 Nov. 19
 Bandai Japan Mario figures now available for pre-order
 Bandai Namco picks up space shooter GoD Factory: Wingmen
 Banished - Overview video
+Banished review: feast or famine
 Barkley 2 pre-alpha gameplay footage released
 Basement Crawl brings its grindhouse flavor to Europe Jan. 29
 Basement Crawl gameplay screens show unsettling scenery
@@ -492,6 +495,7 @@ Battlefield 4 Commander app gets visual tweaks, bug fixes
 Battlefield 4 DLC delay causes EAâs stock to dip
 Battlefield 4 Dragon's Teeth expansion delivers two-handed ballistic shield
 Battlefield 4 Gamescom video explains how 'Levolution' changes the way you play
+Battlefield 4 Naval Strike DLC and update rolling out to Xbox One
 Battlefield 4 Naval Strike DLC delayed on Xbox One, dev aims for 'early April' release
 Battlefield 4 Naval Strike expansion delayed for PC indefinitely
 Battlefield 4 Naval Strike hits Battlefield Premium members March 25
@@ -580,6 +584,7 @@ Bears vs. Art gameplay trailer pits grizzlies against lasers
 Beat up disembodied Hello Kitty heads in this Puzzle and Dragons add-on
 Become an Arma 3 game master later this year with Zeus DLC
 Behemoth, Playdead, Robomodo among ID@Xbox's new developers
+Behind the music of Infamous: Second Son
 Behind the music of PS Vita yarn Tearaway
 Behind the scenes of Dark Souls 2
 Behind the scenes of Final Fantasy 13: Lightning Returns
@@ -650,6 +655,7 @@ BioWare co-founder Dr. Ray Muzyka to give MIGS keynote
 BioWare hosting Mass Effect N7 Day multiplayer events, charity auction
 BioWare internally discussed remastered Mass Effect games for next-gen consoles
 BioWare releasing character designs for Dragon Age: Inquisition
+Bioshock Infinite: Burial at Sea Episode Two review: a drop in the ocean
 Bit.Trip Runner 2 hitting PS Vita Dec. 17
 BitSummit 2014 grants first awards, nearly triples last year's attendance
 BitSummit 2014 lineup features keynote from Rez and Lumines creator
@@ -1030,6 +1036,7 @@ Check out Nintendo's new Kyoto office with an old-school logo
 Check out Sony's list of PS4 games hitting in 2014, DriveClub is TBA
 Check out South Park: The Stick of Truth's three new videos
 Check out SpyPartyâs new artwork in motion
+Check out The Amazing Spider-Man 2's dual-triggered swinging and Peter Parker on PS4
 Check out the achievements for BioShock Infinite's Burial at Sea
 Check out this Super Mario Bros. mural on the side of a school
 Chess 2: The Sequel launches Jan. 21 on Ouya
@@ -1108,6 +1115,7 @@ Command and Conquer's factions and new unit types detailed
 Commander Video is racing to iOS in Bit.Trip Run
 Commodore 64 version of Ultima 4 hits iOS for free
 Company of Heroes 2 and Saints Row 4 free to play this weekend
+Company of Heroes 2 expands with The Western Front Armies this June
 Company of Heroes 2 getting two free maps Sept. 24
 Company of Heroes 2's Turning Point expansion hits Nov. 12
 Company of Heroes 2's Victory at Stalingrad DLC coming Nov. 12
@@ -1202,6 +1210,7 @@ Curt Schilling holding estate sale at his Mass. home
 Custom Xbox One controller designs available now
 Customization was heavy focus in canceled EA college football game
 Cut the Rope 2 coming to iOS devices Dec. 19
+Cut the Rope 2 hits Android, series surpasses half a billion downloads
 Cut the Rope dev challenges King's 'candy' trademark in EU
 Cut the Rope goes 3D with Cut the Rope: Triple Treat on 3DS
 Cut the Rope is now playable on Nintendo 3DS
@@ -1291,6 +1300,7 @@ DayZ reaches 1M in sales, 'shots fired' against traditional publishing model
 DayZ sales hit 'nearly 800,000' in first month
 DayZ standalone still not out due to optimization issues and bug fixing
 DayZ to increase in difficulty once new vehicles are introduced
+DayZ update bringing fixes, cooking tweaks and new weapons
 DayZ video offers eight and a half minutes of raw footage
 DayZ's Dean Hall will continue to be available for Bohemia in leadership or creative roles
 DayZ, Dark Souls and the pleasures of being a jerk online
@@ -1334,6 +1344,7 @@ Dead Rising 3's multiple endings and post-game roaming
 Dead Rising 3, Ryse, Forza 5 include Day One Edition DLC (update)
 Dead Rising 3: Chaos Rising launch trailer features a mad biker
 Dead Rising 3: The Last Agent now available on Xbox Live
+Dead Space is free on Origin until May 8
 Dead Trigger 2 out this week for Android and iOS
 Dead or Alive 5 Ultimate Arcade's newest fighter is a GothLoli Russian-styled martial artist
 Dead or Alive 5 Ultimate adds 2v2 online tag battles
@@ -1346,6 +1357,7 @@ Deadly Premonition iPad book out Oct. 15
 Deadly Premonition pre-orders 10 percent off on Steam
 Deadly Premonition: The Director's Cut coming to Steam on Halloween
 Deadly Premonition: The Directorâs Cut digital book up for pre-order
+Deadman's Cross is Square Enix's 'first step' towards a broader mobile market
 Deadpool and other Marvel Activision titles delisted from digital stores (update)
 Dean Hall to step down as head of DayZ, leaving Bohemia Interactive
 Dear Esther developer Robert Briscoe joins Valve
@@ -1764,6 +1776,7 @@ Endless Space dev expanding with fantasy sequel and roguelike side-project
 Endless Space: Disharmony finds a new planet and heroes in November
 Endless Space: The Search for Auriga update now available
 Endless waves of Martians attack earth in Romans from Mars
+Enemy Front blasting its way to Xbox 360, PS3, Windows PC this summer
 Enemy Front explores the lesser-known battles of WWII
 Enemy Front promises a World War II 'combat sandbox'
 Energy Hook alpha build available instantly with pre-order
@@ -1783,6 +1796,7 @@ Epic VP 'not sold' on second screen tablet gameplay
 Epic explains explosion from Unreal Engine 4 'Infiltrator' demo
 Epic's Jim Brown on why games should ditch the three-act structure
 Ernesto: an RPG without text, waiting, grinding or spatial movement
+Escape Goat 2 - Overview video
 Escape Goat 2 delayed, new date coming after PAX Prime
 Escape Goat 2 launches on PC, kicks off Double Fine's initiative to aid indies
 Escape Goat 2 review: get smart
@@ -1890,6 +1904,7 @@ FMV game developer Kenneth Melville passes away
 FTL getting a free expansion, iPad version in early 2014
 FTL: Advanced Edition features a new alien race of metallic scavengers
 FTL: Advanced Edition's Clone Bay, hacking system detailed
+FTL: Faster Than Light's free expansion and iPad port both coming April 3
 FX animated sitcom 'Chozen' debuts a week early on Xbox One
 Fable Anniversary - Overview video
 Fable Anniversary classified R18+ in Australia
@@ -2098,6 +2113,7 @@ Former Mythic dev calls on EA to release server-free version of Warhammer Onlin
 Former Need for Speed: Shift dev unveils free-to-play racer
 Former Nintendo President Hiroshi Yamauchi passes away at 85 (update)
 Former THQ boss Danny Bilson has plans to revive Guillermo del Toro's Insane
+Former Valve developer Michael Abrash joins Oculus as Chief Scientist
 Former Valve engineers launch Kickstarter for 3D AR and VR headset
 Former Zynga and EA COO John Schappert forms new studio, Shiver Entertainment
 Former Zynga devs behind CastleVille form Boss Fight Entertainment
@@ -2107,6 +2123,7 @@ Forza 5 Paddock Edition limited to 3,000 units
 Forza 5 developer drops car prices, increases credit payouts for Dec.
 Forza 5 gameplay trailer races through the snow-covered Alps
 Forza 5 to include Supercheap Auto Bathurst 1000 track
+Forza 5 update makes it free to add owned DLC cars to your garage
 Forza 5 video makes a gigantic high-speed animated flipbook in real life
 Forza Motorsport 5 Car Pass to add 60 cars over six months
 Forza Motorsport 5 gets 10 new performance cars on Feb. 4
@@ -2124,6 +2141,7 @@ Four ways to approach combat in Killzone: Shadow Fall
 Foxconn developing mobile games, first title coming in six months
 Framed lets you pivot and turn to tell a story
 Framed trailer switches comic panels for a whole new tale
+France gets Twitch infrastructure upgrade, as company eyes other regions for expansion
 Free Guild Wars 2 trial this weekend
 Free MOBA SmashMuck Champions hits Steam
 Free PS Plus games in Feb. include Remember Me, Metro: Last Light
@@ -2365,6 +2383,7 @@ GameStop's leaked Black Friday ad includes 12 pages of discounts
 GameStop's next task: keeping in-person shopping relevant to digital products
 GameStop, Amazon delivering PS4s to those who pre-ordered the Watch Dogs bundle (update)
 GameStop, Tomb Raider, and how retail and online competition remains unfair
+GameStop-exclusive Peach Pink 2DS available for pre-order today (update)
 Gamefly 'Build Your Own Bundle' sale features Rockstar, Ubisoft and more
 Gameloft sales up 15% as virtual item sales grow
 Gameolith's Black Friday sale takes 75 percent off Paradox and Frozenbyte titles
@@ -2586,6 +2605,7 @@ Halo's beloved 'Mister Chief' comes to unsettling life as an Xbox Live avatar
 Halo: Spartan Assault headed to Xbox 360, Xbox One this holiday
 Halo: Spartan Assault hits Xbox 360 tomorrow
 Halo: Spartan Assault hits Xbox One Dec. 24, 360 version delayed
+Halo: Spartan Assault lands on Steam April 4
 Halo: Spartan Assault launches for Xbox One a day early
 Halo: Spartan Assault review: tin soldiers
 Halo: Spartan Assault update adds new missions, wired controller support
@@ -2594,6 +2614,7 @@ Halo: Spartan Assault-themed Mustang coming to Forza 5
 Han Solo gets one of the final four tables coming to Star Wars Pinball
 Hanakai Studio's Prodigy uses NFC to marry the real with the digital
 Hand of Fate brings together roguelike deck-building with God of War-style combat
+Hand of Fate roguelike deck-building RPG heading to PS4, PS Vita
 Hands on with the monsters and multiplayer mayhem of Evolve
 Hands on with what could be one of the Oculus Rift's best launch titles
 Hands-on with Capcom's Deep Down for PlayStation 4
@@ -2919,6 +2940,7 @@ How female representation in games affects women
 How flimsy games characters lead to bad movies
 How game development is changing movie-making
 How gang members helped make Grand Theft Auto 5
+How have clones hurt Threes?
 How important is 1080p to this generation of games?
 How indie devs are finding success, and publicity, in toys and merch
 How indie games went mainstream
@@ -2957,6 +2979,7 @@ How to Survive's challenges are a race off zombie-infested islands
 How to beat Super Mario Bros. with the lowest score possible
 How to beat Threes!
 How to design a plague
+How to dominate in Infinite Crisis with Nightmare Superman
 How to get TV remotes to work with the PS4
 How to grief your friends with Watch Dogs' free companion app
 How to make a narrative game endlessly replayable
@@ -3095,6 +3118,7 @@ Infinity Blade 3: Ausar Rising ready to expand iOS combat world
 Infinity Blade free in App Store
 Infinity Blade: Redemption novella coming in September
 Infinity Ward outlines new Call of Duty: Ghosts clan rules
+Infinity Ward teases Predator DLC for Call of Duty: Ghosts
 Infinity Wars closed beta keys available for YouTube, Twitch channels
 Ingress exits open beta Dec. 14
 Injustice: Gods Among Us - Ultimate Edition launch trailer runs down the roster
@@ -3249,6 +3273,7 @@ Killer Instinct FightStick Tournament Edition 2 for Xbox One pre-orders now open
 Killer Instinct Season 2 planned for 2014
 Killer Instinct arcade stick prototype revealed for Xbox One
 Killer Instinct fighters to cost $4.99, discounted in packs
+Killer Instinct gets a new developer, Fulgore title update arrives April 9
 Killer Instinct patch switches free character from Jago to Sabrewulf
 Killer Instinct review: original sin
 Killer Instinct to have early testing through Xbox One's dev kit feature
@@ -3324,6 +3349,7 @@ Kingdom Hearts HD 2.5 Remix arriving in 2014 on PS3
 Kingdom Hearts HD 2.5 Remix revisits familiar lands
 Kingdoms of Amalur free on PS Plus in October
 Kirby Triple Deluxe coming to 3DS in 2014
+Kirby Triple Deluxe gives its titular pink puff the power to go hypernova
 Kirby Triple Deluxe trailer; launch dated for May 2
 Kirby: Triple Deluxe coming to Japan on Jan. 11
 Kixeye expands to Portland
@@ -3439,6 +3465,7 @@ Lego The Hobbit's first trailer wants no adventure here, good morning
 Leisure Suit Larry creator quits after publisher sex scandal
 Leisure Suit Larry series continues with free-to-play poker game later this year
 Leisure Suit Larry: Reloaded hits retailers Oct. 29
+Leland Yee could be voted out of Calif. Senate if he doesn't step down
 Lemmings Touch coming to PS Vita
 Lending a voice to young Batman is 'surreal,' says Arkham Origins actor
 Less than half of Rovio's 800 employees are making games
@@ -3446,7 +3473,9 @@ Level-5 boss Akihiro Hino on how Wonder Flick links up consoles with smartphone
 Level-5's Wonder Flick coming to smartphones and next-gen consoles in Japan
 Licensed Mega Man The Board Game to hit Kickstarter soon
 Lichdom brings first-person spellcasting to PC summer 2014
+Lichdom: Battlemage gave the male and female heroes a life, a writer and a voice
 Life after Titanfall
+Life is short in strategy game Hero Generations
 Life.Love Game Design Challenge earmarks $7K for a game to prevent violence
 Lightning Returns Collector's Edition available exclusively through Square Enix store
 Lightning Returns guidebook-exclusive DLC put on sale, Square Enix apologizes
@@ -3694,6 +3723,7 @@ Mega64 10th anniversary Blu-ray collection hits Nov. 29
 Memoria launch trailer tells a story of two heroes across time
 Memoria review: unforgettable
 Men sentenced to prison for defrauding more than 11,000 World of Warcraft accounts
+Mercenary Kings - Overview video
 Mercenary Kings dev aiming for 'early 2014' release
 Mercenary Kings hits PS4 'this winter,' dev says
 Mercenary Kings hits PS4 April 1
@@ -3783,6 +3813,7 @@ Microsoft releases three classic Windows time-wasters for Windows Phone 8
 Microsoft remains 'extremely committed' to Xbox, says Phil Spencer
 Microsoft reports $24.52B in Q2 revenue, 7.4M Xbox consoles sold
 Microsoft reveals DirectX 12
+Microsoft reveals Kinect for Windows v2 design, getting 'closer and closer' to launch
 Microsoft reveals new holiday Xbox 360 bundles, $50 off each through Jan.
 Microsoft teases image of retail edition Xbox One
 Microsoft teasing Xbox One exclusive from a 'wonderful' Japanese dev
@@ -4083,6 +4114,7 @@ New Toy Soldiers for PS4 and Xbox One in development
 New Transformers game Rise of the Dark Spark outed for Xbox One and PS4 by retailer
 New WWE 2K14 DLC featuring legendary fighters available today
 New WWE title confirmed for next-gen release in 2015 fiscal year
+New Watch Dogs trailer welcomes players to Chicago
 New Wii Party U gameplay trailer is all about the minigames
 New Wii U system update lets you output Wii games to GamePad
 New World of Warcraft female orc design brings out her 'warrior side'
@@ -4263,6 +4295,7 @@ Nosgoth closed alpha kicks off in Scandinavia next week
 Nosgoth gameplay premieres with vampire versus human hunting
 Nosgoth is a free-to-play game set in the Legacy of Kain universe
 Nosgoth is free-to-play but not pay-to-win, says Square Enix
+Nosgoth is now on Steam Early Access
 Nosgoth testing welcoming more players this month, moving to closed beta
 Nosgoth tests extended to North America and all Europe
 Nosgoth's closed beta starts Feb. 27, classic skins revealed
@@ -4346,6 +4379,7 @@ Oklahoma senator's annual 'Wastebook' cites video games
 OlliOlli DLC is unplanned but possible, dev says
 OlliOlli bringing infinite skateboarding to PS Vita Jan. 21
 OlliOlli coming to PC, devs debuting new game at Rezzed
+OlliOlli developer Roll7 reveals iso cover-shooter called Not a Hero
 OlliOlli heading to Linux, Mac, PlayStation 3, PS4 and Windows this summer
 OlliOlli launch delayed into 2014
 OlliOlli review: in the air
@@ -4463,6 +4497,7 @@ PES 2014 patch brings online modes to Xbox 360
 PES 2015 confirmed for PS4, no word on Xbox One, Wii U
 PES 2014 launching in Europe on Sept. 19, UK on Sept. 20
 PS Plus in November: Warframe Starter Pack free, discounts revealed
+PS Plus members get Batman: Arkham City, Mercenary Kings, more free in April
 PS Plus' first month on PS4 is even better for PS3 and Vita owners
 PS Plus: Poker Night 2 free, new Ultimate Editions, Capcom sale
 PS Plus: Smart Asâ¦ free, Final Fantasy discounts galore
@@ -4672,6 +4707,7 @@ PlanetSide 2 video details new aerial vehicle, mission system, continent and mo
 Planetary Annihilation beta now available
 Planetary Annihilation no longer has a firm release date
 Planetary Annihilation now available from Humble Bundle storefront
+Plants vs Zombies 2: Far Future sci-fi expansion on show
 Plants vs Zombies: Garden Warfare video examines the classes
 Plants vs. Zombies 2 approaching 25 million downloads
 Plants vs. Zombies 2 gets its first major update tomorrow in Far Future
@@ -4851,6 +4887,7 @@ Prince of Persia: The Shadow and the Flame coming to GameStick
 Princess Peach on the roster for new Super Smash Bros.
 Princess Zelda returning to duke it out in next Super Smash Bros.
 PrioVR brings accurate, full-body motion control to games without a camera
+Prior to launch, Ubisoft makes changes to Tom Clancy's Ghost Recon Phantoms
 Prison Architect alpha update 14 adds guard dogs
 Prison Architect alpha update 15 adds mod system
 Pro-gamer team explains Titanfall
@@ -5283,6 +5320,7 @@ SCE Japan president on the PS Vita TV and PS4 Japanese launch date
 SEC accuses Left Behind dev of 'revenue inflation' (Update: CEO says SEC 'conspired' against studio)
 SEC serves subpoena related to 38 Studios lawsuit
 SNK demands a halt to NeoGeo X production
+SOCOM spiritual successor launches on Steam Greenlight
 SOE All Access pass will get you all games for $14.99 this April
 SOE Live 2014 set for Aug. 14-17 in Las Vegas
 SOE president hints at EverQuest Next for PS4
@@ -5416,6 +5454,7 @@ Shadow of the Eternals falls short of Kickstarter goal
 Shadow of the Eternals put 'on hold'
 Shadowloo Showdown 2013 to unleash top international fighters upon Australia
 Shadowloo Showdown 2013 winners, Tokido and Xian dominate
+Shadowrun Online hitting Steam Early Access next week
 Shadowrun Returns 'Berlin' DLC delayed, growing into expansion
 Shadowrun Returns expansion Dragonfall set for January
 Shadowrun Returns now available on iOS and Android tablets
@@ -5539,6 +5578,7 @@ Snoop Lion's latest music video is an homage to Pokemon
 So Many Me developers team up with Spicy Horse for costume pack
 So what's the big deal with Linux?
 Sochi Speed Skating reimagined with Mario Kart rules
+Social sim High School Story is now on Kindle
 Soda Drinker Pro launching with Oculus Rift support Nov. 2
 Soda Drinker Pro takes 50 percent off this week
 Soderlund: Freemium and premium games will 'coexist' on consoles
@@ -5640,6 +5680,7 @@ Sony's sales lead is great news for new Xbox One customers... and EA
 Sony: Gaikai could stream games to PCs, TVs, tablets, smartphones
 Sony: PS3 and PS4 cross-play is 'technically possible' (update)
 Sony: PS4's technical problems are 'isolated' to 0.4% of units shipped
+Sony: Until Dawn a 'really good fit' for Project Morpheus
 Sorcery Saga: Curse of the Great Curry God hits Dec. 10 on PS Vita
 Sorcery Saga: Curse of the Great Curry God review: heartburn
 Sorcery! Part 2 brings Choose Your Own Adventures to iOS this fall
@@ -5742,6 +5783,7 @@ Square Enix docks Final Fantasy 14's character creation, halts sales (update)
 Square Enix founds 'Final Fantasy Committee' to oversee franchise
 Square Enix game streaming service Core Online taken offline
 Square Enix hints at new Mana title in development
+Square Enix hits PAX East 2014 with three games, two panels
 Square Enix holiday sale cuts prices by up to 50 percent (update)
 Square Enix is 'definitely interested' in bringing future Final Fantasy games to PC
 Square Enix launching English-language ebook distribution of manga in April
@@ -5910,10 +5952,12 @@ Strider review: running man
 Strider shows off his ninja powers in a new trailer
 Strider splits the difference between action and adventure
 Strike Suit Zero developer hit by Guildford floods (update)
+Strike Suit Zero: Director's Cut hits April 8 on PS4 and Xbox One, PC later
 Strike Suit Zero: Director's Cut hits PS4, Xbox One next month
 Strike Vector bringing explosive flight simulation to Steam in 2014
 Strike Vector review: danger zone
 Stronghold Crusader 2 seeks funding boost
+Stronghold Crusader 2 trailer shows skirmish mode in medieval Middle East conflict
 Stronghold HD and Stronghold Crusader HD now 30 percent off on Steam
 Student uses Oculus Rift to simulate skydiving
 Students create robotic arm manipulated by PS3 controller
@@ -6047,6 +6091,7 @@ Team Meat teases Mew-Genics gameplay with birthing GIF
 Team Ninja celebrates Halloween with Dead or Alive 5 costumes
 Team Ninja working on a PS4 game
 Team17 re-enters third-party publishing with stealth title Light
+Team17's Flockers coming to Steam Early Access in Q2 2014
 Tearaway gets a demo this Friday and a launch trailer
 Tearaway offers a touching trailer
 Tearaway review: new sensation
@@ -6177,6 +6222,7 @@ The Elder Scrolls Online beta grows with a new round of invites
 The Elder Scrolls Online beta invites more into the fold
 The Elder Scrolls Online launches April 4, 2014, on PC and Mac
 The Elder Scrolls Online players who take the throne get lifelong benefits
+The Elder Scrolls Online players will have more challenges past the level cap
 The Elder Scrolls Online subs will allow 'ongoing AAA support' post-launch
 The Elder Scrolls Online tweaking game opening, combat based on beta feedback
 The Elder Scrolls Online will cost $14.99 monthly
@@ -6504,6 +6550,7 @@ Three pre-order deals unveiled for DriveClub
 Three student-made Borderlands short films coming in December
 Three-disc Grand Theft Auto 5 soundtrack lands on iTunes
 Three-game Batman: Arkham Collection coming to UK Nov. 22 (update)
+Threes creators express puzzlement, sadness over 2048 and rampant cloning (update)
 Threes! now available on Android (update)
 Throw Trucks With Your Mind closed beta starts today
 Thumper trailer tunes into former Harmonix team's rhythm
@@ -6542,6 +6589,7 @@ Titanfall beta opens to all PC users who registered
 Titanfall beta registration opens for Xbox One, PC, kicks off Feb. 14
 Titanfall creators in talks with Aspyr about Mac version
 Titanfall dev debuts new Titan classes Ogre and Stryder (update)
+Titanfall dev introducing matchmaking improvements
 Titanfall dev now enforcing PC bans, will put players in 'the Wimbledon of aimbot contests'
 Titanfall dev working on a companion app, new colors and private lobbies
 Titanfall devs wanted to 'stretch the limits' of FPS multiplayer games
@@ -6754,6 +6802,7 @@ Typing of the Dead: Overkill gets musical with new Dancing with the Dead DLC
 Typing of the Dead: Overkill now with added Football Manager
 UK Office of Fair Trading warns of targeting children with in-app purchases
 UK finalizes criteria for in-game ads and purchases
+UK game tax breaks approved by European Union
 UK indie studio Remode closes, co-founders to work on own IP (update)
 UK retailer Game offers musical treasure chest for Zelda pre-orders
 UK retailer Game selling Pokemon X and Y early, says 'competitor' broke street date
@@ -6808,6 +6857,7 @@ Ultra Street Fighter 4 will include YouTube integration
 Ultra Street Fighter 4's Decapre is anything but Cammy
 Ultra Street Fighter 4's Edition Select Mode pitches past character versions against each other
 Uncharted 3 Labo(u)r Day celebration and Lab Map DLC
+Uncharted 4 game director leaves Naughty Dog for Riot Games
 Uncharted creative director Amy Hennig departs Naughty Dog (update)
 Uncharted, Metal Gear Solid, Mass Effect movies still in pre-production
 Uncovering the backbeat behind Spelunky's random levels
@@ -6905,6 +6955,7 @@ Video games are losing the culture war in America, scientific visionary says
 Video games drive spike in music composer employment
 Video games used to treat childhood bed-wetting
 Video games won't feature gay protagonists 'for a while,' says Far Cry 3 writer Lucien Soulban
+Video games, racism and violence: the problems behind the science 'proving' they're linked
 Video interview explains why Beyond: Two Souls isn't like Heavy Rain
 Video sharing is the key for Facebook on PS4, Xbox One
 Video shows Minecraft's Marvel skins in action
@@ -6936,6 +6987,7 @@ Vlambeer's Nuclear Throne live now on Steam Early Access
 Vlambeer's Wasteland Kings coming to PS4, Vita as well as PC
 Vlambeer: Just making games is the key to becoming successful
 Volume to retell Robin Hood, star Thomas Was Alone narrator
+Volume, a pacifist stealth game made by a 'massive Metal Gear Solid geek'
 Voting opens for GDC Choice and IGF Awards
 Vox is our next
 WCS 2014 will reintroduce GSL, encourage local players and more
@@ -7052,6 +7104,7 @@ Watch Happy Gilmore reimagined as an 8-bit brawler
 Watch Jay Leno play Gran Turismo 6 and drive a car he actually owns
 Watch Jimmy Fallon and Ice-T play The Playroom on PS4
 Watch Jon Stewart make fun of the NSAâs foray into World of Warcraft
+Watch Kerbal Space Program's NASA-inspired Asteroid Redirect Mission
 Watch Mandy Patinkin help Jimmy Fallon succeed at Candy Crush
 Watch Metal Gear Solid 5's intro to hear Kiefer Sutherland as Snake
 Watch Naughty Dog creative director's The Last of Us postmortem
@@ -7103,6 +7156,7 @@ Waves: Arena Tactics heading to PC in 2014
 WayForward director gives his 3DS XL custom Famicom paint job
 WayForward launches Kickstarter campaign for new Shantae game
 WayForwardâs Shantae Kickstarter achieves funding goal
+We Are Chicago: A game about gang violence
 We Come in Pieces now available for iOS
 We play Titanfall, TowerFall and Dark Souls 2 in this week's Polygon Live
 We the Force to show Randall demo, new title at PAX East 2014
@@ -7272,6 +7326,7 @@ WildStar beta to launch this winter
 WildStar dev diary explains new takes on MMO ability mechanics
 WildStar launches June 3 in two editions, pre-orders begin March 19
 WildStar looks to reinvent the role of MMO crowd control
+WildStar playable at PAX East 2014, devs appearing on three panels
 WildStar to feature Medic, Engineer classes
 WildStar to require subscription, players can buy time with in-game gold
 WildStar video introduces the sneaky, lethal Stalker class

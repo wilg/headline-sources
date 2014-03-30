@@ -6606,6 +6606,7 @@ Google Launches WiFi Network in Mountain View
 Google Leans on Developers to Use Payment Service
 Google Learns to Crawl Flash
 Google Lobbies for Consumer Choice in Cellular Networking
+Google Mandates ‘Powered by Android’ Branding on New Devices
 Google Maps
 Google Maps API
 Google Maps Backtracks on October Price Increases
@@ -10511,6 +10512,7 @@ Microsoft CEO Steve Ballmer: ‘iPod users are music thieves’
 Microsoft CES Keynote PR Leaks Early; HP Slate Device Is Just a PC
 Microsoft Changes Course Regarding IE8 and Standards Mode
 Microsoft Changes Name of Next-Gen Mobile OS From ‘Windows Phone 7 Series’ to ‘Windows Phone 7’
+Microsoft Changes Policy on Inspecting Customer Email
 Microsoft Changes Strategy With Silverlight
 Microsoft Changes Tune on Selling DRM-Free Songs
 Microsoft China Rips Off Plurk
@@ -13857,6 +13859,7 @@ Rogue Amoeba: Slipstream for Mac OS X
 Rogue Amoeba: ‘Your Screen. On A Screen. On Screen!’
 RogueSheep’s Postage App Flagged by Apple’s Static Analysis Tool
 Roku 3 Review at The Verge
+Roku CEO Claims Apple TV Is a Money-Loser
 Roku Netflix Player
 Roku vs. Apple TV
 Rolando
@@ -15857,6 +15860,7 @@ The Data Center Is the New Server
 The David Foster Wallace Audio Project
 The Dawes Formula
 The Day Fred Wilson Dumped AAPL
+The Day Microsoft Gave Up World Domination and Settled for Relevance
 The Day the Movies Died
 The Day the Zunes Stood Still
 The Dead Kindle and What Warren Ellis Learned About Amazon Customer Service
@@ -17012,6 +17016,7 @@ Thoughts on the Google Nexus 7 From the Perspective of a Longtime iOS User
 Threadless Manufacturing Their Own T-Shirts
 Three Billion Served
 Three Major Microsoft Investors Want Bill Gates to Step Down as Chairman
+Three Mozilla Board Members Resign Over Choice of New CEO
 Three New Canon Cameras
 Three New ‘Get a Mac’ Ads
 Three New ‘Get a Mac’ Commercials
@@ -20427,6 +20432,7 @@ yDSF - Robust CSS Drop Shadows
 ‘Making a Difference, One App at a Time’
 ‘Mandrake, Have You Ever Seen a Commie Drink a Glass of Water? Vodka, That’s What They Drink. Never Water.’
 ‘Many Dear Friends Wish I Would Shut the Fuck Up Regarding the Gotham Filter.’
+‘Mark Zuckerberg, the Warren Buffett of Technology?’
 ‘May I Suggest That Mr. Bond Be Armed With a Revolver?’
 ‘Maybe Even a Young Marlon Brando’
 ‘Mayday’ – Live Tech Support for New Kindle Tablets
@@ -20731,6 +20737,7 @@ yDSF - Robust CSS Drop Shadows
 ‘This Is Math’
 ‘This Is Water’
 ‘This Is What Happens When Analytics Make Decisions for You.’
+‘This Is a Generic Brand Video’
 ‘This Is a Work of Non-Fiction’
 ‘This Is a Nightmare’
 ‘This Looks Like Some Serious Bullshit on Twitter’s Part’

@@ -342,6 +342,7 @@ A New Car UI: How touch screen controls in cars should really work
 A New Look for Facebook
 A New Name for Stack Overflow (with surprise ending)
 A New Species Discovered ... On Flickr
+A New—and Reversible—Cause of Aging
 A Note About Git Commit Messages
 A Note from one of Cloudflare's upstream providers
 A Patently Obvious Problem
@@ -732,6 +733,7 @@ Amazon EC2 Pricing Changes Effective April 1, 2014
 Amazon EC2 currently down. Affecting Heroku, Reddit, Others
 Amazon Elastic Transcoder
 Amazon Glacier
+Amazon Is Downloading Apps From Google Play and Inspecting Them
 Amazon Officially Announces The New Kindle Paperwhite
 Amazon Prime Air
 Amazon Prime members buy twice as much, don't compare on price
@@ -4642,6 +4644,7 @@ I also stand up for Stallman
 I am a developer, yet I outsource the development of my startup
 I am a great programmer, but horrible algorithmist
 I am a programmer
+I am a successful software dev but I have a serious drinking problem
 I am a terrible programmer
 I am an HFT Programmer
 I am depressed and I need someone to talk to
@@ -4949,6 +4952,7 @@ Infinite Mario in HTML5
 Infinite complexity in 4096 bytes
 Ingo Molnar on what ails the Linux desktop
 Injectable oxygen keeps people alive without breathing
+Ink trap
 Innovation and the Bell Labs Miracle
 Inserting Artificial Objects into Photographs
 Inside An Illegal Party In An Abandoned Subway Station Deep Under NYC
@@ -5041,6 +5045,7 @@ Introducing Heka
 Introducing HelloSign for Gmail
 Introducing Instapaper 4.0 for iPad and iPhone
 Introducing Login and Pay with Amazon
+Introducing Michael Abrash, Oculus Chief Scientist
 Introducing Mozilla Firefox Accounts
 Introducing Mozilla Persona, An Identity System for the Web
 Introducing Neo900
@@ -6028,6 +6033,7 @@ Meet the Dread Pirate Roberts, the man behind Silk Road
 Meet the IOIO - USB breakout board for android w/48 digital+analog IO pins
 Meet the New Super People
 Meet the Obama campaign's $250 million fundraising platform
+Meet the People Taking over Hacker News
 Meet the Private Companies Helping Cops Spy on Protesters
 Meet the new Light Table
 Meet the tireless entrepreneur who squatted at AOL
@@ -7799,6 +7805,7 @@ Ruby 2.0.0 Released
 Ruby 2.0.0 feature freeze
 Ruby 2.1 Released
 Ruby 2.1.1 is released and Ruby turns 21
+Ruby Garbage Collection: Still Not Ready for Production
 Ruby Trick Shots
 Ruby is too slow for programming competitions
 Ruby on Rails 4.0.0.beta1 released
@@ -7974,6 +7981,7 @@ Scott Forstall leaves Apple
 Scott Hanselman's 2011 Ultimate Developer and Power Users Tool List for Windows
 Screenshot-proof images via temporal dithering
 Screw Hashbangs: Building the Ultimate Infinite Scroll
+Screw stigma. I’m coming out.
 Screw the power users
 Screw you. Pay me.
 Scroogled (1997)
@@ -8041,6 +8049,7 @@ Seriously.js
 Seriously? Ads?
 Serving at the Pleasure of the King
 Servo Layout Engine: Parallelizing the Browser [video]
+Servo passes Acid2
 Set up an email server in two hours
 Seth Vidal, creator of yum, killed in hit and run accident
 Setting up Sublime Text 2
@@ -8233,6 +8242,7 @@ Show HN: My 1-year project, iPad IDE with GitHub and Heroku integration
 Show HN: My 4-hour project, already profitable
 Show HN: My Desk Chair
 Show HN: My Github résumé
+Show HN: My Isometric Voxel Engine 6 Months Later
 Show HN: My Node.js two weekend project. Color palettes from Flickr images.
 Show HN: My Weekend Hack - Stack-Ed: Learn from the best on StackOverflow
 Show HN: My Zappos/Twilio hackathon entry
@@ -8538,6 +8548,7 @@ Something is deeply broken in OS X memory management
 Something is wrong with this picture.
 Something really scary is going on in Germany
 Sometimes the bug isn't in your code, it's in the CPU
+Sony Digital Paper e-ink PDF tablet for notes and forms
 Sony Music Brazil hacked
 Sony Pirates KDE Artwork
 Sony loses 12,700 credit card numbers
@@ -8944,6 +8955,7 @@ Tanking the YC interview, some lessons learned
 Taping of Farm Cruelty Is Becoming the Crime
 Tarkovsky Films Free Online (2010)
 Tarsnap critical security bug
+Tarsnap now accepts Bitcoin
 Tarsnap now takes credit cards (switching from Paypal to Stripe)
 Tarsnap outage post-mortem
 Tarsnap – Online backups for the truly paranoid
@@ -8972,6 +8984,7 @@ Technical Papers Every Programmer Should Read (At Least Twice)
 Technical job post tips for the desperate
 Techniques To Simplify Sign-Ups and Log-Ins
 Technorati's Tracy Williams is alive and safe in a local hospital
+Teen to government: Change your typeface, save millions
 Teenager Who Reads News Online? According to the DoJ, You May Be a Criminal
 Teeworlds for Mac, Windows, and Linux
 Telegram - secure, free messaging
@@ -9009,6 +9022,7 @@ TermKit - a graphical terminal replacement
 Terminal Cornucopia
 Terms of Service; Didn't Read
 Terra – a low-level counterpart to Lua
+Tesla Adds Titanium Underbody Shield and Aluminum Deflector Plates to Model S
 Tesla Can Topple the Car-Dealer Monopoly
 Tesla Completes L.A.-to-New York Electric Model S Drive Chargers
 Tesla Model S Options and Pricing
@@ -9937,9 +9951,11 @@ Thousands of scientific papers uploaded to The Pirate Bay
 Three CSS features you need to know about
 Three Little Circles
 Three Months to Scale NewsBlur
+Three Mozilla Board Members Resign over Choice of New CEO
 Three NSA Whistleblowers Back EFF's Lawsuit Over Government Spying Program
 Three signs you have a management problem. And that problem might be you
 Three.js editor
+Threes: The Rip-offs and Making Our Original Game
 Throw Out Everything You Know About Ads
 Throwing and catching an inverted pendulum with quadrocopters
 Thunderbolt
@@ -10028,6 +10044,7 @@ Touché
 Touché by Disney Research brings touch control to everyday things
 Tough times on the road to Starcraft
 Toward Go 1.3
+Toward a better programming
 Tower Bridge bot killed by Twitter, replaced with marketing
 Tower.js - JavaScript Framework for Node.js modeled after Ruby on Rails
 Tox: secure messaging for everyone
@@ -10503,6 +10520,7 @@ Warn HN: How to accidentally, irreversibly nuke your Facebook account
 Warn HN: Lots of Launches Coming
 Warning: Google Authenticator upgrade loses all accounts
 Warp Drive May Be More Feasible Than Thought, Scientists Say
+Warp, a fast preprocessor for C and C++
 Warrant Canary
 Warrantless wiretaps? Congress votes yes
 Warren Buffett Buys World's Largest Solar Project from SunPower for $2.5 Billion
@@ -10551,6 +10569,7 @@ We expect too much of geeks
 We got a takedown notice from LifeShield for our positive review
 We have an employee whose last name is Null. He kills our employee lookup (2012)
 We know what you're doing
+We lost a customer. This is how we found out
 We made something. We use it. We love it. Apple rejected it
 We may have witnessed a NSA "Shotgiant" TAO-like action
 We need a GitHub of Science
@@ -10833,6 +10852,7 @@ Whatever goes up, that’s what we do
 Whatever happened to due process?
 Whatever happened to the Hurd? – The story of the GNU OS
 Whatever works for you
+Whatever’s Best For The People, That’s What We Do
 WhatsApp is broken, really broken
 What’s New In Python 3.4
 What’s Up With All These Changes in Rails?

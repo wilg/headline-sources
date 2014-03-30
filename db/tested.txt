@@ -2195,6 +2195,7 @@ MakerBot Store's 3D Photo Booth Prints Faces On Demand
 MakerFaire 2013: Introducing the Shopbot Handibot
 Makerbot Announces Its Digitizer 3D Scanner
 Makerbot Mystery Build - Wow, That's Tall!
+Makerbot Mystery Build: Failure is an Option
 Makerbot Mystery Build: It's In a Box
 Makerbot Mystery Build: Keeping Your Details Secure
 Makerbot Mystery Build: Meow Mix
@@ -3623,6 +3624,7 @@ The Practical Differences Between Various Camera Sensor Sizes [Video]
 The Prius Bike Invites You to Shift Gears with Your Mind
 The Problem Isn't How Much You Sleep, It's When You Sleep
 The Problem with Amazon Prime Instant Video isn't Its Content Library
+The Problem with High-PPI Windows Display Scaling
 The Promise and Challenges of Head-Mounted Virtual Reality Displays
 The Promise and Perils of Android Apps on BlackBerry
 The Promise and Pitfalls of Autonomous Cars
