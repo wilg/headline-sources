@@ -135,6 +135,7 @@
 11 Celebrities and Their Pokemon Equivalents
 11 Dating Tips From Videogame Characters
 11 Farts Captured On Live Television
+11 Internet Math Equations That Make Perfect Sense
 11 Jokes From Videogame Characters
 11 Least Downloaded Podcasts
 11 Pickup Lines to Use When It's Hot Out
@@ -386,6 +387,7 @@
 5 Tips For Writing The Perfect Facebook Invite
 5 Tips To Improve Your NCAA Bracket AND Your Love Life
 5 Types Of Parties
+5 Types of Candy Everyone Is Wrong About Hating
 5 Types of Gamer Cliques
 5 Types of Gifts You'll Receive this Christmas
 5 Types of Off-Campus Housing
@@ -501,6 +503,7 @@
 7 Annoying Types of Gamers
 7 Arrested Development Themed Cocktails
 7 Athletes Who Unfortunately Released Their Own Scents
+7 Awesome Pickup Lines I Learned From Cartoons
 7 Beaches With Incredible Views
 7 Charity Posters for Your Precious Little Problems
 7 Classes You Took Without Even Knowing It
@@ -541,6 +544,7 @@
 7 Photoshop Memes That Never Caught On
 7 Pictures Of Tom Cruise Being Tall
 7 Pieces From the Videogame Museum of Art
+7 Pleasant Experiences Assholes Find a Way to Ruin
 7 Pokemon In Their Later Years
 7 Political Sex Moves
 7 Pop Stars And The Perfect Songs for Them to Cover
@@ -723,6 +727,7 @@ A Day at the Park
 A Day in the Life of Barack Obama
 A Day in the Life of Walter Jr.
 A Deleted Scene from 'Lady and the Tramp'
+A Dog Reviews TV Shows
 A Facebook Story
 A Fantasy Nerd's Fantasy Comes True
 A Fart Critic Reviews Masterful Works of Fart
@@ -793,6 +798,7 @@ America's War on Terror 2001-2010, As Told Through Toby Keith Singles
 American Airlines' New Safety Speech
 An Airline Incident Report
 An American's Guide to Canada: 4/20 Edition
+An Easy Form Letter for All Your Internet Outrage Needs
 An Embarrassing College Nightmare
 An Honest College Exam
 An Honest Guide to Every Facebook Timeline Ever
@@ -1173,6 +1179,7 @@ Facebook Relationships Are Always Complicated
 Facebook Ruins Birthdays, Christmas, and Harry Potter
 Facebook Users Say the Darndest Things
 Facebook's 5 Most Pathetic Love Stories
+Facebook's Targeted Ads Just Keep Getting Creepier
 Facepalm: Laundry
 Facepalm: Pizza
 Facepalm: Salmon
@@ -1219,6 +1226,7 @@ Flowchart: Are You Actually Going to Study for Finals?
 Flowchart: Are You Going to Have a Good Year?
 Flowchart: Are You Good at Following Flowcharts?
 Flowchart: Are You Over Your Breakup?
+Flowchart: Are You an Introvert?
 Flowchart: Are You in the Friend Zone?
 Flowchart: Can You Skip Class Today?
 Flowchart: Can You Star In A Premium Cable Drama?
@@ -1435,7 +1443,9 @@ Honest Titles for 2014's Oscar Nominated Movies
 How Anthony Weiner Became Carlos Danger
 How Creepy You Are, as Determined by Your Pets
 How Doctor Who Will Actually End
+How Drunk You Are, Based on the Dance Move You're Using
 How Duke and UNC Fans See Coach K's American Express Ad
+How Every Single Product for Men Was Designed
 How Growing Up Stole Christmas
 How High Are You? Take the Quiz to Find Out.
 How I Described My Time Machine to People of the Middle Ages
@@ -1473,6 +1483,7 @@ How To Survive Election Night On Social Media
 How To Totally NAIL Internet Haters
 How To Turn Celebrity Deaths Into MAD Retweets
 How To Use the Bat Signal
+How To WIN BIG On Poker Night!
 How You Actually See Wine Bottles
 How You Feel at 10 PM vs. 5 AM
 How You Think She'll React vs. How She'll Actually React
@@ -1519,6 +1530,7 @@ How to OWN Any Situation
 How to Pad Your Paper in 7 Easy Steps
 How to Play Board Games While High
 How to Play WoW and Maintain a Healthy Relationship
+How to Prank Your Stupid Cat
 How to Properly Respond to an Important Email
 How to Repurpose Your Clothing for Other Situations
 How to Reverse a Gypsy's Spell
@@ -1526,6 +1538,7 @@ How to Review Music
 How to Roll the Perfect Joint
 How to Snag all the Snow Bunnies on the Slopes
 How to Squeeze in Workouts at Work
+How to Survive Danger if You Are a Crime Show Character
 How to Tell How Much Hair She's Going to Cut Off After This Breakup
 How to Tell a Person's Profession by the Size of Their Glasses
 How to Tell if You're Studying Abroad with other Americans
@@ -1720,6 +1733,8 @@ If Types Of Alcohol Were Pokemon
 If U.S. Politicians Were The X-Men
 If Upworthy Existed Throughout History
 If Walking Dead Characters Were Classic WWE Wrestlers
+If Web Browsers Were Your Family Members
+If Websites Went to Your High School
 If Websites Were Pets
 If Winter Break Advertised Like Spring Break
 If Work Was Like College
@@ -2458,6 +2473,7 @@ The 10 Best Best Friends of All-Time
 The 10 Best Characters in the Harry Potter Universe
 The 10 Best Disney-Rap Mashups
 The 10 Best Movie Bad Guys
+The 10 Best News Gaffes of the 1980s
 The 10 Best Summer Camp Movies
 The 10 Best Ways to Ask Someone to Prom
 The 10 Best and Worst Things About Spring
@@ -2474,6 +2490,7 @@ The 10 Kinds Of News Stories Everyone Needs To Stop Reading
 The 10 Lamest Rap Brags
 The 10 Least Used Bat Gadgets
 The 10 Lies You Tell Yourself Every All-Nighter
+The 10 Most ADORABLE Unlikely Animal Pairs!!!
 The 10 Most Stupidly Expensive Pieces of Junk on eBay
 The 10 Ornaments on Your Christmas Tree
 The 10 People Who Open the Door While You're Trick-Or-Treating
@@ -2594,6 +2611,7 @@ The 7 People You're Always Splitting the Bill With
 The 7 Sexiest Abstinence PSAs to Jerk It To
 The 7 Stages in the Life Cycle of Apple Earbuds
 The 7 Stages of Being Stuck in Traffic
+The 7 Stages of Being the Designated Driver
 The 7 Stages of Eating a Burrito
 The 7 Stages of Going to the Gym
 The 7 Stages of Playing Against a Girl on XBox Live
@@ -3044,6 +3062,7 @@ This Fraternity Needs Rules
 This Google Street View Hyperlapse is Amazing
 This Guy Had One Job To Do On Every Movie Ever
 This Guy Has a Really Important Question
+This Is the Absolute Weirdest Series of Stock Photos Ever
 This NASA Application looks Suspicious
 This One Guy On Facebook Just GETS IT, You Know??
 This Writer for DogTV Seems Disappointed with his Career
@@ -3182,6 +3201,7 @@ What Childhood Games Really Taught You
 What Coffee Does
 What Company Should You Endorse?
 What Congress Is Really Doing Right Now
+What Conservatives Think Birth Control Is, Apparently
 What Every Student Group Poster Looks Like
 What Everyone in Your Family is Bringing for Thanksgiving
 What Everyone is Bringing to Your Freshman Hall

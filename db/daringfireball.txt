@@ -923,9 +923,11 @@ Amazon Closes Account Security Hole
 Amazon Cloud Drive
 Amazon Cloud Service Outage
 Amazon Cuts Price on Leopard
+Amazon Dash
 Amazon Drones and Pre-Lobbying
 Amazon Drops Colorado Residents From Affiliates Program
 Amazon Explains the July 20 S3 ‘Availability Event’
+Amazon Fire TV
 Amazon Flexible Payment Service
 Amazon Flushes Kindle Editions of Orwell Books Down the Memory Hole
 Amazon Forbidding Mobile Apps From Using Its Data
@@ -1098,6 +1100,7 @@ AnandTech on MacBook Air Battery Life
 AnandTech on Mobile Display Pixel Density
 AnandTech on the New 15-Inch MacBook Pro’s Battery Life
 AnandTech on the iPhone 4’s Antenna and Reception
+AnandTech: Apple’s Cyclone Microarchitecture Detailed
 AnandTech: MacBook Pro Retina Display Analysis
 AnandTech: Microsoft Surface Review
 AnandTech: NFC Unlikely in New iPhone
@@ -1379,6 +1382,7 @@ AntiSec Leaks 1 Million Apple UDIDs Allegedly Obtained From FBI Breach
 Anticipating Apple’s Response to the Final Cut Pro X Release
 Antitrust+
 Anxiety 1.0
+AnyFont: $2 iOS App Lets You Install System-Wide Fonts
 Apache Configuration Language Module for BBEdit, Version 1.0.7
 Aperture
 Aperture 1.0 Review Follow-Up
@@ -1964,6 +1968,7 @@ Apple Updates Xserve
 Apple Updates iBooks
 Apple Updates iBooks Author With Clarified EULA
 Apple Updates iMacs, Announces 24-Inch Model, and Updates Mac Minis
+Apple Updates iWork for Mac, iOS, and iCloud
 Apple Versus the Analog Monster
 Apple Waiting for 802.11n for iTV?
 Apple Web Apps Directory
@@ -3967,6 +3972,7 @@ Correlation Between Web Browsers and Political Leanings?
 Correo 0.1 — New Thunderbird-Derived Email Client for Mac OS X
 Corrupt App Store Binaries Crashing on Launch
 Corrupt Countries Were More Likely to Support the OOXML Document Format
+Cortana, Microsoft’s Answer to Siri
 Cory Doctorow on the Authors Guild and Opt-In
 Cory Doctorow: Amazon Unbox to Customers: Eat Shit and Die
 Corzine Signs Law Abolishing Death Penalty in New Jersey
@@ -4034,6 +4040,7 @@ Crappy Computers
 Crapshaming
 Craptacular Financial Times Story on Mac Trojans
 Crashed on Quit Again
+Crashlytics
 Crazy Apple Rumor Site 5th Anniversary Roast
 Crazy Apple Rumors Site on George Ou
 Crazy Apple Rumors: Industry Panel Discusses Dvorak
@@ -12198,6 +12205,7 @@ On iPads, Grandmas and Game-Changing
 On the App Store and Free Markets
 On the App Store
 On the Argument That Android Is Taking Over
+On the Cultural Differences Between the U.S. and Japan Regarding Baseball
 On the Death and 441-Year Life of the Pixel
 On the Design of Conference Badges
 On the Design of the NetNewsWire First-Run Assistant
@@ -18100,6 +18108,7 @@ WWDC 2012 Session Videos
 WWDC 2012: June 11-15
 WWDC 2013 Announced: June 10-14
 WWDC 2013 App Hits App Store
+WWDC 2014: June 2–6
 WWDC Bash Moved Off-Campus
 WWDC Early Registration Extended to July 7
 WWDC Expectations
@@ -18408,6 +18417,7 @@ What To Do With 756
 What ToDo 1.0.2
 What Too Much Clarity Looks Like
 What Twitter and the NYT Have in Common
+What Umpires Get Wrong
 What We Mean by ‘Bad User Experience’
 What We Talk About When We Talk About RSS
 What Would Don Draper Do?
@@ -18847,6 +18857,7 @@ Windows Phone 7 and Removable Storage
 Windows Phone 7 on the Carriers’ Pay-No-Mind List?
 Windows Phone 7 to Ship Without Copy and Paste
 Windows Phone 7 Series
+Windows Phone 8.1
 Windows Phone 8.1 to Eliminate Hardware Back Button?
 Windows Phone 8’s Improved Start Screen
 Windows Phone Demo
@@ -20115,6 +20126,7 @@ yDSF - Robust CSS Drop Shadows
 ‘Dive Into HTML5’ Stats
 ‘Do Not Develop in the Open’
 ‘Do Not Retweet the Band-Aid’
+‘Do Not Want This’
 ‘Do Not Write a Crock of Shit’
 ‘Do You Really Think Apple Didn’t Know?’
 ‘Do You Really Think Apple’s Going to Take Business Advice From a Bunch of Cheapskates?’
@@ -20328,6 +20340,7 @@ yDSF - Robust CSS Drop Shadows
 ‘Invention Is in Our DNA and Technology Is the Fundamental Tool We Wield to Evolve and Improve Every Aspect of the Experience We Provide Our Customers.’
 ‘Is It Time to Eighty-Six Those Ketel One Ads?’
 ‘Is This Plastic?’
+‘Is the Oculus Rift Sexist?’
 ‘It Could Work: A 3rd Party Email Client for OS X’
 ‘It Just Looks Thicker’
 ‘It Means to Say Your Goodbyes’
@@ -20612,6 +20625,7 @@ yDSF - Robust CSS Drop Shadows
 ‘Spirit of Good Fun’
 ‘Spook Country’
 ‘Staircases to Nowhere’
+‘Stampy in the Hunger Games’
 ‘Stanley Was a Great Dancer’
 ‘Star Wars: The Clone Wars’ Sneak Peek
 ‘Stars War’

@@ -33,7 +33,9 @@ $99 Refurbished Kindle Price Points to Kindle 4 Launch
 10 Places Robots and A.I. are Hiding in Plain Sight
 10 Promising Technologies in 2014
 10 Scientific Cooking Tricks That’ll Make Your Life Easier
+10 Surprising Ingredients Found In Common Foods
 10 Things You Should Know about DirectX 12
+10 Ways To Browse The Internet Anonymously
 10 Years of Roomba Hacks: From Magic Marker Art to Combat
 1080p Phones Mean New Challenges for Mobile Batteries in 2013
 14 Essential Tweaks to Perform on Your New Nexus 5 Smartphone
@@ -1073,6 +1075,7 @@ FAQ: All Your Hyperloop Questions Answered
 FCC Teardown Provides a Glimpse of Lytro's Light Field Sensor
 FIPEL Bulbs Could Outdo LEDs in Efficiency, Light Quality
 FORM 1 Stereolithography 3D Printer On Kickstarter
+FTL: Advanced Edition Adds More Space and an iPad Version
 Face Detection and Gestures May Complement Touchscreens
 Facebook Home Review: Not for Most People
 Facebook Home and The State of Android Home Screens
@@ -1258,6 +1261,7 @@ Google Play App Roundup: Hangouts, Kingdom Rush, and Sonic the Hedgehog
 Google Play App Roundup: Hushed, Temple Run 2, and Quento
 Google Play App Roundup: Instagram, Another World, Tasks
 Google Play App Roundup: Kairobotica, Sudo QuickLaunch, and Megatroid
+Google Play App Roundup: LastPass, Epoch 2, and Castle Doombad
 Google Play App Roundup: Link Bubble, God of Light, and Mount and Blade: Warband
 Google Play App Roundup: Machinarium, doubleTwist Alarm Clock, and Pix'n Love Rush
 Google Play App Roundup: Mercury Browser, Star Command, and Type:Rider
@@ -1770,6 +1774,7 @@ Inside Adam Savage's Cave: C-3PO Protocol Droid
 Inside Adam Savage's Cave: Deadmau5 Helmet
 Inside Adam Savage's Cave: Geeking Out Over Woodworking Saws
 Inside Adam Savage's Cave: Geeking Out about Bits and Bytes
+Inside Adam Savage's Cave: Gladiator Armor
 Inside Adam Savage's Cave: Hacking a Flashlight for Adam's EDC
 Inside Adam Savage's Cave: Indiana Jones Bullwhip
 Inside Adam Savage's Cave: Iron Man Mark I Armor
@@ -1897,6 +1902,8 @@ JooJoo Successors Revealed as Grid 10 Tablet and Grid 4 Phone
 Judge Dredd Replica Badges—I Am Officially The Law
 Just Because: Amazon Silk Browser Ported to Android at Large
 Kanex DualRole USB 3.0 Hub
+Keeping Tidy - 4/1/2014
+Kevin Tong's "Wall-E" Poster Design Process
 Kickstarter Combines Livestrong Bracelets and Earbud Cable Management
 Kickstarter Project Makes Cinema Quality Video Cameras Affordable
 Kids Narrate BBC's Planet Earth Documentary Miniseries
@@ -2157,6 +2164,7 @@ MakerBot Mystery Build: Inception
 MakerBot Mystery Build: Incomplete Without It
 MakerBot Mystery Build: It's That Time Again
 MakerBot Mystery Build: Keep Out
+MakerBot Mystery Build: Keep it Toasty
 MakerBot Mystery Build: Lessons in Failure
 MakerBot Mystery Build: Line Waiting
 MakerBot Mystery Build: Make Mine Neat
@@ -2691,6 +2699,7 @@ Premium: Toys and Stuff in Norm's Garage
 Premium: Weathering the T-800 Endoskeleton
 Premium: Will Upgrades the MakerBot
 Premium: Will and Norm Build Their SteamOS Boxes
+Premium: Will and Norm Geek Out at the Mondo Gallery
 Prepare for a Rush of Ultrabooks at CES 2012
 Preview Ubuntu On Your Nexus Smartphones and Tablets This Thursday
 Preview the Technical Papers of SIGGRAPH Asia 2012
@@ -3057,6 +3066,7 @@ Show and Tell: Behold the Bug-A-Salt
 Show and Tell: Cardboard Kinetic Creatures
 Show and Tell: Collecting Screenprinted Posters
 Show and Tell: Copper Coca-Cola Bottle
+Show and Tell: Custom LEGO Creations
 Show and Tell: Easy Desktop Cable Management
 Show and Tell: Emergency Home Lantern
 Show and Tell: Favorite Cable Organizer
@@ -3208,6 +3218,7 @@ Star Trek Into Darkness Sweded Trailer
 Star Trek x Space Invaders 3D Chalk Art
 Star Trek: Into Darkness Starship Models from Quantum Mechanix
 Star Wars Despecialized Edition Gets a Remastered Release
+Star Wars Featurette: The Birth of the Lightsaber
 Star Wars Lego Barrel Organ Plays Star Wars Theme
 Star Wars and the Explosion of Dolby Stereo
 Startup Aims to Reinvent Disposable Coffee Cup Technology
@@ -3380,6 +3391,7 @@ The Best Android Smartphone for Your Network (July 2013)
 The Best Android Smartphone for Your Network (June 2012)
 The Best Android Smartphone for Your Network (June 2013)
 The Best Android Smartphone for Your Network (March 2013)
+The Best Android Smartphone for Your Network (March 2014)
 The Best Android Smartphone for Your Network (May 2012)
 The Best Android Smartphone for Your Network (May 2013)
 The Best Android Smartphone for Your Network (November 2011)
@@ -4032,6 +4044,7 @@ When an Immovable Object Meets an Unstoppable Force
 When is an Android Nexus Smartphone Not Really a Nexus?
 Where Does Apple's Siri Go Next?
 Where Space Shuttles Meet Their Makers
+Where We Went Wrong Buying a Bitcoin from an ATM
 Where the Retina 13-Inch MacBook Pro Fits in Apple's Lineup
 Where to Find Free e-Books for Your Kindle and Other e-Readers
 Which Android Devices Are Getting an Android 4.0 Update and Which Are Lagging Behind?

@@ -1125,6 +1125,7 @@ Amazon Introduces 7" and 8.9" Kindle Fire HDX at $229 and $379, Kindle Fire HD N
 Amazon Introduces 8.9-Inch and 7-Inch Kindle Fire HD at $299 and $199, Updated Kindle Fire Drops to $159
 Amazon Kindle App For iPad Approved In App Store
 Amazon Launches 'AutoRip', Offering Free Digital Versions of Purchased CDs
+Amazon Launches 'Fire TV' Media Streaming Box with Voice Search, Game Support, and More
 Amazon Launches Cloud-Based Storage Service and Music Player
 Amazon Launches Game Center Competitor for Kindle Fire, Testing 4-5 Inch Smartphone Displays
 Amazon Launches Kindle DX eBook Reader with 9.7" Screen
@@ -1169,6 +1170,8 @@ Amazon to Sell Unprotected MP3s?
 Amazon's 'Kindle' App Updated to Remove Direct Kindle Store Links [Updated: Nook]
 Amazon's 'Unbox' Video Service Opens
 Amazon's Apple TV Competitor Expected to Debut at April 2 Media Event
+Amazon's Fire TV Is Powerful, but Voice Search Limitations Hamper User Experience
+Amazon's Fire TV Looks A Lot Like the Rumored Apple TV Update
 Amazon's German Site Notes October 20th iLife Ship Date [Updated x2]
 Amazon's New Mac Download Store Takes On Apple's Mac App Store
 Amazon's Set-Top Box Competitor to Apple TV and Roku Launching Before Holidays
@@ -1439,6 +1442,7 @@ Apple Acquired Lala Music Service to Shut Down May 31st
 Apple Acquired Mapping Company Placebase in July
 Apple Acquired Mapping Firm BroadMap, Note-Taking App Catch in 2013 [Updated]
 Apple Acquired Quattro Wireless for $275 Million?
+Apple Acquired Speech Recognition Firm Novauris Last Year for Siri Team
 Apple Acquires 'Nothing Real'
 Apple Acquires 'TestFlight' iOS Beta Testing Platform With Burstly Purchase
 Apple Acquires 18 'Axis-Based User Interface' Patents from Maya-Systems
@@ -1657,6 +1661,7 @@ Apple Announces WWDC 2008 (June 9-13, 2008)
 Apple Announces WWDC 2009 Keynote to be Led by Phil Schiller
 Apple Announces WWDC 2010 Dates: June 7-11
 Apple Announces WWDC 2013 Scheduled for June 10-14, Tickets on Sale Tomorrow
+Apple Announces WWDC 2014 Scheduled for June 2-6, Ticket Lottery Starts Today
 Apple Announces White iPhone 4 Coming Tomorrow, iPad 2 to 12 New Countries This Week
 Apple Announces Winner of 10 Billion Song Contest [Updated]
 Apple Announces Winner of App Store's 50 Billionth Download Contest
@@ -1844,6 +1849,7 @@ Apple Buyback Program?
 Apple Buying Up High End Penryn Processors?
 Apple Buying Up Touch Screens with Over 60% of Global Supply in 2011
 Apple Buys Up Touch Panels Delaying RIM's Tablet Release
+Apple Buys iFixit, and Other 2014 April Fools' Jokes
 Apple CEO Tim Cook 'May Testify' in E-Books Antitrust Lawsuit
 Apple CEO Tim Cook Calls New 'Haunted Empire' Book 'Nonsense'
 Apple CEO Tim Cook Heads to Ireland to Visit Government Officials, Company Facilities
@@ -2717,6 +2723,7 @@ Apple Makes Changes to 'One to One' Program
 Apple Makes Gains in U.S. Smartphone Market Share
 Apple Makes More From iTunes and Accessories Than Most Companies Do From Phones
 Apple Makes Settlement Offer in iPad Trademark Case, But 'Big Gap' Remains
+Apple Makes it Easier to Create and Buy iAds, Introduces Short Video Ads
 Apple Making Internal Use of 'iCloud' Name With Beta Software Builds?
 Apple Making Moves to Sell More iPhones in India
 Apple Making Plans to Extend iBookstore Internationally
@@ -4112,6 +4119,7 @@ Apple Seeking New Vendor for Improved iPhone Ambient Light Sensor?
 Apple Seeking Price Cuts on iTunes Television Episodes?
 Apple Seeking Software Engineer for Future User Interfaces
 Apple Seeking To Make Wireless Network Setup Easier
+Apple Seeking to Boost iPhone Display Quality by Acquiring Chip Firm Renesas SP Drivers
 Apple Seeking to Build New Retail Store in Manhattan's Grand Central Terminal
 Apple Seeking to Increase Participation in App Store Ratings?
 Apple Seeking to License AirPlay for Video Streaming?
@@ -4241,6 +4249,7 @@ Apple Soliciting Customer Feedback With New 'Pulse' Program
 Apple Sourcing Carbon Fiber Components for Upcoming Product?
 Apple Special Media Event Scheduled for January 26th?
 Apple Spent Nearly $1 Million on Google Search Advertising in June
+Apple Spent Years Designing iPhone for 'Normal People'
 Apple Splitting 'ProCare' into 'ProCare' and 'One-to-One'
 Apple Splitting iPod Touch Lineup Between Current and New Designs, Increasing Color Options for iPod Shuffle and New Nano?
 Apple Spokesperson Confirms New Mac Pro Designs Likely Coming in 2013 [Update: Not iMac]
@@ -4369,6 +4378,7 @@ Apple Sweeps Consumer Reports' Laptop Recommendations
 Apple Switching Back to NVIDIA for Next-Generation MacBook Pro Graphics Chips?
 Apple Sydney Store Unveiled, Opens June 19th
 Apple TV 'Take 2' HD Image Quality
+Apple TV 2, Magic Wand Outlined in New Steve Jobs Email
 Apple TV 2.4 Update Now Available, Updated Remote App with Gestures [Updated]
 Apple TV 6.0 Software Update Released with iTunes Radio and AirPlay from iCloud Functionality
 Apple TV A Gaming Platform?
@@ -4837,6 +4847,7 @@ Apple and Record Labels to Bundle Interactive Booklets with Digital Albums
 Apple and Samsung CEOs to Meet for Court-Moderated Settlement Talks over Patent Issues
 Apple and Samsung Claim 99% of Profits Among Top Mobile Phone Vendors
 Apple and Samsung Continue to Dominate U.S. Smartphone Usage Share
+Apple and Samsung Face Off in Court as Second Patent Infringement Trial Begins
 Apple and Samsung File List of Patent Claims and Accused Products Ahead of Second U.S. Patent Lawsuit
 Apple and Samsung Moving into 'Hate-Hate' Relationship
 Apple and Samsung Respond to the $1 Billion Patent Verdict
@@ -5016,6 +5027,7 @@ Apple to Announce Q1 2011 Financial Results on January 18th
 Apple to Announce Q1 2014 Earnings on January 27
 Apple to Announce Q2 2011 Financial Results on April 20th
 Apple to Announce Q2 2013 Earnings on April 23
+Apple to Announce Q2 2014 Earnings on April 23
 Apple to Announce Q3 2013 Earnings on July 23
 Apple to Announce Q4 2010 Financial Results Set on October 18th
 Apple to Announce Q4 2013 Earnings on October 28
@@ -5139,6 +5151,7 @@ Apple to Offer iTunes Remote Control App for iPhone and iPod Touch
 Apple to Open $19.99 Premium Games Section in App Store?
 Apple to Open Covent Garden Retail Store in London on August 7th
 Apple to Open First Retail Store in Brazil on February 15
+Apple to Open First Turkish Retail Store in Istanbul on April 5
 Apple to Open Its Largest Chinese Retail Store in Shanghai
 Apple to Open New Retail Store in Tokyo's Omotesando District in March 2014
 Apple to Overhaul iTunes Service?
@@ -5174,6 +5187,7 @@ Apple to Release iOS 7 Beta 4 Today, Two More Betas Coming?
 Apple to Release iPhone 4S with New GPS Features?
 Apple to Relocate Flagship San Francisco Retail Store to Union Square
 Apple to Remove Home Button From Future iPads and iPhones?
+Apple to Reportedly Release 4.7-Inch iPhone 6 This Fall, 5.5-Inch Version Delayed
 Apple to Reportedly Stop Production of 13-Inch Non-Retina MacBook Pro Later This Year
 Apple to Require 'Made for iPhone' Program Accessory Manufacturers to Meet Supplier Responsibility Code
 Apple to Require Explicit Permission for iOS Apps Accessing Address Book Data
@@ -5278,6 +5292,7 @@ Apple's 'iWatch' Said to Arrive in October 2014 with Wireless Charging
 Apple's 'iWatch' Said to Arrive in Separate 1.7- and 1.3-Inch Display Sizes for Men and Women
 Apple's 'iWatch' Said to Run Full iOS, but Battery Life an Issue in Prototypes
 Apple's 'iWatch' Trademarking Spree Also Includes Taiwan and Mexico [Updated]
+Apple's (Product) RED Charity Contributions Reach $70 Million
 Apple's .Mac Service to be Renamed, Revamped? [Mobile Me?]
 Apple's 1.3 MP Camera-Equipped iPod Nano Due for Launch in March/April? [Updated]
 Apple's 10-K 2005 Financial Details
@@ -5312,6 +5327,7 @@ Apple's 5th Avenue New York Apple Store Unveiling [Updatedx3]
 Apple's 5th Avenue Store, Jobs Interview
 Apple's A4 Processor is Based on Cortex A8, Not A9?
 Apple's A6 Chip Confirmed to Carry Triple-Core Graphics
+Apple's A7 Processor Truly 'Desktop Class', iOS Apps Don't Take Full Advantage
 Apple's A8 Chip Production for iPhone 6 Underway at TSMC
 Apple's ARM Plans in 2009? NetBooks, Tablets, Other?
 Apple's ATI Radeon HD 5870 Works in 2008 Mac Pro
@@ -5333,6 +5349,7 @@ Apple's App Store Still Number One in Revenue Despite Google Play Growth
 Apple's App Store Subscription Policies Raise Antitrust Issues as Content Providers Fume
 Apple's App Store Usage Numbers Suggest iOS 7 Adoption at 74%
 Apple's Arizona Factory is Dramatic Expansion of GT Advanced's Sapphire Production
+Apple's Arizona Sapphire Plant May See Expansion to Bolster Yields
 Apple's Asia-Pacific Online Stores Begin Taking iPad Air Orders, Shipping Within 24 Hours
 Apple's Asia-Pacific Online Stores Go Down Ahead of Staggered iPhone 5s Order Launches
 Apple's Back to School Promo Kicks off June 3rd
@@ -5391,6 +5408,7 @@ Apple's Evidence in Samsung Tablet Case Reportedly Flawed
 Apple's Evolution Under the Leadership of Tim Cook
 Apple's Evolving Corporate Acquisition Strategy Examined
 Apple's Existing Mac Lines Tweaked for OS X Lion
+Apple's Exploration of Pressure Sensitive Touch Screens Continues
 Apple's FCC Application for Internal Bluetooth for Laptops... Cancelled?
 Apple's February 28th 2006 Event Rumors and Speculation [Updated]
 Apple's First Dutch Retail Store to Open in Amsterdam on February 18?
@@ -5615,6 +5633,7 @@ Apple's Ron Johnson on the Retail Store Experience
 Apple's Royalty Payments to Nokia Estimated at $608 Million Up Front, ~$138 Million Per Quarter
 Apple's Rumored Carbon Fiber Part Shipments Said to Be Result of Multi-Year Partnership
 Apple's Rumored iWatch as an 'Even More Personal Personal Computer'
+Apple's Sales Team Expressed Fears iPhone Growth Could Stall Due to Android Threat
 Apple's Scott Forstall Gets a Twitter Account
 Apple's Search for New Retail Chief Extending Internationally
 Apple's Second Quarter 2007 Financial Results: $770 Million Profit
@@ -7027,6 +7046,7 @@ Find My iPhone Updated for iOS 7, Breaks App for Non-Developers [Update: Fixed]
 Find the Best Holiday Shopping Deals With MacRumors' Black Friday Roundup
 Finder of Leaked iPhone 4 Prototype Speaks Out
 Finder of Lost Next-Generation iPhone Identified [Updated]
+Fingerprint Scanners on iPhone 5s and Galaxy S5 Compared in New Video
 Fingerworks.com Content Pulled Ahead of Apple Tablet Announcement
 Fire Contained at Apple Headquarters, R&D Building? [Update]
 FireWire to Reach 3.2 Gigabit/s Speeds
@@ -7537,6 +7557,8 @@ Google Phone Rumors Continue to Gain Steam
 Google Play Catching iOS App Store in Download Volume, but iOS Still Dominating Revenue
 Google Play Downloads Passed App Store Downloads For the First Time in Q2
 Google Play Subscription Music Service Finally Arrives on iPhone
+Google Plays a Bigger Role in Latest Apple vs. Samsung Lawsuit
+Google Preparing 'Android TV' Set-Top Box with Native Apps, Simple Interface, Voice Search
 Google Previews Chrome OS, Scheduled for Release in Late 2010
 Google Purchases Startup Linked to Apple's P.A. Semi Chip Division [Updated]
 Google Pushing Its Mac Software?
@@ -7612,6 +7634,7 @@ Grateful Dead on iTunes
 Green Day and Red Hot Chili Peppers on iTMS
 Greenpeace Activists Protest at Apple's Irish Offices over Data Center Energy Use
 Greenpeace Ejected from MacExpo
+Greenpeace Features Apple as 'Green Energy Innovator' in New Report
 Greenpeace Rates Apple 4th Worst Eco-Friendly Tech Business, Apple Responds
 Greenpeace Takes on Apple and Other Tech Companies over Coal-Powered Data Centers
 Greenpeace Under Fire Again After Regrading of Apple's Data Center Energy Plans
@@ -9377,6 +9400,7 @@ Methodist University Hospital Confirms Steve Jobs Liver Transplant
 Mexican Carrier Executive Claims iPhone 4 Hardware Revision Coming by End of September
 MicroProcessor Forum 2002
 Microchannel Cooled CPUs?
+Micron's LPDDR4 RAM May Improve Battery Life in Apple's 2014 Products
 Microphone Differences Found Between Wi-Fi and 3G iPad 2 Models
 Microprocessor Report 970 Overview Article
 Microsoft "Threatens" Pulling Out?
@@ -9390,6 +9414,7 @@ Microsoft Alters "Laptop Hunters" Ads in Wake of Apple Price Cuts
 Microsoft Announces 2nd Generation Zune Music Player
 Microsoft Announces Mac Office 2008
 Microsoft Announces New 'Surface' Tablet, New Hardware and Software Based on Windows 8
+Microsoft Announces Siri Competitor Cortana, Coming With Windows Phone 8.1
 Microsoft Announces Surface 2 and Surface Pro 2
 Microsoft Argo: iPod Killer?
 Microsoft Attempting to Lure Away Apple Retail Store Staff?
@@ -9457,6 +9482,7 @@ Microsoft Office 2004 Shipping
 Microsoft Office 2008 Delayed Until January 2008
 Microsoft Office 2008 Update Brings Speed Increases and New Features
 Microsoft Office 2010 to Gain Free Web-Based Components
+Microsoft Office Apps Top App Store Charts One Day After Release
 Microsoft Office Discount
 Microsoft Office Update 10.1.4
 Microsoft Office Update, and Visual Basic for Applications to Return [Update]
@@ -10883,6 +10909,7 @@ OS X v10.1.5 Update Released
 OS X vs. BeOS
 OSX Based iPods In August?
 OSX on Intel Petition!
+OWC Debuts First Intel Xeon Processor Upgrades for 2013 Mac Pro
 Obama Administration Nominates Apple's VP of Worldwide Government Affairs for State Department Job
 Obama Administration Vetoes Partial Ban on Apple Products
 Obama Targets Patent Trolls with Proposed Legislative Changes
@@ -11297,6 +11324,7 @@ Pirates with Attitude
 Pixar Dumps Disney
 Pixar Moving to Mac OS X?
 Pixar Names Main Building in Honor of Steve Jobs
+Pixar President: 'Steve Jobs Changed Pixar Even as Pixar Changed Him'
 Pixar to OS X
 Pixar's Results and iTunes Video Sales
 Pixelmator Hits $1 Million in Revenue on Mac App Store
@@ -11726,6 +11754,7 @@ Remote Desktop 2.0 Now Available
 Remote iPhone Unlocking Services Discontinued After Supplier Pulls Plug
 Remote iTunes Streaming to iPhone or iPod Touch?
 Rendering of "New iMac"
+Renderings Based on Leaked Schematics Show Sapphire Glass-Backed iPhone 6 'Air'
 Renderings Highlight Interior of Apple's Upcoming 'Spaceship' Campus
 Renderman Pro Server for Mac OS X
 Renderman for OS X
@@ -11832,6 +11861,7 @@ Rogers and BCE Already Have the Apple iTV in Their Labs, Controlled with Voice a
 Rogers to Bring iPhone to Canada
 Rogers to Introduce Cheaper Data Plans in Canada?
 Rogers' iPhone Exclusivity in Canada to End Next Month? [Updated]
+Roku CEO Calls Apple TV a 'Money Loser', Says Product is 'Essentially' an Accessory for iPad
 Rosetta Improvements in 10.4.8, Leopard Build 9A303, Vista Release?
 Roundup of Analyst Expectations Ahead of Apple Q411 Earnings Call
 Roundup of Analyst Expectations Ahead of Apple's Q1 2012 Earnings Call
@@ -12061,6 +12091,7 @@ Sculley's Announcement
 Seagate Starts Selling GoFlex Portable Thunderbolt Adapter
 Search Warrant For Lost Next-Generation iPhone Ordered Unsealed [Updated]
 Search and Social: How Apple Might Utilize Its $200 Million Topsy Purchase
+Second Apple-Samsung Patent Trial Begins with Focus on Apple's 'Holy War', Advertising Envy, and Phil Schiller
 Second Coming of NeXT
 Second Round of iPhone 4 Launches Begins in Australia [Updated x2]
 Second-Generation iPad to Gain Carbon Fiber Body?
@@ -12208,6 +12239,7 @@ Sketchy Evidence of iPhone 3.1.3 and iPhone 4.0 OS
 Sketchy Report Claims LG to Provide Flexible OLED Displays for Apple's iWatch
 Sketchy Report Claims iPhone 5S Delayed Until Late 2013 Over Switch to 4.3-Inch Display
 Sketchy Rumor Claims Sapphire-Covered Capacitive Home Button for iPhone 5S
+Sketchy iPhone 6 Images Said to be Sourced from Foxconn Surface
 SkyDrive 3.0 Appears in App Store Following Apple-Microsoft Conflict Over Subscription Options
 Skyfire to Bring Flash Video to iOS Devices
 Skyhook's Wi-Fi Location Technology for iPhone/iPod touch
@@ -12329,6 +12361,7 @@ Son of MacTheKnife?
 Son of Newton Speculation
 Sonic The Hedgehog iPod Game Released
 Sonnet Announces Mac Pro 4U Rackmount Enclosure and Expansion Chassis
+Sonnet Announces New 4U Enclosure to Rack Mount Two Mac Pros
 Sonnet Shipping First New Thunderbolt 2 PCIe Expansion Chassis
 Sony Announces PlayStation 4, Second-Screen Experience PlayStation App for iOS
 Sony Announces PlayStation App for iPhone and iPod Touch
@@ -12691,6 +12724,7 @@ Surveys Point to Mac and iPhone Sales Momentum, Strong Tablet Interest
 Surveys Show Pent-Up Demand for Verizon iPhone, Would-Be AT&T Defectors Waiting to Upgrade
 Swatch CEO Says iWatch Isn't the Next Revolution
 Swiss Federal Railways Says Apple Copied Its Iconic Railway Clock
+Swiss Watchmakers Rebuff Apple's Partnership and Hiring Advances
 Swiss iPhone, 3G iPhone on June 9th?
 Switch Stories, RSS, Rumors and Happy Ending
 Synaptics ClearPad Technology
@@ -13729,6 +13763,7 @@ Why Did Apple Register ApplePico.com?
 Why a 7.85" Screen for the Rumored 'iPad Mini' Makes Sense
 Wi-Fi Sync App Rejected by Apple
 WiFi + Cellular iPad Mini and Fourth-Generation iPad Launching in China Friday
+WiFi Performance to Improve As FCC Opens Unlicensed Frequencies
 WiFi iPods in Second Half of 2007?
 WiTricity Demos Apple's Wireless iMac Charging Station Concept
 Wide (Multitouch?) Touchpad for Apple Laptops
@@ -14180,6 +14215,7 @@ iOS Remains More Popular Than Android for Holiday Shopping in the U.S.
 iOS Software Update Down, iOS 4.2 Imminent?
 iOS Speech Recognition Settings Confirm Nuance-Apple Partnership
 iOS Surges Past 60% Share of Mobile Web Traffic
+iOS Users Overwhelmingly Prefer Free Games With Advertisements to Paid Titles
 iOS and Android Grab 58% of U.S. Portable Gaming Revenue
 iOS in the Car 'Very Important' to Apple, 'Part of the Ecosystem'
 iOS in the Car Development Plagued by Organizational Issues
@@ -15213,6 +15249,7 @@ iWork Updates (Keynote 3.0.1, Pages 2.0.1)
 iWork Updates Now Available
 iWork VP Roger Rosner Taking Charge of Apple's Digital Textbook Initiative
 iWork and MobileMe Rebates Expire, Updates Imminent?
+iWork for iCloud Updated With Retina Support and Design Improvements, iOS and Mac Updates to Follow
 iWork for iOS and Mac Updated With Password-Protected Sharing, New Features [Updated]
 iWork to Become a Web Application at Macworld?
 iWorld 2012: Bottle Opener Cases, Wave Cradle, Nomad Brush, Wallet Case
