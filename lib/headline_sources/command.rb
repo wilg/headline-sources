@@ -37,14 +37,19 @@ module HeadlineSources
 
     desc "batch", "batch fetch new items from all sources"
     def batch
+      pids = []
       Source.all.each do |source|
         begin
-          puts "#{source.name}".cyan
-          source.fetcher.fetch!({start_at: 0, write_progress: false})
+          pids << Process.fork do
+            puts "Forked #{source.name} onto pid #{Process.pid}".green
+            source.fetcher.fetch!({start_at: 0, write_progress: false})
+          end
         rescue StandardError
           puts "Error occured on source '#{source.name}'".red
         end
       end
+      puts "Parent process (pid #{Process.pid}), waiting on fetchers #{pids.join(', ')}."
+      Process.wait
     end
 
     desc "format", "reformat existing headlines from all sources"
