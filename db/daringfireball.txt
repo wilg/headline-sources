@@ -587,6 +587,7 @@ Acorn 2.5
 Acorn 3.0
 Acorn 4
 Acorn Scripting Using Python
+Acorn on Sale for $15
 Acquisition and NAT Port Mapping Protocol
 Acta Reborn as Opal
 Actions Speak Louder Than Words
@@ -916,6 +917,7 @@ Amazon Appstore for Android
 Amazon Associates Program Terminated in California Immediately
 Amazon Attacks iPad Mini on Homepage With Quote From Gizmodo
 Amazon Buys 3D Mapping Startup UpNext
+Amazon Buys ComiXology
 Amazon Buys Rights to Ian Fleming’s James Bond Novels
 Amazon Buys Woot
 Amazon CEO Jeff Bezos Invests in Henry Blodget’s Business Insider
@@ -2001,6 +2003,7 @@ Apple and SecureWorks ‘Working Together’; ToorCon Presentation Canceled
 Apple and Their Maps
 Apple and Verizon, Sitting in a Tree
 Apple and the EPEAT, Sitting in a Tree
+Apple and the Open Web
 Apple and the TV Industry
 Apple and the Environment
 Apple as Bumblebee
@@ -2369,6 +2372,7 @@ Asymco: ‘The Five Year Plan’
 Asymconf
 Atari Pole Position Commercial
 Atari’s Greatest Hits
+Atelier Playing Cards
 Atlantis Lifts Off
 Atlas
 Atlas Developer Beta
@@ -2498,6 +2502,7 @@ BSTwitterApp
 BT-1 Bluetooth Webcam for Mac
 BWToolkit 1.2
 BXR: XML-RPC for Blosxom
+Babe Ruth Is Retiring
 Baby Struck by Train, Unharmed
 Bach, Allard Leaving Microsoft
 Back
@@ -2897,6 +2902,7 @@ Bloomberg: HP to Spin Off PC Business
 Bloomberg: JPMorgan Testing iPhone and Android as BlackBerry Alternatives
 Bloomberg: Jeff Robbin Working on Next-Gen TV Project at Apple
 Bloomberg: Microsoft and HTC Are on the Outs
+Bloomberg: NSA Said to Exploit Heartbleed Bug for Intelligence for Years
 Bloomberg: New Apple TV Tomorrow
 Bloomberg: Sprint Said to Plan Unlimited Data With iPhone 5
 Bloomberg: Surface Tablets Selling Like Crap
@@ -2922,6 +2928,7 @@ Blu-Ray Claim Chowder: Shaw Wu
 Blu-ray Player Sales Slowing
 Blu-ray vs. FriendFeed vs. Kindle
 Blue Beanie Day
+Blue Bottle Buys Tonx
 Blue Coconut
 Blue Jeans Cable CEO Responds to Legal Threat From Monster Cable
 Blue Marble
@@ -3114,6 +3121,7 @@ Bruce Lawson Interviews Ian Hickson, Editor of the HTML 5 Specification
 Bruce Schneier Interviews Kip Hawley, Head of the TSA
 Bruce Schneier on Aviation Security
 Bruce Schneier on Security vs. Privacy
+Bruce Schneier on the ‘Heartbleed’ OpenSSL Vulnerability
 Bruce Schneier: Are Photographers Really a Threat?
 Bruce Schneier: ‘Renew Your Passport Now’
 Bruce Schneier: ‘Why Vista’s DRM Is Bad for You’
@@ -3388,6 +3396,7 @@ Can HP’s Board of Directors Fire Dunn?
 Can Marissa Mayer Turn Yahoo Around?
 Can Michael Dell Refocus His Namesake?
 Can You Count on Voting Machines?
+Can You Get Private SSL Keys Exploiting Heartbleed?
 Can You Get a Good Cheesesteak in New York City?
 Can You Get by With 250 MB of Data Per Month?
 Can You Sign Up for Spotify Without Facebook?
@@ -3776,6 +3785,7 @@ Cocoa Text System
 Cocoa Tutorial for Absolute Newbies
 Cocoa XML-RPC Client
 Cocoa and AppleScript
+Cocoa for Web Services
 Cocoalicious 1.0b37
 Cocoa’s Broken Proxy Icons
 Cocotron: Open Source Objective-C Runtime for Windows
@@ -5276,6 +5286,7 @@ Errol Morris on Stupidity
 ErrorSafe Is Malware
 Errors in Redaction
 Escalation Strategies
+Escape From XP
 Escaping URLs With Unicode Checker
 Espresso
 Espresso 1.0
@@ -5889,6 +5900,7 @@ Font Conference
 Font Rendering Philosophies of Windows and Mac OS X
 Font Smoothing, Anti-Aliasing, and Sub-Pixel Rendering
 Font Swap in iBooks
+Font War: Inside the Design World’s $20 Million Divorce
 FontShop
 FontShop Now Licensing Web Fonts
 FontStruct
@@ -6059,6 +6071,7 @@ Frequently Asked Questions About Photo Sync
 Freshly Squeezed Software Sold to illumineX
 Fricking Lasers
 Frickin’-A
+Friday Afternoon Taste of My Own Claim Chowder
 FriendDA
 Friggin Lawyers
 Fring Update Approved for iPhone, Does Video Calling With Front-Facing Camera Over 3G
@@ -7460,6 +7473,7 @@ How Palm Re-Enabled iTunes Sync
 How Panic Got Into Video Games With Campo Santo
 How Pinboard Works
 How Pixar Created the ‘Wall-E’ Visual Style
+How Politics Makes Us Stupid
 How Q Branch Works Together
 How Samsung Beat Nokia
 How Sandboxing and Gatekeeper Will Affect AppleScript
@@ -8768,6 +8782,7 @@ Jonathan Schwartz Tweets His Resignation in Haiku
 Jonathan Schwartz on Patent Threats From Steve Jobs and Bill Gates
 Jonathan Stark’s ‘Building iPhone Apps With HTML, CSS, and JavaScript’
 Jonesin’ for Some 8-Ball
+Jony Ive Expands Role in Software Design; Apple Confirms Greg Christie’s Retirement
 Jony Ive Helped Design One-Off Leica Camera
 Jony Ive Interview With John Arlidge
 Jony Ive and Craig Federighi Interview With USA Today
@@ -10131,6 +10146,7 @@ Mark Cuban: ‘Tax the Hell Out of Wall Street and Give It to Main Street’
 Mark Evanier’s Larry Hagman Story
 Mark Fiore’s NewsToons App Now in App Store
 Mark Fletcher on the Bloglines Acquisition
+Mark Gurman: Apple Human Interface VP Greg Christie Leaves Apple Over Friction With Jony Ive
 Mark Hamburg Leaves Adobe for Microsoft
 Mark Hamburg Returns to Adobe
 Mark Huot: ‘A Real Web Design Framework’
@@ -10307,6 +10323,7 @@ Matthew Bischoff on Software Criticism and the NYT’s ‘Today’s Paper’
 Matthew Lynn, Columnist for Bloomberg: ‘Apple iPhone Will Fail in a Late, Defensive Move’
 Matthew Modine in The Loop Magazine
 Matthew Panzarino Reviews the Nokia Lumia 800
+Matthew Panzarino on Greg Christie’s Departure
 Matthew Panzarino on Samsung’s Gear Commercial
 Matthew Panzarino on Tweetbot 3
 Matthew Panzarino on Twitter’s New Guidelines
@@ -10364,6 +10381,7 @@ Meet Jack Torrance
 Meet Josh Simpson, the Man Behind Twitter’s @BPGlobalPR
 Meet Thorsten Heins, the New President and CEO of Research in Motion
 Meet the Ape
+Meet the Bag Man
 Meet the Command Line
 Meet the New Boss, Same as the Old Boss
 Meet the Resistance
@@ -10819,6 +10837,7 @@ MoMA: 50 Years of Helvetica
 MoRU
 Mobile Ad Company Declares In-App Ads the Way of the Future
 Mobile App Store Revenues for 2010, According to Research Firm IHS
+Mobile Apps or Mobile Web?
 Mobile Browser Cache Limits for Android, iOS, and WebOS
 Mobile Browser Market Share
 Mobile Carriers Unconvinced by Nokia’s Revival Bid
@@ -11601,6 +11620,7 @@ New York Times: ‘Ad Downturn Threatening the Survival of Business 2.0’
 New York Times” ‘Fever Builds for iPhone (Anxiety Too)’
 New Yorker Cartoons Captioned With Kanye West Tweets
 New Yorker iPhone Cover Boosts Sales for Brushes App
+New York’s Typography District
 New Zune on Monday?
 New at Apple: Smaller iPods, Bigger Ideas
 New iMac Commercial
@@ -12619,6 +12639,7 @@ Paul Thurrott Nailed It
 Paul Thurrott Responds
 Paul Thurrott Reviews the iPod Nano
 Paul Thurrott Still a Dipshit
+Paul Thurrott on Microsoft Office for iPad
 Paul Thurrott on Microsoft’s Platform Centricism
 Paul Thurrott on Office for Mac
 Paul Thurrott on Randall Kennedy
@@ -14092,6 +14113,7 @@ Samsung Launches Galaxy S4
 Samsung Launches Series 7 Aluminum Laptops
 Samsung Lawyers Supplied Executives With Highly Confidential Apple-Nokia License Agreement
 Samsung Loses $10 Billion in Market Value After DigiTimes Reports Apple Is Ordering DRAM From a Competitor
+Samsung Misled Investors About 2011 Galaxy Tab Sales
 Samsung Mobile Chief: ‘Without Samsung-Owned Wireless Patents, It’s Impossible for the Cupertino-Based Apple to Produce Its Handsets’
 Samsung Official Cites Serious Chip Rift With Apple
 Samsung Probed in Taiwan Over ‘Fake Web Reviews’
@@ -14180,6 +14202,7 @@ Sayonara, Netbooks
 Scab
 Scaling Down the Mac Pro
 Scaling at Instagram
+Scaling the Facebook Data Warehouse to 300 PB
 Scalzi on Sony BMG’s Ridiculous ‘DRM-Free Music’ Scheme
 Scammers Distributing Fake Chrome OS Betas
 Scaring People With Flash’s ‘fullScreen’
@@ -14288,6 +14311,7 @@ Sebastiaan de With on the New UI Details in iWork and iLife ’09
 Sebastiaan de With’s HP WebOS Event Roundup
 Sebastiaan de With’s New Interarchy Icons
 Sebastiaan de With’s Snow Leopard UI Roundup
+Second Best Evidence From Apple-Samsung Trial: Phil Schiller Email Exchange With TBWA/Media Arts Lab
 Second IE9 Platform Preview
 Second Issue in ‘Month of Apple Bugs’ Is a VLC Buffer Overflow
 Second Jerry Seinfeld and Bill Gates Spot for Microsoft
@@ -15031,6 +15055,7 @@ Step Into Xcode
 Stephen Colbert Channels Dr. Strangelove
 Stephen Colbert Gets an iPhone
 Stephen Colbert on the iPhone and Apple’s Name Change
+Stephen Colbert to Succeed Letterman on ‘Late Show’
 Stephen Colbert’s Americone Dream
 Stephen Coles on Yahoo’s New Logo
 Stephen Coles on the Design of The Daily
@@ -15113,6 +15138,7 @@ Steve Jobs: ‘Thoughts on Flash’
 Steve Jobs’s Advice to Nike: ‘Get Rid of the Crappy Stuff’
 Steve Jobs’s Closing Keynote at WWDC 1997
 Steve Jobs’s Home Run With the iPhone
+Steve Jobs’s October 2010 Draft Agenda for Apple’s Top 100 Meeting
 Steve Jobs’s Return to Stage and Opening Remarks
 Steve Martin Is Now on Twitter
 Steve Martin’s First Look at Final Cut Pro X
@@ -15588,6 +15614,7 @@ TestFlight: Over-the-Air Installation of iOS Beta Apps
 Testing the ‘Broken Windows’ Theory of Crime
 Tests Cast Doubt on FAA Restrictions on Kindle and iPad
 Tethering on iPhone OS 3.0 over AT&T
+Tetris Played on a 29-Story Skyscraper
 TeuxDeux
 Texas Judge Blocks Microsoft From Selling Word
 Texas Truck Driver Breaks Internet
@@ -15972,6 +15999,7 @@ The FOUC Problem
 The Faces of Mechanical Turk
 The Fake Leopard Screenshot Contest
 The Fall of Motorola
+The Fallacy of Android-First
 The Fallacy of Choice
 The False Choice of Ajax vs. Permalinks
 The Family Tree of Bourbon Whiskey
@@ -16676,6 +16704,7 @@ The Talk Show, Episode 8
 The Talk Show, Live, Next Week in San Francisco
 The Talk Show, Macworld Expo Special Edition
 The Talk Show, Live
+The Talk Show: Live From Build 2014
 The Talk Show: Live From WWDC 2012
 The Talk Show: Live From Çingleton
 The Talk Show: New Weekly Podcast With Me and Dan Benjamin
@@ -16731,6 +16760,7 @@ The Tyranny of ‘Free’
 The U.S. Patent System vs. Innovation
 The Ubuntu Font Family
 The Ultimate Commenting Experience
+The Ultimate Guide to Solving iOS Battery Drain
 The Ultimate Productivity Blog
 The Unbelievable World of Snowflakes
 The Uncollaborative iCloud
@@ -16753,6 +16783,7 @@ The Vanderbilt Republic Is Recruiting a CTO
 The Vanderbilt Republic: ‘The Mechanical’
 The Vanderbilt Republic Foundation
 The Vanishing Numeric Keypad
+The Vast Discrepancy in User Demographics Between iOS and Android
 The Verge Best of CES Awards
 The Verge Live-Blog Coverage of Microsoft’s New Surface Tablet
 The Verge Reviews Windows 8.1
@@ -16771,6 +16802,7 @@ The Verge: ‘HTC in Disarray’
 The Verge: ‘Microsoft Took a $900 Million Hit on Surface RT This Quarter’
 The Verge: ‘Microsoft’s New Xbox Will Include Improved Siri-Like Speech Recognition’
 The Verge: ‘The Striking Pebble Steel Could Change Your Mind About Smartwatches’
+The Verge: ‘Why Amazon’s Fire TV Is a Guaranteed Hit’
 The Verge’s Galaxy S4 Review
 The Verizon Small Bang
 The Verizon iPhone 5 Is GSM Unlocked
@@ -18707,6 +18739,7 @@ Why Seth Dillingham Wrote a JavaScript Module for BBEdit
 Why Siri Can’t Find Abortion Clinics and How It’s Not an Apple Conspiracy
 Why Siri Had to Start in Beta
 Why SpamSieve Doesn’t Bounce Spam Messages
+Why Stephen Colbert Is the Perfect David Letterman Replacement
 Why Stephen O’Grady Is Against Software Patents
 Why Steve Ballmer Should Have Been Shitcanned No Later Than 2009
 Why TNW Decided to Stop Publishing the Android Version of Their Magazine
@@ -18920,6 +18953,7 @@ Wired’s Flash-Free App Lands on the iPad
 Wired’s Samsung Galaxy Tab Review
 Wired’s Tribute Page
 Wired’s iPad App: Pictures of Text
+Wiretap Proponent Condoleezza Rice Joins Dropbox’s Board
 Wiretap Update: Big Three Telecoms Sued While Government Invokes State Secrets
 Wishful Thinking
 Witch 1.0b3
@@ -20630,6 +20664,7 @@ yDSF - Robust CSS Drop Shadows
 ‘Star Wars: The Clone Wars’ Sneak Peek
 ‘Stars War’
 ‘Start Updating Your Apps for iOS 7. Now.’
+‘Steve Expected Excellence. Which Is Why He So Often Got It.’
 ‘Steve Jobs Didn’t Make the First Macworld, Either’
 ‘Steve Wouldn’t Eat an Energy Bar’
 ‘Strange Effort’, Indeed
