@@ -36,6 +36,7 @@
 "It'll never work": a collection of failed predictions
 "It's A Brick" - Tesla Motors' Devastating Design Problem
 "Journey to Justinia" – how I got my 5-year-old son to sit still for 5 hours
+"Let me know how I can help" – a proposal to HN
 "Lighten up"
 "Like A Rolling Stone" – Interactive Video
 "Linux switch saved city millions and reduced user complaints"
@@ -754,6 +755,7 @@ Amazon Staff Meetings: “No Powerpoint”
 Amazon Supply
 Amazon Unveils $199 Kindle Fire Tablet
 Amazon Web Services are down
+Amazon Will Pay You $5,000 to Quit Your Job
 Amazon WorkSpaces
 Amazon and the "profitless business model" fallacy
 Amazon founder Jeff Bezos calls for governments to end patent wars
@@ -1010,6 +1012,7 @@ Apple betrayed by its own law firm
 Apple censors Lawrence Lessig over warranty information
 Apple copies rejected app
 Apple deals massive patent blow to HTC, Android in serious trouble
+Apple declines to join Microsoft in funding patent troll Intellectual Ventures
 Apple design chief Jonathan Ive awarded knighthood
 Apple didn't revolutionize power supplies; new transistors did
 Apple granted preliminary sales ban of Galaxy Nexus
@@ -1879,6 +1882,7 @@ ClojureScript
 ClojureScript Koans: Learn ClojureScript from inside your browser
 ClojureScript One
 Close Tab Behaviour in Google Chrome
+CloudFlare's Heartbleed challenge cracked
 Cloudant (YC S08) is looking for a Lead Front-End Engineer
 Cmd.fm
 Cmder: portable console emulator for windows
@@ -2750,6 +2754,7 @@ Evidence my ISP is making money from tracking its customers
 Evidence that the NSA Is Storing Voice Content, Not Just Metadata
 Evolution of Hacker News
 Ex-Wave, Ex-Plus engineer on Google Plus
+Excerpt from ‘Flash Boys’ about Serge Aleynikov and Goldman Sachs
 Excited about iOS 5? Join Nowmov (YC W10) to unleash the potential of AirPlay
 Excited about new developments at f8? We need Ruby developers at PageLever
 Exhibit A – the “child pornographer”
@@ -5581,6 +5586,7 @@ Learn C
 Learn C The Hard Way
 Learn C The Hard Way by Zed Shaw
 Learn C and build your own Lisp
+Learn CSS Layout
 Learn Emacs Lisp in 15 minutes
 Learn Emacs and Lisp with simple, bite-sized screencasts
 Learn Git Branching
@@ -7483,6 +7489,7 @@ Putin: A Plea for Caution From Russia
 Putting "Search" into Google yields a surprising result
 Pwning a Spammer's Keylogger
 PyCon Code of Conduct changed to avoid public shaming
+PyCon US 2014 – Videos
 PyPy 1.5 Released: Catching Up
 PyPy 1.6 Released - Full Python 2.7.1 Implementation
 PyPy 1.7 released: widening the sweet spot
@@ -8708,6 +8715,7 @@ Spotify and Facebook: Is that phishing?
 Spotify launches in the US
 Spotify now requires a Facebook account to sign up.
 Spotify position in support of systemd in the default init debate
+Spouses of H-1B Visa Holders May Soon Be Allowed to Work in the U.S.
 Spray-on liquid glass is about to revolutionize almost everything
 Sprite Cow: Generate CSS for sprite sheets
 Sprite Lamp
@@ -10048,6 +10056,7 @@ Thorium
 Thorium Reactors
 Thorium nuclear reactor trial begins in Norway
 Thorium nuclear reactors: a possible solution of the energy crisis? (video)
+Thorium reactors: Asgard’s fire
 Those 500K Bitcoins that caused the flash crash weren't real
 Those budget 27" IPS displays from Korea are for real
 Thoughts on Bitcoin
@@ -10162,6 +10171,7 @@ Traction mistakes
 Trader Joe's Ex-President To Turn Expired Food Into Cheap Meals
 Trader: I dream of another recession (and Goldman Sachs rules the world)
 Trading Program Ran Amok, With No ‘Off’ Switch
+Transcribing Piano Rolls, the Pythonic Way
 Transcript of meeting between Julian Assange and Google CEO Eric Schmidt
 Transfer of Wikipedia sites from GoDaddy complete
 Transparent Bitcoin Ponzi scheme

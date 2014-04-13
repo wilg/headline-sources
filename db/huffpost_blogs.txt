@@ -5,6 +5,7 @@
 "All It Takes for Evil to Triumph Is for a Good Man to Do Nothing."
 "American Exceptionalism": Are We a Victim of Our Own Conceit?
 "Americans Kill People": Michael Moore on Newtown, Mass Shootings, and the U.S. Culture of Violence
+"An Act of Love": Is Jeb in...Jebardy?
 "An Inconvenient Truth" Producer Lawrence Bender on HuffPost Live: Time to Double Down on Confronting Climate Change
 "Aren't You Ashamed?": William Bolcom's Angry Song on Senators' Defeat of Gun Safety Legislation
 "Ask a Stupid Question... "
@@ -16,6 +17,7 @@
 "Change of Heart"...
 "Comp-Time" in a Real-time World
 "Comprehensive Immigration Reform": The Dead End Debate
+"Consequences" for Russia's Aggression
 "Crucifying" the "Other"
 "Dark Money"
 "Do What We Must?"
@@ -92,6 +94,7 @@
 "Tip of the Spear"
 "Trotting Out a Brown Face": Is Either Party Taking Latinos Seriously?
 "Unexceptional Is Fine by Me"
+"Waterboard Him Some More"
 "We Are Living in the World Occupy Made": New York City Voters Elect Mayor Who Vows to Tax the Rich
 "We Can Afford to Live Again" - 10 Americans Who Got Covered
 "We Do Not Want War" -- the Plea of Afghan Youth
@@ -122,9 +125,11 @@ $250K a Year -- Rich or Not Rich?
 $300 Billion Taxpayer Dollars Funneled to Businesses in States That Allow LGBT Workplace Discrimination
 $60 Billion in Preventable Medicare Costs
 $port$ Talk
+'10 Angry Men' Isn't Enough: Will the Supreme Court Finally Step in to Stop States From Violating Fundamental Constitutional Rights?
 '2016: Obama's America': Save Your Money, Use Your Vouchers
 'Accept' and 'Tolerate' My Gay Kid? That's Not Good Enough
 'Affluenza' and the Miscarriage of Justice
+'Afghan Men Were Cheering for a Female Candidate...'
 'All of the Above' Energy Plans Should Really Be 'Some of the Above'
 'America's Most Effective Prophet': Tonal Lessons From Dr. King
 'American Fascism': Accurate or Misleading?
@@ -168,6 +173,7 @@ $port$ Talk
 'Don't Ask, Don't Tell' One Year Later: We Can't Go Back (PHOTOS)
 'Don't Say Gay' at the GOP Convention: A View From the Floor
 'Don't Tread on Me!' Unless You're the National Security Agency
+'Drug Endangered Children' Laws Will Do More Harm Than Good
 'Dump DeMarco' Housing Protestors Interrupt (and Get Evicted From) House Hearing
 'Employment Discrimination 2.0' and What President Obama Can Do About It in His Second Term
 'Endless Wars Overseas, Infringing on Civil Liberties at Home': An Interview on NSA Surveillance With Former State Department Official Matthew Hoh
@@ -279,6 +285,7 @@ $port$ Talk
 'Poor People Do Not Deserve to Have Children'
 'President Chris Christie': How Does That Sound Now?
 'PresidentObama' Talks Parenting On Reddit
+'Privatization' Is Not 'Privacy'
 'Pro-Choice Mother' Is Not an Oxymoron
 'Public-Private Partnerships' Sound Great, But Private Investment Requires Public Accountability
 'Rate Shock' Will Be at Heart of New Scare Campaign Against Obamacare
@@ -292,6 +299,7 @@ $port$ Talk
 'SNL' Should Address Gun Control This Saturday Night
 'Safe Seats' and the Media's Soft Spin About Radical Republicans
 'Security' Is Not 17,000 Nuclear Weapons
+'Senseless' Does Not Describe Ft. Hood Shootings
 'Shallow Loss' Is a Loser of a Program
 'Sham' Marriage Allegations Arise Against Arizona Congressional Candidate Col. Martha McSally
 'Shut Up!' -- Really GOP?
@@ -362,6 +370,7 @@ $port$ Talk
 'Will You Serve Your Full 6-Year Term as U.S. Senator?' Absolutely, Said Sens. Warren and Obama
 'Winter in Scotland': How Ashley Judd Will Force the Media to Develop a Sense of Humor
 'Wiping Away the Tears' at Wounded Knee
+'With Liberty and Justice for All' -- Our Democracy on the Brink
 'With Liberty and Justice for All': Gays Are People Too, Entitled to All the Rights, Privileges and Obligations Enjoyed by Straight People
 'With You Shield, or On It': Why Cure Research Must Be Supported
 'Women's Rights Are Human Rights' -- 20 Years Later
@@ -371,6 +380,7 @@ $port$ Talk
 'You Can't Just Put in a Program and Think It Will Solve the Problem'
 'You Failed to Break the Spirit of Bradley Manning': An Open Letter to President Obama
 'You Have to Understand, George. Ukraine Is Not Even a Country'
+'You're Definitely Not Worth $15 Per Hour'
 'Young Earth' Baloney on the House Science Committee
 (Another) Open Letter to Edward Snowden
 (EM)I Has a Dream
@@ -494,6 +504,7 @@ $port$ Talk
 20 Great Ideas From Cities That Could Change the Country
 20 Things the Poor Really Do Every Day
 20 Ways Obama and Democrats Have Betrayed the World
+20 Years After the Genocide in Rwanda: Lessons Learned and Unlearned
 20 Years Ago Today, America Became a More Family-friendly Nation -- And We Must Do It Again
 20 Years Later, These Are The Issues Mrs. Doubtfire Will Make Us Think About Into Eternity
 2004 Redux: The Election Will Come Down Again To Ohio, But Not As Romney Hopes
@@ -573,6 +584,7 @@ $port$ Talk
 3 Reasons Interfaith Efforts Matter More Than Ever
 3 Reasons Marijuana Legalization in Colorado Is Good for People of Color
 3 Reasons the Government Shutdown Is a Women's Issue
+3 Reasons to Be Proud for Supporters of Education Equality
 3 Reasons to Get Upset About CrossFit
 3 Things I Wish I Would Have Known Before I Took on School Debt
 3 Ways Regular Americans Will Be Hurt by a Debt Ceiling Default
@@ -721,6 +733,7 @@ $port$ Talk
 50 Years, 50 Governors: Are You Listening?
 50 Young Progressive Activists Who Are Changing America
 500,000
+50th Anniversary of the 1964 Civil Rights Bill
 50th Anniversary of the Catholic Volunteer Network
 50th Anniversary of the March on Washington: A Farmer's Viewpoint
 50th Anniversary of the March on Washington: A Renewed Hope for the American Dream
@@ -808,6 +821,7 @@ $port$ Talk
 7 Signs Your Campaign Is Losing
 7 Things About Prosecuting Wall Street You Wanted to Know (But Were Too Depressed to Ask)
 7 Things This Queer Man Wants Alec Baldwin to Know (An Open Letter)
+7 Things to Know This Equal Pay Day
 7 Ways Our Presidential Candidates Plan to Tackle Unemployment
 7 Ways to Be Sure You Are a Martin Luther King Jr. Kind of Christian
 71 Days Till Minnesota Votes on My Family
@@ -1047,6 +1061,7 @@ A Dangerous Misperception and Cultural Divide
 A Darkening Cloud Hangs Over Guantanamo
 A Day In The Life Of A Whistleblower
 A Day That Shook the World
+A Day Without Dying: America's Best Day in Years
 A Day in the Life of a Congressman
 A Dead Child and Childish Things
 A Dead-End Pursuit Not Worth Pursuing: Syria and the Question of Intervention
@@ -1411,6 +1426,7 @@ A Pill Popping Society
 A Place at the Table: Introducing HuffPost Food For Thought
 A Plague of Drones
 A Plan B on the Debt Ceiling
+A Plan Still on Paper: Three Years of the US-Colombia Labor Action Plan
 A Plan for Tackling Inequality: What's Needed Now
 A Plan of Action
 A Plea to Stop the Yearly September 11-Worship
@@ -1566,10 +1582,12 @@ A Small W
 A Smart and Principled Plan to End 'Too Big to Fail'
 A Snake?! Lawmaker's Inappropriate Comment to Teen at Hearing
 A Soldier Who Changed His Country
+A Solution to Citizens United
 A Solution to Eroding Retirement Security
 A Solution to Our 'Manufactured' Crisis
 A Sour Apple
 A Speech That Speaks to Our Progressive Traditions
+A Spirit of Solidarity Within the Movement for Immigrant Rights
 A Standoff of Texas Proportion
 A State Is a Terrible Thing to Waste
 A State of Uncertainty
@@ -1626,12 +1644,14 @@ A Thanksgiving Letter to the Republican Party
 A Thanksgiving Prayer to Stand for Children and Our Nation's Future
 A Thought Experiment for "Pro-Life" Extremists
 A Thoughtful Response Is Needed in Syria
+A Time for Action
 A Time for Harry Reid's Backbone
 A Time for Shared Sacrifice
 A Time of Exponential Ignorance
 A Time to Reflect on Justice
 A Time to Stand and Deliver for Iran
 A Tiny Bit on Implementing the Affordable Care Act
+A Tolerant Society Should Not Tolerate Militancy Against Tolerance. Period.
 A Tough Job: Tackling Poverty and Fragility in Afghanistan
 A Town Hall Meeting With 'The People's Governor'
 A Trade Policy for President Obama's Second Term
@@ -1759,6 +1779,7 @@ Aaron Swartz Was Gifted and Brave. Too Bad He Wasn't 'Too Big to Fail'
 Aaron Swartz and the Questions That None Dare Ask Obama
 Aaron Swartz: A Libertarian Dilemma
 Aaron's Walk: The New Hampshire Rebellion
+Abbas Moves Bring Out Israeli Arrogance and Paternalism
 Abbas Needs An Exit Ramp From the UN
 Abby Huntsman: On Getting and Keeping Young People Engaged in Politics
 Abdul Hafiz Mansoor: 'I Assure You the Taliban Will Never Return'
@@ -1777,6 +1798,7 @@ Abortion Providers Are Heroes: In Defense of Abortion on Demand and Without Apol
 Abortion Rights Are Pro-life
 Abortion Rights: We Can Handle the Truth
 Abortion Wars Revived in Alaska Legislature
+Abortion Wars: A Judge Speaks of Women's Health, Women's Needs
 Abortion as a Blessing, Grace, or Gift -- Changing the Conversation About Moral Values
 Abortion on the Rise in Iran
 Abortion, Obamacare, Medicare: Why Romney Is Unqualified to Be President
@@ -1915,6 +1937,7 @@ Afghanistan Can Use a Strong Dose of Morale Optimism
 Afghanistan Exit Strategy: How Bilateral Is the Security Agreement
 Afghanistan Follies
 Afghanistan Is Ready to Seize Its Destiny
+Afghanistan Needs a Tranformational Leader
 Afghanistan Quagmire
 Afghanistan in the Obama-Romney Gap
 Afghanistan's Base Bonanza
@@ -2027,6 +2050,7 @@ Alan Grayson, Jewish Democrat, Rides Hispanic Support Back to Washington
 Alan Greenspan Is Back, and He Looks a Lot Like Larry Summers
 Alan Gross: Time to Negotiate
 Alarming Interviews w/ Ohio Romney Supporters (VIDEO)
+Alas Poor Yorick
 Alaska GOP Drama in Post-Palin Era as Crazy as Ever
 Alaska GOP Official Ms.fires -- Wants Ms. Magazine Off Shelves
 Alaska GOP's Big Tent: Too big, or Too Big to Fail?
@@ -2232,8 +2256,10 @@ America's New Normal: Mass Surveillance, Secret Courts and Punishment for Whistl
 America's New Poverty: The Poverty That Must Be Defeated
 America's Own Loose Nukes
 America's Path to Economic Slavery Under the Republicans
+America's Peace Ship
 America's Pension Black Hole: Dissecting Warren Buffett's Tapeworm
 America's Poverty-Education Link
+America's Promise is Possible
 America's Racial Wealth Gap Is Fixable
 America's Retirement Security Crisis and the Need to Expand Social Security (Infographic)
 America's Ruling Class Hall of Shame
@@ -2268,6 +2294,7 @@ America: Paying the Piper
 America: Still 'at War' in a Global Free-Fire Zone
 American Air Carriers Victim to U.S. Government's Corporate Cronyism
 American Anniversaries from Hell
+American Anti-Tank Weapons Appear in Syrian Rebel Hands (Updated)
 American Born Fear
 American Crisis
 American Crossroads Revs Up Attacks on Dems
@@ -2311,6 +2338,7 @@ American Liberals' Chicken-ism Is Coming Home To Roost
 American Moms One Year After Newtown: No More Silence About Gun Violence
 American Moms to Starbucks and CEO Howard Schultz: Ban Guns From Stores
 American Paradigm: Felix Baumgartner's Jump -- Amazing Individual Accomplishment and an Amazing Team
+American Peace Processing: Forget About It
 American Politics: I'm With Crazy
 American Poverty: The Way It Was and Our Own 30 Million
 American President: Out on a Limb
@@ -2495,6 +2523,7 @@ An Open Letter to President Obama Regarding Syria
 An Open Letter to President Obama for Obama II
 An Open Letter to President Obama on Happiness
 An Open Letter to President Obama on the Debt Ceiling
+An Open Letter to Public School Teachers: We Apologize
 An Open Letter to Rand Paul
 An Open Letter to Rep. Jeff Miller
 An Open Letter to Rep. Todd Akin
@@ -2619,6 +2648,7 @@ Another Nowruz Behind Prison Walls
 Another Obamacare 'Horror Story' Debunked; and, No, the President Didn't Lie About the Law
 Another Politically Motivated Investigation of Nonprofits?
 Another Potential Child Abduction Brewing in Brazil?
+Another Pro-Life Issue
 Another Reason No One Trusts Congress
 Another Reminder of Why Changes in Medical Marijuana Policy Can't Wait
 Another Right-Wing Phony Embroiled in Sex Scandal -- Why Does Sexual Hypocrisy Flourish on the Right?
@@ -2696,6 +2726,7 @@ April 4, 1968
 April 4, 1968: Honoring the Death of Martin Luther King, Jr., 45 Years Later
 April 9: Choice Day in the Texas Senate
 April Jobs Report Comes in Better Than Expected
+April Showers Hit Markets: Bring an Umbrella to Trade
 Arab American Democrats in Charlotte
 Arab Americans Making Progress
 Arab Americans and Law Enforcement: Rights at Risk
@@ -2749,6 +2780,7 @@ Are Republicans Already Planning Obstructionist Agenda for Next Four Years?
 Are Republicans Lying? Are Democrats?
 Are Republicans Rallying for Obama? Why Obama's GOP Endorsements Had Everything to Do With Likability
 Are Republicans Right About the Affordable Care Act?
+Are Republicans the Real Stars of The Wizard of Oz?
 Are Repubs Losing Their Religion?
 Are Retailers Doing Enough to Protect Consumers From Data Breaches?
 Are Sexually Wayward Politicians Helpable?
@@ -3370,6 +3402,7 @@ Beyond Gun Control: Regulating Virtual Violence and Video Games
 Beyond Incoherent
 Beyond Left and Right on Syria
 Beyond Marijuana: Gearing Up For the Battle to Decriminalize All Drugs
+Beyond McCutcheon: Deeper Questions Demand Raising
 Beyond Obamacare: In Many States, the Health Care Is a Human Right Movement Is Growing
 Beyond Orwell's Worst Nightmare
 Beyond Polls
@@ -3434,6 +3467,7 @@ Big Oil: Ballyhooed Alaska tax cut may not yield new production
 Big Pharma CEOs Rake in $1.57 Billion in Pay
 Big Pharma Could Win International Price Monopoly, Unlimited Profits in 'Free Trade' Deal
 Big Pharma Pockets $711 Billion in Profits by Robbing Seniors, Taxpayers
+Big Profits in Not-for-Profit Charter Schools
 Big Sisters Needed for the Poor
 Big Tech and The Feds -- Who's to Blame?
 Big Thinking at Fortune's "Brainstorm Green": Why Are We Politicizing Good, New Ideas?
@@ -3785,6 +3819,7 @@ Budget Conference Provides an Excellent Opportunity to Carefully Examine Rep. Ry
 Budget Crunch Threatens Vital Part of Physician Training
 Budget Deal
 Budget Deal Could Have Been Worse, But Fiscal Policy Still on the Wrong Track
+Budget Linguistics
 Budget Offsets to Pay for Tornado Relief: End Subsidies to Oil Companies
 Budget cuts might lead to consolidation of nuclear labs
 Budget for MOX Program Cut by 75 Percent
@@ -3843,6 +3878,7 @@ Bush and Blair Aren't Guilty of War Crimes in Iraq
 Bush's Iraq Makes Obama's Syria a Much Tougher Sell
 Bush's Legacy Ought to Be on Trial but Instead It's Put on Display
 Bush's Shame
+Bush-Painting Boarding
 Bushes Back Jeb 2016
 Bushes: Father and Son
 Bushmaster Rifle Ad Reminds Us To Ask More About Masculinity And Gun Violence (PHOTO)
@@ -3931,6 +3967,7 @@ California Tenants to Have Lobby Day in Sacramento
 California Voters Acted to Save $100 Billion
 California Voters Decide to Keep Death Penalty That's Rarely Used
 California Votes to Reform Draconian "Three Strikes" Mandatory Minimum Law
+California's 'Up-Wing' Governors: Jerry Brown, Arnold Schwarzenegger, Gray Davis
 California's Attempt to Avenge Revenge Porn
 California's Billionaire Ballot: The Good, Bad, And Ugly
 California's Death Penalty: All Cost and No Benefit
@@ -3953,6 +3990,7 @@ Calling All Baby Boomers
 Calling All Hillarys
 Calling All Lebanese
 Calling All Nuclear Values Voters
+Calling All Pagans
 Calling Doris Kearns Goodwin: An Unfair Revision of JFK Legacy: New High School History Texts Needed
 Calling It What It Is
 Calling Justice-Loving South Asians to Dismantle the Drug War, Free People and Plants, and Foster Health and Development for Millions
@@ -4212,6 +4250,7 @@ Celebrating Darwin: Religion And Science Are Closer Than You Think
 Celebrating Equality in Song and Prayer: A Personal Reflection on the Supreme Court's Gay Marriage Decisions
 Celebrating Family and Medical Leave Act With Family Values
 Celebrating Forty Years for Children
+Celebrating LBJ's Legacy: A Reminder of Texas' Civil Rights Challenges Today
 Celebrating Progress of Marriage Equality and Not Settling For Anything Less Than Full Equality
 Celebrating Progressive Patriotism on the Fourth of July
 Celebrating Roe v. Wade as a Pro-Choice Muslim
@@ -4335,6 +4374,7 @@ Cherry-Picking Evil
 Chevron in Ecuador: U.S. Oil Company Spies on Latin American Country to Escape Multi-Billion Court Judgment
 Chicago Charter Operator in Corporate Pockets
 Chicago Fighting to Use Unmanned Drones To Target Poor Kids
+Chicago Pension-Cutting Plan Would Harm City Retirees, Neighborhoods
 Chicago Public School Closure List Out; More SOTU Preschool Details: Ed Today
 Chicago State University Is the Right Place for President Obama Library
 Chicago Supports President Obama on Climate Change
@@ -4508,6 +4548,8 @@ Chávez's Legacy
 Cicero and the State of the Union
 Cigarettes and Senators
 Cincinnati Archdiocese Appeals Award to Teacher Fired for IVF Pregnancy: Examining the 'Religious Freedom' Arguments
+Circling the Battlewagons Against China: US Defense, State Dept. Speak Out
+Citi to Help Unemployed Youth? Oh, the Irony!
 Cities Can Solve Our Nation's Transportation Problem
 Cities Tackle Inequality
 Cities and States Should Learn From Edward Snowden
@@ -4623,6 +4665,7 @@ Closing the Achievement Gap: An Obama Signature Program?
 Closing the Book on Torture
 Closing the Employment Gap for America's Largest Minority Group
 Closing the Low-Expectations Loophole for Students with Disabilities
+Closing the Pay Gap in 3 Simple Steps
 Closing the Skills Gap
 Clothes Do "Make the Client": What the Hell Was Jesse Jackson and His Legal Team Thinking?
 Cloud Atlas: Resistance and Redemption
@@ -4652,6 +4695,7 @@ College Girls, Bottled Water and the Emerging American Police State
 College Scorecards and the Liberal Arts
 College Students Need Information to Vote This November
 Colleges Pledge Their Support to President Obama and the Nation in the Effort to Curb Gun Violence
+Colleges vs. Military: Who's Worse at Prosecuting Sexual Assaults?
 Collision Course: On the Virtues of Potentially Hazardous Asteroids
 Colombia: A Shooting Star. Who Knew?
 Colorado Fails to Regulate Marijuana -- and Colorado Springs Decides Not to Take Their Chances With Legalization At All
@@ -4671,6 +4715,7 @@ Combat Veterans May Have the Antidote to What Ails Us
 Combating Discrimination: The Good News, Sort of
 Combating Gender-Based Violence as a U.S. Policy Priority
 Comcast Aims to Buy Seattle Mayor, Intimidate Others
+Comcast, Time Warner and Congress: Perfect Together
 Come Clean on Deadly Drone Activities
 Come Hagel or High Water: In the Shade of Iraq
 Comey's Hollow MLK Guidance to FBI Agents
@@ -4727,6 +4772,7 @@ Compassionate Humanism: Closing the Giving Gap
 Compassionless Conservatives
 Compañeros of the Word: Toward a Literacy of Rebellion
 Competing for the Latino Vote in Texas
+Competing for the Latino Vote in Texas Part II: The Democrats' Dilemma
 Competition in Cuba
 Complicated Politics: Democrats and the Grand Bargain
 Comprehensive Immigration Bill Does Nothing For Our Families
@@ -4798,6 +4844,7 @@ Congress Only Succeeds in Failing: A Simple Election Is not Enough to Fix What's
 Congress Protects Monsanto, Not Third Graders
 Congress Pushing College Students Over Fiscal Cliff
 Congress Sequesters, Citizens Sweat It
+Congress Should End Immigrant Detention Quotas
 Congress Should Give Dad a Break
 Congress Should Internalize This Week's Economic Data
 Congress Should Keep Lights Off on Tax Package That Nets GE Billions in Tax Breaks
@@ -4969,6 +5016,7 @@ Conventional Wisdom and the 'Chemistry of Community'
 Conventions 2012: To Save the American Dream, We Need to Recapture the American Spirit
 Conventions, So Long Until Next Time
 Conventions: The Best Democracy Money Can Buy
+Conversation Between Fidel and Chavez After Coup Illustrates Their Humanity, Restraint
 Conversation With a "Gay-Buster"
 Conversations With Commanders: Interviewing General Schwarzkopf and President Bush
 Converting a Poll Average to a Forecast
@@ -5002,6 +5050,7 @@ Corporate cash helps fuel Democratic convention despite pledges
 Corporations Are Colonizing Us With Trade Deals - and Wall Street Wants In
 Corporations Are Not People, Mitt!
 Corporations Are Not Persons -- Never Were and Never Can Be
+Corporations Are Stealing From Low-Wage Workers
 Corporations Owe Hundreds of Billions of Taxes But GOP Goes After Federal Employees
 Corporations, Humans and Taxes
 Corporations, pro-business nonprofits foot bill for judicial seminars
@@ -5133,6 +5182,7 @@ Crimea and the Left: It's an Intellectual Wasteland Out There
 Crimea in Sunnier Times
 Crimea's Technically Flawed Referendum
 Crimea, Anschluss and the Enduring Quest for Autonomy
+Crimea: Russian Aggression or Realpolitik?
 Crimea: The End Game
 Crimean Opportunity
 Crimean Punishment
@@ -5181,6 +5231,7 @@ Cruz, Boehner and the GOP's Hostage Crisis
 CruzNoCanadian
 Cruzin for a Brusin in DC: Gunslinger Ted Cruz Can Redefine the Senate and the 21st Conservative Movement Too
 Cruzing for a Bruising
+Cuba & the U.S: The Case Against the Cuban Embargo
 Cuba: 3 Weeks Later
 Cultivating Local Medical Cannabis Systems Is the Way Forward
 Cultural Tourism DC Honors Ambassador Capricia Marshall
@@ -5451,6 +5502,7 @@ Death's Consultants and the Profit Game in Washington
 Death, Christ and California's Prop. 34
 Death, Drugs and Promises
 Death: The Great Equalizer
+Debasement of Science
 Debasing the Peace Prize
 Debate Climate Solutions, Not the Facts
 Debate Coverage: British Edition
@@ -5627,6 +5679,7 @@ Democrats Learn in Charlotte There's No Separation of Church and US Politics
 Democrats Leaving Mail Ballots on the Table
 Democrats Make Big Mistake in Ducking President Obama
 Democrats Must Highlight Congressional Republican Moderates' Hypocrisy
+Democrats Must Run Against Obamacare Repeal. Not Just for Obamacare. Against Repeal.
 Democrats Need to Take a Deep Breath
 Democrats Should Heed Churchill's Maxim and 'Deserve Victory!'
 Democrats Should Launch Pro-Obamacare Ad Campaign
@@ -5928,6 +5981,7 @@ Does Mainstream Media Know that 3rd Party Candidates Are Also Running for Presid
 Does Medicare Eliminate Waste? Not With Popular Diabetes Drugs
 Does Meditation Make You More Politically Liberal?
 Does Mitt Romney Speak Too Quickly for His Own Good?
+Does My Company Have to Comply with Obamacare?
 Does Name-Calling Politics Improve Your Argument?
 Does New Policy Protect Intelligence Whistleblowers?
 Does Obama Believe Syria Would Be a 'Just War'?
@@ -5947,6 +6001,7 @@ Does Rush Limbaugh Think Civil Rights Activists Should Have Shot Cops?
 Does Supporting Obama Make Me Hung Up on Being Gay?
 Does Tea Party Hero Mike Lee Really Want a War With Iran?
 Does Torture Work? Wrong Question!
+Does Turnout Doom Democrats in 2014?
 Does Washington Need a Real Code of Conduct?
 Does Your Vagina Vote for You?
 Does the Buck Stop With the President?
@@ -6060,6 +6115,7 @@ Don't Let the Boston Bombers Stop Comprehensive Immigration Reform
 Don't Let the IRS Do Your Taxes
 Don't Let the Neocons Punish Chuck Hagel for Pointing Up Their Failures
 Don't Let the Right Wing Co-opt King
+Don't Let the Veteran Voting Support Act Die Again
 Don't Like Hillary? Slap Her Around, Say Republicans
 Don't Look Now, But... Can Jerry Brown Actually Pull Off a Prop 30 Win?
 Don't Mess With Kaua'i
@@ -6157,6 +6213,7 @@ Dreams of Superman's Fathers
 Drinking to the State of the Union for Women
 Driver's Licenses: A Tool for Nativist Politics or an Opportunity for Incorporation?
 Driving American Roads Away From the "Fiscal Cliff"
+Driving While Black and Brown and LGBTQ
 Driving out Darkness: Bringing Light to Our Youth by Spreading Dr. King's Legacy
 Driving the Presidential Election: The Youth Vote
 Drone Delivery: A Perfect Symbol of Our Untroubled Times
@@ -6189,6 +6246,7 @@ Droning On: The Need to Establish a New Norm
 Droning on
 Drop the "Bomb Park"
 Dropping the 'I' Word -- History, Humanity and Martians
+Dropping the Second Shoe on Election Spending
 Drowning in Debt to Get a Degree
 Drug Czar Kerlikowske on His Way Out
 Drug Laws: Why Do We Have Them, and Do They Work?
@@ -6435,6 +6493,7 @@ Election Protection 2012
 Election Results Shows Fatal Flaw in GOP's Extreme Social Agenda
 Election Special: How it Stacks Up...Obama by a Whisker?
 Election Takeaway for Fossil Fuel Industry: Money Can't Buy You Love
+Election-Year Posturing From Congress Defines Campaigns
 Elections Have Consequences -- and Carry Messages
 Elections Have Consequences: It's Time for the Obama Administration to Acknowledge That Marijuana Prohibition Doesn't Work
 Elections a Defeat for Big Oil and a Win for Environmental Champions
@@ -6501,6 +6560,7 @@ Employment Healing Continues, But Still Frustratingly Gradual
 Empowering Women Around the World
 Empowering Women Empowers Us All
 Empowering Women for a Better Europe: Interview With Swedish Minister for European Union Affairs Birgitta Ohlsson
+Empowering Working Women and Families Means Closing the Wage Gap
 Empty Chairs and Hope
 Empty Promises in Obama's Mis-Education Agenda
 Empty Suit
@@ -6544,6 +6604,7 @@ Ending Washington Gridlock
 Ending the Abortion War: America Needs to Spur Space Race Development of Artificial Womb
 Ending the Era of Giveaway Trade
 Ending the Federal Government Shutdown and Avoiding Default... for Now
+Ending the International Drug War
 Ending the New Jim Crow: Mapping New Drug Policies in NYC
 Ending the Next Debt Ceiling Crisis
 Ending the Nuclear Weapons Age
@@ -6564,6 +6625,7 @@ Energy Independence and Bob Dylan (Hint: The Answer, My Friend)
 Energy Industry Moving Back to United States
 Energy Policy Akin to a Cheesecake Factory Menu: Is It Needed?
 Energy Reform Starts Outside the Beltway
+Engaging Citizens to Rate the Performance of Politicians: 'I For India'
 Engaging Minorities in Our Nation's Energy Future
 Engendering Pride in Iraqi-Americans 10 Years After the Start of the War
 Engineering Opportunity: Applying Effective Thinking
@@ -6611,8 +6673,11 @@ Equal Marriage: Not About Gay Rights vs. Religious Belief
 Equal Opportunity Won't Reduce Poverty
 Equal Pay -- More Than Nice
 Equal Pay -- Only 45 Years to Go!
+Equal Pay Day -- Making Maryland Even Better for Women
 Equal Pay Day: Fairness for America's Women
+Equal Pay Means Exactly That
 Equal Pay for Women Translates Into a Bigger Paycheck for Families
+Equal Pay's Thrill of Victory and Agony of Defeat
 Equal Rights For All
 Equal Rights Shouldn't Have an Asterisk
 Equal Rights for All: It's Finally Time for Adopted People, Too
@@ -6623,6 +6688,7 @@ Equality for All
 Equality for Some but Not for All
 Equality's Brutal Backlash: The Murder of Mark Carson and the Rise in Violence Against Gays
 Equality, Justice and Universal Healthcare
+Erdogan Chooses Soccer for First-Post Election Strike Against Islamist Opponents
 Eric Cantor Is Misrepresenting the House SNAP Cuts
 Eric Cantor's Ancient Endeavor
 Eric Cantor's New Plan Would Cost Workers Time, Flexibility and Money
@@ -6671,6 +6737,7 @@ Even al Qaeda Operatives Deserve Their Day in Court -- and Justice
 Even as a Republican, I Embrace Obamacare
 Even if It Was a Muslim, So What?
 Even if You Have Health Insurance, You May Not Have Health Insurance
+Even the Rich Should Reject the Ryan Budget
 Even the Shutdown Can't Kill Old Republican Fallacies
 Eventually a Bargain on Medicare -- Grand or Otherwise
 Ever Heard of the NSSF? Not If You Don't Own a Gun
@@ -6768,6 +6835,7 @@ Extend Unemployment Assistance by Cutting the War Budget
 Extending Breastfeeding Services to Our Military Moms and Spouses
 Extending Unemployment Benefits Makes Good Economic Sense, Too
 Extending a Critical Lifeline for the Long-Term Unemployed
+Extending the Unemployment Insurance Lifeline for Struggling Americans
 Externalities Kill
 Extra Effort Unrewarded
 Extreme Partisanship: Preserver of Our Democracy
@@ -6776,6 +6844,7 @@ Extreme Sentencing -- the 'New Normal?'
 Extremism Is Okay, Thoughtlessness Isn't
 Extremist Politics: Debating the Nuts and Bolts
 Eyebrow-Raising Omission in Republican Principles: Absence of 'Justice'
+Eyes Off the Afghan Election
 F-35 Contract May Be the Worst Deal the DOD Has Ever Made
 FACE IT: McGovern and The Way We Were
 FBI & NSA Spying Revealed: Uncle Sam Is Watching You, and Both Congress and the Courts Are Complicit
@@ -6839,6 +6908,7 @@ Fair Housing Is More Than Just a Roof Over Your Head
 Fair Housing Policy Matters
 Fair Pay for Women Starts With a Fair Minimum Wage
 Fair Wages for Fair Trade
+FairVote Survey Shows Support for Takoma Park Voting Reforms
 FairVote's Unique Methodology Shows That 52% of Voters Wanted a Democratic House
 Fairness Will Win the Debate and Win the Election
 Fairness for All: It's Time to Pass Gender Identity Nondiscrimination
@@ -7005,6 +7075,7 @@ Fewer Veterans in Congress Than Ever Before: Should We Be Worried?
 Fiction and Misinformation Win Over Facts, But Obamacare Is Open for Business
 Fiddling While Rome Burns
 Fiddling While Rome Burns: 64 Dead, 741 Sick, and Cass Sunstein's Dangerous Love Affair With Cost-Benefit Analysis
+Field Trip to the American Dream
 Fifteen Issues This Election Is Not About
 Fifty Years After First Surgeon General Report on Smoking, E-Cigarettes Pose Latest Threat to Public Health
 Fifty Years After President Kennedy's Assassination: Online Course about JFK Legacy Available at No Charge
@@ -7467,6 +7538,7 @@ Fracking: The Other EPA Shutdown
 Fragile Progress in the Congo
 Framing the Budget Conversation
 France Chooses the Path of Austerity
+France's Valls Is No Clinton
 Francis -- and America? -- at Heaven's Gate
 Frank Schubert, Anti-Gay Marriage Amendment Mastermind, Crumbles Under Questioning (AUDIO)
 Frankenpuppets
@@ -7538,6 +7610,7 @@ Friday Talking Points -- Filibusted
 Friday Talking Points -- Frankenstorm! Hank for Senate!
 Friday Talking Points -- Freedom From Job Lock
 Friday Talking Points -- From Russian Panties To Animal Skulls
+Friday Talking Points -- Happy 50th, Civil Rights Act Of 1964!
 Friday Talking Points -- Happy Pi Day!
 Friday Talking Points -- Happy Sestercentennial Column!
 Friday Talking Points -- Harry Reid Has a Good Week, Mitch McConnell Does Not
@@ -7662,6 +7735,7 @@ From the Delegates: Michelle Obama Is a DNC Favorite
 From the Folks Who Brought You NAFTA
 From the Front Lines of American Gun Violence
 From the Gut, Not the Brain
+From the ICTR to the ICC: Sobering Up on Justice
 From the Lunatic Asylum of Old to the Jails and Prisons of Today: Is This Progress?
 From the Mouths of Babes: The Potential of Student Surveys
 From the Pinnacle of Power, Putin Stands Before the Abyss
@@ -7700,6 +7774,7 @@ GDP Bag of Tricks
 GENDA: Another Step Toward Full Equality
 GI Bill Eases College Costs for Military Families
 GM Recall: What Needs to Happen Next
+GMO Pushers and The Art of War
 GOP 'Cost-Benefit' Bill Benefits Wall Street and Costs Americans
 GOP 'Economics' Demolished in 167 Words
 GOP 'Jackasses' Line Up Series of Votes Against Sandy Survivors
@@ -7828,6 +7903,7 @@ Gainful Employment Rule for For-Profit Colleges: Eminently Fixable, Eminently Ne
 Gallup Poll Finds Democrats More Compassionate; Republicans More Psychopathic
 Gallup Poll Shows Republicans Are More Manipulable Than Democrats
 Gals, Guns and the Gender Gap
+Gambling With American Democracy Vegas Style
 Gambling With Our Climate
 Game Change: Cheney Opens Himself to Subpoena Regarding 9/11, Iraq, Torture and Valerie Plame
 Game Changer in Ohio: Cars
@@ -7902,11 +7978,14 @@ Gender Smarts Break Congressional Deadlock
 Gender Wars: Women Redefining Customs as Crimes
 Gendered Laws: VAWA, IRCA and the Future of Immigration Reform
 General Atomics, Recently Penalized for Breach of Contract, Gets $28 Million of Your Tax Dollars
+General Elections in Afghanistan - Possible Portents
 General Misconduct
 General Motors, Corporate Morality, and the Call for Less Regulation
+General Motors: Another Slap on the Wrist for a Crime in the Suites
 General Sisi of Egypt to Contest Presidential Elections
 Generation 2012: How America's Youth Went From 'Yes we Can!' to 'Yeah Whatever'
 Generation Sequestration: A Call to Action
+Generational Change, In-Migration and Democratic Prospects in the South
 Generational Déjà vu in Syrian Debate
 Generational Theft: Our Youth Have to Stop It
 Genesis 37:1-40:23: 'Going Negative': Joseph Rallies His Base
@@ -7935,6 +8014,7 @@ George W. Bush Library
 George W. Bush and the Verdict of History
 George W. Bush as Hurricane Isaac
 George W. Bush's Legacy: The Debate Restarts
+George W. Bush's Supreme Court Strikes Another Blow for the .01 Percent
 George W. Bush: A Disastrous President
 George Washington Spinning In Grave Over Senate Iran Resolution
 George Washington's Christian (?) Faith
@@ -8029,6 +8109,7 @@ Girlfriends, Generals and Gmail
 Gitmo Diary: Now On Trial, Spiral Notebooks
 Gitmo Diary: Visiting the U.S.'s Most Infamous Courtroom
 Give Americans a Budget to Be Thankful For
+Give Congress a Pay Raise? As If!
 Give Credit Where Credit Is Due: U.S. Government Funds for Climate Change Adaptation
 Give Democracy a Chance
 Give Labor a Fair Shake
@@ -8086,6 +8167,7 @@ God Is Such a Waste of Time -- Not to Mention "Hell" and the Burning U.S. Embass
 God Save This Honorable Court
 God Takes a Holiday
 God Voted
+God and History Won't Help Us in Ukraine
 God and Jerusalem
 God and Morality: Never the Twain Shall Meet
 God and gun violence
@@ -8129,6 +8211,7 @@ Good Housing News May Not Be Good For Obama
 Good Idea: Immigration Reform, Bad Idea: Restricting Health Care
 Good Ideas From the President That Need Real Support
 Good Jobs First: No Grand Bargain Without a Jobs Trigger
+Good Lord, Republicans Still Pretending There Is an 'IRS Scandal'
 Good Morning America, How Are You?
 Good Morning Heartache, Good Morning Life
 Good News From Congress
@@ -8174,6 +8257,7 @@ Got Science? Beyond the Spin: Here's Why Energy Efficiency Standards Are Worth C
 Got Science? Fighting Legislative Attacks on Science Education
 Got Science? Fighting a Preventable Workplace Killer (Finally)
 Got Science? Scientists in Nebraska Say 'No' to Political Interference
+Got Science? This Climate Smear Spurred a Hate Mail Barrage
 Got Science? Who's Afraid of a 'Science Laureate?'
 Gouge the Kids
 Gov 2.0 Is Now Umbrella for Deep Change
@@ -8620,6 +8704,7 @@ Haters of Hate Crime Laws
 Hating Obama Is Not A Health Care Plan
 Hating the President
 Hatred: The Republicans' Core Problem
+Hats off to Brandeis University!
 Haunted by Lincoln, MLK and Louie Giglio
 Have Guns Made It Harder for Americans to Walk Away From a Fight?
 Have I Lost Hope at Guantanamo?
@@ -8663,6 +8748,7 @@ Healing America's Political Divide
 Healing Our Healthcare System
 Healing in the Commons: Church and State Join at Newtown
 Health Benefits
+Health Care - Making Progress
 Health Care After the Election
 Health Care Consumes Over a Third of Social Security Checks
 Health Care Costs Slowdown Is Good News For Medicare, Medicaid, And Obamacare: CBO Report Shows
@@ -8726,6 +8812,7 @@ Heather Gerken on Dollars v. Democracy
 Hedge Fund Hype, Wall Street Horoscopes, And Drop-Top Jets: The Magical Minds of the "Radical Rich"
 Hedge Funds and Pension Funds Are Oil and Water
 Heeding Eisenhower Now Needed More Than Ever
+Heeeeere's Johnnie
 Held Hostage, and the Need to Encourage Dissent and Debate
 Helen Keller's Radical Vision
 Helen Thomas Paved the Way for Women Journalists
@@ -8827,6 +8914,7 @@ High Anxiety and the Risks of Democracy: The Psychology of the American Voter
 High Anxiety, Low Information, Moderate Expectations: The Importance of Voter Psychographics in Elections
 High Atop the Deep Bench
 High Capacity Magazines - The Key Means of Massacre for Mass Murderers Must be Banned
+High Cost, Young Age: Sentencing Youth to a Life of Debt
 High Drug Cost Spells Health Risks For Poor And Uninsured: Report
 High Gasoline Prices and the Need for Natural Gas
 High School Violated Class President's Rights With Suspension
@@ -9197,6 +9285,7 @@ How Many More Tragedies Does It Take Before We Stop Turning Our Backs on Mental 
 How Many More Women Like Savita Halappanavar Should We Tolerate?
 How Many Pets Did PETA Kill in 2012?
 How Many Pundits Does It Take to Screw Up a Story?
+How Many Watch Lists Fit on the Head of a Pin?
 How Many Workers in Each State Would Benefit From Extending the Payroll Tax Cut?
 How Marriage Equality Helps Fight HIV
 How Mass Incarceration Threatens Public Health
@@ -9208,6 +9297,7 @@ How Mississippi Burning Helped Get Justice for Slain Civil Rights Workers
 How Mitt Could Win
 How Mitt Romney Views the American Electorate
 How Money in Politics Affects U.S. Diplomacy (VIDEO)
+How Much Is Enough? Congressman Vance McAllister Should Resign
 How Much Is Your Life Worth?
 How Much Must Women Sacrifice to Serve?
 How Much Would the Obama Budget Reduce the Deficit?
@@ -9244,6 +9334,7 @@ How Obama Won a Race He Could Have Lost
 How Obama and Democrats Can Win Passage of an Assault Weapons Ban
 How Obama's Politics Led to Sequestration
 How Obamacare Saved a Small Business Owner From Financial Ruin
+How Obsolete Laws Block Infrastructure
 How Occupy Wall Street Is Beating the Liberty Movement
 How One State Senate Just Screwed the Whole Nation
 How Opposition Should Behave: After Chuck Hagel and John Bolton
@@ -9337,6 +9428,7 @@ How Youth Can Change Washington: Getting Young People Excited and Active
 How Yum! Brands' Low-Wage Model Costs the Rest of Us
 How Zero Dark Thirty's Unflinching Objectivity Opens the Film Up to Simplistic Accusations of Ideological Partisanship
 How a Black President Made Racism Acceptable
+How a Film Could Get You 25 Years in Jail!
 How a Grassroots Campaign Started It All For Me
 How a Handshake Can Grip the World: 4 Tips to Take You to the Top
 How a Lawyer Defied the Gay Establishment and Got Michigan's Marriage Ban Struck Down
@@ -9544,6 +9636,7 @@ Howard Zinn's Legacy
 Howard's Daily: A Better Conservative Critique
 Howard's Daily: Affordable Health Care Requires a New Legal Framework
 Howard's Daily: Attracting Good People to Government
+Howard's Daily: Civil Service Has Died. Long Live the Merit System.
 Howard's Daily: Clashing Currents of Political Philosophy
 Howard's Daily: Clueless in Washington
 Howard's Daily: Fair Regulation Requires Human Judgment
@@ -9751,6 +9844,7 @@ I'd Rather Get Sick in a Foreign Country
 I'll Be Watching You
 I'll Have What She's Having: How a So-called Retirement Expert Would Worsen Our Retirement
 I'm A Bank Whistleblower And You Can Be Too
+I'm Ashamed to Admit It, But I Like 'House of Cards,' Violence and More
 I'm Breaking Up With the Word 'Addict' and I Hope You'll Do the Same
 I'm Coming Out... as Pro-Vaccine
 I'm From West Virginia and I've Got Something to Say About the Chemical Spill
@@ -9789,6 +9883,7 @@ IMF Agrees: Austerity Bites
 INFOGRAPHIC: Senate Deal Treats Students Like Cash Cows
 INFOMERCIAL: Introducing 'Liberty' by the GOP!* (*Some Restrictions Apply, Not Available to All)
 IPAB Shifts Costs and May Negatively Affect Patient Access
+IPCC Report: Impacts, Adapation, Vulnerability
 IPCC's New Climate Change Report Recommends Fossil Fuels Stay Where They Are... in the Ground
 IRS 'Scandal'? I Dissent (Based on Current Information)
 IRS Civil Servants Underappreciated
@@ -9848,6 +9943,7 @@ If I'm Not Doing Anything Wrong, Why Should I Care About Surveillance?
 If Increasing the Minimum Wage Doesn't Cost Jobs, How Does It Get Absorbed?
 If It Ain't Broke, Fix it
 If It Walks Like a Duck...
+If It Weren't for a Handful of Sports Figures, America Would Not Have Integrated as It Did
 If It's Paranoid Alarmism, It's Gotta Be Ron Paul
 If John Bolton Reaches Out to You by Email, Beware
 If John McCain Were My Client: An Executive Coach's Take on Minding Your Legacy
@@ -9898,9 +9994,11 @@ If You Believe Chris Christie Still Has a Chance to be President, I've Got a (GW
 If You Can't Stand the Heat: Why Washington Is Stuck on Climate Change (Part 1)
 If You Can't Win the Presidency, Put the Fix In
 If You Could Ask Romney One Question and He Had to Tell the Truth
+If You Don't Like "Rape Culture" Then Focus For A Minute On Sex and Status
 If You Don't Work, You Should Not Eat: The Hypocrisy of Congressional Public Theologians
 If You Get Sick, Pray These Guys Don't Treat You (Video)
 If You Like Your Health Care
+If You Like Your Health Plan, You Can Keep It
 If You Liked Iraq, You'll Love Iran
 If You Stand With Rand, You Also Stand With His Racist, Crackpot Buddies
 If You Still Think Pot Should Be Illegal, You Are an A**hole
@@ -9973,6 +10071,7 @@ Immigration Bill's 'Back Taxes' Amendment Much Harder to Implement Than Senator 
 Immigration Bill: How to Make the Bad, Good
 Immigration Bill: My Story, Their Story, Our Story
 Immigration Dialogue: Giving Thanks to Reagan and Looking to Obama
+Immigration Gets Uglier for Obama by the Day
 Immigration Gridlock Not Likely to End After the Election
 Immigration Impasse Explained
 Immigration Is Suddenly En Vogue, But Not All Latinos Are Buying It
@@ -10085,6 +10184,7 @@ Improving employee performance reviews
 Improving federal workers' view of their leaders
 Improving the Department of Transportation: A Conversation With Ray LaHood
 Improving the Fiscal Cliff Conversation
+Improving the Odds for America's Children
 Improving the Public's Health Through the Affordable Care Act
 Improving the opportunities for young leaders in government
 Impulses Gone Wild: The Weiner Brand Is Bad for New York
@@ -10228,6 +10328,7 @@ In the Long Term, Surprisingly, Putin's Solution for Ukraine May Be the Best
 In the Memory of Trayvon, America Must Never Allow for Young Black Men to Be Hunted Again!
 In the Middle of the Gunfight
 In the Name of Freedom
+In the Name of Protecting Children, the Poor, and the States, the Ryan Budget Does the Opposite
 In the Public Interest: Danger on Our Dinner Tables
 In the Public Interest: Meat Industry Admits We Need Food Inspectors
 In the Public Interest: Senator McConnell Says We Shouldn't Have a CFPB At All
@@ -10262,6 +10363,7 @@ Incognito Soldiers
 Income Inequality and Campaign Money: A Case of Cognitive Dissonance
 Income Inequality in 2014
 Income Redistribution is Actually Popular in America
+Inconvenient Truths
 Increase Minimum Wage and Consumer Price Index
 Increase Options for Sentencing Relief
 Increasing Innovation by Removing Patent Threats
@@ -10407,6 +10509,7 @@ Investing in Women and Girls Is an Investment in Our Future
 Investing in the American Dream: Immigration and the EB-5 Program
 Investment in the Middle Class: Obama's Biggest Boost to Education?
 Invisible Children
+Invisible Social Security Cuts: Now You See Them, Now You Don't
 Invitation to a Beheading: Chuck Hagel's Confirmation Hearings
 Invoking FDR: Where Is the Leadership on Climate Change?
 Iowa Court Blames Woman for Man's Lustful Desires
@@ -10547,6 +10650,7 @@ Is MLK of Use to Us Now?
 Is Managed Care Pushing America's Deadly Opiate Addiction?
 Is Marijuana Legalization in Colorado and Washington Considered a Success or Failure?
 Is Marriage Equality Inevitable?
+Is Maxim 'The Hatchet' Martsinkevich a Political Prisoner?
 Is Medical Marijuana Finally Coming to the South?
 Is Mitt Romney a Master Debater?
 Is Mitt in the 47 Percent? Did He Get Amnesty?
@@ -10653,6 +10757,7 @@ Is the NSA's Bulk Telephony Metadata Program Constitutional?
 Is the Nation-State Really Dying?
 Is the National Drinking Age Doing More Harm Than Good?
 Is the News Media 'Jumping the Gun' on Governor Chris Christie?
+Is the Nonprofit Mental Health Industry Misleading Congress?
 Is the Obama Administration Abandoning Its Commitment to a Nuclear-free World?
 Is the Past Our Future? Learning From the 'Evangelical Left'
 Is the Paul Ryan Bubble Bursting?
@@ -10681,6 +10786,7 @@ Islamophobia Strikes Out in South Florida
 Islamophobia and the Muslim-American Vote
 Islamophobia: Fear in Perspective
 Isn't It All Really Terrorism?
+Isn't It Time to Try Something New?
 Isn't a Humanist Military Chaplain an Oxymoron?
 Isolationism Revisited? The Tea Party and American Leadership in the World
 Israel Did Everything it Could to Avoid Civilian Casualties
@@ -10889,6 +10995,7 @@ It's Time to Make Goliath Go Lieth Down: 10 Reasons Why This Independent Is Voti
 It's Time to Make Sex Education Mandatory in Our Nation's Schools
 It's Time to Make a Deal
 It's Time to Pass a Trans-Inclusive ENDA (INFOGRAPHIC)
+It's Time to Pass the NY Women's Equality Act, Tenth Point Included
 It's Time to Put People First
 It's Time to Put an End to Israel's 'Don't Ask-Don't Tell' Nuclear Policy
 It's Time to Read American's Owner's Manual
@@ -11000,6 +11107,7 @@ Jason Perkey, Kansas Democrat, Shares Wednesday's State Breakfast Action Photos
 Jay Leno Shows His Union Solidarity
 Jay-Z, Nicki Minaj, Represent Unfortunate Shift In Hip-Hop Values
 Jeb Bush Tweeted Crazy Falsehood About the U.S. Embassy at the Vatican
+Jeb Bush to Address Convention of Predatory For-Profit Colleges
 Jeb Bush's 'Road to Revival' Takes a Wrong Turn
 Jefferson's Religious Freedom Statute: Setting the Groundwork for the Separation of Church and State
 Jeffrey Havard
@@ -11045,6 +11153,7 @@ Jewish Values Are the Salvation of the Republican Party
 Jewish Values and the Judeo-Christian Tradition Do Not Belong to the Fundamentalist Right
 Jewish Voters, Jewish Values
 Jewish War Veteran's Uncommon Valor in Life Is More Important Than His Valor in Death
+Jewish and Arab Refugees Must be Compared
 Jewish and Gay: One Choice in This Election
 Jews Lose By Ceding Israel to GOP
 Jews Who Boo Efforts to Make Peace
@@ -11121,6 +11230,7 @@ John McCain, Linda McMahon and Miss Connecticut
 John O'Connor, Director of Equality California, on the Future of Full LGBT Equality (AUDIO)
 John Podesta Takes up the Reins On the White House Energy and Climate Initiative
 John Rizzo, If Torture Is 'Sadistic,' Why Did You Approve It?
+John Roberts Explains
 John Stuart Mill and the Tea Party
 John Timoney and the Kingdom of Bahrain: White-washing Human Rights Abuses and Suppressing a Popular Revolution
 Johnny's Calling -- Is Europe There?
@@ -11242,10 +11352,12 @@ Karzai Kids Halloween
 Karzai Releases Prisoners
 Karzai'sWar
 Kate Preggers
+Kathleen Sebelius' LGBT legacy
 Kathleen Turner's Voice Could Save Your Life...
 Kathleen Willey Talks of Hillary's "War on Women"...But Is Willey Credible? Read "the Untold Story"
 Katrina Pain Index 2013: New Orleans Eight Years Later
 Kaweh Jobran: "Allow me not to wish for my daughter"
+Kazemiya Mohaqeq: 'We Cannot Even Begin to List Our Demands If We Do Not Shake Off the Straitjacket of Illiteracy'
 Keep America at Peace: Keep the Pentagon Sequester
 Keep Calm And Carry On: The State of the Debate From My Cheap Seat
 Keep Eye on Funding Levels in Budget Talks
@@ -11347,6 +11459,7 @@ Kill the 'Fiscal Cliff' Instead of the Economy
 Kill the Drug War
 Kill the Filibuster
 Killed by a Gun
+Killer Drones in a Downward Spiral?
 Killers With Concealed Handguns: George Zimmerman Isn't the Only One
 Killing Civilians to Protect Civilians in Syria
 Killing Spree on the Border
@@ -11402,6 +11515,7 @@ L. Ron Romney? What a Candidate's Reading List Says
 LA LowVoter Turnout
 LA Students Outfox Apple, Pearson and School Board
 LBJ Presidential Library Writes Second Draft of Great Society
+LBJ's Legacy Lives On
 LBJ's Unfinished Race War
 LBJ, BBQ Diplomacy, and the Great BBQ That Never Happened
 LGBT Equality Reduces the Spread of HIV -- But It's Not Enough to End the Epidemic
@@ -11414,6 +11528,7 @@ LGBT New Yorkers Need to Hold Our Enemies Accountable (And Let's Start With Greg
 LGBT Rights Aren't Up for Debate: An Open Letter to Kansas and Arizona
 LGBT Rights Take Center Stage at the Supreme Court: What to Expect Next Week
 LGBT Rights Under Fire Around the Globe: IPPF Urges Supporters to Renew the Fight
+LGBT Youth Need Our Voices to Stand Up to Bullying
 LGBT and Race Alliances Critical in Civil Rights Battle for Marriage Equality
 LGBTQ Equality and Justice Beyond Marriage
 LIBERALS v CONSERVATIVES How Does the Divide Come About?
@@ -11481,6 +11596,7 @@ Last Week Push: 'Local Voices' Speak Positive Messages For Obama Campaign
 Last Week for a Prop 8 Ruling (VIDEO)
 Last-Minute Election Special: The American Problem of False Political Equivalence
 Late Morning Links: Puppycide, Oatmeal, Donkey Cheese
+Late Night Remains a Men's Game
 Latest Assault on Public Lands an Affront to the Public
 Latest D.C.-Wall Street Brainstorm -- Bailouts With Your Bank Deposits
 Latest DEA Scandal: All Your Calls Belong to Us
@@ -11519,6 +11635,7 @@ Launch the 'Nuke,' Harry!
 Launching The HuffPost Q&A
 Lautenberg Leaves Lasting Legacy, Hope For Toxic Chemical Reform
 Law Doesn't Make It Right: Suppressing Voters Suppresses Democracy
+Lawful Change
 Lawmaker Reading and Understanding of Legislation Is Highly Overvalued
 Lawmakers Increasingly Realize Fast Track Is a Fraud
 Lawmakers Prep to Abandon Our Most Vulnerable Children
@@ -11554,6 +11671,7 @@ Leading From Behind Is No Way to Lead: What a Second-term Obama Can Learn From F
 Leading HHS: Staying focused on the goal requires teamwork, innovation and inspiration
 Leading Magazines From the Right and Left Come Together on Marijuana Legalization
 Leading Senator Adds to Momentum for Helping Childless Workers
+Leading a New Wave of Women Into Politics
 League of nations lobbying immigration bill
 Leak Investigation of Fox News' James Rosen Crosses Red Line by Seizing Contents of Emails, not Just Data
 Leak-stopping -- or Leaker-saving?
@@ -11691,6 +11809,7 @@ Let's Celebrate the Failure of the July 2011 Great Betrayal
 Let's Change the Narrative Surrounding Education Reform
 Let's Choose Certainty and Life
 Let's Count the Ways Keystone Approval Helps Us: Memo From Houston
+Let's Disarm the Nation and the World -- Starting at Home
 Let's Do This for Our Children
 Let's End Airwave Pollution and Regulate Televised Political Spot Advertising
 Let's Fight for a Progressive Agenda
@@ -11713,6 +11832,7 @@ Let's Help 'Spread the Word to End the Word'
 Let's Hold Off Celebrating America's (and New York's) Declining Murder Rate
 Let's Just Rename It 'Labor Exploitation Day'
 Let's Keep Things Simple
+Let's Leave Mad Men-Era Pay Policies in the Past
 Let's Make Big Oil Help Pay for Hurricane Sandy Relief
 Let's Make Capitalism a Dirty Word
 Let's Make Fun of Akin -- Not Rape
@@ -11761,6 +11881,7 @@ Let's Talk: Straight Talk on Gay Marriage
 Let's Test Romney's Claims About the 47% by Offering the Unemployed Jobs
 Let's Throw Our Demons Off the Cliff
 Let's Try This Again: Questions for the Candidates on Reforming Health Care
+Let's Use Domestic Fuels to Our Benefit!
 Let's Whip the GOP on Social Security
 Let's Win This One For Ike
 Lethal Injection Executions Could Stop Today
@@ -11888,6 +12009,7 @@ Live from New York: Political Parody and the Press
 Lives Destroyed, Dreams Crushed and Cheap Clothes
 Lives in the Balance: The Hidden Erosion of Safe Hospital Care
 Living History
+Living On Minimum Wage Is Hardly Living At All
 Living Wage
 Living Wage Now!
 Living Wage, Will You Be My Valentine?
@@ -12374,8 +12496,10 @@ McConnell Lives
 McConnell and Judd
 McConnell's Curse
 McCutcheon Is One of the Worst Supreme Court Decisions of All Time -- Here's What You Need to Know
+McCutcheon Lays Groundwork for Ruination of Democracy
 McCutcheon Ruling Requires Americans to Reclaim Democracy
 McCutcheon and the Vicious Cycle of Concentrated Wealth and Political Power
+McCutcheon, Money and Democracy
 McCutcheon, the Majority, and the Challenge of Our Time
 McDonald's Accidentally Served Up a Minimum Wage 'McManifesto'
 McDonald's Wage Theft Is a Feature, Not a Bug: The Cutthroat, Low-Wage Fast Food Industry
@@ -12409,6 +12533,7 @@ Medicaid Expansion Obstruction Threatens To Leave Millions Uninsured
 Medicaid Expansion in Florida: It's Obamacare vs. Grouponcare (Part 2)
 Medicaid Expansion: The Wrong Option for Wyoming
 Medicaid Expansion: The Wrong Prescription for Virginia
+Medicaid Recipients Are Not Invisible
 Medicaid: A Stepping Stone, Not a Stigma
 Medicaid: The Forgotten Issue
 Medical Advice: Republicans Should Take It
@@ -12438,6 +12563,7 @@ Medicare: Obama Ignores the Two Most Important, and 'Winningest' Differences Wit
 Medicare: The Quotable Quotes Only Get You So Far
 Meditation Makes You More Liberal, Study Says
 Meditation and PTS: A Warrior's Story
+Meditations on Nietzsche: Does Morality Require Religion?
 Meehan stockpiling cash for future political run?
 Meet 4-Year-Old Tired of Barack Obama and Mitt Romney
 Meet America's Highest Paid Government Workers
@@ -12448,6 +12574,7 @@ Meet Your Plutocrats!
 Meet the 'Invisible' Urban Syrian Refugees
 Meet the Extremist Coal Baron Bankrolling Ken Cuccinelli's Campaign
 Meet the Industry That Makes the Koch Brothers Look Poor (VIDEO)
+Meet the Kochs
 Meet the New Consensus, Same as the Old
 Meet the One Lawmaker Still Trying to Stop Marriage Equality in Hawaii (VIDEO)
 Meet the People Who Gave JPMorgan's Jamie Dimon an $8.5 Million Raise
@@ -12565,6 +12692,7 @@ Michele Bachmann's Stinging Defeat
 Michelle Challenges 19th Century Myth
 Michelle Obama and Thoughts on Turning 50
 Michelle Obama's Eleanor and Oprah Moment
+Michelle Obama's Tibetan Dinner Theater
 Michelle Obama: What Does She Mean By 'Mom In Chief'?
 Michelle Rhee Group Opens South Carolina Outfit; Common Core Supporters Strike Back: Ed Today
 Michelle Rhee Meets Jon Stewart; Texas School Funding Unconstitutional: Ed Today
@@ -12633,6 +12761,7 @@ Minimum Wage, Maximum Dissent
 Minimum Wage, Maximum Importance
 Minimum Wage/Maximum Growth
 Minimum Wage: A Simple Fact Check
+Minimum Wages and Women's Wage Inequality: They're Intimately Related
 Minimum Wages, Bargaining Power, Poverty, and Work
 Mining in South Africa
 Minnesota Schools and the Marriage Amendment
@@ -12641,6 +12770,7 @@ Minnesota, Marriage and Me
 Minnesotans Are Standing Up to Climate Change
 Minority Religions Absent at Obama's Inaugural Prayer Service
 Minority Rule and What We Can Do About It
+Mir Ahmad Jouyanda: 'They Shaved His Head Because He Danced and Was Happy at His Own Wedding'
 Miranda Rights: What Europe Could Learn From Latin America's Independence
 Miranda's Rights for the Pastor's Wife?
 Mirror, Mirror
@@ -12651,6 +12781,7 @@ Misremembering America's Wars, 2003-2053
 Missed Opportunities: Virginia General Assembly Should Have Focused on Improving Virginia Elections
 Missed Opportunity: Immigrants and Women in the Election
 Missiles and Machismo
+Missing $20 Trillion: An Interview With Jose Antonio Ocampo on Tax Havens
 Missing Debate Over Red Lines for Iran
 Missing From Presidents Day: The People They Enslaved
 Missing Movements?
@@ -12802,6 +12933,8 @@ Modern Conservatives: Frightened Falsifying Fools
 Modern Day Jesus: Would They Crucify Him Again?
 Modern Grandma
 Modest Progress on the Deficit Is Just What the U.S. Economy Needs
+Modi, Energy and the Indian Elections
+Mohammad Afsar Rahbin: 'Drugs Threaten the Entire Nation-building Process'
 Mohammad Farid Hamidi: "Your children are the backbone of a strong and progressive Afghanistan"
 Mohammed of Hackensack vs. the ACA Website
 Mohieddin Mahdi: 'You Do Not Have the Right to Breathe the Air of this Country"
@@ -12881,6 +13014,7 @@ More GOP Mythmaking on the Border
 More Gun Deaths: A Nation Mourns, and Then?
 More Guns for Black Men? How to End Black-on-black Crime
 More Guts Than You or Me
+More Housing in NYC Can Change National and Global Politics
 More Is Not Merrier
 More Jobs, Lousy Wages, and the Desertion of Non-College White Men From the Democratic Party
 More Key Players Understand Danger of Tax Reform Trap
@@ -13246,6 +13380,7 @@ NAFTA Shows the Damage Fast Track Could Bring
 NAFTA and the Narcos: What You Won't Hear at Obama's Meeting in Mexico
 NAFTA, Twenty Years After: A Disaster
 NASA Is Not Out of Business
+NATO on Viagra
 NBC and CNN Should Call Reince Preibus' Bluff
 NC Governor Pat McCrory Says Economics Is 'Too Complex' for Journalists to Understand
 NC State Senate Race Gets Downright Personal: Thom Goolsby's Wife Defends Husband in Ad
@@ -13599,6 +13734,7 @@ Nice Guys Finish Last: Deconstructing the Romney Loss
 Nicholas Kristof Says, 'I'm No Expert on Domestic Poverty' -- You Can Say That Again
 Night Owls and Early Risers Have Different Brain Structures
 Nightline Draws Attention to Being "Locked Up Alone"
+Nilab Mobarez: 'Women Are Often Deprived of Their Rights Because the Men in Their Family Do Not Feel Secure'
 Nine Stories That Will Change Your World in 2013
 Nirvana in the Supermarket, DOMA on the Line
 Nixon at 100
@@ -13688,6 +13824,7 @@ No Privacy in Washington
 No Real Differences Between Presidential Candidates on Immigration
 No Reason Debt Limit Debate Has to End in Disaster
 No Region Left Behind: Why the Time Is Now for a Southern Strategy
+No Results Found
 No Risk for President Obama in Immigration Reform Fight
 No Sanctions Will Stop Russia-Crimea Reunion
 No Sanity Yet in the American Response to Gun Carnage
@@ -13924,6 +14061,7 @@ OFA and the Fundraising Thing
 OK, I Think I'm Ready to Talk About Aurora Now
 OMG NC GOP WTF? A State Senator Who Is Being Sued for Financial Fraud and the Absent Governor Who Says He Was There
 ONE ON ONE: 5 Minutes With John Forte On What A 14-Year Prison Sentence Taught Him
+ONE ON ONE: González On European Depression Rather Than Recession
 OUT OF LINE: Congressional Approval
 OWS 2nd Anniversary: Get Together, One More Time ~ 99 to 1
 Oak Creek Massacre: Before a Vote, We Deserve Representation
@@ -14161,6 +14299,7 @@ Obama and the Harsh Reality Check
 Obama and the Iranian Nowruz: A 2009 Redux?
 Obama and the Kurdish Question: Drones Are Not the Answer
 Obama and the Legacy of Camelot
+Obama and the Lingering Significance of Race
 Obama and the Marijuana Legalization Initiatives
 Obama and the Middle Class: Two Big Blindspots
 Obama and the Myth of Arm-Twisting
@@ -14528,6 +14667,7 @@ Obamacare, the Game: The Exchange Isn't the Problem, It's the Insurance Companie
 Obamacare: Battle Between Humanity and Profitability
 Obamacare: Does Obama Care About All Americans?
 Obamacare: Don't Stop Believing
+Obamacare: First Fruits for Workers?
 Obamacare: Immigrants Might Get Better Deal Than Some Citizens
 Obamacare: It's Better Than You Think
 Obamacare: Mismanagement, But Messed Up Politics Too
@@ -15034,6 +15174,7 @@ Our Twisted Politics of Grief
 Our Unethical Republic
 Our Very Own West, Texas
 Our Veterans Deserve More Than Tickets to a Ball Game
+Our Voice, Our Vote!
 Our Voting Problem
 Our Words Are Our Weapons
 Our Work Begins on November 7th
@@ -15101,6 +15242,7 @@ Paging God in Health Care
 Paid Family Leave Law Long Overdue
 Paid Leave Keeps Women in Their Jobs and That's Good for the Economy
 Paid Sick Days Movement Heats Up
+Paid Sick Leave for North Carolina's Women -- and Men
 Pain of Fiscal Cliff Averted, but Bigger Pain Ahead for Needy Wasn't
 Pain, Loss and Trayvon Martin
 Paka (So Long for Now) Arms Control
@@ -15165,12 +15307,14 @@ Pass Comprehensive Immigration Reform to Help Immigrant Victims of Violence
 Pass The PRIME Act
 Pass the Ammunition: Militarizing American Foreign Policy
 Pass the Bill Establishing Manhattan Project National Historical Park
+Pass the Drone Strike Transparency Act
 Pass the Politics, Please: How to Handle a Bi-Partisan Thanksgiving
 Pass the Torch... and the Ritalin: Keeping Focused on LGBT Equality
 Passing the DREAM Act Would Acknowledge the Human Rights of Migrant Children and Benefit All of Us
 Passionate Minority Dominates the Passive Majority
 Passionately Not Showing Up To The Polls
 Passover 5773: Too Many Women Are Still Slaves
+Passover, Idle Gossip and Competitive Altruism
 Passports, Political Rhetoric and Constructions of American-ness
 Pastors vs. IRS -- Do You Want to Pay for Right-Wing Lobbying?
 Pastors, Parents and People of Faith: Game Changers on Gun Violence
@@ -15185,6 +15329,7 @@ Patents for Humanity
 Path to What, and When?
 Pathogens Welcome: BU Biolab Update
 Patient Privacy vs. Medication Adherence: HHS's Final Rule Is Leaving Patients Behind
+Patiently Crunching Obamacare's Numbers
 Patiently Waiting: How the Public and Private Can Work Together on Health Care
 Patrick Leahy Tells Eric Holder Senate Judiciary May Subpoena Targeted Killing Memos
 Patriotic Deficit
@@ -15249,6 +15394,7 @@ Pay Educators for Performance? Yes, But...
 Pay Equity Is Every Worker's Right
 Pay Equity for Women Opposed by Entire Texas Republican Congressional Delegation
 Pay No Attention to That Imperialist Behind the Curtain
+Pay No Attention to What They Tell You, They Are Listening In
 Pay No Attention to the Elephant: The Conventions and the Climate
 Pay Off $1 Trillion in Student Loans by Closing Overseas Military Bases
 Pay or Print?
@@ -15261,6 +15407,7 @@ Paying for Some One Else
 Paying for Success, Getting Results
 Peace In, Peace Out
 Peace Options for Afghanistan
+Peace Process Blame Game Won't Help the Parties Get There
 Peace Without an Olive Branch
 Peace of Mind
 Peace of Mind for 30 Cents
@@ -15517,6 +15664,7 @@ Political Strategy of Scare and Snare
 Political Strategy or Malpractice to Immigrant Communities?
 Political Trick or Treat: Scary Charades from Male Candidates
 Political Violence and Privilege
+Politicians Are Shooting Themselves in the Foot by Opposing Marijuana Legalization
 Politicians Filling Coffers as Fiscal Battles Rage
 Politicians Have Not Been the Leaders of the Gay Rights Movement
 Politicians Ignore Failed 'War on Drugs' at Their (and Our) Peril
@@ -15533,6 +15681,7 @@ Politics Aside, Is Obamacare Secure?
 Politics Belongs to All of Us
 Politics Can Do Only So Much for the Working Class. Solidarity Must Do the Rest.
 Politics Is a Blood Sport
+Politics Listening for Our Pinger in Pursuit of Personal Truth
 Politics Over Freedom, Again
 Politics Sinkholes and Corvettes: What The World Is Telling Us
 Politics and Athletes: They Do Mix After All
@@ -15556,6 +15705,7 @@ Poll Finds Strong Support for Conservation Funding and the Protection of Public 
 Poll: Obama Leads Romney on Children's Issues, Americans Wants Politicians to Address Our 'American Challenge'
 Poll: Obama Now Overwhelmingly Distrusted Even By Democrats
 Pollard On the Table, Off the Table
+Pollard and Dreyfus: An American Jew Reflects
 Polling About Privacy: Lessons From the Past
 Polling Shows That Bishops' Campaign Failed
 Polls Indicate Voters Support Tax Hikes
@@ -15567,6 +15717,7 @@ Pollster Predictions: 91.4% Chance Obama Wins, 303 or 332 EVs
 Pollster Predictive Performance, 51 out of 51
 Polyamory: Not Harmful to Society
 Poor First to Barrel Over the Fiscal Cliff
+Poor John Kerry, He Never Gets a Break
 Poor Mitt, Bad Timing
 Poor Women on the Margins
 Poor and Uninsured? You've got an Obamacare Discount Waiting
@@ -15592,6 +15743,7 @@ Populism Isn't 'Disastrous' -- It's Democratic
 Populism vs. Nihilism
 Portland's Bicycle Revolution Started with a Lawsuit!
 Portman's Conversion Should Be a Lesson
+Positive Side Effects
 Positive Thinking Leads to Economic Decline
 Possible Good News Out of the Bad News of Going 'Over the Cliff'
 Post Abortion-Syndrome: The Solution in Search of a Problem
@@ -15737,6 +15889,7 @@ President Obama Stands Up for Peace as No Other President Has: Sign Support Peti
 President Obama Still Turning a Deaf Ear to Equality for LGBT Working Families
 President Obama Supports Scientific Integrity of Anthropology
 President Obama Takes Action to Raise the Pay of Low-Wage Federal Contract Workers
+President Obama Takes Executive Action for Equal Pay: Now It's Time for Congress to Do Its Part
 President Obama Takes My Advice and Utilizes His Pardon Power
 President Obama Use Your Pen Today and Sign the Executive Order Banning Discrimination in Federal Contracting
 President Obama Vows to Cut Pollution
@@ -15815,6 +15968,7 @@ President Obama, Set a Goal to End Hunger
 President Obama, Stop Separating and Deporting Our Families
 President Obama, the Do-Gooder
 President Obama, the Time to Improve College Access is Now
+President Obama: Don't Build a Library!
 President Obama: Don't Delay Citizenship Another Generation
 President Obama: Don't Forget Cesar Chavez's Arizona Legacy At Your Oct. 8th National Monument Ceremony
 President Obama: Don't Forget Guantánamo Promise
@@ -15947,6 +16101,7 @@ Profiles in Courage: JFK's Lasting Legacy
 Profiles in Cowardice: Conservatives, Eminent Domain and Civil Rights in the Mount Holly Case
 Profiles in Political Hypocrisy: The U.S. Congress
 Profiling Helps the Terrorists
+Profiling Should End
 Profiling, the Internet and the 'Frailties of Man'
 Profiting Off False Propheting
 Prognosis
@@ -16095,6 +16250,7 @@ Putin Schools Obama: From Russia With Love
 Putin and Kiev
 Putin and Stalin
 Putin and the Cossacks
+Putin and the Export-Import Bank of the United States
 Putin and the Orphans
 Putin and the West
 Putin for the Sochi Olympics
@@ -16305,6 +16461,7 @@ Ravages of the Great Recession
 Ravitch to the Rescue
 Ravitch's Reign vs. Rhee's Radical: Fact vs. Fiction
 Raw Deal
+Rawls in the Real World
 Re-Branded: The 'New' Republicans (VIDEO)
 Re-Elect Obama
 Re-Invigorating America's Greatness Through National Employment Policy
@@ -16376,6 +16533,7 @@ Reality Can Be Such a Great Concept... If We Embrace It
 Reality Check for CEOs Pressuring Workers to Vote for Romney
 Reality Check on Keystone XL: Despite Industry Spin, New Environmental Report Lays Ground for Denial
 Reality Check, Gov. Romney, Detroit Doesn't Forget
+Reality Check: The US Does Have Leverage
 Reality Check: We All Built That (10 Simple Business Truths)
 Reality Congress -- Future Ratings Hit
 Reality Enters the Political Conversation
@@ -16464,6 +16622,7 @@ Reduce the Size of the Armed Force by Seizing Benefits
 Reducing Gun Violence Means Standing Up to the Gun Lobby
 Reducing Gun Violence Will Require the Courage of Parents
 Reducing the Defense Budget Would be a Mistake
+Reed E. Hundt: Director of the Day
 Reefer Madness Redux: If You Smoke It, You Will Become Addicted!
 Reefer Madness: Why the Feds Shouldn't Force Pot to Be An All-Cash Business
 Reengaging Race in the Wake of the Trayvon Martin Tragedy
@@ -16951,6 +17110,7 @@ Ringside at the Undercard
 Ripping Up the Social Contract in Tampa
 Rise Africa! We Have No Time to Lose
 Rise of the Techtarian: Seeing Through the Big Data PRISM
+Rising Above the Partisan Fray, Most Organizations Call for IRS Rulemaking to Continue
 Risky Business
 Risky Business: Corporate Leaders Bemoan Tea Party Default Crisis Created By Their Own Donations
 Ritual Child Sacrifice Is Alive and Well in 21st Century America
@@ -17222,13 +17382,16 @@ Rubio's State of the Union Response: An Historic Opportunity to Lead
 Rubio's Zoo: A Response to Marco Rubio's Views on Travel to Cuba
 Rudy Giuliani Should Know Better
 Rue-ing the Day: The Death Penalty, France and the Case of Mumia Abu-Jamal
+Rule Mandating Rear View Camera in Vehicles Will Save Lives
 Rules May Change, But the Secret Money Game Remains the Same
 Rules for Drones
 Rumors Surround Newt Gingrich as Possible Senate Candidate
 Rumpelstiltskin Economics
+Rumsfeld: The Recalled and the Unrecalled
 Run Hillary, Run!
 Run, Rodman, Run
 Running Clean on EPA Carbon Rules
+Running Political Campaigns in Slovakia
 Running Scared
 Running Toward The Screams On Patriots' Day
 Running for Governor of Massachusetts May Be a Smarter Option for Scott Brown Than Running for the U.S. Senate
@@ -17250,6 +17413,7 @@ Russia Plays the Anti-Semitism Card
 Russia and Egypt: An Interesting Sense of Outrage
 Russia and Syria Offer a Big Win for Obama, Boehner, Pelosi, Cantor, McCain, Reid, Kerry, America, Hollande and Decency
 Russia and the Erosion of Geo-Political Norms
+Russia in Crimea -- Not 'Munich 1938' Yet Again
 Russia's Economy -- a Crevasse in Putin's Armor
 Russia's Failure in the Ukraine
 Russia's Isolation Over Crimea Doesn't Seem to Bother Moscow
@@ -17264,13 +17428,16 @@ Russian Indifference
 Russophobia, a Pretext for a War on Information
 Ruthless Dictator Harry Reid Represses GOP Warmongers
 Ruthless Handling of Military Sexual Assault? Look to Our Allies
+Rwanda Redux? We Can't Fail the World Again
 Rx for Obamacare In Estonia
 Rx for Obamacare: Four Things the President Should Do Now
 RxCannabis: A Pocket History
 Ryan Blueprint Would Wipe Out Decades of Progress
 Ryan Budget
+Ryan Budget Flies in the Face of President Johnson's Legacy
 Ryan Budget Gets 69 Percent of Its Cuts From Low-Income Programs
 Ryan Budget Hits Non-Defense Discretionary Funding Far More Than Sequestration Does
+Ryan Budget More Fuzzy Math and Magic Asterisks
 Ryan Budget Offers Vision of Morally Bankrupt America
 Ryan Budget Would Slash SNAP
 Ryan Budget's SNAP Cuts Even Deeper Than We Thought
@@ -17529,6 +17696,7 @@ Seal Team Six
 Seamus Heaney, President Obama, Syria
 Sean Connery to Democrats: "What Are You Prepared To Do About It?!"
 Sean Wilentz: Wrong on Untold History, Wrong on History in General
+Search for Missing Plane Distracts From Bigger Environmental Concerns
 Searching for God in Ciudad Juárez
 Searching for Republican Soul
 Searching for the Soul of Politics 40 Years After Roe
@@ -17612,6 +17780,7 @@ Selling the Store: Why Democrats Shouldn't Put Social Security and Medicare on t
 Selma Remembered
 Sen McCain v. Susan Rice
 Sen. Collins Stirs the Gun Grassroots
+Sen. Diane Feinstein Bears the Wrath of Ex-CIA Officials
 Sen. Inouye's Message to the 113th Congress
 Sen. Kaufman on JPMorgan Chase: Private Lawsuit Found Evidence the Feds Didn't
 Sen. Landrieu's Plan: Handouts for Vacation Homes
@@ -17772,6 +17941,7 @@ Sequestration: Lessons in Negotiation From Obama and Boehner
 Sergeant First Class Rosario, (un)Equal Opportunity Adviser
 Serious or Cynical? Time for Republicans to Show What They Really Believe
 Servile Before the Throne of Mammon
+Serving Up a Christie Town Hall: Never Hand-Picked, But Always 'Curated'
 Setting American Women's Date with Equality
 Setting the Record Straight
 Setting the Record Straight: Wall Street Journal Perpetuates 'Black vs. Gay' Meme
@@ -18056,6 +18226,7 @@ Small-d Democracy At Israel's Western Wall
 Smart Capitalists vs. Ayn Rand
 Smart Growth Helps Combat Climate Change
 Smart Investments Today Will Prepare West Virginia's Infrastructure for the Future
+Smart Power -- US Strategy for the 21st Century
 Smart Suggestions for Obama's State of the Union Speech
 Smart ways to make federal agencies more inclusive
 Smarter Choices for Climate Solutions
@@ -18101,6 +18272,7 @@ Snowden, the Pentagon Papers and COINTELPRO
 Snowden: A Man Without a Country
 Snowden: Prosecution or Persecution?
 So Damn Superior: Parsing Partisan Politics
+So Done With Unequal Pay! #NoMoreMadMenPay
 So Five Former Chiefs of Staff Walk Into a Bar....
 So Long, 2012: New Year's Resolutions I'd Like to Hear
 So Long, Pro-choice... I'm Pro-faith
@@ -18116,6 +18288,7 @@ So Right and So Wrong on Health Care
 So Tell Us What You Really Think
 So What If the Affordable Health Care Act Is a Robin Hood Program?
 So What Was the Shutdown All About, Really?
+So What if the Republicans Win the Senate?
 So What the Heck Happened With Clint Eastwood? (and the Perils of Arguing With Imaginary Obamas)
 So What's With Libertarian and Republican Senators Voting Against States' Rights?
 So What's Wrong With The States?
@@ -18125,6 +18298,7 @@ So the President Loses Round 1. What's He Do Next?
 So, Are You Still an Island?
 So, Mr. President, You Want a New Syria Policy?
 So, Now You're Horrifically Hooked on 'Dying America?'
+So-Called Right to Work Is Still Wrong for Workers
 So... Um... What's Different Now?
 Soap Opera Producer Tapped for Top Diplomatic Post
 Sober Lessons of the 2012 Election
@@ -18400,6 +18574,7 @@ Stepping Into Bizarro World, American-style
 Steps Ahead of Most on Capitol Hill
 Steps Forward on School Discipline
 Steps Forward, Steps Backward
+Steps We Must Take to Improve Pay Equity
 Sterilization Abuse in State Prisons: Time to Break With California's Long Eugenic Patterns
 Stern Words from Prime Minister Harper (A Cartoon)
 Steubenville Indictments: Beginning of the End of Rape Cover-up Culture?
@@ -18520,6 +18695,7 @@ Strengthening Medicare and Medicaid Today and for Tomorrow
 Strengthening Our Democracy by Making It Easier to Vote
 Strengthening the Right to Vote
 Strengthening the State of Our Union
+Stress, Fear, and the Changing Face of Poverty
 Stress, Trauma, Loss, Rage
 Strictly Speaking
 Stripping Food Assistance From Farm Bill Undercuts Basic American Values
@@ -18542,6 +18718,7 @@ Student Journalist's Story on Same-Sex Wedding Spurs Backlash, Pulitzer Nominati
 Student Loan Deal Doesn't Solve Problem
 Student Loan Debt -- It's Worse for Women
 Student Loans on the Cheap
+Student Loans, Mass Debtor Incarceration, and the Eternal George W. Bush
 Student Loans: The Home Mortgage Crisis Redux
 Students Alone: Under Utilized, Underpaid, Under Water
 Students Greet Nelson Mandela at Yankee Stadium
@@ -18586,6 +18763,7 @@ Sunlight Jr. and the Daily Dramas of the Working Poor
 Sunnylands Summitry: Alternate Chinese View, Alternate Californian Summit
 Sunnyvale Stands Up to the NRA on Gun Safety
 Sunset of American Hegemony
+Sunshine Week Has Come and Gone - Let's Have Real Sunshine in Government Spending
 Super Bowl 47: Too Much Patriotism?
 Super Bowl XLVII: Hoping Rush Limbaugh Is Wrong
 Super Bowl ad cost Mayors Against Illegal Guns $100,000
@@ -18628,6 +18806,7 @@ Supreme Court Must Protect Victims of Domestic Violence
 Supreme Court Opens Door Wider for Collecting Internet Sales Taxes
 Supreme Court Plaintiff McCutcheon Exceeded Campaign Contribution Limit
 Supreme Court Review Puts Voting Rights Act in Jeopardy After Election Proves Its Necessity
+Supreme Court Right-Wingers Poison Majority-Rule Democracy
 Supreme Court Rolls Back the Clock. But We Shall Overcome!
 Supreme Court Rulings on Marriage and Voting Rights Raise the Stakes for Democratic State Legislators
 Supreme Court Should Decide Whether Rap Lyrics Are Free Speech
@@ -18719,6 +18898,7 @@ Syria and the Reality at Home in America
 Syria and the Slide Toward Insanity
 Syria and the Triumph of Crackpot Realism
 Syria and the Waning of American Hegemony
+Syria to Be Referred to ICC? Not a Chance
 Syria vs. Cyrus
 Syria, Chemical Weapons and Exceptionalism: If Putin Tells the Truth, We Should Listen
 Syria, Iran and American Superciliousness
@@ -18777,10 +18957,12 @@ Take Fox News: For Whatever Ailes You
 Take Me Back to the 21st Century!
 Take Me Out to the Ball Game -- But Pay Me a Living Wage
 Take My Neocon -- Please
+Take My Tax Break. Please.
 Take Out the Tax Returns Day
 Take Shelter From the Cuts on Tax Day
 Take Two
 Take a Deep Breath
+Take a Moment for Earth Day, Our Planet Is Depending on Us
 Take the Blindfolds Off of Gun Violence Researchers
 Take the Fifth
 Take the Pledge: No Pink for Brinker in October
@@ -18881,6 +19063,7 @@ Tax a Cola, Spend More Money Without Meaningful Benefits
 Tax the Churches
 Tax-Exempt NY Archdiocese Church Publicly Endorses Mitt Romney... in Writing!
 Taxation Without Conservation
+Taxation Without Representation 2014
 Taxation in Rick Perry's Texas
 Taxes Are Not Charity
 Taxes, Unions, and Healthcare -- Oh, My!
@@ -18965,6 +19148,7 @@ Tell It Like It Is: Health Care No Bargain
 Tell It to the Dead: American Promises Buried in Iraq
 Tell Me Lies: A Republican Songbook
 Tell Obama What Dr. King Told LBJ: "God Didn't Choose America"
+Tell Your Member of Congress to Vote for the 'Better Off Budget'
 Tell Your Senators to Defend Social Security and Medicare Today
 Tell the Tea Party to Take a Seat!
 Tell the White House to Fix ECPA and Protect Our Electronic Privacy
@@ -19062,6 +19246,7 @@ Thank You, Paul Ryan
 Thank You, Secretary Clinton
 Thank You, Secretary of State Clinton!
 Thank You, Starbucks
+Thank a Health Worker -- Unsung Heroes of Global Health
 Thank you, President Obama
 Thankful For Conservative Thought?
 Thankful for Social Security and Medicare - and for Opponents Like This
@@ -19092,6 +19277,7 @@ That Benghazi "Scandal"? Oh, Wait...
 That Damned Medal
 That Gun Changed Our Lives Forever
 That Moment When Ellen Sturtz Heckled Michelle Obama
+That Name Sounds Familiar
 That Time Joe Lieberman Called Admiral Mike Mullen 'The Most Popular Guy in Gay America'
 That's How the Light Gets In: I Wish I Was American
 That's My Kind of Church!
@@ -19212,6 +19398,7 @@ The Administration's Border Strategy Is Working
 The Affordable Care Act -- Women's History in the Making
 The Affordable Care Act Accident
 The Affordable Care Act Is An Okay Law That's Been Sabotaged
+The Affordable Care Act Is Great, But We Can't Forget About Public Health
 The Affordable Care Act Will Defeat Mitch McConnell's Reelection Bid
 The Affordable Care Act Will Raise Wages
 The Affordable Care Act Will Work
@@ -19286,6 +19473,7 @@ The Arrogance of Ignorance--The Authority of Knowledge
 The Arrogance of Power
 The Arsenal Is Empty
 The Art of Debate
+The Art of George W. Bush
 The Art of Mindfulness in Politcs: Congressman Tim Ryan
 The Art of Political Pandering
 The Art of Race War: Larry Pratt & Wayne LaPierre
@@ -19328,6 +19516,7 @@ The Basic Care and Feeding of a Social Animal
 The Battle Of Toledo: Countdown Day 8
 The Battle Over Birth Control: Ohio's AG Leads National Campaign for Conservative Agenda
 The Battle To Control Poll Narratives
+The Battle for Marginal-Cost Connectivity
 The Battle for the Future of Access to Higher Education
 The Battle of Bedford Falls
 The Battle to Save Social Security
@@ -19556,6 +19745,8 @@ The Christmas Shoes
 The Chuck Hagel Bombshell
 The Chuck Hagel I Know: A Staunch Defender of Gay Rights
 The Chuck Hagel Nomination: Fighting Back Smears With Schmears
+The Civil Rights Act at 50: Why We Still Need Liberation Policy
+The Civil Rights Act of 1964: Noted Panelists Discuss Then and Now
 The Civil Rights Movement and Nuclear Test Ban Treaty
 The Civil Rights Success of Attorney General Holder
 The Classic Military Runaround
@@ -19608,6 +19799,7 @@ The Congressional 'Dance' on Gun Control
 The Congressional Caucus on STEAM Means Well
 The Congressional Deficit
 The Congressional Prayer Caucus and the House Science Committee -- A Disturbing Combination
+The Congressional Progressive Caucus Budget: A Vision for Our Time
 The Connection Between 12 Years a Slave and Voting Rights
 The Conquest of America by Iraq: The Misbegotten Cakewalk a Decade and Countless Lives Later
 The Conquest of Nature
@@ -19945,6 +20137,7 @@ The Dis-Uniting of America
 The Dis-Uniting of America (2): Social Issues and the Demographic Split
 The Disability Vote
 The Disappearing Frontier: Religious Momentum for Gun Control
+The Disappearing Woman and Life on the Internet
 The Disastrous Myths of the NRA
 The Disconnect: Consumer vs. Corporates -- The Globalized Interconnectedness of the World Economy
 The Disconnect: Democracy Abroad and at Home
@@ -19977,6 +20170,7 @@ The Drone Debate Upends DC's Right/Left Divide
 The Drone War May be Popular in the U.S. AND Illegal
 The Drowning Man
 The Drug Czar's Office Is Taking Ideas From the Drug Policy Reform Movement
+The Drug War = Mass Deportation: 250,000 Deported for Drug Offenses in Last 6 Years
 The Drug War Is Over, and We Lost
 The Drugs Dilemma at World Economic Forum 2014: Right for Another Reason
 The Duck Dynasty Controversy and Loving Our Neighbors
@@ -20121,6 +20315,7 @@ The Fatal Flaw of the Common Core Standards
 The Fate of Obamcare Is Not in the Hands of Millenials
 The Faulty Inequality Debate
 The Faux Foreign Policy Debate
+The Fear Behind the Sexism in Hayden's Attack on Feinstein
 The February Jobs Report in Pictures
 The Fed Bets on America
 The Fed Moves the Goal Line
@@ -20139,10 +20334,12 @@ The Fierce Urgency of Now: Honoring Dr. King by Working for Economic Justice
 The Fifth Day of My Hunger Strike
 The Fifth Myth: "Rate Shock" Isn't Shocking at All!
 The Fight For Love at George Washington University
+The Fight Over Gay Marriage Isn't Just About Marriage
 The Fight for 15
 The Fight for 15 Comes to New York City
 The Fight for Dignity for All in Arizona
 The Fight for ENDA Has Real Public Health Implications
+The Fight for Equal Pay Has Just Begun
 The Fight for Principle in the GOP
 The Fight for Women's Equality Continues
 The Fight for Women's Reproductive Rights Can't Just Be About Winning or Losing the Abortion War
@@ -20251,6 +20448,7 @@ The Fracking Boom: Do We Want to Leave Our Children an Industrialized Landscape?
 The Fractionalization of the Republican Party
 The Framers Never Envisioned a 60 Vote Supermajority
 The Freedom Riders and the Dreamers: High Noon in the Immigration Debate
+The Freedom in Our Future
 The Freedom to Be Impoverished: Matt Yglesias' Perverse Logic on the Minimum Wage
 The Freshman Filibuster Reformers
 The Frightening Future of Campaign Finance Laws
@@ -20281,6 +20479,7 @@ The Future of Middle School Students and The Golden State
 The Future of New York City: A Family Story
 The Future of Politics
 The Future of Water Sustainability
+The Future of Yesterday
 The Future of the (Scared, White) GOP
 The Future of the Health Insurance Policy
 The Future of the Senate
@@ -20299,6 +20498,7 @@ The GOP Listens to All the Voices in Its Head (and What Is Governor Christie Doi
 The GOP Mines an Endless Vein of Hypocrisy; An Historic Bottomless Pit of Inconsistency
 The GOP Must Claim Responsibility for the Shutdown
 The GOP Needs a New Publicist
+The GOP Needs an Obamacare Strategy
 The GOP Pays the Big Price for Bashing Latinos
 The GOP Platform and the Meritocracy
 The GOP Says What It Means
@@ -20451,6 +20651,7 @@ The Grey Twilight of Veterans' Preference
 The Groupon Election
 The Growing Campaign to Revoke Obama's Nobel Peace Prize
 The Growing Importance of an Atheist Community
+The Growing, Neglected Challenges of LGBT Latino Elders
 The Guantanamo Mess
 The Guardian's Computer Smash-Up Story Grows Increasingly Bizarre
 The Gubernatorial Transition of Terry McAuliffe
@@ -20616,11 +20817,13 @@ The Inter-American Commission on Human Rights Is Asking Questions About Guantán
 The Internet Vote
 The Internet as Political Lie Detector
 The Internet in Politics: What's It Good For?
+The Internet of Things: Monopoly Capitalism vs. Collaborative Commons
 The Internet's Newest Time-Suck, Whisper App, Is Creepy and Potentially Dangerous
 The Intricacies of My Undocumented Life
 The Invisible Americans
 The Invisible Backbone Leaders of Transforming Social Change
 The Invisible Canine Constituency
+The Invisible Ceiling for the American Working Poor
 The Invisible Elephant in the Room: If Romney Loses,There Will Be One Overwhelming Reason Why
 The Invisible Founder
 The Invisible Gun
@@ -21120,6 +21323,7 @@ The Newtown Massacre: Time for Legislation, Not Conversation
 The Newtown, CT Shooting -- the Losses Have Become Too Great to Bear
 The Newtown-Mexico Connection
 The Next 4 Years: How Obama Can Accomplish Great Things
+The Next 50 Years: Time for Culture Change on Racial Justice
 The Next Anti-Jewish Conspiracy Theory
 The Next Backlog: Obamacare Brings Dysfunctional VA Model to Broader Health Market
 The Next Big National Policy Shift in One Chart
@@ -21210,6 +21414,7 @@ The One Percent Is Hogging So Much of Our Income That It's Holding the Economy B
 The One Percent Supreme Court: A Conversation With The Nation's Katrina Vanden Heuvel
 The One Percent Want Your Kidney: Tales of Redistribution
 The One Political Stand My Fox News Mom and I Can Take Together
+The One Question I Am Asked In Every Country I Visit
 The One We've Been Waiting For
 The One and Only Cause of "Fiscal Cliff" Economic Crisis: Republicans Fear Tea Party Primaries
 The One, Two Punch of Being Anti-Gay
@@ -21294,6 +21499,7 @@ The Perry Principle
 The Persecution of John Kiriakou
 The Personal Is Political
 The Personal Is Political for Obama
+The Perversity of Profiling
 The Pesky Poor
 The Peterson Foundation's Fiscal Nonsense Index
 The Petraeus Affair: Why Is There No Male Equivalent for 'Mistress'?
@@ -21353,6 +21559,7 @@ The Positive Power of Negative Thinking
 The Post Office and the Dollar Store: A Common Sense Holiday Tale
 The Post-Colonial Presidency: Our Man Obama
 The Post-Cynical Christian
+The Post-Deng China: The End of China's Soft Power?
 The Post-Kumbaya President
 The Postal Service Should Go... Now
 The Poster Boys of 1960 & 2012
@@ -21366,6 +21573,7 @@ The Power and Peril of Written Words
 The Power of Collaboration and Good Works: A Park Is Born in Stamford
 The Power of Government Purchasing
 The Power of One
+The Power of Open Data
 The Power of Partnership: Extraordinary Progress, Lessons Learned and Great Hope for the Future in South Africa
 The Power of Pissed-Off Women
 The Power of Protest Works
@@ -21615,6 +21823,7 @@ The Reality of an Accidental Activist
 The Reason HuffPost Is Ending Anonymous Accounts
 The Reason We Are Obsessed With Political Sex Scandals
 The Rebirth of George Packer, The Unwinding of David Brooks
+The Recent Supreme Court Decision Gives Even More Power to the Wealthy
 The Recent Unpleasantness at FreedomWorks
 The Recovery Has Hit a Soft Patch, but Could Slow Further under Sequestration (with Pictures)
 The Recovery Is Better Than Romney Would Like It to Be
@@ -21651,6 +21860,7 @@ The Republican Game Plan Against Wendy Davis: She's Just a Dumb Woman
 The Republican Government Shutdown Repeats 1995 But Couldn't Come at a Worse Time
 The Republican Grumble: It's About Bad Ideas, Stupid
 The Republican Insanity of Helping Farmers But Starving Poor People
+The Republican Medicaid Blockade: Time to Go on Offense on Health Care
 The Republican Meltdown: It's Bad Ideas, Don't Deny It
 The Republican Narrative: Polls Make us "Blink"
 The Republican National Convention: Where Social Darwinism Meets Theocracy
@@ -21796,6 +22006,7 @@ The Ruthless Stupidity Of The Gun Pushers
 The Ryan Budget Is an Affront to Economics and American History
 The Ryan Budget Myth and Obamacare
 The Ryan Budget: A Self-Referential Approach to Pell
+The Ryan Budget: How I Spent My Weekend
 The Ryan Budget: The Good, the Bad and the Alternative
 The Ryan Budget: This Is Why There Is a Gender Gap
 The SEAL Who Killed bin Laden and the Consequences of Early Military Separation
@@ -22199,6 +22410,7 @@ The Top Ten Lines from the Supreme Court's DOMA Decision
 The Top Three Issues Congress Should Be Tackling
 The Top Three National Security Issues for Our Next President: Attention Convention Attendees
 The Tornado in Oklahoma Is This Parent's Living Nightmare
+The Tortuous, Corrupted Logic of the Last Supreme Court Ruling on Finance
 The Torture of the Torture-Excusers
 The Tory/UKIP Clash Is Nothing for the Left of Centre to Be Happy About
 The Town the Militia Took Over
@@ -22211,6 +22423,7 @@ The Tragic Blessing of Combat Vets
 The Tragic Ironies of America: Our 21st Century Nightmare
 The Tragic and the Metaphysical
 The Tragicomedy in Tampa
+The Trans-Pacific Partnership Is Terrible for Public Health
 The Trans-Pacific Partnership Trade Agreement Would Harm Our Environment
 The Trans-Pacific Partnership: Warnings From NAFTA
 The Treasury Has Already Minted Two Trillion Dollar Coins
@@ -22245,6 +22458,7 @@ The Truth About Health Care Costs
 The Truth About Immigration Reform and the Economy
 The Truth About Income Mobility in Atlanta: Why the American Dream Is Alive in Our City
 The Truth About Israel's Gun Laws
+The Truth About Kain Colter's Stand and Why NFL Players Support Him
 The Truth About MEADS -- Again
 The Truth About Obama's Drone Campaign: It's About Attrition, Not Decapitation
 The Truth About Slavery in Pennsylvania
@@ -22315,7 +22529,9 @@ The Unconvention: Connor Ratliff is Old Enough To Be President
 The Unconvention: Current State of the Presidential Race
 The Unconventional: The Political Conventions in Perspective
 The Undecideds: Faking Ain't Easy
+The Underdogma of Elizabeth Warren
 The Unexpected Blue in Texas
+The Unforeseen Consequences of the Volunteer Army
 The Unforsaken
 The Unfulfilled Promise of International Migrants Day
 The Unfulflled Promise of Citizens United
@@ -22330,6 +22546,7 @@ The United States Marine Corps Officially Declares 'Lack of Spiritual Faith' as 
 The United States Needs to Stay Out of Syria
 The United States Should Quit Meddling in Egypt
 The United States and Africa: Hopes for the President's Second Term
+The United States of America, Incorporated
 The United States of Paranoia
 The United States of the NRA
 The United States' Contribution to Nelson Mandela Belonging to the Ages
@@ -22348,6 +22565,7 @@ The Unusual Arc of a Statesman: Four Lessons from the Life of John J. Gilligan
 The Unusual and Peculiar Office of Lieutenant Governor
 The Unwavering Human Condition and its Relation to a Despot
 The Upcoming Mini-Deal on the "Fiscal Cliff"
+The Upside Down Wonderland of Racism
 The Upside of Taxes
 The Urban Institute's Gun Report Doesn't Add Up
 The Urgency of Venezuela
@@ -22410,6 +22628,7 @@ The War of the Worlds Part II
 The War on Cannabis Is Winding Down: It's Time to Build Bridges
 The War on Christmas Revisited: 'Tis the Season to Be Folly
 The War on Democracy: Art Pope and the Rich Bullies
+The War on Democracy: SCOTUS Weighs In
 The War on Democracy: The Deep State
 The War on Drugs Is Just Plain Crazy
 The War on Drugs Is a War on America! Time to End It!
@@ -22687,6 +22906,7 @@ This Is What Discrimination Feels Like
 This Is What Happens When I Don't Tweet About Tacos (Expanded Thoughts on a Few of My Tweets)
 This Is What You Take to a Gun Fight
 This Is What a Winning Negotiation With Iran Looks Like
+This Is Who They Are: The Republican Budget Vote
 This Is Why Poor People's Bad Decisions Make Perfect Sense
 This Is a Make-or-Break Week for Marriage Equality in Virginia (VIDEO)
 This Is the Etch a Sketch Campaign They Warned Us About
@@ -22713,6 +22933,7 @@ This Presidential Race Shouldn't Be This Close
 This Rabbi Is Against Rabbis for Obama/Romney
 This Season's Paul Ryan? Eric Cantor Takes On VAWA
 This Senate Seat Was Not for Sale
+This Sexual Assault Victim Didn't Report Her Rape Because She Wanted to Protect Me
 This Shutdown Is About Extortion, Not Stalemates
 This Thing Called Social Change: Building Support for California's Schools and Local Public Safety Protection Act
 This Time, Democrats Need to Keep Control of the Narrative
@@ -22783,6 +23004,7 @@ Three Solutions to the Oligarchy Problem
 Three States Hold the Keys to the Election
 Three States Pushing ALEC Bill to Require Teaching Climate Change Denial in Schools
 Three Things We Need From the Fiscal Cliff Discussions
+Three Things to Think About Following Equal Pay Day
 Three Ways Romney Can Still Win the Election
 Three Ways Your Voice Can Be Heard
 Three Winning Lessons We Can Learn From This Presidential Campaign
@@ -22984,6 +23206,7 @@ To Save the Republic, Republicans Must Slash Defense Spending
 To See the 1 Percent in Action, Skip the Video and Visit the Supreme Court
 To Sens. Schumer, McCain and Graham: Immigration Coalitions Support Gay Family Inclusion in Reform
 To Serve Society
+To Shed Light On Campus Rape, Let's Make Every College Issue These Surveys
 To Speaker Boehner on Immigration: You Can Do Better
 To Stop Chemical Weapons, Go After the Arms Dealers
 To Stop Dreaming Would Be Folly: Inequality in America 50 Years Since MLK Jr.
@@ -23010,6 +23233,7 @@ To the Supremes: Hands Off Affirmative Action
 To the Young: Heed JFK and Use Politics for Change
 Toast to a New, Improved New York
 Today I Am Waving My Wig for Obamacare and Breast Cancer Awareness Month
+Today Is Equal Pay Day -- No One's Favorite Holiday
 Today We Remember Lincoln as a Great Redeemer - And That Should Give Obama Hope
 Today We Would Root for Goliath
 Today in Fiscal Policy: Is There a Little Deal in the Offing?
@@ -23089,6 +23313,7 @@ Top 10 Ironies in the Case Against Snowden
 Top 10 Marijuana Victories of 2012
 Top 10 Medical Research Trends to Watch in 2013
 Top 10 PR Blunders of 2012
+Top 10 Political Sex Scandals
 Top 10 Predictions for 2013
 Top 10 Problems With a 20-Week Abortion Ban
 Top 10 Quotes in Illinois Corruption Scandals
@@ -23143,6 +23368,7 @@ Tough News From Texas -- But the Fight Is Far From Over
 Tough Sledding to End the Nation's Disgraceful Felon Voting Bans
 Tough Talk for America: A Guide to the Presidential Debates You Won't Hear
 Tougher Tactics Desperately Needed to Win War on GMO Food
+Tourialay Ghiassi: 'In Afghanistan, the Fear That Transitional Democracy Might Fall to Dictatorship Prevails'
 Toward Ensuring an End to U.S.-Sponsored Torture
 Toward Opening a Practical Dialogue on Improving US Health Care
 Toward a More Nuanced Understanding of Secular Spirituality
@@ -23194,6 +23420,7 @@ Transgender Economic Equality: The New Frontier
 Transgender Freedom Riders: The Fight for Transgender Equality in New York State
 Transgender People Need Safe Restrooms
 Transgender Politics: Michael Long and the New York Conservative Party Are Short on Tolerance
+Transgender Sexual Violence Survivors Are Slipping Through the System
 Transgender Students Have New Rights in California
 Transit Initiatives Boosted by Employers
 Transition to Prosperity
@@ -23337,6 +23564,7 @@ Two Visions
 Two Weeks Before Election, Signs of Voter Intimidation Are on Display
 Two White House Petitions on Civil Liberties and Executive Power
 Two Women, Two Votes
+Two Years Ago Today, the 'Least Credible History Book in Print' Was Published
 Two Years Later, Has the NDP's Orange Wave Receded?
 Two Years of Cablegate as Bradley Manning Testifies for the First Time
 Two of Many Reasons Why Repealing Obamacare Would Be Bad for Women
@@ -23413,6 +23641,7 @@ U.S. Wealth Is Now the Most Concentrated at the Top Since 1916
 U.S. Women: Not Exactly Number One
 U.S. and Canada Should Become Partners in the Arctic
 U.S. or Parliamentary System? One Is Nearly Gridlock-Proof -- and It Ain't Ours
+U.S. to Arm Ukraine? Is Senator McCain Correct?
 U.S. to Help Ukraine by Importing Hemp
 U.S. vs. North Korea
 U.S., Israel and Syrian Chemicals; a Verbal Kerfuffle and Strategic Understanding?
@@ -23442,6 +23671,7 @@ US: DC Police Mishandle Sexual Assault Cases
 US: Prosecuting Migrants is Hurting Families
 USAFA Closets Are for Clothes, Not Cadets
 USAID v. AOSI: A Victory for Sex Workers and Feminist Allies
+USCIS Works to Improve the EB-5 Visa Program. Will Congress Follow Suit?
 USDA Greenlights Dow's 2,4-D Seeds
 USDA StrikeForce: Expanding Partnerships and Opportunity in Rural Communities
 USSC Campaign Finance
@@ -23507,6 +23737,7 @@ Under Secretary Patrick Kennedy and His 'Expeditionary Diplomacy' in Benghazi
 Under the Desk
 Under the Priebus
 Under-Taxed Americans Face the Fiscal Cliff
+Undercutting the Iran Nuclear Talks
 Underground Trade Part Seven: Why Human Trafficking is Called Modern Day Slavery
 Underground Trade Part Three: The Business of Trafficking
 Understanding Anthony's Anxiety
@@ -23538,6 +23769,7 @@ Unequal Pay - 50 Years and Getting Worse
 Unexpected Presidencies
 Unfettering the Second Amendment
 Unfocused Groups
+Unfortunate Son: Jesus Sings to the GOP
 Unfounded Hand-Wringing Over Military Spending Cuts
 Unfunded Bundles of Joy
 Unhollowing the Force
@@ -23586,6 +23818,7 @@ Unsolicited Advice From a Peace Process Desperado
 Unspoken Virtue of the NRA: Promoting Gun Safety
 Unsung Hero Speaks to America About Voting Rights Act
 Unsung Heroes of Obamacare's Enrollment Surge
+Unsuspecting Victims of Israel's 'Non-Lethal' Weapons
 Until CNN Apologizes to the Steubenville Rape Victim, Change the Channel
 Up Against the Wal-Mart
 Up to Your Associated in Alligators
@@ -23615,6 +23848,7 @@ Using the Syria Debate to Launch War Powers Reform
 Utah Health Insurance Exchange Won't Seek Federal Approval Under Obamacare
 Utah Obamacare Showdown Is Test For Federal Health Officials
 Utah Ruling May Foreshadow Supreme Court Defeat for Gay Marriage
+Utah Will Try to Save Its Anti-Gay Marriage Ban This Thursday (VIDEO)
 Utah's First, Legal Same-Sex Wedding Starts Marriage Snowball
 Utah's Other No. 1 Ranking: Gender Pay Gap
 Utah: 18th in the Nation but the Last One I Expected
@@ -23700,6 +23934,7 @@ Video: Michelle Obama Gets DNC Women's Caucus 'Fired Up And Ready To Go'
 Video: Pentagon Accused of 'Rewriting Constitution' to Wage Endless War in Senate Hearing
 Video: Ted Cruz Anointed by Antigay, Pro-Religious War Pastors
 Video: Unable To Attend President's Speech, Obama Fans Fill The Streets Of Charlotte
+Video: Watch How Florida Prosecutes Children as Adults
 Viet Vets
 Vietnam Legacies
 Vietnam Remembrance
@@ -23918,6 +24153,7 @@ Wall Street's Rap Sheet Tells a Harrowing Story
 Wall Street's Tea Party
 Wall Street's War
 Wall Street-Funded Poll and Wall Street Bailout King Both Say 'Cut Social Security'
+Walmart Supports Raising Public Food Benefits -- For Its Own Profit
 Walmart Workers Will Make History on Friday as America Confronts Growing Inequality
 Walmart, the Elections and the Key to Democracy
 Wanna Solve Gerrymandering?
@@ -24008,6 +24244,7 @@ Was the Iraq War Worth It? Ask the Public
 Was the President Divisive?
 Washington Bureaucracy Fingered in Killing of Ambassador Stevens
 Washington Can Do Something Good, By Doing Nothing
+Washington Is Livid With the Palestinians
 Washington Is Lost for Now, GOP Senator Says, But the Fight Continues Across America
 Washington Lawmakers Vote to Revise Medical Marijuana Regulations
 Washington Must Clean Up Health Care Mess
@@ -24053,6 +24290,7 @@ Watch Me Talk Police Militarization
 Watch Night Service in the Black Church in America: 150 Years After the Emancipation Proclamation
 Watch Out for the Republican Super PACs Moving Away from Romney to Rain Even More Millions on Swing Senate Races
 Watch the Cuban Vote in Florida
+Watch: All Work and No Pay
 Watch: America's Political Breakdown
 Watch: An Antidote to Big Brother's Chill
 Watch: Bill McKibben to Obama: Say No to Big Oil
@@ -24174,6 +24412,7 @@ We Don't Want a Romney Economy
 We Have Air Marshals on Planes, So Why Not School Marshals?
 We Have Been Warned
 We Have Ceased to Be a Representative Government
+We Have Done It Before, and We Must Do It Again
 We Have Lost Our Patience as a Society
 We Have Met the Enemy and She Is Old
 We Have No Civil Rights Without Voting Rights
@@ -24305,6 +24544,7 @@ Website Glitches Are No Katrina
 Wedges and Whigs
 Wednesday Roundup: Bradley Manning Rebuffed, Eyes On Europe, Questions For John Brennan
 Weed More Likely Than Rape or Murder to Get an Undocumented Immigrant Detained
+Weed Time With Bill Maher
 Weeds of Destruction: The Moral Case for Marijuana Legalization
 Weeklings!: An Illinois Gay's Plea for Marriage (VIDEO)
 Weeklings!: Debate Tips for Obama (VIDEO)
@@ -24606,7 +24846,9 @@ What Is an Assange? Part 2
 What Is it About Animal Rights That Brings Out the Worst in People?
 What Is the Fundamental American Promise?
 What Is the Impact of a School District?
+What Is the Main Cause of the Conflict in the Democratic Republic of the Congo?
 What Is the True Cost of Government-Backed Credit?
+What Is the Wage Gap Costing You Every Day?
 What Israeli Airport Security Can Teach the World
 What It Feels Like to Be on Welfare
 What It Means for Voters to Have Our Backs
@@ -24615,6 +24857,7 @@ What It Really Means When the Right Attacks Wendy Davis' Bio
 What It Takes to Get There Is Not What It Takes to Lead
 What It Will Take to Achieve Healthcare Coverage for the Poor: Public-Private Partnership
 What It's Like to Feel the Slow Grip of Poverty
+What Jerry Brown's Big Lead Means
 What Killed President Kennedy and Trayvon Martin?
 What Kind of Legacy, Mr. President?
 What Kind of New York City Do We Want?
@@ -24707,6 +24950,7 @@ What SCOTUS Can Learn From Our Sleepless Nights
 What SCOTUS Got Wrong Last Week
 What Scares the Indestructible Twinkie?
 What Schools Can Learn From McDonald's and Starbucks
+What Scripture Tells Us About the Minimum Wage
 What Sen. Inouye's Death Means for Japanese-Americans
 What Sequestration Means for My School
 What Shall We Do?
@@ -24715,6 +24959,7 @@ What Should Doctors Do When They Don't Know What to Do
 What Should Our New Foreign Policy Be?
 What Should We Think About the Arrests at JPMorgan Chase?
 What Should the Top Priority Be for U.S.-Mexican Relations?
+What Shrinking Newsrooms Mean in the Age of the Koch Brothers and Billionaire Donors
 What States Can Teach Us About Tolling
 What Studs Terkel and Rebecca Solnit Taught Me
 What Syria Could Mean Globally, If We're Bold Enough to Reach for It
@@ -24836,6 +25081,7 @@ What You Need to Know Today About Obamacare
 What You Really Need to Know About Health Care Reform (aka Obamacare)
 What You Should Know About the Deceptive AP Report on Standardized Testing
 What You Should Know About the Foreign Intelligence Surveillance Court (FISC)
+What You Think You Know About The Midterms Is Wrong
 What You Won't Hear About Iraq
 What You Won't Hear Debated: The Trillion-dollar Misunderstanding
 What You're Not Allowed to Talk About in Washington (VIDEO)
@@ -24993,6 +25239,7 @@ What's the Matter With Kids Today?
 What's the Matter With Washington?
 What's the Matter with Kansas? Not a Damn Thing
 What's the Point of the Second Amendment?
+What's the Point, WellPoint? Could It Be to Satisfy Wall Street?
 What, the Department of Justice Actually Subpoenaed Reporter's Records... I'm Shocked, Shocked!
 What? Discuss Gun Laws?
 What?? Michael Oren Going to Scowcroft Center
@@ -25047,12 +25294,14 @@ When I Sued the FBI -- and Won
 When I Was on Death Row, I Saw a Bunch of Dead Men Walking. Solitary Confinement Killed Everything Inside Them.
 When In Doubt, Ask Vladimir Putin -- Our New "Yoda"
 When Innovation Goes Wrong
+When Is Covert Action Not Covert? When It's 'Discreet.' USAID's Indiscreet Twitter Program in Cuba
 When Is It Justified to Force Treatment on Someone
 When Is It OK to Call Someone a Nazi?
 When Is It Okay for Me to Call You a Nazi?
 When Is an Islamic Fatwa not a Fatwa?
 When It Comes to Education Reform, Which Political Party Is the Stupid Party?
 When It Comes to Marijuana Policy, Washington State Needs to Put Health Before Happy Hour
+When It Comes to Mass Murder, Think Method and Means, Not Motive
 When It Comes to Our Energy Future, Voters Have a Clear Choice
 When It Comes to Washington, Most Americans Blame Both Sides
 When It Comes to Women's Health, Politicians Still Don't Get It
@@ -25075,10 +25324,12 @@ When Politicians Talk Theological Nonsense
 When Politics Comes First: The Reasons Republicans Shifted to Supporting Private Schools
 When Politics Gets Trumped by Religion
 When Politics Hits Reality
+When Predatory Equity Hit the Big Apple
 When Prisoners Have Stronger Ethics Than Prosecutors
 When Pro-Life Isn't
 When Pro-life Goes Frankenstein: The Case of Marlise Munoz
 When Public and Private Meet, Extra Care Is Needed
+When Punishment Is Torture: An Open Letter to Former Congressman Jesse Jackson Jr.
 When Radicalism Becomes Treasonous
 When Rights Become Toxic
 When Robert Kennedy Stirred the Nation
@@ -25108,6 +25359,7 @@ When Will They Ever Learn? The American People and Support for War
 When Will Transgender New Yorkers Gain Acceptance in Hospitals?
 When Will We Have More Open Atheists in Congress?
 When Will We Reach the Mountain Top?
+When Will We Really Start Supporting the Troops?
 When Will We Stop Deporting U.S. Citizens?
 When Will the FDA Stand Up to Big Tobacco?
 When Women Do Well, Everyone Does Better
@@ -25149,6 +25401,7 @@ Where Are the Heroes?
 Where Are the Victims?
 Where Are the Voices of Republican Senators Who Still Care About Democratic Institutions?
 Where Are the Women?
+Where Did the Good Jobs Go?
 Where Do Asian Americans Stand on Immigration Reform?
 Where Do Vets Stand on Pensions -- One Group Needs to Figure It Out
 Where Do We Go From Here?
@@ -25187,6 +25440,7 @@ Where Your In-Laws May Veto Your Abortion?
 Where and How Was the Bill and Hillary Clinton 1970s "Hippie" Photo Taken?
 Where the Democrats Go Next, or, Pivoting With Hilary
 Where the Hell Is the Outrage?
+Where the Tea Party and Occupy Movements See Corruption, John Roberts Sees Gratitude
 Where's Home?
 Where's My Party?
 Where's Waldo Snowden?
@@ -25250,6 +25504,7 @@ Whistleblower or Traitor, Snowden Must Shut Up
 Whistleblowing Is About the Message, Not the Messenger
 Whistling Over the Cliff
 White America and the Burden of Slavery
+White Americans and 'White Consciousness'
 White Christmas
 White Guys Still Rule the GOP
 White House Arrests Santa Claus for Standing Up for a Higher Minimum Wage
@@ -25344,6 +25599,7 @@ Who Will End the Anti-Muslim Discrimination: The White House or the 'Right' Hous
 Who Will Fight to Help the Unemployed?
 Who Will Fox Blame When Obama Wins? Awk-ward!
 Who Will Muslims Vote For?
+Who Will Pay for the Zero Marginal Cost Society?
 Who Will Protect You From the Police?
 Who Will Seek the Off Ramp First in Ukraine -- Putin or Obama?
 Who Will Speak to the Working Poor, the Unsung Swing Vote?
@@ -25430,6 +25686,7 @@ Why Americans Should Care That Obama Is Preferred Abroad
 Why Americans Won't Sign up for Obamacare
 Why America’s Strategic Rebalance Is Really Just Retreat
 Why Anti-Intellectualism Is Dumb
+Why Are Americans Paying to Be Searched, Spied On, Shot At and Robbed Blind by the Government?
 Why Are Gays and Lesbians Still Forced to Adopt Our Own Children?
 Why Are Latinos Way Ahead of the Climate Change Curve? 3 Latino Climatologists Respond
 Why Are Liberals Falling Down the Rabbit Hole?
@@ -25454,6 +25711,7 @@ Why Aren't We Buying Insurance Against Global Warming?
 Why Aren't We Buying Insurance Against Global Warning?
 Why Aren't We Talking About Climate Change?
 Why Aren't Women Voting for Women?
+Why Arizona "Religious Freedom" Movement Should Concern Rand Paul and the GOP
 Why Assad Has the Upper Hand in the Syria Peace Talks
 Why Attempts to Obstruct Gun Violence Bill Will Damage the GOP
 Why Ayn Rand Won't Go Away: 'Atlas Shrugged,' Part 2 and the Motor of Moral Psychology
@@ -25518,6 +25776,7 @@ Why Did the Tea Party Blink on the Continuing Resolution?
 Why Did the U.S. Government Shut Down in October 2013?
 Why Do 'Congressional Truants' Still Get Paid While Openly Seeking Other Jobs?
 Why Do Asian Americans Vote for Democrats?
+Why Do Black Women Have to Look Like White Women to Serve Their Country?
 Why Do Conservatives Soak Up Lies?
 Why Do House Republicans Want to Prevent New Parks?
 Why Do Liberals Love Billy Graham?
@@ -25539,6 +25798,7 @@ Why Do We STILL Celebrate Columbus Day?
 Why Do We Treat Schools Like Sports Teams?
 Why Does Andrew Cuomo Love Charter Schools? Follow the Money to Wall Street
 Why Does Congress Think It's OK for Working Americans to Go Hungry?
+Why Does Equal Pay Really Matter?
 Why Does It Matter to Have Credentialed Medical Interpreters? (Abstract Version)
 Why Does Mitt Romney Support Violently Overthrowing Democratically Elected Leaders?
 Why Does Rep. Paul Ryan Get So Much Attention?
@@ -25564,6 +25824,7 @@ Why Everyone Should See The Lego Movie
 Why Extending Unemployment Benefits Must Be Paid For
 Why FHA Mortgages Are More Stable Than We Think
 Why Facts Are Not Enough
+Why Facts Matter: Science Is Not an Opinion
 Why Federal Intervention Matters: Will Mexican American Studies Fiasco in Tucson End in 2013?
 Why Felipe Must Go
 Why Feminists Should Champion Mel Feit's Quest for Men's Liberation
@@ -25575,6 +25836,7 @@ Why Gay Republicans Should Vote for Obama
 Why Germany Needs France: Europe Needs More Than One Big
 Why Girls Like Jerks and What to Do to Finally Stop It
 Why Giving Republican Bullies a Bloody Nose Isn't Enough
+Why God Bless the Child That's Got His Own Is Not a Worthy Education Policy
 Why Google's Spying on User Data Is Worse than the NSA's
 Why Government Is Virtuous
 Why Government of the Future Needs to Be a Functional Utility
@@ -25600,6 +25862,7 @@ Why His Dream Has Not Come True
 Why I (and Other Young People) Will Be Watching and Paying Attention to the First Debate
 Why I Am (Not) Surprised
 Why I Am Cancelling My Documentary on Hillary Clinton
+Why I Am Running for Governor of Oklahoma
 Why I Am Voting for Mitt Romney on Nov. 7
 Why I Called the Log Cabin Republicans "Uncle Toms"
 Why I Chose Boston
@@ -25689,6 +25952,7 @@ Why Is Chained CPI important? It's Not -- A Better Way to Fix Social Security
 Why Is Congressman Peter King Lying About Glenn Greenwald?
 Why Is Don Siegelman Still in Jail?
 Why Is Failed Iraq Neocon Dan Senor Dictating Romney's Foreign Policy?
+Why Is Fannie Mae Evicting the Coronel Family?
 Why Is Generation Y So Easy to Bamboozle?
 Why Is Georgia Secretly Giving Student Test Scores to Military Recruiters?
 Why Is God Punishing the GOP With Storms? Three Wrath-Provoking Possibilities
@@ -25700,8 +25964,10 @@ Why Is It So Difficult for People to Warm Up to Mitt Romney?
 Why Is Obama Enabling a Fox to Guard the Fed Henhouse?
 Why Is Obama Sticking It to Public Servants?
 Why Is Phil Mickelson So Tee'd Off About Taxes?
+Why Is Public Television Against Public Schools?
 Why Is Romney Losing?
 Why Is Tehran Procrastinating?
+Why Is This Blog Different From All Other Blogs?
 Why Is This Journalist In Jail?
 Why Is Treasury Protecting Tax Havens for Multinationals?
 Why Is Washington Obsessing About the Deficit and Not Jobs and Wages?
@@ -25862,6 +26128,7 @@ Why Politicians Are Sensitive to Public Opinion on Same-Sex Marriage, Immigratio
 Why Politics Are Stuck in the U.S.
 Why Pollard and Rubashkin Are Rotting in Jail
 Why Pope Francis Is Time Magazine's Person of the Year
+Why Population Dynamics Matter
 Why Post 50s Aren't Saving Enough For Retirement
 Why Power Corrupts
 Why Pres. Obama Should Have Prosecuted the Bush Administration for War Crimes -- and Still Can (By Other Means)
@@ -25875,6 +26142,8 @@ Why President Obama's Approval Dip Doesn't Matter
 Why Public Prayer Is About More Than Culture Wars
 Why Public Service Needs Engineers and Scientists
 Why Published Prices Could Improve U.S. Health Care Costs
+Why Race to the Top Worked
+Why Racial Economic Inequality Must Be on the Agenda of the Civil Rights Summit
 Why Raising the Medicare Eligibility Age Makes No Sense
 Why Rand Paul Will Be Another Mitt Romney
 Why Religious Folks Need To Stop Fighting Gay Marriage
@@ -26066,6 +26335,7 @@ Why You Shouldn't Be Celebrating El Chapo's Arrest
 Why You Shouldn't Lead Like a Politician
 Why You Shouldn't Shop at Walmart on Friday
 Why You Shouldn't Succumb to Defeatism About the Affordable Care Act
+Why You'll Never Hear Me Call Myself A 'Pothead Mom,' No Matter How High I Am
 Why Young People Are Ready To Fight Climate Change
 Why a Climate Activist Fasted Nine Days for Immigrant Families
 Why a Constitutional Amendment Is the Only Way to Go
@@ -26140,6 +26410,7 @@ Why the Media Must Look Beyond Petty Political Retribution as the Reason for Bri
 Why the Media Will Ensure Romney Wins the Debate
 Why the Middle Class Is Getting Slaughtered
 Why the Military Needs to Rebrand Drones
+Why the Minimum Wage Should Really Be Raised to $15 an Hour
 Why the NFL Should Embrace Medical Marijuana
 Why the NRA Is Afraid of Doctors
 Why the NRA Is Becoming the 'Great Oz'
@@ -26175,6 +26446,7 @@ Why the US Should Not Ban Guns
 Why the Upcoming Shutdowns and Defaults Are Symptoms of a Deeper Republican Malady
 Why the Voting Rights Act Matters
 Why the Washington Post's New Ties to the CIA Are So Ominous
+Why the West Gets Putin So Wrong
 Why the World Bank Must Divest From Fossil Fuels
 Why the World Is So Coup-ky
 Why the World Keeps Talking About 23andMe
@@ -26246,6 +26518,7 @@ Will Millennials Come Back to Labor?
 Will More Video Surveillance Cameras Make Us Any Safer?
 Will Murdoch Succeed in Burying his Past?
 Will New Congress Believe Banks' Inflated Claims of Good Corporate Citizenship?
+Will New York City Lead the Fight Against Employment Discrimination?
 Will Obama Go Big or Base on Budget?
 Will Obama Slip Obamacare Mandate Deadline One Month?
 Will Obama Trade American Jobs for His War on Syria?
@@ -26786,4 +27059,5 @@ ZunZuneo, USAID and How the U.S. Lost the Confidence of the Cuban People
 iAtheist: Being Godless in America
 test
 theSWAGspot: Intimate Public Space to Talk Love, Lessons and Legacy With Men for Men
+¡Si Se Puede! (Yes We Can!)
 Žižek, 'Zero Dark Thirty' and Torture

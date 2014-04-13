@@ -13679,6 +13679,7 @@ Requiem for a Back Button
 Requiem for a Rendering Engine
 Research Indicates Bacon Sandwich Really Does Cure a Hangover
 Researcher Claims Swearing at Work Boosts Morale
+Researcher Proves Heartbleed Bug Exposes Private SSL Keys
 Researchers Claim Some Android Apps Covertly Send GPS Data to Advertisers
 Researchers See Privacy Pitfalls in No-Swipe Credit Cards
 Reservoir Dogs 15th Anniversary Edition
@@ -20088,6 +20089,7 @@ yDSF - Robust CSS Drop Shadows
 ‘Brain Drain’, Indeed
 ‘Brian Krebs Watch’ on Whether Apple Lied About Maynor and Ellch
 ‘Bride’ Stripped Bare
+‘Brightest Flashlight’ Android App Disclosed Location of 50 Million People, but FTC Imposes No Fine
 ‘Broken Gets Fixed. Shoddy Lasts Forever.’
 ‘Browser’
 ‘Build Your Wings on the Way Down’

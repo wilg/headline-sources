@@ -36,6 +36,7 @@ $99 Refurbished Kindle Price Points to Kindle 4 Launch
 10 Surprising Ingredients Found In Common Foods
 10 Things You Should Know about DirectX 12
 10 Ways To Browse The Internet Anonymously
+10 Ways To Lifehack Your Next Flight
 10 Years of Roomba Hacks: From Magic Marker Art to Combat
 1080p Phones Mean New Challenges for Mobile Batteries in 2013
 14 Essential Tweaks to Perform on Your New Nexus 5 Smartphone
@@ -217,6 +218,7 @@ Airfoil App Turns Any iOS Device Into an Airplay Receiver
 Algebraic Equations Could Relieve Congested Wireless Networks
 Algorithm Identifies Fake Photographs By Analyzing Shadows
 Aliasing Be Gone: How To Downsample PC Game Graphics
+Almost Human: Trauma Mannequins for Medic Training
 Alternate Universe Movies: Dan Aykroyd and John Belushi's American Hustle
 Alternative Food Technologies Used in Modern Cooking
 Amazing Anamorphic Illusions with High-Quality Paper Prints
@@ -563,6 +565,7 @@ Beautiful Interactive Visualization of Exoplanets
 Beautiful Tomenosuke Blade Runner Blaster Build
 Bedphones Want You to Listen and Sleep in Comfort
 Before THX: The Cinema Shaking Technology of Sensurround
+Behind the Scenes at Kernerworks' Workshop
 Behind the Scenes at w00tstock with Adam Savage and Wil Wheaton
 Behind the Scenes of Adam Savage's One Day Box Build
 Behind the Scenes of Our MakerBot Store Visit
@@ -1260,6 +1263,7 @@ Google Play App Roundup: HD Widgets 3.0, Xelorians, and Instapaper
 Google Play App Roundup: Hangouts, Kingdom Rush, and Sonic the Hedgehog
 Google Play App Roundup: Hushed, Temple Run 2, and Quento
 Google Play App Roundup: Instagram, Another World, Tasks
+Google Play App Roundup: Javelin Browser, AirFighter Pro, and Inkling
 Google Play App Roundup: Kairobotica, Sudo QuickLaunch, and Megatroid
 Google Play App Roundup: LastPass, Epoch 2, and Castle Doombad
 Google Play App Roundup: Link Bubble, God of Light, and Mount and Blade: Warband
@@ -1448,6 +1452,7 @@ Haptic Thermometer Lets You Feel How Hot or Cold It Is Outside [Video]
 Haptic Touchscreen Tech Provides Feedback without Motors
 Haptography: Capturing The Feel of a Surface
 Harmony Link Rolls Universal Remote and TV Guide into iPad [Video]
+Hasbro Made an A.I. Teddy Toy That Wasn't Super At All
 Have You Ever Wanted to Explore the Inside of a Space Shuttle?
 Hawaiian Volcanoes in Time-Lapse
 Heads Up: Hard Drive Warranties Will Be Shrinking in 2012
@@ -1600,6 +1605,7 @@ How Samsung Will Bring Depth of Field to Compact Cameras
 How Sand Becomes a CPU
 How Sci-Fi Propaganda Art Influenced The US and Soviet Space Race
 How Scientists Generated The First Two MegaJoule UV Laser Shot
+How Scientists Visualize Sound with a Photography Trick
 How Security Cameras Can Provide Anonymous Shopper Statistics
 How Smart Cars and Traffic will Change the World
 How Smart Headphones Save Your Ears from the Decibel Danger Zone
@@ -1645,6 +1651,7 @@ How To Fix A Pair Of Broken Headphones
 How To Fold and Tweak a Great Paper Airplane
 How To Follow Along with NASA's Curiosity Rover Landing This Sunday
 How To Get Better Depth of Field Photos with Your Camera
+How To Get Into Hobby RC: Car Basics and Monster Truckin'
 How To Get Into Hobby RC: Radios and Motors
 How To Get Started With iCloud Backups and Sync in iOS 5
 How To Get Started with 3D Modeling for 3D Printing
@@ -1758,6 +1765,7 @@ If You Exchange Money For Goods or Services You Should Read This Post
 If You Haven't Been to the ISS, You'll Probably Like This Video
 If You're Buying an iPad 2, Don't Get Last Year's Model
 Imagine a World: The Practical Future of The Connected Home
+Imogen Heap's Electronic Gesture Gloves
 Impending VLC Player 2.0 Adds Blu-ray Support, New UI on OS X
 Important Features and Limitations You Don't Know About iTunes Match
 Improving Your Gin & Juice, With Science!
@@ -2020,6 +2028,7 @@ Living with Photography: Shooting Dragon*Con
 Living with Photography: Shooting San Diego Comic-Con
 Living with Photography: Straight Shooting
 Living with Photography: Testing the Canon 24-70mm F/2.8 II
+Living with Photography: Testing the Fujifilm X100s Digital Camera
 Living with Photography: Testing the Metabones NEX Adapter
 Living with Photography: The Hold Steady
 Living with Photography: The Influence of Instagram
@@ -2183,6 +2192,7 @@ MakerBot Mystery Build: Shenron By Another Name
 MakerBot Mystery Build: Smart Cookie
 MakerBot Mystery Build: Smooth Move, Ferguson
 MakerBot Mystery Build: So Damn Itchy
+MakerBot Mystery Build: Something Isn't Quite Right Here
 MakerBot Mystery Build: Spare a Hand
 MakerBot Mystery Build: Spinning and Winning
 MakerBot Mystery Build: Swear To Me
@@ -2700,6 +2710,7 @@ Premium: Weathering the T-800 Endoskeleton
 Premium: Will Upgrades the MakerBot
 Premium: Will and Norm Build Their SteamOS Boxes
 Premium: Will and Norm Geek Out at the Mondo Gallery
+Premium: Will and Norm Visit the Game of Thrones Exhibit
 Prepare for a Rush of Ultrabooks at CES 2012
 Preview Ubuntu On Your Nexus Smartphones and Tablets This Thursday
 Preview the Technical Papers of SIGGRAPH Asia 2012
@@ -2926,6 +2937,7 @@ Reversing Extinction Through DNA Manipulation
 Review: Amazon Kindle Fire HD 8.9" Tablet
 Revisiting the Turing Test, Intelligently
 Richard Garriott's Incredible and Fantastical Collections
+Rise of the Patent Troll
 Rise of the Planet of the Apes - Bonobos Start Using Tools
 Rob Flickenger's Working Tesla Gun
 RoboRoach Kickstarter Brings Up the Ethics of Experimenting on Bugs
@@ -3046,6 +3058,7 @@ Shawn Thorsson's ED-209 Build for Maker Faire
 Shingled Magnetic Recording Paves the Way for 5TB Hard Drives
 Shipping Pallets Make the World Go Round
 Shoot the Sky: The Technology Invented for Astro Cinematography
+Shooting Amazing 360 Degree Spherical Panos
 Shooting Video at 120,000 Feet: The Cameras Aboard Project Stratos
 Shop Safety - 2/26/2013
 Short Supplies on MacBooks and Minis Point to July Refresh
@@ -3304,10 +3317,12 @@ Testing the New Able Brewing KONE Coffee Filter
 Testing the Oculus Rift Development Kit: Team Fortress 2
 Testing the Puffing Gun and Unexpected Food Explosions
 Testing the Puzzlebox Orbit Brain-Controlled Helicopter
+Testing: Adobe Lightroom Mobile for iPad
 Testing: Amazon Kindle Fire HD vs. Google Nexus 7
 Testing: Apple 11-Inch MacBook Air (2013)
 Testing: Apple iPad Air as a Tablet Upgrade
 Testing: Automatic Link Connected Driving Assistant
+Testing: DJI Phantom 2 Vision+ Quadcopter Drone
 Testing: Gaming on the Nvidia Shield
 Testing: Google Chromecast Streaming
 Testing: Google Nexus 5 vs. HTC One vs. Nexus 4
@@ -3456,6 +3471,7 @@ The Best Utility Knife Today
 The Best Waterproof iPhone Case
 The Best Ways to Watch Your Video Files on Android
 The Best Wi-Fi Extender (If You're Out of Options)
+The Best Wi-Fi Router (So Far)
 The Best Wireless HDMI Video Transmitter Today
 The Best Wireless IP Camera Today
 The Best and Worst Trends in Modern Web Design
@@ -3566,6 +3582,7 @@ The Living Room PC, Part 2: The Keyboard and Mouse Problem
 The Lost Story of E.T.'s BMX Stunt Riders
 The Low Budget Camera Tech of Sam Raimi’s Evil Dead
 The Low Tech Origins of Found Footage Films
+The Low-Budget Movie Gimmicks of Cinema Past
 The Magnified World, Up Close
 The Mailing Address of the International Space Station
 The Maker Movement's Precarious Place in Society and Education
@@ -3747,6 +3764,7 @@ The WonderCon 2013 Cosplay Gallery (500+ Photos)
 The Work of Artist Zina Nicole Lahr
 The Work of Ralph Bakshi: Animation Provocateur
 The World's "First" Recognized Cyborg Hears Colors
+The Zoidberg Project, Part 10: Mold Finishing and Foam Latex
 The Zoidberg Project, Part 1: Introductions
 The Zoidberg Project, Part 2: How To Make a Life Cast
 The Zoidberg Project, Part 3: Making a Mold Jacket and Eye Blanks
@@ -3854,6 +3872,7 @@ USB 3.1 Doubles Speed to 10 Gb/s (If You Buy New Hardware)
 USB Power Delivery Bringing US 100 Watts in 2014
 USB to CEC Adapter Bringing Unified Controls to XBMC [Video]
 Ubuntu Hopes Its Global HUD Will Eventually Replace The Menu UI [Video]
+Ultimate Prop Wishlists - 4/8/2014
 Ultrabook Done Right: Acer Aspire S3 Launching at $899
 Ultraportable Throwdown: 11-inch MacBook Air vs 11.6-inch Samsung Series 9
 Ultrasound Chip Could Bring Gesture Recognition to Smart Watches

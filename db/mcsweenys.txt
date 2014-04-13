@@ -405,6 +405,7 @@ An Excerpt from Patriot Acts: Narratives of Post-9/11 Injustice
 An Excerpt from Some Instructions to the New Guy Concerning the Preparation and Presentation of My French Toast, by Stanley Kubrick
 An Excerpt from Voice of Witness’s Throwing Stones at the Moon
 An Excerpt from Wells Tower’s New Story in McSweeney’s 44!
+An Excerpt from the Forthcoming Voice of Witness Book Invisible Hands: Voices from the Global Economy
 An Excerpt from the Forthcoming Voice of Witness Book, Patriot Acts: Narratives of Post-9/11 Injustice
 An Extremely Patient Producer Works With An Aspiring Pornography Scriptwriter
 An HR Manager Responds to Alleged Infractions
@@ -912,6 +913,7 @@ Classic Nursery Rhymes, Updated and Revamped for the Recession, as Told to Me by
 Classic Russian Writers: For teh Internets: Anton Chekhov’s “The Lady with the Dog.”
 Classic Russian Writers: For teh Internets: Isaac Babel’s “My First Royalty.”
 Classic Russian Writers: For teh Internets: Ivan Bunin’s The Village (Chapter 4)
+Classic Russian Writers: For teh Internets: Maxim Gorky’s “Her Lover.”
 Classic Russian Writers: For teh Internets: Mikhail Lermontov’s “A Dream."
 Classic Russian Writers: For teh Internets: Nikolai Gogol’s “Nevsky Prospekt.”
 Classic Russian Writers: For teh Internets: Nikolai M. Karamzin’s “The Island of Bornholm.”
@@ -1438,6 +1440,7 @@ Dispatches from Civil War Reenactments: Dispatch #3: Manassas, Virginia
 Dispatches from Civil War Reenactments: Dispatch 1: Drill and Training Days, Norton, Massachusetts
 Dispatches from Civil War Reenactments: Dispatch 2: Gettysburg
 Dispatches from Iceland: Egilsstadir: Waiting for the Monster
+Dispatches from Iceland: Flatey and Brjanslækur: Eating the Pylsur of Heaven, Part Two
 Dispatches from Iceland: Reykholt: On Not Looking Into Snorri’s Pool
 Dispatches from Iceland: Reykjavik: A Visit to the World’s Only Penis Museum
 Dispatches from Iceland: Stykkisholmur: Eating the Pylsur of Heaven, Part One
@@ -2099,6 +2102,7 @@ Grimm’s Terms and Conditions for Your Three Wishes
 Group Mobilization As a Desperate Cry for Help
 Guestbook: Vermont Applebrook Inn, Lancaster Suite, January 1, 1999­-May 1, 2001 (Excerpts)
 Guidelines For Our Son Jeremiah’s First Birthday Party
+Guidelines for Vandalizing Our Place of Business
 Guy Walks Into a Bar
 Guys, I Can’t Shake the Feeling That Our Friend Dave is Actually Just a Human Shell Full of Thousands and Thousands of Spiders
 Gyros to Heroes: A Column About Sandwiches: Cass and Jimi
@@ -2262,6 +2266,7 @@ Hungover Bear and Friends: Pour Me
 Hungover Bear and Friends: Progress Not Perfection
 Hungover Bear and Friends: Respond, Not React
 Hungover Bear and Friends: Say What You Mean
+Hungover Bear and Friends: The High Cost of Low Living
 Hungover Bear and Friends: The Present is a Gift
 Hungover Bear and Friends: The Real Wolf of Wall Street
 Hungover Bear and Friends: Trace It
@@ -2558,11 +2563,15 @@ Interviews with Barbers: Joe, Who Works at the Barbershop at the Port Authority 
 Interviews with Drivers of Lunch Trucks: Massachusetts Lunch Truck Driver Interview
 Interviews with Drivers of Lunch Trucks: Non-Massachusetts Lunch Truck Driver Interviews
 Interviews with Neighbors
+Interviews with the Authors of McSweeney’s 46: The Latin American Crime Issue: Alejandro Zambra
 Interviews with the Authors of McSweeney’s 46: The Latin American Crime Issue: Andrés Felipe Solano
 Interviews with the Authors of McSweeney’s 46: The Latin American Crime Issue: Andrés Ressia Colino
 Interviews with the Authors of McSweeney’s 46: The Latin American Crime Issue: Bernardo Carvalho
+Interviews with the Authors of McSweeney’s 46: The Latin American Crime Issue: Carol Bensimon
+Interviews with the Authors of McSweeney’s 46: The Latin American Crime Issue: Joca Reiners Terron
 Interviews with the Authors of McSweeney’s 46: The Latin American Crime Issue: Jorge Enrigue Lage
 Interviews with the Authors of McSweeney’s 46: The Latin American Crime Issue: Jorge Enrique Lage
+Interviews with the Authors of McSweeney’s 46: The Latin American Crime Issue: Juan Pablo Villalobos
 Interviews with the Authors of McSweeney’s 46: The Latin American Crime Issue: Mariana Enriquez
 Interviews with the Authors of McSweeney’s 46: The Latin American Crime Issue: Rodrigo Blanco Calderón
 Interviews with the Authors of McSweeney’s 46: The Latin American Crime Issue: Rodrigo Hasbún
@@ -2611,6 +2620,7 @@ It’s All Greek to Me: A Column on Sororities in the South: The Help
 It’s All Greek to Me: A Column on Sororities in the South: The Lovesong of Grandpa Margey
 It’s All Greek to Me: A Column on Sororities in the South: The MRS Degree
 It’s All Greek to Me: A Column on Sororities in the South: The Niche & the Itch
+It’s All Greek to Me: A Column on Sororities in the South: Things Happen
 It’s All Greek to Me: A Column on Sororities in the South: What I Want
 It’s All Greek to Me: A Column on Sororities in the South: What I Want (Redux)
 It’s Always Day In Lemon City
@@ -2962,6 +2972,7 @@ Let’s Illustrate This Important Chemistry Concept Through a Word Problem About
 Let’s Just Get Mel Out Of Our System And Then Move On
 Let’s Listen to My Favorite Song Together
 Let’s Make a Beautiful Case-Study Video for Your Social-Media Based Ad Campaign
+Let’s Make a Million Dollars!: A 20-Something Pitches Three Million-Dollar Ideas to an Older Businessman and In Doing So Sells Out His Generation
 Let’s Make a Million Dollars!: Classic Million-Dollar Ideas for New Products Part 1: Apparel
 Let’s Make a Million Dollars!: Draft Catalog Copy for Five New Kinds of Sexy Underwear
 Let’s Welcome Cathy!
@@ -4372,6 +4383,7 @@ List: The Latest in Innuendo Bumper Stickers
 List: The Least Believable Things I Can Reach With a Cane While Sitting at My Computer
 List: The Least Popular Gift Cards at Wegmans
 List: The Lesser-Known Slogans of Political Moderates
+List: The LinkedIn Endorsement Prompts Are Getting Interesting
 List: The Mall’s Banana Republics for the New Millennium
 List: The Meatball Studies Major: Suggested Courses
 List: The Modern-Day Pantheon
@@ -5159,6 +5171,7 @@ My Hidden Agenda
 My Hobbies
 My Ideas for Staged Photos Set Me Apart From Other Wedding Photographers
 My Interactive Call Center
+My Life Coach Terry Got Me Athletic Shorts
 My Life On Ice
 My Life in Reverse
 My Life with Ronald Reagan.
@@ -7035,6 +7048,7 @@ The FETUS Pregnancy/Delivery Rider
 The FICO Soliloquy
 The Fabulous Friends: Conservative Christian Groups’ Least-Favorite All-Star Cartoon
 The Fallguy’s Faith
+The Father of Dragons
 The Final Email From the Volunteer Coordinator for the Woofstock Festival for Dogs
 The First Annual New York University Neal Pollack Chair In American Literature Lecture
 The First Black Friday, by William Bradford
@@ -7416,6 +7430,7 @@ This is Who We Are
 This is a Bank Robbery
 This is a Generic Brand Video
 This is a Headline with “2001” in it
+This is the Instagram Comment That Will Finally Ignite My Relationship With Beyoncé
 Thistle
 Thomas Friedman Explains the Issues of the Day
 Thomas Kinkade’s Experimental Period
@@ -7548,6 +7563,7 @@ Touch Me: A Column About Massage: Column 6: All the Therapists Merely Players
 Touch Me: A Column About Massage: Column 7: Money Sleeps Just Fine
 Touch Me: A Column About Massage: Column 8: Bend or Break
 Touch Me: A Column About Massage: Column 9: Things Come Up
+Toward More Poetic Job Interviews
 Toward a Sustainable Margaritaville
 Tractors Drive Themselves: One Man’s Return to the Farm: Harvest Blues
 Tractors Drive Themselves: One Man’s Return to the Farm: Hi Mom

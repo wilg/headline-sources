@@ -1023,12 +1023,14 @@ Five Sauces Everyone Should Know How to Make for Endless Meal Options
 Five Steps to Take Immediately If You're the Victim of Identity Theft
 Five Things Bing Does Better Than Google
 Five Things I Wish I Had Known When I Started Working for Myself
+Five Things I Wish I Knew Before Starting a Long-Distance Relationship
 Five Things You Should Negotiate at Work Besides Your Salary
 Five Things to Check and One to Consider Before Riding Your Rusty Bike
 Five Ways To Nearly Kill Someone While Trying to Be A Safe Driver
 Five Worst Cellphone Carriers
 Fiverr Brings Its Low-Cost Side-Hustle Marketplace to Android
 Fix Bad Habit Relapses with a Postmortem
+Fix Dents in Car Bumpers With Boiling Water
 Fix Hard-to-Shut Doors with Toothpicks
 Fix Stalled Downloads in Mavericks with a Shortcut (and Other Fixes)
 Fix Sticking Buttons on Your OUYA Controllers with a Screwdriver
@@ -1133,6 +1135,7 @@ Get Only Search Suggestions from Chrome's Omnibox
 Get Pet Hair Out of Your Bed Fast with a Squeegee
 Get Ready for Thanksgiving This Weekend
 Get Reminders About New Movies and TV Show Episodes From Google Now
+Get Rid of "Earworms" by Playing Out the Full Song
 Get Rid of All Your Unwanted Gifts This Weekend
 Get Rid of Excess Clutter by Pretending You're Moving
 Get Rid of Old (and New) Pet Odors with Vinegar
@@ -1285,6 +1288,7 @@ Hello SMS Brings Tabs and Easy Photo-Sharing to Text Messages
 Help Find a Lost Dog with a USB Flash Drive
 Help Your Kids Learn to Keep Themselves Organized
 Hemingway Highlights Common Errors to Help You Edit Text
+Here is the perfect male and female body according to males and females
 Here's Everywhere You Should Enable Two-Factor Authentication Right Now
 Here's How to Check If the Apple Store Has an iPhone 5S in Stock
 Here's Why the iPhone 5S Accelerometer Is So Screwed Up
@@ -1641,6 +1645,7 @@ How to Install the SteamOS Beta on Your Computer
 How to Jailbreak Your iPhone: The Always Up-to-Date Guide [iOS 7.0.4]
 How to Listen When Your Communication Styles Don't Match
 How to Lock Down Facebook Privacy Now That Old Posts Are Searchable
+How to Look Your Best In Photos
 How to Make Browsing the Web on Your Phone Suck Less
 How to Make Foolproof Homemade Pasta
 How to Make GIMP Work More Like Photoshop
@@ -1838,6 +1843,7 @@ Instagram Photos Give A Rare Look At Life Inside North Korea
 Install Android on a Windows 8 Tablet
 Install a Rental-Friendly, Removable Custom Kitchen Backsplash
 Instant Heart Rate Measures Your Heart Rate with Your Phone's Camera
+Instantly Become More Photogenic By Tilting Your Head Forward
 Instapaper for Android Gets a New Interface, Sorting Options, and More
 Instapaper for iPad Gets a Redesign, Sorting Options, and More
 Institute a "Think Week" to Get Your Creativity Back on Track
@@ -1924,6 +1930,7 @@ KillSpinners Stops Pages from Loading After Set Time
 Kindle Fire and Nexus 7, Belkin WeMo, Samsung SSDs [Deals]
 Kindle Paperwhite (2013) Review: Faster, Prettier, Still the Best
 Kindle and Kindle Fires on Sale, Eneloop Batteries, USB Drives [Deals]
+Kitchen Nightmares Returns to Amy's Baking Company, Yelling Ensues
 Kitchen Scraps You Can Regrow with Nothing But Water
 Kitestring Notifies Your Emergency Contacts If You Go Dark
 Klutch Makes Getting Groups and Friends Together Quick and Easy
@@ -2060,6 +2067,7 @@ Make Google Voice SMS Play Nice with Hangouts
 Make Handy Pull-Out Hardware Bins with Muffin Tins
 Make Health-Related Decisions When You're Exhausted
 Make Homestyle Butter (and Buttermilk) in Your Blender
+Make Matches Waterproof With Nail Polish
 Make Moral Decisions in the Morning
 Make Over Your Kitchen for About $400 in One Day
 Make People Feel Good About Themselves with Two Questions
@@ -3033,6 +3041,7 @@ TagSale Posts Items for Sale in the Time It Takes to Snap a Photo
 Take $20 Off The iPad Air On Day One
 Take 30 Seconds After Learning Something to Write Important Points
 Take 30 Seconds to Write Down Key Points After Lectures or Meetings
+Take Awesome Astronomy Photos with a Smartphone and a Telescope
 Take Photos From Above the Eyes for Great Portraits
 Take Screenshots on Almost Any Kindle Device
 Take Stunning Studio-Quality Portrait Photos with Just One Light
@@ -3607,6 +3616,7 @@ Top 10 DIY Projects That Simplify Your Kitchen
 Top 10 Free Upgrades to Make Your PC Better
 Top 10 Inspirational Quotes Worthy of Your Refrigerator
 Top 10 Reasons to Exercise Regularly (Besides Losing Weight)
+Top 10 Relationship Challenges You Can Overcome
 Top 10 Things You Never Have to Pay Full Price For
 Top 10 Tricks for Better Apartment Living
 Top 10 Tricks for Building the Perfect Budget
@@ -3630,6 +3640,7 @@ Torpedo Shares Self-Destructing Files For Short Periods of Time
 Touch the Lockscreen's Camera Icon to Turn Off the iPhone's Flashlight
 Track Down Power-Hungry Extensions with Chrome's Task Manager
 Track Emails Without Responses in Gmail with this Script
+Track Every Small Progress for a Successful "Done List"
 Track How Happy You Are with Your Purchases in Your Ledger
 Track What You Waste Time On Right Alongside Your Accomplishments
 Trackthisforme Quantifies Your Habits With Handy Charts
@@ -3816,6 +3827,7 @@ Use a Wooden Comb for Healthier, Static-Free Hair
 Use a Zero-Sum Budget to Spend Money More Effectively
 Use an Arduino to Automate Your Lights Based on an Astronomical Clock
 Use an Empty Wine Bottle to Maintain Boot Shapes
+Use an Old CD Case as a Recipe Stand
 Use an Xbox Headset as a DSLR Shutter Trigger
 Use the "Gas or Brake" Method to Make Better Spending Decisions
 Use the "Triple Nod" for More Engaging Small Talk
@@ -3866,6 +3878,7 @@ Watching these dogs confused by a magic trick is hilariously cute
 Watching these two old women fly for the first time is pure gold
 Water Temperature, Word Layout, and Fresh Caulk
 We Are the Founders of Asana, and This Is the Story Behind the App
+We're Getting A Sci-Fi Civilization, And It Sounds Fantastic
 We're the Lifehacker Team. Ask Us Anything. [UPDATE: Q&A's Over]
 We've Updated Our Favorite Web Browser for Android
 Wear Your Bathrobe All Morning Long to Avoid Spills and Messes
@@ -4148,6 +4161,7 @@ Winter-Proof Your Chapped Cheeks With DIY, Natural Chapsticks
 Winterboard Updated for iOS 7, Ready for Customization
 Wipebook Is a Dry Erase Notebook You Can Reuse Indefinitely
 Woman Abandoned as a Baby in Burger King Bathroom Reunites with Mom
+Wonder Timer Comes with Presets, Widget and Good Design
 Wonderful Post Holiday Enjoyment Open Thread
 Wondervoice Finds Parking, Plays Music, Reads Facebook Aloud, and More
 WordHippo Finds the Right Word You're Looking For
