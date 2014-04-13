@@ -86,7 +86,7 @@ $99 ARM-based PC runs either Ubuntu or Android
 'Sending a message': what the US and UK are attempting to do
 'TSA Arrests Me for Using the Fourth Amendment as a Weapon'
 'The Golden Age of Silicon Valley Is Over, and We're Dancing on its Grave'
-'Tor Stinks' presentation – read the full document
+'Tor Stinks' presentation – read the full document
 (Android) Developer Income Report #9
 (Highly) profitable, funded YC company looking for technical lead.
 (Presumably) Apple engineer comment on Lightning AV adapter design
@@ -252,7 +252,7 @@ $99 ARM-based PC runs either Ubuntu or Android
 8402: 2048 from the other side
 87% of the U.S. Population are uniquely identified by {DOB, gender, zip}
 88% there: "Don't Mess With The Internet" billboard in Lamar Smith's district
-9 Eyes – Interesting photos from Google Street View
+9 Eyes – Interesting photos from Google Street View
 9 million hits/day with 120 megs RAM
 9 year old's DIY Cardboard Arcade gets Flash mobbed: Video
 9,866,539 buildings in the Netherlands, shaded according to year of construction
@@ -420,7 +420,7 @@ A brief history of one line fixes
 A circuit and PCB editor in the browser
 A close look at how Oracle installs deceptive software with Java updates
 A closer look at the performance of Google Chrome
-A collector is selling every Super Nintendo game for $24,999
+A collector is selling every Super Nintendo game for $24,999
 A common bug in published code
 A conversation between two chatbots and how one found out the other is an AI.
 A cry for help
@@ -608,7 +608,7 @@ Accounting for Computer Scientists
 Accuracy takes power: one man's 3GHz quest to build a perfect SNES emulator
 Accuracy takes power: one man’s 3GHz quest to build a perfect SNES emulator
 Accurate remake of Pac-Man in JavaScript
-Acetaminophen and the War on Drugs (2009)
+Acetaminophen and the War on Drugs (2009)
 Ack 2.0 has been released
 Action and habit
 Active Admin - The missing administration framework for Ruby on Rails
@@ -751,7 +751,7 @@ Amazon RDS for PostgreSQL
 Amazon S3 - Cross Origin Resource Sharing Support
 Amazon S3 Pricing Changes Effective April 1, 2014
 Amazon Signs Up Authors, Writing Publishers Out of Deal
-Amazon Staff Meetings: “No Powerpoint”
+Amazon Staff Meetings: “No Powerpoint”
 Amazon Supply
 Amazon Unveils $199 Kindle Fire Tablet
 Amazon Web Services are down
@@ -1385,7 +1385,7 @@ Beg HN: Please only report serious GitHub outages (1h+)
 Beginners Guide to HTML/CSS
 Behind the scenes at Adioso - Part 1: Reality Check
 Behind the scenes of the Pirate Bay trial
-Behind the stick of the SR-71
+Behind the stick of the SR-71
 Being Frugal Makes You A Loser
 Being a "Great Coder" and 10000 Hours
 Being a Developer Makes You Valuable. Learning How to Market Makes You Dangerous
@@ -1921,7 +1921,7 @@ Coding Interview Tips
 Coding Skill and the Decline of Stagnation
 Coding tricks I learnt at Apple
 Coding tricks of game developers
-Coding, Fast and Slow: Developers and the Psychology of Overconfidence
+Coding, Fast and Slow: Developers and the Psychology of Overconfidence
 Coffee and its Effects on Feature Creep (2011)
 CoffeeScript 1.6.0 released with support for source maps
 CoffeeScript is not a language worth learning
@@ -2061,7 +2061,7 @@ Create diagrams in the browser
 Create web apps in JavaScript right from your browser
 Creating Shazam in Java
 Creating a Radial Menu in CSS
-Creative usernames and Spotify account hijacking
+Creative usernames and Spotify account hijacking
 Creator Of The X-Plane Flight Simulator Seeks Help Fighting A Patent Troll
 Creator of "Dirty Jobs" Mike Rowe testifies to Congress
 Creator of xkcd Reveals Secret Backstory of His Epic 3,990-Panel Comic
@@ -2509,7 +2509,7 @@ Drupal 7 Released
 Drupal's Golden Handcuffs
 Dubai on Empty
 Duck Duck Go Passed 1mm Searches Per Day
-DuckDuckGo Architecture - 1 Million Deep Searches a Day and Growing
+DuckDuckGo Architecture - 1 Million Deep Searches a Day and Growing
 DuckDuckGo Challenges Google on Privacy (With a Billboard in San Francisco)
 DuckDuckGo Direct queries per day (28 day average)
 DuckDuckGo Sees Record Traffic After NSA PRISM Scandal
@@ -3629,7 +3629,7 @@ Google Security Team Member on NSA: "Fuck These Guys"
 Google Set to Release iOS Maps App Tonight
 Google Shares Experience of Using Ubuntu in their Offices
 Google Singleton Detector
-Google Spanner's Most Surprising Revelation: NoSQL is Out and NewSQL is In
+Google Spanner's Most Surprising Revelation: NoSQL is Out and NewSQL is In
 Google Starts Censoring BitTorrent, RapidShare and More
 Google Storage Now Available To Developers
 Google Street View Hyperlapses [video]
@@ -4351,7 +4351,7 @@ How To Do A Startup On The Side And Not Lose Your Family
 How To Get Media Coverage For Your Startup: A Complete Guide
 How To GitHub: A Complete Guide to Forking, Branching, Squashing and Pulls
 How To Hire Me (or any other programmer)
-How To Make Trillions Of Dollars
+How To Make Trillions Of Dollars
 How To Make a Quick Buck
 How To Package Your Python Code
 How To Safely Store A Password
@@ -4996,7 +4996,7 @@ Indian Railways, live on Google Maps
 Indian School Girl Creates Washing Machine That Runs Without Electricity
 Indian drug company slashes crucial medicine prices by 76%
 Indiana Jones journal mystery solved
-India’s elites have a ferocious sense of entitlement
+India’s elites have a ferocious sense of entitlement
 Indie iOS Devs Under Legal Fire For Offering In-App Purchases
 Indiegogo fund raises enough money to buy video of Mayor Rob Ford smoking crack
 Induction powered LED lit engagement ring
@@ -5499,7 +5499,7 @@ Kindle MatchBook
 Kindle Touch jail broken via ID3 Tag
 Kindle edition of Effective Programming by Jeff Atwood (Coding Horror) for $0.00
 King Candy Crushes Developers, The Saga
-King.com, makers of Candy Crush Saga – Trademark Trolls with a Double Standard?
+King.com, makers of Candy Crush Saga – Trademark Trolls with a Double Standard?
 Kit Kat's homepage is currently a parody of Android announcement page
 KitKat's new website
 Klout Is Odious
@@ -6545,7 +6545,7 @@ Nate Silver correctly called 50 out of 50 states
 National Suicide Prevention Lifeline
 Natural Language Processing with Python, free online
 Navigating the Postmodern Python World
-Navy sailors have radiation sickness after Japan rescue
+Navy sailors have radiation sickness after Japan rescue
 NeXT Computer
 Neal Stephenson wants to revolutionize sword fighting video games
 Neal Stephenson: Innovation Starvation
@@ -7244,7 +7244,7 @@ Pixar open sources production animation code, patents
 Pixar's Chris Horne Sheds New Light on Monsters University
 Pixar's Library
 Pixar: Getting over embarrassment
-Pixar’s Rules of Storytelling
+Pixar’s Rules of Storytelling
 Pixel Art Tutorial
 Pixel Perfect map of china
 Pixel Shaders: Proposal for an Interactive Introduction to Graphics Programming
@@ -8041,7 +8041,7 @@ Scaling Django to 8 Billion Page Views
 Scaling GitHub
 Scaling GitHub's Employees
 Scaling Mercurial at Facebook
-Scaling Pinterest - From 0 to 10s of Billions of Page Views a Month in Two Years
+Scaling Pinterest - From 0 to 10s of Billions of Page Views a Month in Two Years
 Scaling lessons learned at Dropbox, part 1
 Scaling with MongoDB (or how Urban Airship abandoned it for PostgreSQL)
 Scenes from a militarized America
@@ -8128,7 +8128,7 @@ Sent $10,701.03 to Coinbase. Still missing bitcoins.
 Sent $35,104.11 USD to CoinBase. Never received Bitcoins
 Sequence of Events in the Cockpit on Asiana Flight 214
 Sequoia gives photo-sharing startup more money than they gave Google
-Sergey Brin Calls On Politicians To Abandon Political Parties
+Sergey Brin Calls On Politicians To Abandon Political Parties
 Sergey Brin Demos Google Glass At I/O
 Sergey Brin gives $500,000 to help Wikipedia
 Sergey Brin invests in synthetic beef
@@ -9178,7 +9178,7 @@ Thanks For The Identity Theft, Yahoo
 Thanks HN
 Thanks HN for the Christmas colors and Merry Christmas to you, too
 Thanks for your patience about all the (YC S12)
-Thanks to Quora, now you can’t read anonymously
+Thanks to Quora, now you can’t read anonymously
 That Daily Shower Can Be a Killer
 That Tesla Data: What It Says and What It Doesn’t
 That dev's salary is higher than mine
@@ -9431,7 +9431,7 @@ The Inexplicable War on Lemonade Stands
 The Insane Law That Lets Authorities Read Any Email Over 180 Days Old
 The Insecurity of Secret IT Systems
 The Inside Story of a Small Startup Acquisition
-The Instagram Architecture Facebook Bought for a Cool Billion Dollars
+The Instagram Architecture Facebook Bought for a Cool Billion Dollars
 The Intercept
 The Internet Explorer 6 Countdown
 The Internet Is a Surveillance State
@@ -10013,7 +10013,7 @@ This Bird Can Stay in Flight for Six Months Straight
 This Could be Big: Decentralized Web Standard Under Development by W3C
 This Google ad has moved people to tears across India and Pakistan
 This Guy Has My MacBook
-This Homemade Headphone Amplifier is a Work of Art
+This Homemade Headphone Amplifier is a Work of Art
 This Internet provider pledges to put your privacy first. Always.
 This Is 2016 Not 2012
 This Is All Your App Is: A Collection Of Tiny Details
@@ -10210,7 +10210,7 @@ Try R — A new online course, for free
 Try Ruby
 Try right clicking GitHub's logo
 Try to digest the Groupon story
-Tumblr Architecture - 15B Page Views a Month and Harder to Scale than Twitter
+Tumblr Architecture - 15B Page Views a Month and Harder to Scale than Twitter
 Tumblr's anti-censorship message generated 87,834 phone calls to representatives
 Tune In, Turn On, Drop Out – The Startup Genome Project
 Tupac image performs at Coachella [video]
@@ -10536,7 +10536,7 @@ Very clever story telling using HTML and Javascript...
 Very cool, but very creepy, open source project
 Veteran NYTimes Photographer Arrested & Allegedly Beaten by NYPD
 Veteran developer Steve Lacey (Google, Microsoft) Killed in Auto Accident
-Vi Hart: cramming G+ into YouTube has made comments even worse, I'm leaving
+Vi Hart: cramming G+ into YouTube has made comments even worse, I'm leaving
 ViTunes
 Vice.com Reveals John McAfee's Location In iPhone Metadata
 Vico Editor (Mac text editor)
@@ -11852,7 +11852,7 @@ iOS App Store - Fake Microsoft Word 2012 Approved
 iOS Development Tips If You're Just starting Out
 iOS Libraries
 iOS holding my phone number hostage = the worst bug I’ve ever experienced
-iPad Hack Statement Of Responsibility
+iPad Hack Statement Of Responsibility
 iPad and Linode: 1 Year Later
 iPad mini
 iPhone 5
