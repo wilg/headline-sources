@@ -132,7 +132,7 @@ module HeadlineSources
 
     def format_headline(headline)
       # Override me and call super!
-      headline.gsub(/\r/, " ").gsub(/\n/, " ").chomp.strip.squeeze(" ")
+      headline.gsub(/\r/, " ").gsub(/\n/, " ").gsub(/\u00a0/, ' ').chomp.strip.squeeze(" ")
     end
 
     def write_file
