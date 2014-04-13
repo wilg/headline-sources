@@ -6,6 +6,10 @@ theblaze:
   name: The Blaze
   category: Opinion - Conservative
   default: false
+newsbusters:
+  name: NewsBusters
+  category: Opinion - Conservative
+  default: false
 faith_it:
   name: FaithIt
   category: Opinion - Conservative
@@ -106,9 +110,26 @@ pitchfork:
   name: Pitchfork
   category: Entertainment
   default: true
+# Currently loads too slow
+# billboard:
+#   name: Billboard
+#   category: Entertainment
+#   default: false
+spin:
+  name: Spin
+  category: Entertainment
+  default: false
+thegloss:
+  name: The Gloss
+  category: Misc.
+  default: false
+mommyish:
+  name: Mommyish
+  category: Misc.
+  default: false
 mcsweenys:
   name: McSweeny's
-  category: Hipster
+  category: Misc.
   default: false
 av_club:
   name: The A.V. Club
