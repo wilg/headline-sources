@@ -679,6 +679,7 @@ Airplane Mode
 Airport Security Is Killing Us
 Airport full-body X-ray scanners banned across Europe as unsafe
 Aisle50 (YC S11) is hiring in Chicago
+Akamai release source to their custom secure_malloc for OpenSSL
 Akamai thrives in the spirit of its lost founder
 Akin's Laws of Spacecraft Design
 Al Gore Comes Out Against SOPA/PIPA
@@ -975,6 +976,7 @@ Apple Announces Event on October 4th: Let's Talk iPhone
 Apple Announces Plans to Initiate Dividend and Share Repurchase Program
 Apple Broke My iPhone, and Their Policies Prevent Them from Fixing It
 Apple CarPlay
+Apple Claims Mogenerator's Methods
 Apple Confirms That Its Dev Center Has Been Breached By Hackers
 Apple Dev Center outage
 Apple Developer Center still down
@@ -1123,6 +1125,7 @@ Ask HN: Apart from Hacker News, what else you read?
 Ask HN: Are you alone in San Francisco on Thanksgiving?
 Ask HN: Best book you read in 2011
 Ask HN: Best books you read in 2012
+Ask HN: CTO wants me to leave
 Ask HN: Can we please slow down the stories about Edward Snowden?
 Ask HN: Desperate Python Hacker Seeking Help and Suggestions
 Ask HN: Do you meditate? How/Why?
@@ -1169,6 +1172,7 @@ Ask HN: Is it me or ...?
 Ask HN: Just received an offer for our company, what now?
 Ask HN: Learn Math the Hard Way
 Ask HN: Looking for contributors?
+Ask HN: Math books like SICP?
 Ask HN: My Startup is Going to Die Because I Messed Up
 Ask HN: My wife needs something to do from home to make money...
 Ask HN: Review RentPost.com
@@ -1564,6 +1568,7 @@ Breaking the web with hash-bangs
 Breakup Notifier Shut Down By Facebook
 Brendan Eich Steps Down as Mozilla CEO
 Brendan Eich becomes Mozilla CEO
+Bret Victor's favourite books
 Bret Victor: Learnable Programming
 Brian Harvey: Why SICP matters
 Brick Nintendo before they brick you
@@ -2782,6 +2787,7 @@ Explosion in central Oslo
 Explosions near Boston Marathon finish line
 Exposed Webcam Viewer
 Expunging Google
+Extend Python 2.7 life till 2020
 Extra security measures for next week's releases
 Extracting Audio from Pictures of Gramophone Recordings
 Extreme debugging - a tale of microcode and an oven
@@ -6833,6 +6839,7 @@ Obama Admin Pursuing Executive Order to Enact CISPA-Like Cybersecurity Language
 Obama Announces $2B Fund for Startups
 Obama Calls for Patent Reform to Topple Trolls
 Obama Campaign AWS Infrastructure In One Diagram
+Obama Lets N.S.A. Exploit Some Internet Flaws, Officials Say
 Obama Order Sped Up Wave of Cyberattacks Against Iran
 Obama Promises Disappear from Web
 Obama Wins The Election. Here’s His Technology Agenda.
@@ -7460,6 +7467,7 @@ Projects: hijack (Hijacking the iPhone earphone jack)
 Prominent GitHub Engineer Quits, Alleging Gender-Based Harassment
 Promising HIV vaccine passes phase one human trials with 90% success rate
 Proof Claimed for Deep Connection between Prime Numbers
+Propose HN: Screenshot Saturday
 Proposed new HTML tag: IMG (1993)
 Proposition HN: I will pay $8000 for you to build your side-project/MVP
 Prosecutor as bully
@@ -10176,6 +10184,7 @@ Transcript of meeting between Julian Assange and Google CEO Eric Schmidt
 Transfer of Wikipedia sites from GoDaddy complete
 Transparent Bitcoin Ponzi scheme
 Transporting the CIA A-12 Blackbird to Area 51
+Trapperkeeper is a new Clojure framework for long-running applications, services
 Traveling, Writing and Programming
 Tray.io - powerful email assistant
 Treating Students as Gifted Yields Impressive Academic Results, Study Finds

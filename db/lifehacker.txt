@@ -122,6 +122,7 @@ A Million Things We Loved About 10 Things I Hate About You
 A Minimalist, Integrated Ecosystem: Part 2
 A Night Owl's Guide to More Productive Mornings
 A Pilot Explains How To Avoid Getting Screwed After January 5th
+A Pyramid in the Middle of Nowhere Built To Track the End of the World
 A Scientific Approach to Minimizing Bacon Shrinkage
 A Scientific Guide to the Perfect First Date
 A Seven Step Plan for Effective Brainstorming
@@ -286,6 +287,7 @@ Ask in Advance to Have Hotel Safe and Parking Fees Taken Off Your Bill
 Ask the Wirecutter and Sweethome All About Gift Giving
 Assign Specific Rewards to Each Item on Your To-Do List for Motivation
 Attach Anything Together with Sugru and Magnets
+Attach Bottle Openers to the Bottom of Coasters
 Audible Books, Google Wallet Cards, and Netflix Lists
 Audio Converter Lite Does What You'd Expect in Just a Few Clicks
 Audio Technica Headphones, External Batteries, 1TB Flash Drive [Deals]
@@ -552,6 +554,7 @@ Chrome Brings Search-by-Image to Desktop, New Gestures to Android
 Chrome Extension Downloader Allows Sideloading, Backups of Extensions
 Chrome Update Brings Data Compression, Shortcuts, and Google Translate
 Chrome vs. Firefox: Your Best Arguments
+Chromebleed Notifies You if a Visited Site was Hit by Heartbleed Bug
 Chromecast Adds Ten New Apps Including VEVO, BeyondPod, and Plex
 Cinemark Rewards You for Turning Your Phone Off During the Movie
 Circa News Dishes Out Bite-Sized News Bits to Keep You Up to Date
@@ -577,6 +580,7 @@ Clean Your Watch's Face With Diamond Polishing Compound
 Clean a Rug with Nothing but Snow and Freezing Temperatures
 Clean an Oven with Vinegar and Baking Soda to Avoid Abrasive Cleaners
 Clean and De-Stink Your Garbage Disposal with Lemon and Vinegar Cubes
+Clean the Cord of Window Blinds With a Liquid Pack
 Clean the Grime Between Your Oven's Window with a Hanger
 Clean the Insides of Vases and Bowls with this DIY Magnetic Scrubber
 Clear All Cached App Data At Once on Android
@@ -993,6 +997,7 @@ Five Best Meal Planning Apps
 Five Best Mechanical Keyboards
 Five Best Mobile Hotspots
 Five Best Nexus 7 Cases
+Five Best Personal Finance Tools
 Five Best Personal Project Management Tools
 Five Best Photoshop Alternatives
 Five Best Pre-Paid Cellphone Carriers
@@ -1855,6 +1860,7 @@ Interviewy Simplifies Voice Recording and Transcribing
 Introducing Group Chats, Now On Lifehacker
 Introducing Two Cents: a Lifehacker Blog All About Personal Finance
 Invert Broom Heads to Organize Your Desk
+Invi Richens Text Messages With Link, Photo, YouTube Previews
 Invisible Lock Screen Widget Locks Your Tablet with a Tap
 Is Building a PC Really Cheaper than Buying One?
 Is Frozen Produce Less Nutritious than Fresh?
@@ -2208,6 +2214,7 @@ Microwave Dish Towels in a Ziploc for an Emergency DIY Hot Water Bottle
 Microwave Kale for a Healthy Alternative to Potato Chips
 Migrate Your Data from Evernote to OneNote with This Tool
 Mime-O Beefs Up Android's Clipboard with Dictionary, Send to PC, More
+Mimic Your Boss's Body Language to Build Rapport and Get Ahead
 Mindly Makes Mind Mapping Simple and Beautiful on Small Screens
 Minimum Font Eliminates Small Text from Web Pages
 Minuum Keyboard Leaves Beta, Brings the Tiniest Keyboard to Your Phone
@@ -2879,6 +2886,7 @@ Solayo Streams Soundcloud, YouTube, and Internet Radio Playlists
 Sold Sells Your Unwanted Crap So You Don't Have To
 Some Google services are currently experiencing an outage. Gmail, H...
 Some White Bread Can Be Nearly as Healthy as Wheat Bread
+Someone Asked Harrison Ford Who Shot First
 Sometimes Disorganization Can Lead to Better Creativity
 Sony RX10 Review: A First-Rate Camera With a Do-It-All Lens
 Sony RX100, Your Choice Of Bluetooth Headphones [Deals]
@@ -3842,6 +3850,7 @@ Use the Rule of 300 to Quickly Estimate of How Much You Need to Retire
 Use the Science of Stretching to Decide If You Need to Do It
 Use the Two Minute Rule to Stop Procrastinating and Get Things Done
 Use the “25 Percent” Strategy for Simple Budgeting
+Use the “Three Whats” Technique to Structure Your Presentations
 Using Your Smartphone at Night Can Wreck Your Productivity Tomorrow
 Utilize the "Power of the Chunk" to Avoid Frivolous Spending
 VLC Adds Better Porting to Mobile, A Dozen New Codecs, and More

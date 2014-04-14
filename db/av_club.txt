@@ -8099,6 +8099,7 @@ Doctor Who: "The Shakespeare Code"/"Gridlock"
 Doctor Who: "The Time Of The Doctor"
 Doctor Who: “A Town Called Mercy”
 Doctor Who: “Asylum Of The Daleks”
+Doctor Who: “Blink”/“Utopia”
 Doctor Who: “Closing Time”
 Doctor Who: “Cold War”
 Doctor Who: “Dinosaurs On A Spaceship”
@@ -24099,6 +24100,7 @@ Saturday Night Live: "Paul Rudd/Paul McCartney"
 Saturday Night Live: "Robert De Niro/Diddy-Dirty Money"
 Saturday Night Live: "Russell Brand/Chris Brown"
 Saturday Night Live: "Scarlett Johansson/Arcade Fire"
+Saturday Night Live: "Seth Rogen/Ed Sheeran"
 Saturday Night Live: "Tina Fey/Ellie Goulding"
 Saturday Night Live: "Zach Galifianakis/Jessie J"
 Saturday Night Live: Backstage
@@ -30212,6 +30214,7 @@ The Simpsons (Classic): “Sideshow Bob Roberts”
 The Simpsons (Classic): “So It’s Come To This: A Simpsons Clip Show”
 The Simpsons (Classic): “Springfield (Or, How I Learned To Stop Worrying And Love Legalized Gambling)”
 The Simpsons (Classic): “Sweet Seymour Skinner’s Baadasssss Song”
+The Simpsons (Classic): “Team Homer”
 The Simpsons (Classic): “The Boy Who Knew Too Much”
 The Simpsons (Classic): “The Front”
 The Simpsons (Classic): “The Last Temptation Of Homer”
@@ -34618,6 +34621,7 @@ We're gonna put some Anchorman 2 celebrity cameo news out there; if you like it,
 We're launching a short-film contest with a top prize of $10k
 We're live-chatting the Academy Awards
 We're live-chatting the Grammy Awards
+We're live-chatting the MTV Movie Awards red carpet
 We're live-chatting the MTV Movie Awards red carpet this Sunday
 We're live-tweeting the Emmys
 We've finally gotten around to adding that Young Justice coverage you asked for a year ago. You're welcome
@@ -35342,6 +35346,7 @@ Who was the man behind The Scream?
 Who was your first pop culture crush?
 Who was your pop-culture mentor?
 Who watches the Heroes of Cosplay? Cosplayers, for starters
+Who will walk through doorways during the first half of Mad Men’s final season?
 Who will win, and who should win, at the Oscars this Sunday
 Who writes movies like Mega Shark Vs. Mecha Shark?
 Who's HIMYM's Slutty Pumpkin? You'll find out tonight and likely be disappointed
