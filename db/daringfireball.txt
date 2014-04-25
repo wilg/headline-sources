@@ -380,6 +380,7 @@ A Toot and a Snore
 A Touch of Cocoa: Inside the iPhone SDK
 A Tour of Microsoft’s Mac Lab
 A Trick That Lets You Hide – But Not Use – iOS 5 Newsstand in a Folder
+A Twitter Grammar Question
 A Two-Year-Old Smoking
 A Venture Capital Partnership for Google Glass Apps
 A Very Mild Defense of In-App Purchases
@@ -936,6 +937,7 @@ Amazon Forbidding Mobile Apps From Using Its Data
 Amazon Founder Says He Clicked on Washington Post by Mistake
 Amazon Free App of the Day
 Amazon Frustration-Free Packaging
+Amazon Gets Rights to Stream Old HBO Shows
 Amazon Has Sold ‘Millions’ of New Kindles This Quarter
 Amazon Hires the Aptly-Named Charlie Kindel
 Amazon Hiring Web Browser Developers
@@ -1831,6 +1833,7 @@ Apple Reports Record Third Quarter Results
 Apple Reports Record-Breaking Fourth Quarter Results
 Apple Reports Record-Shattering Fourth Quarter Results
 Apple Reports Second Quarter Results
+Apple Reports Second-Quarter Earnings
 Apple Reports Third Quarter Results
 Apple Repurchases $14 Billion of Own Shares in 2 Weeks
 Apple Resigns From Chamber of Commerce Over Emission Regulations
@@ -2013,6 +2016,7 @@ Apple at CES?
 Apple iPad
 Apple iPhone
 Apple iPhone 3GS Disappoints
+Apple on Environmental Responsibility
 Apple to Acquire Color Engineering Staff
 Apple to Allow Subscription-Based Gaming on App Store
 Apple to Buy Fingerprint Sensor Maker AuthenTec for $356 Million
@@ -2057,6 +2061,7 @@ Apple, Google, and the Map Wars
 Apple, News Corp to Hold Event to Launch The Daily
 Apple, News Corp. Delay ‘The Daily’ iPad Publication
 Apple, Open, and Learning From History
+Apple, Samsung, and Intel
 Apple, With 4 Percent of Handset Market, Captures 52 Percent of Profits
 Apple, a Success at Stores, Bets Big on Fifth Avenue
 Apple, as Always, Is Doomed
@@ -2271,6 +2276,7 @@ Apple’s ‘Post-PC’ World
 Apple’s ‘Smartphone Antenna Performance’ Page
 Application Upgrade Allows User To Achieve Nirvana
 Appmodo: Official AT&T iPhone Tethering to Cost $55 Per Month
+Appreciating Albert Pujols
 Apps Are the New Apps
 Apps That Move Themselves to the Applications Folder
 Apps for Water
@@ -2488,6 +2494,7 @@ BBEdit Embed Tag Converter
 BBEdit PHP Function Parameter Auto Complete
 BBEdit vs. TextMate
 BBM Server Takes a BM
+BGR on Amazon’s Upcoming Smartphone
 BGR: AT&T Retail Managers Order Staff to Slow iPhone Sales
 BGR: ‘Apple Will Remove Home Button on Next iPad and iPhone’
 BP Chairman Says Firm Cares About ‘The Small People’
@@ -2600,6 +2607,7 @@ Bearskinrug: ‘The Swap Meat Scrapbook’
 Beast — Ruby on Rails Forum Software
 Beastie Boys Co-Founder Adam Yauch Dead at 47
 Beastie Boys’ Flickr Account
+Beats Music Starts Selling In-App Subscriptions on iOS
 Beautiful Pixels on Vesper
 Beautiful Text on iOS
 Beauty, Truth, and Jony Ive
@@ -2897,8 +2905,10 @@ Bloomberg: Apple Fired Maps Manager
 Bloomberg: Apple Negotiating With Publishers Over Digital Newsstand
 Bloomberg: Apple Preparing New 99-Cent TV Show Rental Service
 Bloomberg: Apple Said to Have Approached Blackstone’s Laurence Tosi to Becoming CFO
+Bloomberg: Apple to Bake Shazam Song Recognition Into iOS 8
 Bloomberg: Comcast Is Already Violating Conditions of NBCU Merger
 Bloomberg: HP to Spin Off PC Business
+Bloomberg: How Americans Die
 Bloomberg: JPMorgan Testing iPhone and Android as BlackBerry Alternatives
 Bloomberg: Jeff Robbin Working on Next-Gen TV Project at Apple
 Bloomberg: Microsoft and HTC Are on the Outs
@@ -3047,6 +3057,7 @@ Breaking the Web With Hash-Bangs
 Breen on the Media’s Perception of Apple
 Brendan Dawes’s ‘2001’ Cinema Redux Poster at the CP Swap Meat
 Brent Simmons on Bloglines Web Services
+Brent Simmons on Build 2014
 Brent Simmons on Mail’s New Toolbar
 Brent Simmons on NetNewsWire
 Brent Simmons on NetNewsWire 3.1’s Release as Freeware
@@ -3301,6 +3312,7 @@ CNet on ‘Ultrabooks’
 CNet: Apple to Ditch IBM, Switch to Intel Chips
 CNet: Journalist Shield Law May Not Halt iPhone Probe
 CNet: Lost iPhone Prototype Spurs Police Probe
+CNet: Nike Fires FuelBand Engineering Team; Set to Exit Wearable Hardware Market
 CNet: The Inside Story of How Microsoft Killed Its Courier Tablet
 CNet: ‘Acer $400 “PC” Will Run Android’
 CNet: ‘Google Music Not Living Up to Expectations’
@@ -3620,6 +3632,7 @@ Chris Pirillo’s Microsoft Surface Review
 Chris Rawson of TUAW on 9to5 Mac’s 2013 Rumor Reporting
 Chris Rawson on Siri’s Purported ‘Pro-Life’ Bias
 Chris Ware Animation for ‘This American Life’
+Chris Ware on Apple
 Chris Ware’s Rejected Fortune Cover
 Chris Ware’s Thanksgiving Covers for The New Yorker
 Chris Ziegler’s Motorola Cliq Review
@@ -4712,6 +4725,7 @@ Did You Know Apple Pre-Announced Its iPad Sales?
 Did the Bottom Drop Out on Blackberry Average Selling Price?
 Diebold Spokesman Dismisses Gaping Security Flaw in Voting Machines
 Diet Coda
+Dieter Bohn of The Verge Profiles Project Ara, Google’s Modular Phone Project
 Dieter Bohn’s Palm Pre Review for PreCentral
 Differences Between Google Update Engine and Sparkle
 Differences Between Mac XML Feed Readers
@@ -5427,6 +5441,7 @@ FCC Documents Reveal iPhone Innards
 FCC Hits Google With $25,000 Fine Over StreetView Wi-Fi Spying
 FCC May Force Mobile Carriers to Warn Users Before Charging Overage Fees
 FCC Opens Inquiry of Apple’s Ban of Google Voice Apps for iPhone
+FCC, in ‘Net Neutrality’ Turnaround, Plans to Allow Fast Lane
 FCC: We Didn’t Impose Stricter Net Neutrality Regulations on Wireless Because Android Is Open
 FDA Orders 23andMe to Halt Sales of DNA Tests
 FDX Reader
@@ -6235,6 +6250,7 @@ Gawker: ‘Patriots Triumph in Boston Globe’s Sad Fantasy World’
 Gdgt’s Downloadable Chrome OS VMware Image
 Gears for Safari Requires Input Manager Hack
 Geek Patrol Interview with Arlo Rose
+GeekTime: ‘Apple Smart Watch Is Not So Much a Watch as It Is a Smart Band’
 Geekbench Performance Results From the G3 to the Xeon
 Gems From the Archive of the New York Times
 Gems for iPhone
@@ -6868,6 +6884,7 @@ Great Basin: The Stars and Their Courses
 Great Comment Thread on Shipley’s ‘Frozen in Carbonite’
 Great Example
 Great Last-Minute Gift Idea
+Great Moments in Vic Gundotra History
 Great New Yorker Cover by Bob Staake
 Great Olympic Moments on YouTube
 Great Web Site, Pixar
@@ -6884,6 +6901,7 @@ Greenpeace and Apple, Sitting in a Tree
 Greenpeace ‘Recycles’ JavaScript From Apple.com
 Greenspun on Internet Software Patents
 Greenspun on the Motorola Xoom
+Greg Christie on the Creation of the Original iPhone
 Greg Knauss on Mozilla’s Ersatz UI Chrome
 Greg Knauss: ‘The Days of Miracles and Wonder’
 Greg Kumparak Compares the iPhone 3GS and Motorola Droid
@@ -8359,6 +8377,7 @@ Jason Snell Reviews the New MacBook Air Models
 Jason Snell Reviews the New iPod
 Jason Snell on Apple TV 3.0
 Jason Snell on Apple and Macworld Expo
+Jason Snell on Apple and Wearables
 Jason Snell on Apple’s Changes to In-App Purchasing
 Jason Snell on Apple’s Great Quarterly Results
 Jason Snell on Google’s Nexus One
@@ -8498,6 +8517,7 @@ Jesus Diaz, One Year Ago: ‘Microsoft Surface Just Made the MacBook Air and the
 Jesus ⌘S’s
 JetBlue Flight Attendant Pops Open Plane Chute at JFK, Slides Away
 JetBlue’s Twitter Account
+JetPens
 JetPens — Japanese Pens and Stationery
 Jewelboxing: A Rebate Without Those Damn Response Cards
 JiWire Wi-Fi Finder for iPhone
@@ -8894,6 +8914,7 @@ Justin Long Says ‘Get a Mac’ Might Be Done
 Justin Van Genderen’s Minimalist Star Wars Tourism Posters
 Justin Williams Reviews the Das Keyboard for Mac
 Justin Williams on Android and the Nexus One
+Justin Williams on Build 2014
 Justin Williams on Pull-to-Refresh
 Justin Williams on Twitter’s Dickbar
 Justin Williams on Windows Phone 7
@@ -9260,6 +9281,7 @@ Laying It All Out
 Layoffs Coming to Microsoft?
 Layoffs at Stealth Payment Startup Clinkle
 Layoffs at Yahoo
+Layout in Flipboard for Web and Windows
 Layton Duncan: ‘The Emperor’s New Clothes’
 LazyChat
 Lazyweb: Even Cheaper Than Overseas Outsourcing
@@ -9320,6 +9342,7 @@ Lenovo U300s Ultraportable Laptop
 Lenovo to Release Dual-Screen ThinkPad
 Lenovo: Design Matters Weblog
 Lenovo’s 27-Inch Tablet
+Lens Blur in the New Google Camera App
 Leo Laporte Calls Mike Arrington an Asshole
 LeoColorBar
 Leonard Lin on Two Months With the Palm Pre
@@ -10320,6 +10343,7 @@ Matt Taibbi’s Advice to the Occupy Wall Street Protesters
 Matthew Baldwin’s List of Mindfuck Movies
 Matthew Baxter-Reynolds on the Windows 8 Experience: ‘Confusing. Confusing as Hell.’
 Matthew Bischoff on Software Criticism and the NYT’s ‘Today’s Paper’
+Matthew Carter: ‘My Life in Typefaces’
 Matthew Lynn, Columnist for Bloomberg: ‘Apple iPhone Will Fail in a Late, Defensive Move’
 Matthew Modine in The Loop Magazine
 Matthew Panzarino Reviews the Nokia Lumia 800
@@ -10829,6 +10853,7 @@ Misscrolling
 Missing Sync for BlackBerry Preview Released
 Missing the Point
 Missing the Point of WikiLeaks
+Misunderstanding Innovation
 Mitchell Report on Steroids in MLB Implicates Top Players, Including Roger Clemens
 Mitchell and Webb
 Mixed AppleScript Signals
@@ -12025,6 +12050,7 @@ OS X
 OS X 10.8 Mountain Lion, the Little Details
 OS X @2X
 OS X Battery Life Analysis From Snow Leopard to Mountain Lion
+OS X Beta Seed Program
 OS X Lion Server on the Mac App Store
 OS X Mountain Lion Update 10.8.3
 Obama Administration Vetoes ITC Ban on Apple Products
@@ -12221,6 +12247,7 @@ On Twitter
 On Unit Testing
 On WWDC Now Being ‘Broken’
 On Working for Bertrand Serlet
+On Yahoo’s Chances of Replacing Google as the Default Web Search on iOS
 On iPads, Grandmas and Game-Changing
 On the App Store
 On the App Store and Free Markets
@@ -12237,6 +12264,7 @@ On the Impracticality of a Cheeseburger
 On the Intertwinement of Design and Engineering
 On the Lack of Referral Information From Twitter Links
 On the Lack of User-Choosable Default Apps in iOS
+On the Leveling-Off of iPad Sales
 On the Origins of the ‘Sosumi’ Alert Sound
 On the Other Side: Serenity Caldwell
 On the Perfect Size for a Pizza
@@ -12835,6 +12863,7 @@ Photographer Peter Belanger on Shooting for Apple
 Photographs Before and During Benazir Bhutto’s Assassination
 Photographs From Inside a Chinese Toy Factory
 Photographs of Destroyed Apple Products
+Photographs of Golf Balls Cut in Half
 Photographs of Old Computers
 Photographs of Vintage Computers
 Photolettering
@@ -14112,6 +14141,7 @@ Samsung Investigating Alleged Child Labor Abuse at Chinese Factory
 Samsung Jabs iPhone’s Retina Display, Says AMOLED Wins
 Samsung Launches Galaxy S4
 Samsung Launches Series 7 Aluminum Laptops
+Samsung Launches Website Highlighting ‘Meaningful’ Design
 Samsung Lawyers Supplied Executives With Highly Confidential Apple-Nokia License Agreement
 Samsung Loses $10 Billion in Market Value After DigiTimes Reports Apple Is Ordering DRAM From a Competitor
 Samsung Misled Investors About 2011 Galaxy Tab Sales
@@ -14190,6 +14220,7 @@ Save $50 on Aperture at Amazon
 Save Boston
 Save Publishing
 Save Sheet Shortcuts in Lion
+Save the Internet
 Saving ‘You Bet Your Life’
 Say Goodbye to the iPod Classic?
 Say Hello to Web Standards
@@ -14263,6 +14294,7 @@ Screenplay for ‘The Darjeeling Limited’
 Screens 1.0 — VNC Client for iPad and iPhone
 Screens 2.0
 Screens 3.0
+Screens 3.0 for Mac
 Screens Around Town: Moo.com Flickr MiniCards
 Screenshot Helper
 Screenshot Journal
@@ -14553,6 +14585,7 @@ Siracusa: Aperture Ascendant
 Siracusa’s Mac OS X 10.4 Magnum Opus
 Siracusa’s Review of OS X 10.9 Mavericks
 Siri Argument
+Siri Honors Jackie Robinson
 Siri Is Apple’s Broken Promise
 Siri Learns How to Pronounce Names in iOS 7
 Siri Response Times
@@ -15908,6 +15941,7 @@ The Decemberists’ ‘O Valencia’ Video
 The Deck
 The Deck Readership Survey
 The Deck: A Nice Marketing Strategy
+The Decline of Compact Cameras
 The Decline of WWDC
 The Default Narrative
 The Definition of Insanity
@@ -16133,6 +16167,7 @@ The Integrated iPad News Daily
 The Interarchy Fire Sale
 The Internet: A Mob Without Consequence
 The Intersection of Cool and Awesome
+The Invention of the AeroPress
 The Invisible: ‘A Piece With a Lot of Screenshots About the Close Tab Behaviour in Google Chrome’
 The Iowa Scam
 The Irrelevance of Microsoft
@@ -16776,6 +16811,7 @@ The Unlikely Persistence of AppleScript
 The Unofficial 5by5 Soundboard
 The Untold Story Behind Apple’s $13,000 Operating System
 The Upper Limit on Third-Party iPhone Apps: Five
+The Upshot on Apple’s Stock Split
 The Upside Down Apple Logo
 The User Experience Flip Mode
 The Value of Keeping an Open Mind
@@ -17020,6 +17056,7 @@ This Should Keep Redmond Busy
 This Supposed Apple-Rogers ‘Spat’ Smells Like Bullshit to Me
 This Technique Certainly Makes Product Reviews Easier
 This ViewSonic ViewPad Thing Just Keeps Getting Funnier
+This Week on The Talk Show: Mark Gurman
 This Week, in Ketchup-Bottle Technology News
 This Week’s Cover of The Stranger
 This Week’s Edition of ‘Stupid Stuff Analysts Say About Apple’
@@ -17557,6 +17594,7 @@ Typedia: A Shared Encyclopedia of Typefaces
 Typeface Designers Wrestle With the World of Pixels
 Typeface Review: Apple Color Emoji
 Typekit
+Typekit Practice
 Typeset in the Future: ‘2001: A Space Odyssey’
 Typeset in the Future: ‘Moon’
 Typetester
@@ -17928,6 +17966,7 @@ Vesting Time
 Via
 Viacom Asks YouTube to Remove 100,000 Clips
 Vic Flick’s Riff
+Vic Gundotra Leaving Google
 Vic Gundotra’s Paean to Android’s Openness at Google I/O 2010
 Vice Magazine Interviews Berkeley Breathed
 Victory Lap for Ask Patents
@@ -18118,6 +18157,7 @@ WSJ: ‘Google Designing “X Phone” to Rival Apple, Samsung’
 WSJ: ‘Google to Start Selling Own Phone Without Wireless Partner by Next Year’
 WSJ: ‘Microsoft Nears $7 Billion-Plus Deal for Skype’
 WSJ: ‘Microsoft to Shake Up Entertainment Group’
+WSJ: ‘Mobile-Payments Startup Square Discusses Possible Sale’
 WSJ: ‘Nokia Prepares to Release Android Phone Ahead of Sale to Microsoft’
 WSJ: ‘Research in Motion Says Its New BlackBerry 10 Smartphone Won’t Be Released Until First-Quarter 2013’
 WSJ’s Lame Entry in the iPhone Rumors Game
@@ -18492,6 +18532,7 @@ What’s New in Android 2.3
 What’s New in Aperture 3
 What’s New in JavaScript 1.7
 What’s New in Python 2.5
+What’s New in Tumult Hype 2.5
 What’s New in iOS 4.1
 What’s New in iPhone OS 2.2
 What’s New in iTunes 4.8
@@ -18533,6 +18574,7 @@ When Shortening ‘Synchronize’, Best Leave Off the ‘h’
 When You Are Your Own Client, Who Are You Going to Make Fun of at the Bar?
 When You Should Give Your Android Phone a Factory Reset
 When a (Partial) Tweet Becomes an Ad, What Are the Rules?
+When a Committee Builds a Smartphone
 When the Bough Breaks
 When the Boy Cries Wolf
 When the Fall Is All That’s Left
@@ -18575,6 +18617,7 @@ While We’re Talking About iPhone/Android Market Share Numbers
 While the Cat’s Away, the Mice Shall Play
 White House Forces State Department Spokesman to Resign for Condemning Abuse of Private Manning
 White House Joins SOPA Opposition
+White House Petition on Net Neutrality
 White House Supports Legalizing Unlocking Cell Phones
 White Out
 White Sox Pitcher Mark Buehrle Throws Perfect Game
@@ -19463,6 +19506,7 @@ iOS 6 Shutdown Spinner Is Finally Retina Resolution
 iOS 6.1 Released
 iOS 7 Accessibility Improvements for Switch Users
 iOS 7 Beta 4 Contains References to Fingerprint Scanner in Home Button
+iOS 7 Tint Color Misuse
 iOS 7 Tip: ‘Short Name’ Settings for Display in Messages and Mail
 iOS 7 and Motion Sickness
 iOS 7 and the Iconography of ‘Alien’
@@ -19471,6 +19515,7 @@ iOS 7 ‘UX Critique’
 iOS 7.0.6
 iOS 7.1 Lands With CarPlay, Improved Fingerprint Scanner
 iOS 7.1 and the iTunes Festival at SXSW
+iOS 7.1.1 Now Labels Apps With ‘In-App Purchases’ in Top Charts and Featured Sections
 iOS 7: Instead of Flatness, We Got Depth
 iOS 7: The Pixel Envy Review
 iOS Address Book Access Should Prompt the User for Permission
@@ -20203,6 +20248,7 @@ yDSF - Robust CSS Drop Shadows
 ‘Fabricado no Brasil’
 ‘Facebook Creeps Me Out’
 ‘Facebook Login’
+‘Far, Far Away From Your Parents’
 ‘Finally’
 ‘Finally’ Actually Fits Here
 ‘Find My iPhone’ Rescues Two Stolen Phones at Busch Gardens
@@ -20275,6 +20321,7 @@ yDSF - Robust CSS Drop Shadows
 ‘He Now Praises the iPad’
 ‘He Was a Very Affectionate Dad, Who Could Solve All Your Problems, and When He Died Our Protective Umbrella Was Gone.’
 ‘Head-Turningly Less’
+‘Heads or Tails’
 ‘Heart of a Gambler’
 ‘Hello, I’m Macintosh.’
 ‘Hello, I’m a Mac. And I’m a Cheapskate.’
@@ -20301,6 +20348,7 @@ yDSF - Robust CSS Drop Shadows
 ‘How Come Aperture Gets to Have All the Fun?’
 ‘How Do You Hold Your Nokia?’
 ‘How I Sued a Craigslist Sex Troll’
+‘How Much for the Drums?’
 ‘How People Really Use the iPhone’
 ‘How a Broker Spent $520 Million in a Drunken Stupor and Moved the Global Oil Price’
 ‘How to Count’
@@ -20400,6 +20448,7 @@ yDSF - Robust CSS Drop Shadows
 ‘It’s Not Me Sitting at a Desk With a Calculator’
 ‘It’s Time for Us to Start Making the News a Little Nerdier’
 ‘It’s Too Steven Seagal, Not Steve McQueen Enough’
+‘It’s a 0.1 Update That Feels Like a 2.0 Update’
 ‘It’s a Key-Logger’
 ‘It’s a Medium, Not a Grande’
 ‘It’s a Twinge in Your Heart Far More Powerful Than Memory Alone’
@@ -20737,6 +20786,7 @@ yDSF - Robust CSS Drop Shadows
 ‘The Ones That Win Are the Ones That Ship’
 ‘The Other Direction’
 ‘The Paradox of Choice’
+‘The Pinnacle of Fitness Failure: Samsung’s Gear Fit Activity Tracker’
 ‘The Possibilities Are Calling’
 ‘The Process Is Really Just Iterate, Iterate, Iterate’
 ‘The Product Has Not Been Sold’

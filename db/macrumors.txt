@@ -612,6 +612,7 @@ A Reminder to Backup...
 A Variety of iPhone 4S High Definition Sample Videos
 A Webkit-based Platform?
 A new mac emulation site
+A&E, History Channel, and Lifetime Channels Added to Apple TV
 A5 Chip in Tweaked Apple TV Still Manufactured by Samsung at 32nm
 A5X Chip Floorplan Reveals Significant Space Required for Quad-Core Graphics
 A6-Based Apple Television to Come in Three Sizes Ranging from 32 to 55 Inches?
@@ -1095,11 +1096,14 @@ Alleged Photo of USB Cable with Smaller Dock Connector Surfaces
 Alleged Photos of Apple's New Dock Connector
 Alleged iOS Security Flaw Enables Malicious Apps to Secretly Log User Touch Inputs
 Alleged iPad 5 Front Bezel Photos Show Narrower iPad Mini-Like Sides
+Alleged iPad Air 2 Front Panel with Integrated Display Shown in New Photos
 Alleged iPhone 5S Batteries Photographed on Production Line
 Alleged iPhone 5S Home Button, Vibrator and Volume/Mute Flex Cable Parts Surface
 Alleged iPhone 5S User Guide Photo Highlights Fingerprint Sensor As 'Touch ID'
+Alleged iPhone 6 Batteries Photographed in Production Tray
 Alleged iPhone 6 Cases Surface, Apparently Based on Recent Design Drawings
 Alleged iPhone 6 Prototype Depicted in New Images
+Alpine Planning to Release Aftermarket CarPlay Console This Fall
 Alternate Icons on iOS 7 Website Likely Old Marketing Material
 Alternative Browsers... for OS X
 Alternative Email Client Sparrow Acquired by Google
@@ -1182,6 +1186,7 @@ Amazon's Fire TV Looks A Lot Like the Rumored Apple TV Update
 Amazon's German Site Notes October 20th iLife Ship Date [Updated x2]
 Amazon's New Mac Download Store Takes On Apple's Mac App Store
 Amazon's Set-Top Box Competitor to Apple TV and Roku Launching Before Holidays
+Amazon's Smartphone with 3D Capabilities Revealed in New Photos
 Amazon, Pepsi and Sony; Netflix Streaming
 AmbitiousLemon.com
 Ambrosia Eats Live Bugs at MacWorld!
@@ -1263,6 +1268,7 @@ Analysts Increasing Estimates Ahead of Apple Earnings Release
 Analysts Look Toward $1000 Share Price, $1 Trillion Market Cap for Apple
 Analysts Predict Apple Earnings
 Analysts Predict Apple Will Report Single-Digit Earnings Growth in 1Q 2014
+Analysts Predict Q2 2014 Decline in iPad Sales, Slight Increase in iPhone Sales
 Analysts See iPhone 4S Supply Constraints Throughout Holiday Quarter
 Analysts Weigh In Ahead of Apple Media Event
 Analysts: iPhone Trademark Dispute Likely To Be Resolved Quickly
@@ -1287,6 +1293,7 @@ Android and iPhone Own Nearly The Entire U.S. Smartphone Market
 Android's Uncurated App Marketplace Draws Criticism, Google Activates 'Kill Switch' on Two Apps
 Android-Based Tablet Spotted Running Flash
 Andy Ihnatko: Hands on with iPhone
+Angela Ahrendts May Delay Apple Start Until Mid-Year
 Anki Drive AI-Controlled Cars Will Be Available on October 23 for $199
 Annual 'Lucky Bags' Coming to Japanese Apple Stores on January 2
 Anonymized Siri Voice Clips Stored by Apple for Up to Two Years
@@ -1294,6 +1301,7 @@ Anonymous Samsung Executive Claims Apple Planning to Launch Smaller iPad by End 
 Another 10.4.9 Build (8P132/8P2132)
 Another AMD Graphics Executive Headed to Apple?
 Another Alleged Image of the Low-Cost iPhone Rear Shell Surfaces
+Another Alleged iPhone 6 Case Surfaces with Cutouts for Moved Power Button, New Volume Controls
 Another Apple 1 Headed to Auction with $125,000 Estimate
 Another Apple Retail Store Opening This Saturday in Glasgow
 Another Buried Apple Trademark - 'iGuide' as Another Name or Service for iSlate?
@@ -1445,6 +1453,7 @@ Apple Acknowledges iMac Freezing Issue, Fix In Works
 Apple Acknowledges iMessage and FaceTime Outage [Now Back Up]
 Apple Acknowledges iOS 6.1 Passcode Bug, Fix Coming in Future Software Update
 Apple Acquired 'Lightning' Trademark from Harley-Davidson
+Apple Acquired 24 Companies Over Last 18 Months, 'We're On The Prowl' for More
 Apple Acquired Imsense Ltd for HDR Capabilities in iOS 4.1 [Updated]
 Apple Acquired Lala Music Service to Shut Down May 31st
 Apple Acquired Mapping Company Placebase in July
@@ -1572,6 +1581,7 @@ Apple Airs New AirPlay and FaceTime iPhone Ads
 Apple Airs New iPhone TV Ads Featuring Samuel L. Jackson and Zooey Deschanel [Updated]
 Apple Airs Two New iPad Mini Television Ads, 'Photos' and 'Books'
 Apple Allowed Developers to Test a Prerelease Mac Pro Hidden Inside a Metal Box
+Apple Allowing Non-Developers to Apply for OS X Beta Program
 Apple Allowing Select Employees to Devote Time to Special Projects [Updated]
 Apple Allows 3rd Party Web Browsers into App Store
 Apple Allows Camera+ Back onto App Store After 4 Month Removal
@@ -1872,6 +1882,7 @@ Apple CEO Tim Cook Visits Headquarters of Video Game Firm Valve
 Apple CEO Tim Cook Writes Op-Ed in Support of U.S. Employment Nondiscrimination Act
 Apple CEO Tim Cook and CFO Peter Oppenheimer Testify In Front of Senate Committee on Tax Strategies [Hearing Over]
 Apple CEO Tim Cook as Steve Jobs' Replacement
+Apple CEO Tim Cook: It 'Means More to Us to Get it Right' Than to Be First
 Apple CFO Peter Oppenheimer Speaks About Apple Campus 2 at Cupertino Press Conference
 Apple CFO Peter Oppenheimer: Apple to Have 'Very Busy Fall'
 Apple COO Discusses iPhone Exclusivity, SDK, and Unlocking
@@ -1988,6 +1999,7 @@ Apple Continues Building iWork Team, Adds New Job Listings
 Apple Continues Hiring for Oregon Data Center as Solar Farm Plans Take Shape
 Apple Continues Mac OS X 10.5.3 (9d27) Development
 Apple Continues Mac OS X 10.5.5 Seeding (9F32)
+Apple Continues Pursuing Mobile Payment Solution, Seeking to Hire Industry Executives
 Apple Continues Rolling Out iWork for iCloud Beta Invites
 Apple Continues Sending Cease and Desist Letters Regarding 'App Store' Usage
 Apple Continues Work on First Leopard Update (10.5.1 Build 9B16)
@@ -2043,6 +2055,7 @@ Apple Debuts Chinese Online Store, Chinese Language App Store
 Apple Debuts FaceTime for the Mac, Beta Available Today
 Apple Debuts Four New FaceTime Ads
 Apple Debuts New 'Life on iPad' Webpage, Documenting Ways iPad Improves People's Lives
+Apple Debuts New 'Powerful' TV Ad Focusing on iPhone 5s [Updated]
 Apple Debuts New Apple TV and iTunes Movie Content in Japan
 Apple Debuts New Poetry-Themed 'Your Verse' iPad TV Ad
 Apple Debuts Second-Generation iPad Mini with Retina Display
@@ -2274,6 +2287,7 @@ Apple Expresses Interest in 'Kinect-Like' Control of Appliances and Vehicles
 Apple Expressing Frustration as Tax Incentives for Austin Expansion Remain in Limbo
 Apple Extending Facebook Integration to iPhone OS?
 Apple Extending Trademark to Include Handheld Gaming
+Apple Extends Company's Trademark to Include 'Jewelry and Watches'
 Apple Extends Deadline for Sandboxing of Mac App Store Apps to June 1
 Apple Extends New TV Ad Campaign to iPhone With 'Brilliant' and 'Discover' Spots
 Apple Extends Non-Disclosure to App Store Rejection Letters
@@ -2331,6 +2345,7 @@ Apple Finishing Up Work on an Ultra-Thin 15" Mac Notebook [Updated]
 Apple Fires Manager Responsible for Maps as Eddy Cue Turns to Outsiders for Help
 Apple Firmware Updates
 Apple Fixes Australian Map Error That Caused Police Warning, Issue Traced to Official Gazetteer
+Apple Fixes FaceTime on Older Versions of OS X, iOS 6 Still Not Working
 Apple Fixes Keyboard Freezing on MacBook and MacBook Pros
 Apple Fixes iOS PDF Security Hole With iOS 4.0.2 and 3.2.2
 Apple Flash-Booting MacBooks?
@@ -2402,6 +2417,7 @@ Apple Highlighting iPhone 5s and iPhone 5c Reviews by Tech and Mainstream Press
 Apple Highlights 'iPad-Ready' Web Content
 Apple Highlights Low Fragmentation Among iOS Devices in Direct Jab at Android
 Apple Highlights New Apple TV 6.0 'Touch Setup' Feature in Support Document
+Apple Highlights Video Detailing Environmental Friendliness of Campus 2 Project
 Apple Highlights iOS 7 Features for Business and Education Users
 Apple Highlights iPhone Enterprise Interest
 Apple Hints at Future Turn-by-Turn GPS Directions With Traffic for iPhone
@@ -2591,6 +2607,7 @@ Apple Launches $999 iMac for Educational Institutions
 Apple Launches '1 Billion App Countdown' Promotion
 Apple Launches '10 Billion App Countdown' Contest
 Apple Launches 'Back to School' Promo: Free iPod With Mac Purchase for Students
+Apple Launches 'Better' Environmental Campaign, Shares Glimpse of New Nevada Data Center
 Apple Launches 'Free App of the Week' and 'Editors' Choice' Promotions on App Store
 Apple Launches 'iAd Producer' Tool
 Apple Launches 128 GB iPad with 1-3 Day Shipping
@@ -2653,6 +2670,7 @@ Apple Laying Groundwork for Advanced Mobile Web Apps?
 Apple Leads Digitial Music Downloads
 Apple Leaps to #6 in Latest Fortune 500 Rankings
 Apple Leases Major New Office Campus in Cupertino to Support Continued Growth
+Apple Leaves Users Vulnerable By Not Fixing iOS and OS X Security Issues Simultaneously
 Apple Legal Demanded Microsoft Stop Laptop Hunters Ads
 Apple Legal Documents Unsealed
 Apple Legal Filing Cites Fear of 'Inferior' Amazon Appstore Tarnishing its Reputation
@@ -2758,6 +2776,7 @@ Apple Marks One-Year Anniversary of Steve Jobs' Death
 Apple May Add Secure Password Suggestions to Safari with OS X Mountain Lion
 Apple May Be Building Its Own Content Delivery Network
 Apple May Be Shifting Back to Samsung for Future Display Production
+Apple May Be Using 'Brightflash' Shell Company to Pursue iWatch Trademark Protection
 Apple May Be Working With Quanta Computer on Larger iPad
 Apple May Have Considered Purchasing Tesla, Researching Audio to Predict Heart Attacks
 Apple May Or May Not Be Searching For a New CFO
@@ -2842,6 +2861,7 @@ Apple Notifies Partners: DRM-free Music and DRM-free Music Videos Soon
 Apple Notifying Former MobileMe Customers of Impending iCloud Storage Downgrade
 Apple Notifying Former MobileMe Members of New iCloud.com Email Address Options
 Apple Now 'More Flexible', 'Less Arrogant' Reports France Telecom CEO
+Apple Now Accepting All Products for Recycling at Retail Stores
 Apple Now Accepting Pre-Orders for iPhone 4S, Unlocked Coming in November
 Apple Now Approving iOS 4.3-Compatible AirPlay Apps
 Apple Now Blocking 'Overtly Sexual' Apps from App Store
@@ -2883,6 +2903,7 @@ Apple Offering Concessions in European E-Book Suit as Several Publishers Settle 
 Apple Offering Free Licensing of Mini DisplayPort Spec
 Apple Offering Free Shipping on All U.S. Online Orders Through December 22
 Apple Offering Full Length Movie on iTunes [Update x2]
+Apple Offering Some Developers Second Chance to Buy Unclaimed WWDC Tickets
 Apple Offering Some Devs a Second Chance at WWDC Tickets
 Apple Offering Stripped-Down $999 13" MacBook Air to Educational Institutions Buying in Bulk
 Apple Offers $30 iTunes Store Credit for Activation Delays
@@ -3657,6 +3678,7 @@ Apple Releases iOS 7.1 Beta 3 to Developers
 Apple Releases iOS 7.1 Beta 4 to Developers
 Apple Releases iOS 7.1 Beta 5 to Developers With Siri Language Improvements
 Apple Releases iOS 7.1 With CarPlay, Touch ID Improvements, Visual Tweaks
+Apple Releases iOS 7.1.1 With Touch ID Improvements, Bug Fixes
 Apple Releases iPad Tablet, New SDK, iBooks and iWork Apps
 Apple Releases iPhone 1.0.2 Update
 Apple Releases iPhone 1.1.1 Update [Updated]
@@ -3780,6 +3802,7 @@ Apple Reportedly Bringing On Another Touch Panel Supplier to Boost iPad Producti
 Apple Reportedly Bumps iPhone 3GS Manufacturing Orders Nearly 20%
 Apple Reportedly Buys Into a Chip Fab, Looking to Produce Its Own Chips
 Apple Reportedly Cutting iPhone 5c Production as Chinese Gray Market Prices Drop
+Apple Reportedly Delaying Launch of 5.5-Inch 'iPhone Air' Due to Battery Issues
 Apple Reportedly Developing High-Definition Audio Format with 'Adaptive Streaming'
 Apple Reportedly Developing iPhones with Large Curved Screens for 2014, Enhanced Touch Sensors for Later Models
 Apple Reportedly Disrupting iPhone Competitors With Legal Threats Backed Up by HTC Suit
@@ -3798,6 +3821,7 @@ Apple Reportedly Looking to Offer More Flexible iBookstore Pricing Than Previous
 Apple Reportedly Looking to Purchase LED Camera Flash Components
 Apple Reportedly Looking to Push Monthly iPad Production to 3 Million
 Apple Reportedly Looking to Revolutionize Mobile Advertising
+Apple Reportedly Negotiating with Carriers for $100 Price Increase on iPhone 6
 Apple Reportedly Offering 15% Refunds to Purchasers of Troubled 27-Inch iMacs
 Apple Reportedly Offering Half of Pandora's Royalty Rate for Streaming Music Service
 Apple Reportedly Open to Restoring MobileMe Features Lost in iCloud Transition
@@ -3849,6 +3873,7 @@ Apple Reports Q4 2013 Year-End Results: $7.5 Billion Profit on $37.5 Billion in 
 Apple Reports Record $1.61 Billion Profit for Q1 2009
 Apple Reports Record $3.38 Billion Profit for Q1 2010 on Highest Revenue in History
 Apple Reports Record 1Q 2011: $6 Billion Profit on $26.74 Billion in Revenue
+Apple Reports Record March Quarter Results, Splits Stock 7-for-1, and Boosts Share Buyback
 Apple Reports Record-Breaking Q3 2011: $7.31 Billion Profit on $28.57 Billion in Revenue
 Apple Reports Results for Q2 2012: $11.6 Billion Profit on $39.2 Billion in Revenue
 Apple Reports Results for Q3 2012: $8.8 Billion Profit on $35 Billion in Revenue
@@ -3886,6 +3911,7 @@ Apple Researching Removable Mobile Device Clip with Tactile Trackpad Controls
 Apple Researching Sound Sensors for Automatically Adjusting Audio Output
 Apple Researching Stylus Concepts with Optical Tracking and Haptic Feedback
 Apple Researching Technology to Provide Image Pixels With Touch Sensing Capabilities
+Apple Researching Temperature, Pressure, and Humidity Sensors for Mobile Devices
 Apple Researching Touch Surface Keyboard
 Apple Researching Virtual Reality Headsets
 Apple Researching iPad Smart Covers with Secondary Displays, Keyboards, Solar Cells
@@ -3910,6 +3936,7 @@ Apple Retail Preparing for iPhone 3G Activation Procedures
 Apple Retail Roundup: Palo Alto Store, Hurricane Sandy Preparations, Shenzhen Store
 Apple Retail Store Employee on Product Launches, Store Culture, and Customers
 Apple Retail Store Lines Lengthening Ahead of iPad 2 Launch
+Apple Retail Store Logos Gain Green Leaves in Honor of Earth Day
 Apple Retail Store News Roundup
 Apple Retail Store Signage Confirms 8:00 AM Launch for New iPad on Friday
 Apple Retail Store Staff Set to Gain Raises of Up to 25%
@@ -4477,6 +4504,7 @@ Apple Tabs TSMC for A6 and A7 Processors for Future iOS Devices
 Apple Takes Control of 'Apple.co.uk' Domain Name
 Apple Takes Control of 'TabletMac' Trademark
 Apple Takes Control of iCloud.com
+Apple Takes Jab at Samsung in Full Page Earth Day Newspaper Ad
 Apple Takes Legal Action Against Leak
 Apple Takes Possession of iPhone5.com Domain
 Apple Takes on Droid X With Latest Smartphone Antenna Video
@@ -4748,6 +4776,7 @@ Apple Woos Indies [Updated]
 Apple Working On Automated Desktop Pictures
 Apple Working On Method Of Reducing iPhone Accessory Wireless Interference
 Apple Working With NYPD to Track Stolen iPhones
+Apple Working With Shazam on Song Identification Capabilities for iOS 8
 Apple Working on 'Next Generation' Media Applications
 Apple Working on 'Photo Streaming' and Other Social Features in iOS? [Update]
 Apple Working on 10-, 13-, and 15-Inch Tablets?
@@ -4822,6 +4851,7 @@ Apple and Google Included in Suit Over Embedded Interactive Media in Browsers
 Apple and Google Lead Separate Groups in Bidding for Kodak Patents
 Apple and Google Partnership?
 Apple and Google Teaming Up on $500 Million Bid for Kodak Patents
+Apple and Google Vying for Exclusive Games from Developers With Promotional Perks
 Apple and Google Working on More "New Things"
 Apple and Google to Testify at Congressional Hearings on Privacy
 Apple and Google's Motorola Unit Seeking Arbitration to Resolve Patent Dispute
@@ -4848,6 +4878,7 @@ Apple and Nintendo?
 Apple and Oracle Announce Plans for OpenJDK Java Implementation
 Apple and Other Mobile App Distributors Agree to New Privacy Policy Notification Standards
 Apple and Other Rockstar Consortium Shareholders Not Involved in Google Lawsuit Decision
+Apple and Other Smartphone Makers Back Global Anti-Theft Measures
 Apple and Other Tech Companies Call for Government Surveillance Reform
 Apple and Other Tech Companies Face Lawsuit Over Wireless Email Patents
 Apple and Others Considering Bids for Yahoo?
@@ -5108,6 +5139,7 @@ Apple to Hold Early April Media Event for iOS 5 and MobileMe Revamp?
 Apple to Hold Media Event on September 7th, 2011?
 Apple to Hold Private Celebration of Steve Jobs' Life on October 19th
 Apple to Hold Simultaneous Satellite Event in London for October iPad Unveilings
+Apple to Honor Earth Day 2014 at Retail Stores, Main Campus
 Apple to Host 'Back to the Mac' Media Event on October 20th
 Apple to Host Conference Call Monday Concerning its Near $100 Billion Cash Balance
 Apple to Integrate 'QuickTime Pro' Features into Snow Leopard?
@@ -5446,6 +5478,7 @@ Apple's Former Safari Chief Don Melton Reflects on Steve Jobs
 Apple's Free 12 Days of Christmas App Now Live for International Customers
 Apple's Free iPhone 4 Case Program to End September 30th
 Apple's Fusion Drive: Faster Performance in a Simple Consumer-Focused Package
+Apple's Future OS X Names May Include Yosemite, Mammoth, Big Sur, Redwood, Pacific, and More
 Apple's Glass Roofed Retail Store Approved Without Even Discussion
 Apple's Google Now Competitor 'Today' Features Traffic Information on Frequently Visited Locations
 Apple's Grand Central Neighbor Seeing 7% Increase In Sales
@@ -5460,6 +5493,7 @@ Apple's Hiring of Kevin Lynch Questioned Amid Concerns Over His Staunch Defense 
 Apple's Hiring of an Outsider is Out of Character
 Apple's Holiday Quarter iPad Sales Estimated to Hit Record 25 Million
 Apple's In-Car Technology Ambitions Revealed in 'Digital Dash' Patents
+Apple's In-Store Reuse and Recycling Program Now Offering Trade-In Credit for Used iPads
 Apple's Initial Investment in U.S. Mac Production Estimated to Create 200 Jobs
 Apple's Initial Sapphire Production to Target iWatch, Not iPhone 6?
 Apple's Intel Move... Early Details and Notes
@@ -5540,6 +5574,7 @@ Apple's Negotiations and the iPhone in Europe
 Apple's New $899 Product is an LED Display and Not a MacBook? [Update]
 Apple's New ''Get a Mac'' TV Ads for the Mac [Videos Posted]
 Apple's New 'Fusion Drive' Not a Typical Hybrid Drive
+Apple's New 'Powerful' iPhone 5s Micro-Site Profiles Apps from Latest TV Ad
 Apple's New 27-Inch iMac Supports Secondary Solid State Hard Drive
 Apple's New 27-Inch iMacs Experiencing Performance Issues?
 Apple's New 8-Core Mac Pro Shows Up in Benchmarks
@@ -5687,6 +5722,7 @@ Apple's Share of Worldwide Tablet Shipments Falls Below 40% in 1Q 2013
 Apple's Share of Worldwide Tablet Shipments Slips to 43.6% in 4Q 2012
 Apple's Shareholder Meeting
 Apple's Shareholder Meeting Notes: Leopard, Apple TV, Research
+Apple's Shazam Partnership Could Boost Advertising Efforts
 Apple's Signal Strength Display Changes in iOS 4.0.1 and 4.1 Detailed
 Apple's Site Again Hints at iWork for iPhone
 Apple's Smaller Dock Connector Reportedly Coming to Entire iOS Device Lineup Including iPad This Fall
@@ -5813,6 +5849,7 @@ Apple, ATI, NVIDIA Actively Working on Improving Mac Gaming Performance
 Apple, China Mobile Have Yet to Reach iPhone Deal
 Apple, Dell, Lenovo To Develop Battery Standards
 Apple, Gobe and Future Office Software?
+Apple, Google Settle Class-Action Anti-Poaching Lawsuit
 Apple, Google and Others Set to Face Trial Over Anti-Poaching Agreements
 Apple, Google, and Others Hit With Patent Lawsuit Over Spam Email Identification
 Apple, Google, and Others in Negotiations With Regulators Over Anti-Poaching Agreements
@@ -6257,6 +6294,7 @@ CW Strikes Deal with Apple to Bring Content to Apple TV
 Cablevision One-Ups Time Warner Cable With New TV iPad App
 Calibration on iPhone 5s Compass and Level Appears Incorrect
 California Appeals Court Rules State Law Doesn't Prohibit Driver Use of Smartphone Maps
+California Rejects 'Kill Switch' Requirement Legislation for Smartphones
 California Theatre Decorated In Anticipation of Apple's Media Event
 Call Center Hiring Leads to More Verizon iPhone Speculation
 Call of Duty 4 for Mac Now Available
@@ -6943,6 +6981,7 @@ FTC Won't Block Google-AdMob Merger, Cites Apple's iAd as Competitive Factor
 FWB RealPC?
 FaceTime Ads Come to Europe as Feature Disappears in Middle East
 FaceTime Audio Coming to Macs With Next OS X Update
+FaceTime Not Working for Many iOS 6 Users
 FaceTime Over 3G Comes to Jailbroken iPhone 4s
 FaceTime Set to Come to Mac OS X and Windows?
 FaceTime Video Calls Still Limited to Wi-Fi as LTE iPad Rolls Out
@@ -7107,6 +7146,7 @@ First Claimed Images of iPhone 5S Rear Shell Surface
 First Copy of Mac OS X 10.3 (Panther) Delivered [Updated]
 First Customer Receives Psystar Mac Clone
 First Developer Intel Macs (Photos)
+First Generation Apple TVs Unable to Connect to iTunes
 First Gigabit Wi-Fi Routers Ready to Launch
 First Hand Reports on WWDC's Leopard 9A466
 First Hand with Mac OS X on Toshiba Intel (x86)
@@ -7244,6 +7284,7 @@ Former Apple Marketing Insider Sheds Light on Apple's 'Controlled Leaks'
 Former Apple Retail Head Ron Johnson Fired as CEO of JC Penney
 Former Apple Supply Manager Pleads Guilty in Kickback Scheme
 Former Apple TV Engineer Claims New Apple TV Interface Discarded 5 Years Ago [Updatedx2]
+Former Burberry CEO Angela Ahrendts to Join Apple Next Week
 Former Foxconn Employees Charged with Accepting Bribes from Supply Chain Partners
 Former Intel Executive Joins Apple as General Counsel and Senior Vice President
 Former Nike FuelBand Consultant Jay Blahnik Confirms Apple Hiring [Update: Confirmed by AllThingsD]
@@ -7427,6 +7468,7 @@ Game Developers Laying the Smacketh Down?
 Game Developers Scaling Back Android Efforts as iPhone Continues to Dominate
 Game Room?
 Game Shows Native GeForce 3 Support Under OS X
+GameStop Expanding Beyond Video Games with Aggressive Growth Plans for 'Simply Mac' Stores
 Gamespy, Aspyr?
 Gaming Follow-up: Has Apple Already Been Shopping Around? Late 2007 Launch?
 Gaming God: Graeme Devine
@@ -7534,6 +7576,7 @@ Google Claims That Apple Did Reject Google Voice iPhone Application [Updated]
 Google Claims a 'Hostile, Organized Campaign Against Android'
 Google Close to Acquiring WhatsApp for $1 Billion?
 Google Co-Founder Accuses Jobs of 'Rewriting History' of iPhone and Android
+Google Covering Defense Costs and Damage Awards for Four Patents in Apple/Samsung Case
 Google Debuts New Android-Focused Music Download Store
 Google Deploys Full-Screen Compose Window for iPad-Formatted Gmail
 Google Desktop for Apple?
@@ -7634,6 +7677,7 @@ Google to Show Off 'Next Dimension' of Maps on June 6
 Google to Supply Video for Apple iTV?
 Google to Take on Apple with Open AirPlay Alternative
 Google to Unveil Streaming Music Service at Google I/O Tomorrow
+Google's 'Project Tango' Smartphone Uses Apple's PrimeSense Technology
 Google's Acquisition of AdMob Delayed for Further FTC Scrutiny
 Google's Android Arriving Tomorrow
 Google's Larry Page Claims Steve Jobs' War on Android Was 'For Show'
@@ -7816,6 +7860,7 @@ Hope for Optical Image Stabilization in iPhone 6 Revived with Supplier Rumors
 Houston Retail Store Grand Opening Hints at 8:00 AM iPad Launch on Friday
 How Angela Ahrendts' Burberry Experience Could Drive the Future of Apple Retail
 How Apple Approached Developing Siri's Personality
+How Apple Could Make the Move to 4.7" iPhone Displays
 How Apple Minimizes its Corporate Tax Burden
 How Apple Ships Millions of iPhones for Simultaneous Delivery
 How Apple Uses its Supply Chain as a Strategic Weapon
@@ -7843,6 +7888,7 @@ Hundreds Lining Up for iPhone 4S at Chinese Apple Stores
 Hundreds of iPhone 5 Units Stolen on Eve of Launch
 HyperMac to Halt Sales of MagSafe Charging Cables
 Hypertransport Updated
+Hyundai Bringing CarPlay to 2015 Sonata Models Later This Year
 HzO 'Talking to Apple' About Water Blocking Technology for Future iPhones
 IBM 64-Bit PowerPC Details
 IBM 64-bit PowerPC
@@ -8415,6 +8461,7 @@ LED MacBook Pro Update in June?
 LED Screens in All MacBooks by 2009?
 LED-Based Laptops from Apple in 2007?
 LED-lit Displays in Upcoming 15" MacBook Pros?
+LG Again Rumored to be Sole Supplier of Flexible Displays for iWatch
 LG Begins Mass Production of Displays Said to Be for Next iPhone
 LG Shipments Indicate Retina iPad Mini Could Arrive As Early As October
 LG Struggling to Keep Up With iPad Display Demand
@@ -8481,6 +8528,7 @@ Leaked Aluminum MacBook Case? [Updated]
 Leaked Aluminum MacBook Pro Case Photo?
 Leaked Case Design Suggests iPod Nano May Gain Smaller Square Form Factor
 Leaked Image Suggests 'Voice Memo' Will Return in Future iOS 7 Beta Release
+Leaked Info on Third-Generation Thunderbolt Points to 40Gbps Transfer Speeds
 Leaked MacBook Pro Casing Confirmed? [Update]
 Leaked MacBook Pro Photo, No Physical Trackpad Buttons [Updated]
 Leaked Matte Case was a Real iPhone 3G S Case?
@@ -8505,6 +8553,7 @@ Left for Dead 2 for Mac Coming Tuesday
 Legal Experts Suggest Justice Department Unlikely to Win Antitrust Suit Against Apple
 Legality of Gizmodo's Next-Generation iPhone Acquisition Examined
 Lenovo CEO on Steve Jobs and Apple's Efforts in China
+Leonardo DiCaprio Could Star in Sony's 'Steve Jobs' Biopic, Danny Boyle in Talks to Direct
 Leopard 9A303 Screenshots and Features
 Leopard Build 9A377a Details Emerging
 Leopard Development Roadmap Revealed?
@@ -9478,6 +9527,7 @@ Microsoft IE 5.2.1 for OS X
 Microsoft Inaccurately Depicts Windows Tablet as Larger than iPad in New Comparison Ad
 Microsoft Invests $300 Million in Nook to Take on Amazon and Apple in E-Book Market
 Microsoft Launched Vista on Tuesday
+Microsoft Launches 'Office 365 Personal' Plan for One Mac and One iPad at $69/Year
 Microsoft Launches Free 30-Day Trials of Office 2011
 Microsoft Launches Mac Office 2008
 Microsoft Launches Multitouch Surface Computing [Updatedx2]
@@ -10334,6 +10384,7 @@ New Pepsi-iTunes Promotion? [Update 3]
 New Perk Gives Apple Employees 50GB of iCloud Storage
 New Photo Confirms Partially Assembled iPhone 4S
 New Photo of Alleged iPhone 5S Home Button Flex Cable Could Point to Fingerprint Sensor Support
+New Photo of Alleged iPhone 6 Manufacturing Mold Hints at 4.7-Inch Display
 New Photos Indicate Previously-Thought NFC Chip in iPhone 5 is Earpiece Speaker
 New Photos Offer Clear Look at Fifth-Generation iPad Ahead of October 22 Event
 New Photos Show 'iPad Mini' Physical Mockup in Hand
@@ -10509,6 +10560,7 @@ New iPad to be Called 'iPad HD' and Not 'iPad 3'?
 New iPads Begin Showing Up in Third-Party Retailers' Stockrooms Ahead of Friday's Launch
 New iPhone 5 Cases Suggest Longer and Wider Form Factor
 New iPhone 5 Pre-orders Through Verizon Slip to September 26 Delivery [Update: AT&T at 14-21 Days]
+New iPhone 6 Renderings Based on Recent Info Show Design Changes
 New iPhone Ad Focuses on Safari [Video, Updated]
 New iPhone Rumors Reiterate Claims of Smaller Dock Connector, No Change to Screen Aspect Ratio
 New iPhone Television Ad: Youtube [Official Video]
@@ -10687,6 +10739,7 @@ Nexus 10 Reviews Hit the Web as Fourth-Generation iPad Sales Begin
 NiN's Trent Reznor Speaks Out on Apple's App Store Rejection Policies
 Nightline's Look into Apple's Foxconn Factories
 Nike + iPod Expanding to Include Gym Equipment
+Nike Fires Majority of FuelBand Team, Plans to Stop Making Wearables
 Nike+ Heart Rate Monitor Coming for Fifth-Generation iPod Nano?
 Nike+ Heart Rate Monitor Due for Launch June 1st
 Nike+ Move, First Introduced M7 Coprocessor-Integrated App, Launches in App Store
@@ -11270,6 +11323,7 @@ Photo Depicting iPhone 5S Camera Module Hints at Separate Dual-LED Flash Compone
 Photo Stream iPhone Icon Hints at the iPhone 5 Design
 Photo of 'iPhone 4S' with Larger Screen?
 Photo of 3 iPhones? VPN for iPhone?
+Photo of Alleged Front Panel from Larger-Screen iPhone 6 Surfaces [Updated]
 Photo of Partially Assembled White 4th Generation iPhone
 Photo of Plastic Packaging with 'iPhone 5C' Name Surfaces
 Photo of Prototype 13-Inch MacBook Air - With SSD Card?
@@ -11343,11 +11397,13 @@ Ping Updates: 'Ping Sidebar' Coming Soon? Record Labels Miffed at Secrecy
 Pink Floyd Wins Legal Battle Over Digital Sale of Individual Songs
 Pinnacle Buys Steinberg for $24M
 Pinot -> Panther
+Pioneer Brings Apple CarPlay to Existing In-Dash Receivers
 Pioneer DVD+R/+RW Support
 Pioneer DVR-104
 Pioneer DVR-A05 SuperDrive
 Pioneer Drops AirPlay Speaker Prices, Now Competitive with Bluetooth Models
 Pioneer Embraces AirPlay and iOS Apps With New VSX-1021 Receiver
+Pioneer Talks CarPlay: Working with Apple, Pricing, and the Future
 Pioneer Working on Aftermarket CarPlay Compatibility
 Piracy and Mac OS X
 Pirates with Attitude
@@ -11774,6 +11830,7 @@ Redesigned MacBook Pro Power Adapter Coming?
 Redesigned and Expanded Third Street Promenade Apple Store Opens in Santa Monica, CA
 Redesigned iMac?
 References to Next-Generation AirPort Extreme and Time Capsule Found
+References to Siri for Apple TV Found in iOS 7.1 Code
 Refurbished 13-Inch Retina MacBook Pro Models Appear in Apple's Online Store
 Refurbished 7th Generation iPod Nano Now Available in Apple Online Store
 Regional Carrier Cites Prestige as Reason to Offer iPhone
@@ -11797,6 +11854,7 @@ Replacing the MacBook RAM, Hard Drive (Video) and Benchmarks
 Report Blames Screen Supplier Wintek for iPad Delays
 Report Claims 7-Inch iPad in August, New iPhone in September, New 10-Inch iPad by End of Year
 Report Claims Tablet is 'iPhone on Steroids', Runs on iPhone OS Kernel
+Report Claims iPhone 6 Will Feature Curved Display, All-Aluminum Rear Shell
 Report Details iPad 2 Components Vulnerable to Shortages Following Japanese Earthquake
 Report Examines Labor Violations at Apple Supplier's Malaysian Plant
 Report Profiles Secrecy at Apple's Asian Manufacturing Partners' Facilities
@@ -12486,6 +12544,7 @@ Sprint to Join AT&T and Verizon in Offering iPhone 5 at 'Mid-October' Launch
 Sprint to Launch iPhone 5 with Unlimited Data Next Month
 Sprint to Launch iPhone Through Prepaid Brand Virgin Mobile in Coming Weeks
 Sprint to Lock iPhone 4S SIMs Starting November 11th
+Sprint to Make All Devices Launched After February 11, 2015 Unlockable
 Sprint to Offer Unlimited Data Plans for Next iPhone, Even if LTE Included
 Sprint to Roll Out 'One Up' Frequent Device Upgrade Program on September 20
 Sprint to Turn iPod Touch Into 3G Mobile Hotspot?
@@ -13002,6 +13061,7 @@ Tim Cook 'Incredibly Optimistic' About New Partnership with China Mobile
 Tim Cook Addresses Apple Employees After Lawsuit Victory
 Tim Cook Angrily Rejects Political Proposal Asking for Profits-First Policies
 Tim Cook Asked About Larger iPhone at China Mobile Launch
+Tim Cook Auctions Charity Lunch Meeting at Apple HQ
 Tim Cook Coffee Auction Closes Tomorrow, Current High Bid at $605,000
 Tim Cook Coffee Auction Ends with $610,000 Bid
 Tim Cook Coffee Meeting Charity Auction Hits $100,000
@@ -13355,6 +13415,7 @@ Upcoming iTunes 11 Update to Restore Duplicate Search, Fix Album Art and Movie S
 Update Now: OS X
 Update to Quake III Arena
 Updated 'Remote' App With iOS 7 Redesign Hits App Store
+Updated 11-Inch and 13-Inch MacBook Airs Reportedly Coming Next Week
 Updated Apple TV with 1080p Video Support to Maintain $99 Price Tag
 Updated Intel Product Pipeline Uncovered?
 Updated Mac Pro Benchmarks and Video of Internals
@@ -13821,6 +13882,7 @@ Windows Applications On Mac, Without Windows [Updated]
 Windows Media Player 9 Series for Mac OS X: Coming
 Windows Media Player 9 for Mac OS X
 Windows Phone 7 Connector for Mac Beta Now Available
+Windows Phone 8.1 Adds Support for Apple's Passbook Passes
 Windows Virtualization (WinXP under Mac OS X) Beta Released
 Windows Virus on (a few) Video iPods
 Windows Vista Beta 1 and Tiger
@@ -13910,6 +13972,7 @@ Yahoo CEO Claims Apple's Demand for Control Will Be iAd's Downfall
 Yahoo Examines iPad User Demographics and Trends, Finds 10% International Usage
 Yahoo Online Music Service
 Yahoo Says 'No' to Microsoft's Bid
+Yahoo Wants to Be Apple’s Default iOS Search Engine
 Yahoo acquires Konfabulator
 Yahoo's Flickr Gets Major Design Overhaul, 1TB of Free Photo Storage Space
 Yellow iPhone 5C Rear Shell Shown in High-Quality Video
@@ -14186,6 +14249,7 @@ iOS 6 Beta 4 Removes Dedicated YouTube App [Updated]
 iOS 6 Beta for Developers Now Available
 iOS 6 Fixes iMessage "Bug" that Sends Texts to Stolen iPhones
 iOS 6 Maps with 'Flyover' 3D Hacked to Run on iPhone 4
+iOS 6 Users on Devices Able to Run iOS 7 Must Upgrade to Fix FaceTime
 iOS 6 to Add Safari iCloud Tabs, VIP Mail Recipients, 'Do Not Disturb' Mode?
 iOS 6 to Bring Systemwide Facebook Integration
 iOS 6's 'Do Not Disturb' Not Shutting Off Automatically on New Year's Day
@@ -14231,6 +14295,7 @@ iOS 7.1 Improves Performance for iPhone 4 Users
 iOS 7.1 Includes Warning Message About 15-Minute In-App Purchase Window
 iOS 7.1 Launching in March Following Lengthy Testing Period?
 iOS 7.1 Update Due 'Any Day Now' With Support for SXSW App
+iOS 7.1.1 Now Labels Apps with 'In-App Purchases' in Top Charts and Featured Sections
 iOS 7: 'All the Leaks Are Wrong'
 iOS 8 'Healthbook' App Depicted in New Mockups
 iOS 8 May Streamline Notification Center, Remove Game Center App, and More
@@ -14690,15 +14755,18 @@ iPhone 5s Top-Selling Smartphone at All U.S. Carriers, iPhone 5c Takes Third
 iPhone 5s and 5c Account for 5.5% of Active iPhones Worldwide
 iPhone 5s and iOS 7 Rank Highly in Top Google Searches of 2013
 iPhone 5s and iPhone 5c Sales Top Nine Million in Launch Weekend
+iPhone 6 Case Compared to iPhone 5s, Nexus 5 and Galaxy Note 3 in New Video
 iPhone 6 Case Maker's Model Points to Larger Display, Ultra Thin Body
 iPhone 6 Could See Sleep/Wake Button Move, 401 ppi in 5.5" Model, Sapphire Display in High-End Phones
 iPhone 6 Fingerprint Sensor Production Set to Gear Up in Q2 with Increased Efficiency
 iPhone 6 May Include Temperature, Pressure and Humidity Sensors
+iPhone 6 Mockups and Case Designs on Display at Hong Kong Electronics Fair
 iPhone 6 Rear Camera to Retain 8-Megapixel Sensor, Offer Improved Image Stabilization?
 iPhone 6 Renderings Based on Leaked Schematics Highlight Larger Displays
 iPhone 6 Reportedly Launching 'As Early As September' in 4.7- and 5.5-Inch Sizes
 iPhone 6 Rumored to Include 10+-Megapixel Camera with f/1.8 Aperture and Improved Filter
 iPhone 6 Said to Adopt 'Bezel-Free' Display
+iPhone 6 Size Compared to Galaxy S5 and Other Android Phones
 iPhone 6 Specs Seen by Analyst as 'Locked In' with 4.8-Inch Display and 802.11ac Wi-Fi
 iPhone Accessory Makers Detail 3G iPhone Design?
 iPhone Accounted for 39% of Apple Revenue in Q4 2008
@@ -15276,6 +15344,7 @@ iTunes: Lord of the Rings CD-Rs
 iTunes: Sony TV Shows and Apple TV Showcase
 iWalk
 iWalk photos/video - Removed
+iWatch May Ultimately Replace iPod, No iPod Updates Expected in 2014
 iWatch May Use Optical Sensors to Measure Heart Rate and Oxygen Levels
 iWatch Rumored to Include UV Light Exposure Sensor
 iWatch to Come in Two Sizes With 'Fashionable Appearance', Top End to Cost 'Several Thousand' Dollars

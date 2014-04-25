@@ -33,12 +33,15 @@ $99 Refurbished Kindle Price Points to Kindle 4 Launch
 10 Places Robots and A.I. are Hiding in Plain Sight
 10 Promising Technologies in 2014
 10 Scientific Cooking Tricks That’ll Make Your Life Easier
+10 Smart Lifehacks for Your Kitchen
 10 Surprising Ingredients Found In Common Foods
 10 Things You Should Know about DirectX 12
+10 Uniquely Interesting Places To Mount A GoPro Camera
 10 Ways To Browse The Internet Anonymously
 10 Ways To Lifehack Your Next Flight
 10 Years of Roomba Hacks: From Magic Marker Art to Combat
 1080p Phones Mean New Challenges for Mobile Batteries in 2013
+11 Essential Tweaks for Your New Samsung Galaxy S5
 14 Essential Tweaks to Perform on Your New Nexus 5 Smartphone
 15 Essential Tweaks to Perform on Your New 2013 Nexus 7
 15 Visual Effects Artists Share Their Favorite Effects Shots
@@ -221,6 +224,7 @@ Aliasing Be Gone: How To Downsample PC Game Graphics
 Almost Human: Trauma Mannequins for Medic Training
 Alternate Universe Movies: Dan Aykroyd and John Belushi's American Hustle
 Alternative Food Technologies Used in Modern Cooking
+Alton Brown's Mustard Caddy
 Amazing Anamorphic Illusions with High-Quality Paper Prints
 Amazing Autonomous Quadrocopter Acrobatics
 Amazing Close-Up Video of Pacific White Sided Dolphins
@@ -544,6 +548,7 @@ Awesome Jobs: Meet Doug Daly, Tree-Climbing Botanist
 Awesome Jobs: Meet Kayla Iacovino, Trekker Volcanologist
 Awesome Jobs: Meet Kevin Hardy, Submarine Builder
 Awesome Jobs: Meet Kyle Larson, Mountain Climbing Structural Geologist
+Awesome Jobs: Meet Linda Gormezano, Polar Bear Poop Tracker
 Awesome Jobs: Meet Nathalie Cabrol, Planetary Scientist and Extreme Altitude Diver
 Awesome Jobs: Meet Ruddy Mell, Fire Starter (for Science)
 Awesome Jobs: Meet Susan Humphris, Science Submarine Skipper
@@ -950,6 +955,7 @@ DataBot Mouse Intensifies the Drag-and-Drop Experience [Video]
 Daydreaming Correlates with Higher Working Memory
 Dear Comcast, re: Throttling Netflix and the Relative Value of Your Services
 Death Star-Inspired Home Theater Wall Tiling
+Deciphering Buran, The Soviet Space Shuttle
 Dedicated GPS with Android Taps into Wi-Fi, Apps
 Deep Shot App Copies Web Data to Phone via Camera Photo
 Dell Brings Aluminum to $600 Inspiron 14z
@@ -1064,6 +1070,7 @@ Everything You Should Know About Sony's S1 and S2 Android Tablets
 Everything You Should Know about Micro Four Thirds Mirrorless Cameras
 Everything You Should Know about Microsoft's Xbox One Console
 Everything is a Remix Case Study: The iPhone
+Exercise, Diet, and Fitness - 4/22/2014
 Exhibit Design at The Tech Museum of Innovation
 Expanded Xbox Live Support and 14 Games Coming to WP7
 Exploding Gingerbread House And More Awesome Slo-Mo Videos From Conan
@@ -1256,6 +1263,7 @@ Google Play App Roundup: Field Trip, W.E.L.D.E.R., and Global Outbreak
 Google Play App Roundup: Floating Notifications, Crayon Physics Deluxe, and Color Zen
 Google Play App Roundup: Flyne, Pocket Harvest, and Burn the Lot
 Google Play App Roundup: Focal, PIvvot, and FIFA 14
+Google Play App Roundup: Google Camera, Amazing Spider-Man 2, and Hopeless: Space Shooting
 Google Play App Roundup: Google Keep, 10000000, and Plasma Sky
 Google Play App Roundup: Google Keyboard, Quadropus Rampage, Space Colony LWP
 Google Play App Roundup: Google Now launcher, Superior Tactics, and Solid Explorer Chromecast Plugin
@@ -1314,6 +1322,7 @@ Google Play App Roundup: TeamViewer QuickSupport, Spirits, and Pinterest
 Google Play App Roundup: The Transit App, Rymdkapsel, and Dropchord
 Google Play App Roundup: TimePIN, Line Of Defense Tactics, and Mountains Now LWP
 Google Play App Roundup: Timely, Asphalt 8, and Buy Me a Pie
+Google Play App Roundup: Today Calendar, The Walking Dead, and Wind-up Knight 2
 Google Play App Roundup: Total War Battles, Astro File Manager, and HueBrix
 Google Play App Roundup: TunnelBear VPN, Wild Blood, and Zagat
 Google Play App Roundup: Turntable.fm, Mini Motor Racing, and CloudOn
@@ -1653,6 +1662,7 @@ How To Follow Along with NASA's Curiosity Rover Landing This Sunday
 How To Get Better Depth of Field Photos with Your Camera
 How To Get Into Hobby RC: Car Basics and Monster Truckin'
 How To Get Into Hobby RC: Radios and Motors
+How To Get Into Hobby RC: Upgrading Your Car and Batteries
 How To Get Started With iCloud Backups and Sync in iOS 5
 How To Get Started with 3D Modeling for 3D Printing
 How To Get Started with Arduino
@@ -1735,6 +1745,7 @@ How to Detach a Space Shuttle from a 747 Airplane
 How to Fix the Movie Piracy Problem? Add Another Warning
 How to Get Started with Circuits and Electronics
 How to Improve the Crowbar
+How to Ship a T. Rex Across the Country
 How to Use a Multimeter
 Huawei Bests HTC and Sony in Android Display Shootout
 Hubcap Spaceships, Giant Spiders, and The Charm of Low Budget Special Effects
@@ -1814,6 +1825,7 @@ Inside the Botcave: A Conversation with MakerBot Industries' Bre Pettis
 Inside the Modernist Cuisine Kitchen: Cryo-Fried Steak and Perfect French Fries
 Inside the Modernist Cuisine Kitchen: Elote and Pea Stew
 Inside the Modernist Cuisine Kitchen: Quail Eggs
+Inside the Operations of the Cryonics Institute
 Inside the Smithsonian's Meteorite Clean Room
 Insightful Lessons in Small-Scale Chinese Production
 Insights from 13-Inch Retina MacBook Pro Teardown
@@ -1880,6 +1892,7 @@ Jamie Hyneman On Welding in His Workshop
 Jamie Hyneman Tests the Oculus Rift Virtual Reality Goggles
 Jamie Hyneman on "Innovation, Explosions, and the Benefit of Adolescent Behavior"
 Jamie Hyneman's Electric Outboard Boat Motor
+Jamie Hyneman's High-Pressure Air Gun
 Jamie Hyneman's Hitchhiking Survival Story
 Jamie Hyneman's Thoughts on Designing and Making with CAD
 Jamie Will Let Reddit Ask Him Anything on Saturday Morning
@@ -1911,6 +1924,7 @@ Judge Dredd Replica Badges—I Am Officially The Law
 Just Because: Amazon Silk Browser Ported to Android at Large
 Kanex DualRole USB 3.0 Hub
 Keeping Tidy - 4/1/2014
+Kepler Finds First Earth-Sized Exoplanet in Habitable Zone
 Kevin Tong's "Wall-E" Poster Design Process
 Kickstarter Combines Livestrong Bracelets and Earbud Cable Management
 Kickstarter Project Makes Cinema Quality Video Cameras Affordable
@@ -2033,6 +2047,7 @@ Living with Photography: Testing the Metabones NEX Adapter
 Living with Photography: The Hold Steady
 Living with Photography: The Influence of Instagram
 Living with Photography: The School of Cosplay Photography
+Living with Photography: We Have the Technology to Fake It
 Living with Photography: What the Heck is an F-Stop?
 Living with Photography: What's Your Priority
 Living with Photography: Why Do Lenses Have Sweet Spots?
@@ -2096,6 +2111,7 @@ MacBook Airs Coming Soon -- Backlit Keyboards Included?
 Machining an Orrery in Time-Lapse
 Magic Cable Trio Rocks All-in-One USB Simplicity
 Magisto Reminds Us Why We Love Our Professional Video Editors
+Magnetically Actuated Micro-Robots Cooperate to Build Structures
 Main Screen Turn On: Streaming PC Games Live
 Major Changes to Flickr to Begin Rolling Out February 28th
 Make Highlights Creative DIY Secret Stash Projects
@@ -2193,6 +2209,7 @@ MakerBot Mystery Build: Smart Cookie
 MakerBot Mystery Build: Smooth Move, Ferguson
 MakerBot Mystery Build: So Damn Itchy
 MakerBot Mystery Build: Something Isn't Quite Right Here
+MakerBot Mystery Build: Sorting It Out
 MakerBot Mystery Build: Spare a Hand
 MakerBot Mystery Build: Spinning and Winning
 MakerBot Mystery Build: Swear To Me
@@ -2342,6 +2359,7 @@ Moon Photography with Telescope + Cameraphone
 More Details About the OpenROV Underwater Robot Project
 More Than Megapixels: Why Your Smart Phone's Lens Matters Too
 More Xbox Live Updates: Cloud Storage and New Invite System
+MorpHex MKII - A Badass Looking Hexpod Ball Robot
 Motion Control Robots Choreograph Surreal Projection Mapping Demo
 Motion Time-Lapse Photography Testing with the Radian
 Motorola Planning to Phase Out Motoblur Name, But Not Skin
@@ -2617,6 +2635,7 @@ PETMAN Robot Climbs Stairs, Walks on a Treadmill, Does Pushups
 PIN Cracking Robot Hacks Phones in Less Than 20 Hours
 POV: Solving Three Rubik's Cubes While Juggling
 PSA: Jamie and Adam Are On Tour in the Pacific Northwest THIS WEEKEND
+Painting and Airbrushing The Zoidberg Project
 Painting and Weathering My Alien Helmet Replica
 Panasonic Demos Gigabit WiGig Transfers with SD Cards [Video]
 Panasonic Designing a Tablet for Rugged Environments
@@ -2629,6 +2648,7 @@ Panasonic's Lumix GM1 is a True Point-and-Shoot Killer
 Paper Books Offer Better Reading Comprehension Than E-Books
 Paper Currency as Art Material
 Paper, Glue, and Paint Come Together to Form This Amazing Steampunk Iron Horse
+Papercraft Formula 1 Scale Model Builder
 Parrot Car Receiver Goes for a Spin with Android [Video]
 Passive House Construction--What It Is and Why You May Be Interested
 Password Strength Meters Really Do Encourage Better Passwords
@@ -2696,6 +2716,7 @@ Premium: Adam Reacts to the Zero Theorem Trailer
 Premium: Behind the Scenes with Adam Savage at SXSW
 Premium: Building a Cardboard Kinetic Creatures Kit
 Premium: CES Trendspotting and Michael Bay's Breakdown
+Premium: Fixing Norm's MacBook Air Keyboard
 Premium: Gearing Up for the First Day of CES 2014
 Premium: Norm Chews 30-Year-Old Gum ('Nuff Said)
 Premium: Norm's Lifecast Time-Lapse
@@ -2705,6 +2726,7 @@ Premium: Setting Up the High-Speed Camera Test
 Premium: Testing Airbag Detonation in Norm's Backyard
 Premium: Testing Camera Gear in Norm's Garage
 Premium: The PC Build Race Disaster of 2014
+Premium: Time-Lapse of Zoidberg's Paint Job
 Premium: Toys and Stuff in Norm's Garage
 Premium: Weathering the T-800 Endoskeleton
 Premium: Will Upgrades the MakerBot
@@ -3059,6 +3081,7 @@ Shingled Magnetic Recording Paves the Way for 5TB Hard Drives
 Shipping Pallets Make the World Go Round
 Shoot the Sky: The Technology Invented for Astro Cinematography
 Shooting Amazing 360 Degree Spherical Panos
+Shooting Mythbusters - 4/15/2014
 Shooting Video at 120,000 Feet: The Cameras Aboard Project Stratos
 Shop Safety - 2/26/2013
 Short Supplies on MacBooks and Minis Point to July Refresh
@@ -3076,6 +3099,7 @@ Show and Tell: Adam's Favorite Video Game
 Show and Tell: Apply Directly to Forehead
 Show and Tell: Battle Wizards
 Show and Tell: Behold the Bug-A-Salt
+Show and Tell: BioShock's Motorized Patriot (in LEGO!)
 Show and Tell: Cardboard Kinetic Creatures
 Show and Tell: Collecting Screenprinted Posters
 Show and Tell: Copper Coca-Cola Bottle
@@ -3108,6 +3132,7 @@ Show and Tell: Podcasts in the Shower
 Show and Tell: Putting Old Glass to Work
 Show and Tell: Rollin' Rollin' Rollin'
 Show and Tell: Roost Laptop Stand
+Show and Tell: Sansaire Sous Vide Immersion Circulator
 Show and Tell: Settlers of Catan Boards
 Show and Tell: Six Million Dollar Home
 Show and Tell: Star Wars Behind-the-Scenes Reads
@@ -3250,6 +3275,7 @@ Stop-Motion Video of Triumph Spitfire Engine Build
 Stop-Motion Woodworking: Making Bookcases
 Strange Objects that We Have Sent to Space
 Strapping a Helmet Camera onto a Hunting Falcon
+Students Invent New Ketchup Cap to Solve Squirt Problem
 Study Shows App Usage Peaks at Primetime, Like TV
 Study Shows Office Dogs Reduce Worker Stress
 Study Shows iPhone 4S Doubles Data Usage Over iPhone 4
@@ -3329,6 +3355,7 @@ Testing: Google Nexus 5 vs. HTC One vs. Nexus 4
 Testing: HTC One Google Play Edition
 Testing: Lenovo Yoga 11S Ultrabook
 Testing: Lenovo Yoga 2 Pro Ultrabook
+Testing: Logitech G502 Proteus Core Gaming Mouse
 Testing: Logitech PowerShell Controller for iOS
 Testing: Microsoft Surface 2 as Tablet
 Testing: Microsoft Surface 2 as a Laptop
@@ -3428,6 +3455,7 @@ The Best Cheap In-Ear Headphones are $12
 The Best Compact Camera for Less Than $450
 The Best Computer Speakers Today
 The Best Dash Cam For Your Car Costs $60
+The Best Entry-Level DSLR Today
 The Best External Desktop Hard Drive Today
 The Best Fitness Tracker Today
 The Best Gaming Laptop Today
@@ -3455,6 +3483,7 @@ The Best Point-and-Shoot Camera Under $500 Today
 The Best Popsicle Molds for Awesome Ice Pops
 The Best Portable Bluetooth Speaker Today
 The Best Portable Hard Drive Today
+The Best SD Card Today
 The Best SSDs Today
 The Best Small TV Today (32-Inches or Smaller)
 The Best Small TV Today (32-Inches)
@@ -3675,6 +3704,7 @@ The Rules of Terror in Horror Movies
 The Samsung Galaxy S and 8.9 Go LTE with Faster CPUs
 The Samsung Galaxy Tab 7.0's $250 Pricing Problem
 The Science and Myth of Burning In New Headphones
+The Science of Caffeine
 The Science of Cyanide in Skyfall and Other Spy Flicks
 The Science of Football Helmet Testing
 The Science of Sleep Paralysis
@@ -3761,6 +3791,7 @@ The Weirdest Experiments Scientists Performed On Themselves
 The Wii U Console: A Radical Hardware Shift for Nintendo
 The Woman Who Recorded 35 Years of News on 140,000 Tapes
 The WonderCon 2013 Cosplay Gallery (500+ Photos)
+The WonderCon 2014 Cosplay Gallery (580 Photos)
 The Work of Artist Zina Nicole Lahr
 The Work of Ralph Bakshi: Animation Provocateur
 The World's "First" Recognized Cyborg Hears Colors
@@ -3824,6 +3855,7 @@ Tiny Planetary Gears Printed on a Makerbot
 Tip of the Day: Custom Vibration Alerts
 Tip of the Day: How To Stop Your Glasses from Slipping
 Tip of the Day: Macro Photography with Interchangeable Lenses
+Tip of the Day: Making Dialing Into Conference Calls Painless
 Tip of the Day: Mass Delete Your Email Spam
 Tip of the Day: Quick Access to Settings
 Tip of the Day: Remote Camera Shutter for iPhone
@@ -3980,6 +4012,7 @@ What Astronauts Do When There’s Nothing to Do
 What Chromium and WebKit Mean for Android's Browser
 What Device Makers Can Learn From Android Failures
 What Ditching the Desktop Would Mean for Windows 8 on ARM
+What Evil Drove The Car?
 What Features Android Tablets Need to Overtake the iPad
 What Google's Self-Driving Car Sees
 What Happens When You Run 15,000 Volts Through Wood?
@@ -4234,6 +4267,7 @@ Wiring The Viper for an Open Source Flight
 Women Are Taking Back Beer
 WonderCon 2013: How To Be a Ghostbuster
 WonderCon 2013: Metal Gear Solid's Raiden Cosplay
+WonderCon 2014: Todd Coyle's Costume Replicas
 Wooden Star Wars Action Figures by Amanda Visell
 Work Ethic - 2/5/2013
 Work-in-Progress Star Wars Fan Animation is Incredible

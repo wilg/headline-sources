@@ -465,6 +465,7 @@ Anticlimactic Twilight Zone Episodes
 Antidepressant Horoscopes
 Any Given Wednesday Afternoon: (This) is Human Contact: A Valentine Manifesto
 Any Given Wednesday Afternoon: On the Hunting and Killing of an Extremely Rare and Indefatigable Shark off the West and Only Coast of Ecuador
+Any Given Wednesday Afternoon: Pass Over Girl: A Missing Person Case
 Any Given Wednesday Afternoon: Sex Pot: A Get Right Christmas Recipe
 Any Given Wednesday Afternoon: The Best Cappuccino in Europe, Quite Possibly the World
 Any Given Wednesday Afternoon: The Savage Detective Shooting Club
@@ -2268,6 +2269,7 @@ Hungover Bear and Friends: Respond, Not React
 Hungover Bear and Friends: Say What You Mean
 Hungover Bear and Friends: The High Cost of Low Living
 Hungover Bear and Friends: The Present is a Gift
+Hungover Bear and Friends: The Rabbit Detective, Case #1
 Hungover Bear and Friends: The Real Wolf of Wall Street
 Hungover Bear and Friends: Trace It
 Hungover Bear and Friends: You Can Change Yourself, You Can Cure Yourself
@@ -2328,6 +2330,7 @@ I Have a Few Disclaimers About My New Short Story
 I Have a Guy for That
 I Have a Ten-Part Question for Every Person on This Panel
 I Hope You Enjoy This Artisanal Knuckle Sandwich
+I Just Did Pilates So I Thought I’d Write to Tell You That I Am In a Really Good Place Now
 I Just Found Out ABC Family is Going to Pass on My Pitch
 I Knew it Was a Mistake to Go On a Road Trip With Alex Trebek
 I Like Big Brass and I Cannot Lie: Confessions from the Tuba World: A Whole Universe of Music
@@ -2476,6 +2479,7 @@ Interview with Walter Schmidt, a Scientist Who Extracts Fiber from Chicken Feath
 Interview with the Driver of a Lunch Truck, Massachusetts Edition.
 Interviews With Hamsters
 Interviews With People Who Have Interesting or Unusual Jobs: 50 Cents Per Rat
+Interviews With People Who Have Interesting or Unusual Jobs: A Former Methadone Clinic Counselor
 Interviews With People Who Have Interesting or Unusual Jobs: Alayna Pine Pretended She Was Sick
 Interviews With People Who Have Interesting or Unusual Jobs: Alison Green, Not Recommending That You Smoke Pot
 Interviews With People Who Have Interesting or Unusual Jobs: An Interview With Geoff Fox, Meteorologist
@@ -2647,6 +2651,7 @@ I’m Going to Have to Cut a Few Members of the Band
 I’m Going to Replace My Hands With Hammers, So Help Me God
 I’m Hoarding All My Sick Days for You, Girl
 I’m Not Bloated; It’s Just the Growing Tapeworm I Swallowed to Lose Weight
+I’m Sick of Being Blackmailed Into Playing Bass for Your Band
 I’m So Digital
 I’m Sorry I Bit You During My Job Interview
 I’m Sorry That My Robot Car Ran Over Your Robot Cat
@@ -2671,6 +2676,7 @@ Jean Paul Sartre, 911 Operator
 Jean-Claude Van Damme Endorses Barack Obama for President
 Jean-Paul Sartre’s Script for Without a Trace
 Jedediah in Love.
+Jeff Really Hit It Off With the Neighbors When He Rented a Place On Airbnb
 Jenna Bush’s Book Tour Diary Of Hope
 Jenna, Take Me Back, I’m Newly Muscular
 Jeremy Lin Has Helped Me Through Some Pretty Tough Times
@@ -3550,6 +3556,7 @@ List: Horror Movies for Kids
 List: Horse Equipment or Dance From the ’60s?
 List: Horticultural Westerns
 List: Hot New Color Trends for 2006
+List: Hot Singles are In Your Area!
 List: How I Plan To Impress My Girlfriend’s Parents
 List: How Many Members of Each of the Following Religions It Takes To Screw in a Lightbulb
 List: How One Would Have Seen Various Film Franchises Had They Been Directed By Matthew Barney
@@ -3913,6 +3920,7 @@ List: Other Guesses for That’s Why They Call It Blues
 List: Other Hallowed-Ground Prohibitions
 List: Other Halls and Oates
 List: Other Harvards
+List: Other Individuals Who Were at the Copacabana the Night That Rico Shot Tony (or Vice Versa), But Whose Presence Was Apparently Not Significant Enough to Warrant Inclusion in Barry Manilow’s Song
 List: Other Long-Standing Feuds I’d Like to See Explored in a Commercial a la “Hi, I’m a Mac” … “And I’m a PC”
 List: Other Names Sting Could Go By, as Suggested by My Thesaurus
 List: Other Options Available on the New Poetry SUV
@@ -4946,6 +4954,7 @@ Monologue: Alligators Are the New Sharks, as Rebutted by a Shark
 Monologue: Allow Me to Evade That Specific Policy Question With Sweeping Generalizations About America
 Monologue: An 8-Foot Submarine Sandwich Gives Himself a Pep Talk
 Monologue: An Abstinence Coach Struggles with Analogy
+Monologue: An Accountant Helps a Manic Pixie Dream Girl With Her Taxes
 Monologue: An Aging Kelis, Years from Now, Reflects on a Milkshake Long Expired, but How the Boys, Ah, the Boys Remain
 Monologue: An Air Traffic Controller Instructs a Flight Attendant Through an Emergency Takeoff
 Monologue: An All-American Percussionist’s Post-NCAA Tournament Game Recap
@@ -5020,6 +5029,7 @@ Monologue: I’m Delighted to Be an Extra in a Rap Video
 Monologue: I’m Just a Fucking Cat
 Monologue: I’m Not a Telemarketer; I’m an Artist
 Monologue: I’m So Happy, I Think I’ll Flip a Car
+Monologue: I’m a 4-Billion-Year-Old Microbe On an Asteroid Heading Straight Toward Earth and I’m So Excited to Hang Out, You Guys
 Monologue: I’m the Best Story Idea You’ve Ever Had
 Monologue: Jeff Bezos Says Hi to You in the Waiting Room of Your Doctors’ Office
 Monologue: Julian Lennon, On the Eve of his Parents’ Divorce, Sits Through a New Song by Uncle Paul
@@ -5077,6 +5087,7 @@ Monologue: The Guy Who Lost the New iPhone Apologizes to His Team
 Monologue: The Guy Who Wrote the Floating Text at the Beginning of Star Wars: The Empire Strikes Back Critiques the Floating Text of Star Wars: The Return of the Jedi, Using a Series of Animated PowerPoint Slides That Involve a Number of Compromising Photos of G
 Monologue: The Half-Priced Hypnotist
 Monologue: The Higgs Boson Calls a Press Conference
+Monologue: The Holy Spirit Reacts to Jesus Sitting At the Right Hand of The Father
 Monologue: The King’s Other Speech
 Monologue: The Lead Singer Is Distracting Me
 Monologue: The Man Who Tripped and Fell in His Living Room One Afternoon and Died
@@ -5375,6 +5386,7 @@ Norse History for Bostonians: The Prose Edda for Bostonians: Gylfaginning, Part 
 Norse History for Bostonians: The Prose Edda for Bostonians: Gylfaginning, Part IV
 Norse History for Bostonians: The Prose Edda for Bostonians: Gylfaginning, Part V
 Norse History for Bostonians: The Prose Edda for Bostonians: Gylfaginning, Part VI
+Norse History for Bostonians: The Prose Edda for Bostonians: Gylfaginning, Part VII
 Norse Legends Reference Pages.
 North Carl, New Hampshire’s Application for Pajamas Capital of the World
 North Korean Propaganda Embraces Mumblecore
@@ -5499,6 +5511,7 @@ On the Occasion, Give or Take, Of the Fiftieth Anniversary of the First Staging,
 On the Trail of Mary Jane: Budtender Customer Service and You
 On the Trail of Mary Jane: Down on The Farm
 On the Trail of Mary Jane: Finding the Natural Way
+On the Trail of Mary Jane: Happy 4/20
 On the Trail of Mary Jane: The Benefits of Membership
 On the Trail of Mary Jane: The Doctor is In
 On the Trail of Mary Jane: The Modern Metropolitan Root Cellar
@@ -5973,6 +5986,7 @@ Pun About Death Goes Here for Title: An Interview with Jim Keller, Groundskeeper
 Punching Up The Script: Car Wash (1976)
 Puns About Death are Unavoidable: An Interview with Janet Waters on the Stealing of Deeds to her Burial Plots Last Winter
 Purchase This World Champion’s Locker Room T-Shirt and Associate Yourself With Greatness
+Putting the Biscuit in the Basket: A Review of Go for the Goal by Mia Hamm.
 Q&A With the Head of My Carpool
 Q&O: A Conversation with Poet-O, the Poet Laureate of Central Park: Part I
 Q&O: A Conversation with Poet-O, the Poet Laureate of Central Park: Part II
@@ -6049,6 +6063,7 @@ Responses To Recurrent Critiques Of My Toothbrush Of The Month Club Idea
 Responses in an Interview for a Nanny Position That Will Almost Certainly Sink Your Chances of Getting the Job
 Responsible Spam
 Results from the 24th Existential Olympics in Bayonne, New Jersey
+Retail Therapy: Inside the Apple Store: APPLE ENGINEER REVEALS iWATCH SPECS
 Retail Therapy: Inside the Apple Store: Believers
 Retail Therapy: Inside the Apple Store: Choose Your Own Genius
 Retail Therapy: Inside the Apple Store: Customer Service is the New Cold War
@@ -6447,6 +6462,7 @@ Short Fiction Starring or Mentioning David Gergen: Waiting for Gergen
 Short Imagined Monologues: The Giant’s Son
 Short Scenes Of An Existential Nature, To Be Performed By Members Of An Experimental Theater Troupe
 Short Stories Which Seem Like They Might Have a Moral, But Actually Do Not (First in a series)
+Short Story Template
 Sid Died for This… Museum Show
 Sigmund Freud’s Step-By-Step Guide to a Perfect Mother’s Day
 Signs Above My Halloween Candy: 1996–2006
@@ -6750,6 +6766,7 @@ Teddy Wayne’s Unpopular Proverbs: Solitude
 Teddy Wayne’s Unpopular Proverbs: Stoicism
 Teddy Wayne’s Unpopular Proverbs: Stupidity
 Teddy Wayne’s Unpopular Proverbs: Supper
+Teddy Wayne’s Unpopular Proverbs: Taxes
 Teddy Wayne’s Unpopular Proverbs: Teaching
 Teddy Wayne’s Unpopular Proverbs: Temerity
 Teddy Wayne’s Unpopular Proverbs: Thickness
@@ -6780,6 +6797,7 @@ Testomania: Are You Color Blind?
 Testomania: Are You Guilty?
 Testomania: Are You Ready for Death?
 Testomania: Are You the Greatest?
+Testomania: How Rational Are You?
 Testomania: The Cognitive Test
 Testomania: The Morality Test
 Testomania: Which Economic Alliance Are You?
@@ -7067,6 +7085,7 @@ The Fundamental Race
 The Future Will Bring Changes
 The Future is Right Behind You! Breakthroughs in New New Media
 The Future of Books
+The Future of Dating
 The Future of the Space Program
 The Gay Agenda
 The Genius Bar
@@ -7146,6 +7165,7 @@ The Magic 8 Ball Amended by My Mother for My Middle-School Years
 The Making of the Autobiography of George W. Bush (an Excerpt)
 The Man With The Rubber Arm
 The Man With Two Heads
+The Man With the Yellow Hat Goes to Therapy
 The Manoni Brothers Have Sent You An E Threat!
 The Many Uses Of The Word “Word.”
 The McSweeney’s Biggest Ever Back-to-School Sale!
@@ -7345,6 +7365,7 @@ The Universe And I
 The Unusual History of My Impending Prominence: A Book-Tour Timeline From the Future
 The View from Where I Standardize: Ruminations from the Test-Prep Industry: A Beginning, By Way of Some Questions
 The View from Where I Standardize: Ruminations from the Test-Prep Industry: A Little Bit of Extra Help
+The View from Where I Standardize: Ruminations from the Test-Prep Industry: But She Gets Straight A’s
 The View from Where I Standardize: Ruminations from the Test-Prep Industry: How Dare You? Or: Supply, Demand, and Diatribe
 The View from Where I Standardize: Ruminations from the Test-Prep Industry: Huge Sums of Money, or “Perspective.”
 The View from Where I Standardize: Ruminations from the Test-Prep Industry: Playing the Game
@@ -7710,6 +7731,7 @@ Vegan Hikers Lost on Meatball Mountain Turn to Cannibalism
 Verbatim Biographical Highlights from the 1987 Topps Baseball Card Series
 Video Game Hints, Tricks, And Cheats
 Vignettes That Won’t Make It Into the New York Times’ “Metropolitan Diary.”
+Vinny’s Joke Consignment and Pawn Shop
 Virtual Sherpa®: Your Guide to the Right Career in the High-Tech Workplace of Tomorrow
 Voices from the Government Shutdown: April Tabor and Yaa Apori
 Voices from the Government Shutdown: Dan Roderick, Andrew Harris, and Marlena White
@@ -7781,6 +7803,7 @@ Welcome to the Stay-at-Home Dads’ Grand Theft Auto Crew
 Welcoming Remarks Made at a Literary Reading, 9/25/01
 Well Known Movie Scenes In Which Certain Lines Have Been Replaced With Comments About Columnist Maureen Dowd Posted On The Conservative Web Site Freerepublic.Com
 Werner Herzog as Guest Pundit on the VH1 Television Series Best Week Ever
+We’re Here for You, Beth
 We’re Here, We’re On Fire, Get Used To It
 We’re Huge In Europe
 We’re the Uber of Organ Transplants
@@ -7930,6 +7953,7 @@ Your Money… Your Job… Your Life, With Alison Rosen: Column 4: Poverty is Won
 Your Money… Your Job… Your Life, With Alison Rosen: Column 5: You Can Haz Rewarding Career! (or Maybe: “Use Internet Slang to Sound Relevant”)
 Your Money… Your Job… Your Life, With Alison Rosen: Column 6: The Importance of Passion in the Workplace
 Your Mother And I Will Enjoy A Lovely Night Without You
+Your Mother’s and My Divorce Explained Through This Awesome Infographic
 Your Neighborhood Laundraclean
 Your New Personal Trainer
 Your Patriarchy is the Reason We Can’t Have Nice Things: Scenes from a Feminist Youth
