@@ -26,6 +26,8 @@ module HeadlineSources
       @progress = options[:start_at] || 1
 
       perform_fetch!
+
+      @store.close!
     end
 
     def puts(str)

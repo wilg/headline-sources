@@ -17,7 +17,6 @@ module HeadlineSources
 
     def add_headlines!(source_id, headlines)
       contents = current_contents(source_id)
-      puts 'insp', contents.last.inspect
       deduplicated = headlines.reject{|h| contents.include?(h.name)}
       if deduplicated.length > 0
         File.open(dictionary_path(source_id), 'a') do |f|

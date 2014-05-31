@@ -3,6 +3,16 @@ require "headline_sources/fetcher"
 module HeadlineSources
   class Store
 
+    def initialize
+      open!
+    end
+
+    def open!
+    end
+
+    def close!
+    end
+
     def add_headlines!(source_id, headlines)
       raise "Not implemented"
     end
