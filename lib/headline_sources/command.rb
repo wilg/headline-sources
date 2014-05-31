@@ -45,29 +45,31 @@ module HeadlineSources
       end
     end
 
-    def batch_to_file
-      pids = []
-      Source.all.each do |source|
-        begin
-          pids << Process.fork do
-            puts "Forked #{source.name} onto pid #{Process.pid}".green
-            source.fetcher.fetch!({start_at: 0, write_progress: false})
+    no_commands do
+      def batch_to_file
+        pids = []
+        Source.all.each do |source|
+          begin
+            pids << Process.fork do
+              puts "Forked #{source.name} onto pid #{Process.pid}".green
+              source.fetcher.fetch!({start_at: 0, write_progress: false})
+            end
+          rescue StandardError
+            puts "Error occured on source '#{source.name}'".red
           end
-        rescue StandardError
-          puts "Error occured on source '#{source.name}'".red
         end
+        puts "Parent process (pid #{Process.pid}), waiting on fetchers #{pids.join(', ')}."
+        Process.wait
       end
-      puts "Parent process (pid #{Process.pid}), waiting on fetchers #{pids.join(', ')}."
-      Process.wait
-    end
 
-    def batch_to_database
-      Source.all.each do |source|
-        puts "Fetching source #{source.name}".cyan
-        begin
-          source.fetcher(ActiveRecordStore).fetch!({start_at: 0, write_progress: false})
-        rescue StandardError
-          puts "Error occured on source '#{source.name}'".red
+      def batch_to_database
+        Source.all.each do |source|
+          puts "Fetching source #{source.name}".cyan
+          begin
+            source.fetcher(ActiveRecordStore).fetch!({start_at: 0, write_progress: false})
+          rescue StandardError
+            puts "Error occured on source '#{source.name}'".red
+          end
         end
       end
     end
@@ -95,6 +97,24 @@ module HeadlineSources
         end
         puts "#{f.id}#{r}\t#{f.name.cyan}"
       end
+    end
+
+    desc "populate_database", "copy everything from the FileStore into the ActiveRecordStore"
+    def populate_database
+      file_store = FileStore.new
+      db_store = ActiveRecordStore.new
+      Source.all.each do |source|
+        puts "Copying source #{source.name}".cyan
+        stored_headlines = file_store.current_contents(source.id)
+        stored_headlines.each_slice(50) do |headlines|
+          added = db_store.add_headlines!(source.id, headlines.map{|h| Headline.new(h)})
+          added.each do |h|
+            puts(("    -> " + h.name).green)
+          end
+        end
+      end
+      db_store.close!
+      file_store.close!
     end
 
   end
