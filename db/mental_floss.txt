@@ -44,6 +44,7 @@
 "Minority Report" Computing Gets Slightly More Real
 "Monkeys, Rats, and Me" on the BBC
 "Moonlight Sonata" in a Bus Station
+"My doctor tells me I should get a colonoscopy."
 "My phone keeps dropping calls. What can I do?"
 "Neon is wonderful, but it's old school."
 "Ninjas" in Blue Robes
@@ -297,10 +298,13 @@ $50,000 Tuition Giveaway Winners Announced!
 10 Extreme Easter Eggs
 10 Facebook Status Updates Gone Horribly Wrong
 10 Facial Reconstructions of Famous Historical Figures
+10 Facts About Archaeopteryx
+10 Facts About Leaellynasaura
 10 Facts About Poison
 10 Facts About The Ten
 10 Facts About Wrigley Field
 10 Facts About Your Favorite Christmas Carols
+10 Facts About the Eiffel Tower for Its 125th Birthday
 10 Facts about Subliminal Messages (that you WILL love)
 10 Fake Photos of Hurricane Sandy That Went Viral
 10 Famous (or Notorious) Ducks
@@ -339,6 +343,7 @@ $50,000 Tuition Giveaway Winners Announced!
 10 Great Discoveries of “Lost” Movies and TV Shows
 10 Great Love Affairs in History
 10 Great Masters of Tilt-Shift Photography
+10 Great Scientists Who Were Also Jocks
 10 Great Train Robberies
 10 Headlines from 9/11/01
 10 Heart-Wrenching Chokes at The Masters
@@ -365,6 +370,7 @@ $50,000 Tuition Giveaway Winners Announced!
 10 Interesting Edibles From the Fancy Food Show
 10 Interesting Numbers in American Culture (Plus or Minus a Few)
 10 Interesting Pieces of Sports Headgear
+10 Interesting Things About Great Britain
 10 International Pizza Pi(e) Toppings
 10 Internet Lies That Won't Die
 10 Internet Memes Illustrated in Peeps
@@ -378,6 +384,7 @@ $50,000 Tuition Giveaway Winners Announced!
 10 Jobs You Didn't Hear About on Career Day
 10 Kind-of-Violent Board Games from the 1960s
 10 Knock-offs That'll Knock Your Socks Off
+10 Lakes That Are Disappearing or Already Gone
 10 Landmark Moments in Animation History
 10 Landmark Moments in YouTube History
 10 Language Mistakes Kids Make That Are Actually Pretty Smart
@@ -407,6 +414,7 @@ $50,000 Tuition Giveaway Winners Announced!
 10 Medical Tools You’re Glad Only Exist in Museums
 10 Memorable Dr. Seuss Quotes About His Work
 10 Memorable Moments From Forgotten Campaigns
+10 Memorable Moments From Our Trivia Show
 10 Memorable Presidential Campaign Slogans
 10 Methods Scientists Use to Date Things
 10 Mileses
@@ -438,6 +446,7 @@ $50,000 Tuition Giveaway Winners Announced!
 10 Movies that Premiered at Sundance 20 Years Ago
 10 Movies to Watch if You Loved Sharknado
 10 Musicians With Official "Days" Named After Them
+10 Musicians and the Fashion Trends They Made Popular
 10 Must-Haves for the Smart Chef
 10 Near-Trades That Would've Changed NBA History
 10 Nicknames Coined By President Bush
@@ -482,6 +491,7 @@ $50,000 Tuition Giveaway Winners Announced!
 10 Photos of Adorable Puppies at the AKC
 10 Photos of Celebrities Jumping for History's Most Persuasive Photographer
 10 Pieces of Fan Art that Ask “What If Things Ended Differently?”
+10 Pieces of Gear for a Smarter Campsite
 10 Pies for Pi Day
 10 Places You've Heard the Wilhelm Scream
 10 Places and the Words They Inspired
@@ -503,6 +513,7 @@ $50,000 Tuition Giveaway Winners Announced!
 10 Quirky Marriage Proposals
 10 Quirky Things Politicians Do
 10 Real Intersections With Unforgettable Names
+10 Real-Life Locations of Fictional Television Hangouts
 10 Real-Life Panic Rooms
 10 Really Bad Movies that Define "Bad Movies"
 10 Really Weird Pieces of Classical Music
@@ -524,6 +535,7 @@ $50,000 Tuition Giveaway Winners Announced!
 10 Scandalous Stars of the Silent Screen
 10 Scandalous VP Stories Worth a Warm Bucket of Spit
 10 Sci-Fi Gingerbread Creations
+10 Science Experiments You Can Eat with Your Kids
 10 Screensavers of Yore
 10 Secret Menu Items From Fast Food Restaurants
 10 Secrets of the Vatican Exposed
@@ -535,6 +547,7 @@ $50,000 Tuition Giveaway Winners Announced!
 10 Snack Foods Originally Sold as Medicines
 10 Songs Bill Nye Made Educational
 10 Songs That Sample “Good Times”
+10 Special Edition Mr. Potato Heads With Fantastic Names
 10 Sports Heroes You Won't Find On Wheaties Boxes
 10 Sports Involving Pumpkins
 10 Sports Terms Named for People
@@ -568,6 +581,7 @@ $50,000 Tuition Giveaway Winners Announced!
 10 Technology Prizes That Propelled Us Forward
 10 Tempestuous Writerly Romances
 10 Terms to Describe the Anatomy of a Book
+10 Terrible Overreactions to Messed Up Fast Food Orders
 10 Thanksgiving Traditions
 10 Things About Detroit That May Surprise You
 10 Things Created Over a Couple of Beers
@@ -585,15 +599,20 @@ $50,000 Tuition Giveaway Winners Announced!
 10 Things You Didn't Know About the President's Secret Army
 10 Things You Didn't Know About the Super Bowl Halftime Show
 10 Things You Don't Know About Starbucks (But Should!)
+10 Things You May Not Know About Little Women
 10 Things You Might Not Know About 'Gone With the Wind'
 10 Things You Might Not Know About A Christmas Carol
+10 Things You Might Not Know About Allosaurus
 10 Things You Might Not Know About Anne Frank's Diary
 10 Things You Might Not Know About Atari
+10 Things You Might Not Know About Diplodocus
 10 Things You Might Not Know About Dorothy Parker
 10 Things You Might Not Know About Maurice Sendak
 10 Things You Might Not Know About Nelson Mandela
 10 Things You Might Not Know About North Korea
+10 Things You Might Not Know About Parasaurolophus
 10 Things You Might Not Know About Peter Sellers
+10 Things You Might Not Know About Plateosaurus
 10 Things You Might Not Know About Seth Meyers
 10 Things You Might Not Know About Spinosaurus
 10 Things You Might Not Know About The Avengers
@@ -707,6 +726,7 @@ $50,000 Tuition Giveaway Winners Announced!
 1000 Blank White Cards
 1000 Hip Hop Monikers on One Huge Poster
 101 Amazing Facts
+101 Masterpieces: Moby-Dick
 107 Regional Slang Words
 10th Caption Contest Finalists!
 11 "Modern Antiques" Kids Today Have Never Seen
@@ -722,9 +742,11 @@ $50,000 Tuition Giveaway Winners Announced!
 11 Actors You Might Not Realize Do Commercial Voiceovers
 11 Acts of Kindness in the Aftermath of Hurricane Sandy
 11 Adorable (And Essential) Animal Development Milestones
+11 Advertising Slogans That Became Catch-Phrases
 11 Air Fresheners That Smell Like Food
 11 Album Covers Re-imagined With Clipart
 11 Album Covers With Dead Band Members Removed
+11 Alternative Summer Camps
 11 Alternative Ways to Learn Your ABCs
 11 Amazing Actors Who Appeared in Commercials
 11 Amazing Animal Births Caught on Video
@@ -746,6 +768,7 @@ $50,000 Tuition Giveaway Winners Announced!
 11 Artists Doing Amazing Things With Recycled Materials
 11 Athletes Who Had Their Own Cereals
 11 Authors Who Hated the Movie Versions of Their Books
+11 Awesome Animal Kingdom Moms
 11 Awesome Candies That You’ll Probably Never Eat Again
 11 Awesome Musical Performances from NBC's Late Night with David Letterman
 11 Awesome NERF Facts—Plus, a Contest!
@@ -758,10 +781,12 @@ $50,000 Tuition Giveaway Winners Announced!
 11 Baby Naming Trends of the Past
 11 Bad Jokes and Other Deleted Nonsense: Best of Wikipedia
 11 Badass Neil deGrasse Tyson Quotes
+11 Beautiful Alphabets from Ancient and Medieval Times
 11 Beautiful and Creative SXSW Film Posters
 11 Ben & Jerry’s Flavors Inspired by Pop Culture
 11 Bits of Wisdom From Alfred Hitchcock
 11 Bizarre Old Contraptions That Promised to Improve Your Looks
+11 Bizarre Ways Tetris Has Been Played
 11 Bizarre and Dangerous Items Sold by Sears in 1902
 11 Bloody Facts About Vampire Bats
 11 Body Parts Named After People
@@ -801,6 +826,7 @@ $50,000 Tuition Giveaway Winners Announced!
 11 Colleges That Changed Their Mascots
 11 Colorful Phrases From Ancient Roman Graffiti
 11 Colors You've Probably Never Heard Of
+11 Comic Book Superpowers The World Could Do Without
 11 Comics From the Comic Strip Switcheroo of 1997
 11 Commercials for Defunct '90s Food and Drinks
 11 Common Words You're Probably Mispronouncing
@@ -856,6 +882,7 @@ $50,000 Tuition Giveaway Winners Announced!
 11 Facts About the Ambidextrous
 11 Facts About the Iditarod
 11 Facts About the Macy's Thanksgiving Day Parade Balloons—And What It Takes To Inflate Them
+11 Facts About the Megamouth Shark
 11 Facts from the American Museum of Natural History's New Food-Themed Exhibit
 11 Famous Actors and the Big TV Roles They Turned Down
 11 Famous Illeists
@@ -869,6 +896,8 @@ $50,000 Tuition Giveaway Winners Announced!
 11 Famous Works of Art That Were Never Actually Completed
 11 Fan Art Tributes to Teddy Roosevelt
 11 Fantastic French Phrases for Baseball Terms
+11 Fascinating Animals to Visit on Kangaroo Island
+11 Fashion Trends of World War I
 11 Fashions the Kids Were Wearing Back in 1993
 11 Fast Food Oddities Nobody Had Asked For
 11 Features You No Longer See in Cars
@@ -909,6 +938,7 @@ $50,000 Tuition Giveaway Winners Announced!
 11 Great Salvador Dali Art Mash Ups
 11 Great Television Shows That Are Lost Forever
 11 Great Zoo Posters Created for the WPA
+11 Gross Things That Could Be On Your Toothbrush
 11 Harry Potter Facts for His 33rd Birthday
 11 Hidden Messages in Company Logos
 11 High School Dropouts Who Found Success Anyway
@@ -920,14 +950,17 @@ $50,000 Tuition Giveaway Winners Announced!
 11 Historical Uses for Invisible Ink
 11 Historically Important Works of Taxidermy
 11 Hit Songs Originally Intended for Other Artists
+11 Home Furnishings Inspired by Toys
 11 Hotels With Exciting Past Lives
 11 Household Items Made Into Prom Dresses
 11 Housewarming Gifts for the Dedicated Gamer
 11 Human and Animal Bodily Byproducts That Sell for Cold, Hard Cash
 11 Iconic Perfumes of the ’80s
 11 Ill-Conceived TV Spinoffs That Almost Happened
+11 Images from the American Museum of Natural History's Archives
 11 Impressive Thanksgiving Cupcakes
 11 Incredible Acts of Courage
+11 Incredible Bike Mods
 11 Incredible Edible Daleks
 11 Incredible Facts About Venus Flytraps
 11 Insane Features of Normal Human Anatomy
@@ -1054,6 +1087,7 @@ $50,000 Tuition Giveaway Winners Announced!
 11 Pictures Politicians Wish Were Never Taken
 11 Pieces of Fantastically Geeky Furniture
 11 Places Where Wonderful Things Are Happening
+11 Places to Visit on a Tour of the English Language
 11 Planets You Never Had to Memorize
 11 Playsets Totally Worth $25 Million
 11 Poets Who Wrote Dirty Verse
@@ -1074,6 +1108,7 @@ $50,000 Tuition Giveaway Winners Announced!
 11 Random Things From Our YouTube Set
 11 Rare Children's Books from the Library of Congress
 11 Really Bizarre World Records
+11 Really Terrible 19th-Century Beauty Tips
 11 Really Weird Snakes
 11 Reasons Agatha Christie Was as Interesting as Her Characters
 11 Reasons Athletes Change Their Names
@@ -1151,6 +1186,7 @@ $50,000 Tuition Giveaway Winners Announced!
 11 Things That Have No Business Being Lip Balms
 11 Things That Make You a Bad Driver
 11 Things We Know About the Dodo
+11 Things We Learned About The Amazing Spider-Man 2
 11 Things We No Longer See in Movie Theaters
 11 Things We No Longer See in Offices
 11 Things We No Longer See on Airplanes
@@ -1180,6 +1216,7 @@ $50,000 Tuition Giveaway Winners Announced!
 11 Things to Know About Iron Man
 11 Things we just learned about Prince
 11 Time Traveler Urban Legends That Pretty Much Debunk Themselves
+11 Times Athletes Did Awesome Things
 11 Times Companies Bowed to Customer Outcry
 11 Times TIME's Person of the Year Wasn't Really a Person
 11 Times Video Games Led to Lawsuits
@@ -1216,6 +1253,7 @@ $50,000 Tuition Giveaway Winners Announced!
 11 Wars That Lasted Way Longer Than They Should Have
 11 Wars That Led to Natural Disasters
 11 Ways Advertisers Make Food Look Delicious
+11 Ways People Have Cheated Slot Machines
 11 Ways We Used Radiation in Everyday Life
 11 Ways the Government Shutdown Affects Science
 11 Ways to Handle a Heckler
@@ -1242,6 +1280,7 @@ $50,000 Tuition Giveaway Winners Announced!
 11 Words and Phrases Popularized by Teddy Roosevelt
 11 Words and Phrases Popularized by World War I
 11 Words for People Who Hate Certain Things
+11 Workout Tips from Ancient Civilizations
 11 Works of Art Made With Road Maps
 11 Workshops from the International University of Santa Claus
 11 Writers Who Really Loved Cats
@@ -1274,6 +1313,7 @@ $50,000 Tuition Giveaway Winners Announced!
 12 Cat-Related Patents That Are Really Quite Bizarre
 12 Celebrity Professors
 12 Characters From Your Childhood Voiced by Tim Curry
+12 Charming Tidbits About Beverly Cleary
 12 Chinese Travel Tips for Visiting America
 12 Christmas Cards Sure to Geek Up Your Holiday Spirit
 12 College Classes We Wish Our Schools Had Offered
@@ -1321,6 +1361,7 @@ $50,000 Tuition Giveaway Winners Announced!
 12 Hours of Werner Herzog
 12 Impressive Sci-Fi Quilts
 12 Inappropriate Calls Made to the Scottish Police
+12 Internet Memes You Can Snuggle Up With
 12 Jobs People Decided to Give to Cats
 12 Kids Impersonating Rock Stars
 12 Knock-offs that'll knock off your socks!
@@ -1369,6 +1410,7 @@ $50,000 Tuition Giveaway Winners Announced!
 12 Star Trek Gadgets That Now Exist
 12 Star-Powered College Roommates
 12 Star-Studded Benefits Before the 12-12-12 Concert for Sandy Relief
+12 Stephen Colbert Quotes for His 50th Birthday
 12 Steps in Bringing Wonder Woman To The Big Screen
 12 Strange, Yet Beautiful Fruits & Vegetables
 12 Strange-But-Real Ice Cream Flavors
@@ -1382,6 +1424,7 @@ $50,000 Tuition Giveaway Winners Announced!
 12 Things We Just Learned About Buffy
 12 Things We've Enhanced With Caffeine
 12 Things You Can Do On A Segway
+12 Things You Didn't Know Were Named After People
 12 Things You Might Not Know About "The Twelve Days of Christmas"
 12 Things You Might Not Know About A Christmas Story
 12 Things You Might Not Know About Puppy Bowl
@@ -1399,8 +1442,10 @@ $50,000 Tuition Giveaway Winners Announced!
 12 Unusual Measurements for International Metrology Day
 12 Unusual Mid-Century Pageant Queens
 12 Very Special 'Very Special Episodes'
+12 Vintage Photos of People Learning to Swim
 12 Violinists Known for Something Else
 12 Wacky and Sometimes Dangerous Patents for the Holiday Season
+12 Ways Monsters Were Made (According to a Medieval Doctor)
 12 Ways You Can Support Charities Without Donating Money
 12 Ways to Give Your Heart
 12 Weird Vintage Pictures From Séances
@@ -1428,9 +1473,11 @@ $50,000 Tuition Giveaway Winners Announced!
 13 Bizarre Animal Warning Signs
 13 Bizarre Stipulations in Wills
 13 Bizarrely Specific Official State Appetizers, Toys, Soils, and More
+13 Bold Fashion Predictions from 1893
 13 Brazen Harry Potter Knock-Offs From Around the World
 13 Canadian Alcoholic Beverages for Your Canada Day Boozing
 13 Charming Quotes from Sir Patrick Stewart
+13 Common Travel Scams—And How to Avoid Them
 13 Cool Shopping Bags
 13 Cool and Crazy Variations on the Bicycle
 13 Curious Clauses in Baseball Contracts
@@ -1450,6 +1497,7 @@ $50,000 Tuition Giveaway Winners Announced!
 13 Fun Facts About the Internet’s Cutest Cat, Lil Bub
 13 Fun and Impressive Pieces of Doctor Who Fan Art
 13 Geeky Bachelor and Bachelorette Party Ideas
+13 Graphs for Laughs
 13 Great Jack Nicholson Quotes for his 77th Birthday
 13 Hitchcock Films That Were Never Made
 13 Houses With Secret Passageways
@@ -1457,6 +1505,7 @@ $50,000 Tuition Giveaway Winners Announced!
 13 Iconic Characters Reimagined in Different Eras
 13 Images from Dresden’s Kunsthof
 13 Images from National Geographic's Photo Contest
+13 Incredible Unbroken Takes in Movies
 13 Incredibly Focused Graduate Programs
 13 Life-Changing (or not) Flowcharts
 13 Little-Known Punctuation Marks We Should Be Using
@@ -1464,6 +1513,7 @@ $50,000 Tuition Giveaway Winners Announced!
 13 Medical Conditions Named After People
 13 More Great Kickstarter Projects
 13 More Wonderful Librarian Tattoos
+13 Niche Blogs to Fill Your Weekend
 13 Nikola Tesla Quotes for His Birthday
 13 Nostalgia-Heavy Commercials To Make You Pine For 1987
 13 Patent-Holding Celebrity Inventors
@@ -1483,6 +1533,7 @@ $50,000 Tuition Giveaway Winners Announced!
 13 Things You Didn't Know About Hocus Pocus
 13 Things You Might Not Know About Mae West
 13 Things You Might Not Know About Sleeping Beauty
+13 Tips for Landing a Wife (in the 19th Century)
 13 University-Sanctioned Paranormal Research Projects
 13 Unusual Objects Covered in Crystals and Diamonds
 13 Vintage Internet Ads Begging You to Get Online
@@ -1559,6 +1610,7 @@ $50,000 Tuition Giveaway Winners Announced!
 15 Banknotes That Show Queen Elizabeth’s Aging Process
 15 Beautiful Objects We Don’t Use Anymore
 15 Behind-the-Scenes Secrets of Wreck-It Ralph
+15 Chewbacca Facts in Honor of Peter Mayhew’s Birthday
 15 Classic Children's Books That Started as Bedtime Stories
 15 Classified Ads We Hope Had Happy Endings
 15 Couples Who Collaborated
@@ -1601,6 +1653,7 @@ $50,000 Tuition Giveaway Winners Announced!
 15 More Excellent Victorian Slang Terms
 15 More Kickstarter Projects We Love
 15 More Quirky Menorahs
+15 Movies That Were Booed At The Cannes Film Festival
 15 Muppets Auditioning For Other Roles
 15 My Little Pony Mashups
 15 Noteworthy Nobel Prize Nuggets
@@ -1610,6 +1663,7 @@ $50,000 Tuition Giveaway Winners Announced!
 15 Offbeat Holidays You Can Celebrate in November
 15 Offbeat Holidays You Can Celebrate in October
 15 Offbeat Holidays You Can Celebrate in September
+15 Old-School Sesame Street Parodies
 15 Oscar-Winning Films Recreated With Peeps
 15 Patron Saints for Modern Situations
 15 Pieces of Seriously Geeky Cat Gear
@@ -1619,6 +1673,7 @@ $50,000 Tuition Giveaway Winners Announced!
 15 Productivity Secrets from Very Prolific Writers
 15 Reasons Mister Rogers Was the Best Neighbor Ever
 15 Recent Presidential Elections: A Matter of Inches
+15 Retronyms for When You’re Talking Old School
 15 Science Experiments You Can Do With Your Kids
 15 Scientific Reasons Spring Is the Most Delightful Season
 15 Secrets of Space Suit Design
@@ -1634,6 +1689,7 @@ $50,000 Tuition Giveaway Winners Announced!
 15 Terrific Alternatives to “Hello”
 15 Things We Miss About Old-School Gaming
 15 Things You Might Not Know About Bill & Ted’s Excellent Adventure
+15 Things You Might Not Know About Caddyshack
 15 Things You Might Not Know About Frank Sinatra
 15 Things You Might Not Know About Mystery Science Theater 3000
 15 Things You Might Not Know About St. Patrick’s Day
@@ -1662,15 +1718,18 @@ $50,000 Tuition Giveaway Winners Announced!
 15% Off Your Back-to-School Shopping
 15-Year-Old Creates Free Trivia App
 16 404 Pages That Are Worth the Error
+16 Amazing Facts About Sea-Monkeys
 16 Amazing Places to Visit Via Google Street View
 16 Amazing Stories About Trees
 16 Artworks Made From Sweet, Sweet Gummy Bears
 16 Attractions Open Christmas Day
 16 Bizarre Things You Can Pay to Smell Like
+16 Characters From Other Languages That Make Great Emoticons
 16 Christmas Party Beverages, Cocktails, and Jello Shots
 16 Delicious Facts About Peeps
 16 Fun Facts About Grumpy Cat
 16 Fun Facts About Hedgehogs
+16 Fun Facts About Tortoises
 16 Fun Pieces of Canadian TV Fan Art
 16 Google Easter Eggs You Might Have Missed
 16 Incredible Planetarium Projectors
@@ -1693,14 +1752,17 @@ $50,000 Tuition Giveaway Winners Announced!
 16 Totally Normal Phobias You Didn't Know Had Names
 16 Vintage Photos of Labor Day Celebrations
 16 Ways to Find Love in the Personal Ads (in 1900)
+16 Weird Forgotten English Words We Should Bring Back
 16 Words That Are Much Older Than They Seem
 16 of Our Favorite Rabbits
 167 Theremin Players Perform Beethoven
 17 Amazingly Geeky Wedding Cakes
 17 Ancient Abandoned Websites That Still Work
 17 Bizarre Natural Remedies From the 1700s
+17 Cakes Inspired By Real Buildings
 17 Canadian World Heritage Sites
 17 Elaborately Staged Theme Park Ride Photos
+17 Essential Talking Points on the Kentucky Derby
 17 Euphemisms for Sex From the 1800s
 17 Extreme Donuts That Look Like They'll Kill You
 17 Famous Actors in Tiny Background Parts
@@ -1715,6 +1777,7 @@ $50,000 Tuition Giveaway Winners Announced!
 17 Overly Optimistic Book Titles
 17 Pushbutton Configurations that Didn't Make the Cut
 17 Really Strange Pinterest Boards
+17 Scenes From the Polar Bear Capital of the World
 17 Signs That You'd Qualify as a Witch in 1692
 17 Slogans on Town Welcome Signs You Won't See Anywhere Else
 17 Stunning Works of Mosaïculture
@@ -1747,10 +1810,13 @@ $50,000 Tuition Giveaway Winners Announced!
 18 Famous People Who Are Missing Body Parts
 18 Famous TV Roles Originally Played by Someone Else
 18 Fan Art Tributes to Tony Soprano
+18 Fancy Words for Specific Shapes
+18 Fun Facts About Teen Witch
 18 Gene Names that Cover the Gamut, From Movies to Pop Culture to Cartoons
 18 Independent Artists at Comic Con 2012
 18 Memorable Ad Questions
 18 Metaphors & Analogies Found in Actual Student Papers (Or Not—But They're Still Hilarious)
+18 Offbeat Holidays You Can Celebrate in May
 18 Offbeat Holidays to Celebrate in January
 18 Outlandish Uses of Real and Fake Body Parts on Etsy
 18 People Who Won Oscars For Their First Movie
@@ -1759,6 +1825,7 @@ $50,000 Tuition Giveaway Winners Announced!
 18 Stunning Black-Light-Responsive Tattoos
 18 Terrifying Old Costumes You Can't Unsee
 18 Things You Didn't Learn in History Class
+18 Things You Might Not Know About Just One of the Guys
 18 Vintage Photos From Prohibition
 18 Vintage Photos From Thanksgivings Past
 18 Vintage Photos of People Celebrating Independence Day
@@ -1789,6 +1856,7 @@ $50,000 Tuition Giveaway Winners Announced!
 19 Super Facts for Your Super Bowl Party
 19 Surprising Rules Copyeditors Used to Enforce
 19 Things You Might Not Know About California
+19 Things You Might Not Know About My So-Called Life
 19 Things You Might Not Know About Nevada
 19 Things You Might Not Know Were Invented by Women
 19 Things You Might Not Know Were Invented in Canada
@@ -1836,7 +1904,9 @@ $50,000 Tuition Giveaway Winners Announced!
 20 Facts About Your Favorite Liquors
 20 Fantastic Tolkien-Inspired Tattoos
 20 First-Time Directors Nominated For An Academy Award
+20 Fun Facts About Indiana Jones and the Temple of Doom
 20 Fun Facts About Our Mysterious Feline Friends
+20 Fun Facts About The Cosby Show
 20 Fun Facts About The Exorcist On Its 40th Birthday
 20 Fun Facts About The Golden Girls
 20 Gentle Quotations from Mister Rogers
@@ -1854,15 +1924,19 @@ $50,000 Tuition Giveaway Winners Announced!
 20 Self-Deprecating Notes on Vintage Photos
 20 Songs You Might Not Know Were Covers
 20 Songs You Won't Believe Are 20 Years Old
+20 Things You Didn't Know About the Console Wars
 20 Things You Might Not Have Known About Gone with the Wind
+20 Things You Might Not Know About E.T.
 20 Things You Might Not Know About Freaks and Geeks
 20 Things You Might Not Know About Ghostbusters
 20 Things You Might Not Know About Giraffes
 20 Things You Might Not Know About Jurassic Park
+20 Things You Might Not Know About The X-Men
 20 Things You Probably Didn’t Know About The A-Team
 20 Towns Named for Other Towns But Pronounced Differently
 20 Tweets Illustrated by Twaggies
 20 Very Rare (And Very Really Expensive) LEGO Minifigures
+20 Wise and Witty J. K. Rowling Quotes
 20 Words We Owe to Shakespeare
 20 Years of Six Degrees of Kevin Bacon
 20% Off Sale!
@@ -1884,12 +1958,14 @@ $50,000 Tuition Giveaway Winners Announced!
 21 Famous Actors Who Quietly Voiced Cartoon Characters
 21 Fun Activities Outside the San Diego Comic Con
 21 Mind-Blowing Lifeforms That Are Now Extinct
+21 Penguin Facts for World Penguin Day
 21 Predictions for 1993 from 1893
 21 Presidential Doodles
 21 Scenes From Our Trip to the Pizza Museum
 21 Street Gangs Featured in The Warriors
 21 Things You Didn't Know About the 21st President
 21 Things You Didn’t Know About Rushmore
+21 Things You Might Not Know About Blue Velvet
 21 Things You Might Not Know About Raiders of the Lost Ark
 21 Wonderful Words for Wind
 21 World War I Recruitment Posters From Around the Globe
@@ -1907,7 +1983,9 @@ $50,000 Tuition Giveaway Winners Announced!
 22 Songs that Write Themselves from The Songwriter’s Rhyming Dictionary
 22 Space Agencies that Aren't NASA
 22 Things We Learned from AMNH's Whales: Giants of the Deep Exhibition
+22 Things You Might Not Know About Dawson's Creek
 22 Things You Might Not Know About Hawaii
+22 Things You Might Not Know About Mulholland Drive
 22 Things You Might Not Know About the Stanley Cup
 22 Vintage Photos of Animals Acting Like People
 23 Album Covers that Changed Everything!
@@ -1915,6 +1993,8 @@ $50,000 Tuition Giveaway Winners Announced!
 23 Bizarre Things Ceremonially Dropped on New Year's Eve
 23 Fun Facts About Firefly
 23 Fun Facts About Things We Saw at the Grocery Store
+23 Music Videos Starring Pre-Fame Celebrities
+23 Places Where the Konami Code Lives On
 23 Toothpastes, 1 Cup
 23 Unusual Animals You Need to Meet Right Now
 23 Vintage Photos of People Having Fun in the Snow
@@ -1926,6 +2006,7 @@ $50,000 Tuition Giveaway Winners Announced!
 24 Library-Centric Sites We Love
 24 More Cool College Landmarks
 24 Pictures of Adorable Cats And Dogs From Meet The Breeds 2012
+24 Sure Signs You’re an 1890s Kid
 24 Unintended Scientific Discoveries
 24 Useful Words From Laádan, a Language Invented to Express a Woman's Point of View
 24 Utterly Adorable Pet Halloween Costumes
@@ -1941,15 +2022,18 @@ $50,000 Tuition Giveaway Winners Announced!
 25 College Classes Based on TV Shows
 25 Deep-Fried Foods From the Texas State Fair
 25 Facts About Famous Christmas Movies
+25 Facts About George Washington
 25 Fictional Characters Posing With mental_floss
 25 Fun Facts About A League Of Their Own
 25 Fun Facts About ALF
 25 Fun Facts About Back to the Future
+25 Fun Facts About Godzilla
 25 Fun Size Facts About Classic Halloween Candy
 25 Legit Words from the Hepcats Jive Talk Dictionary
 25 Literary Opening Lines Diagrammed on One Giant Poster
 25 Little-Known Facts About Thanksgiving
 25 More Holiday Movie Facts
+25 Movie Cameos by the Authors of the Original Books
 25 Movies With Similar Plots Released the Same Year
 25 One-Word Answers to Very Important Questions
 25 Presidential Facts for Everyone Killing Time at the Polls
@@ -1970,10 +2054,14 @@ $50,000 Tuition Giveaway Winners Announced!
 25 Things You Might Not Know About Atlanta
 25 Things You Might Not Know About Back to the Future
 25 Things You Might Not Know About Boston
+25 Things You Might Not Know About Boy Meets World
+25 Things You Might Not Know About Brain Candy
 25 Things You Might Not Know About Chicago
+25 Things You Might Not Know About Friends
 25 Things You Might Not Know About Los Angeles
 25 Things You Might Not Know About Sledding
 25 Things You Might Not Know About The Shining
+25 Things You Might Not Know About The Sopranos
 25 Things You Probably Didn’t Know About Portland
 25 Things You Probably Don’t Know About Tampa
 25 Things to Look for While Watching the 24-Hour A Christmas Story Marathon
@@ -1990,6 +2078,8 @@ $50,000 Tuition Giveaway Winners Announced!
 26 Bizarre Animal Mating Habits
 26 Classes We Wish Our Schools Had Offered
 26 Cool Tattoos Spotted at Comic Con
+26 Facts About the Scripps National Spelling Bee
+26 Famous Art Heists
 26 Fantastic Examples of Star Wars Cosplay
 26 Halloween Costume Ideas from an 1887 Guide to Fancy Dress
 26 Important Comic Books
@@ -2002,6 +2092,7 @@ $50,000 Tuition Giveaway Winners Announced!
 27 Actors Who Got Their Starts on Miami Vice
 27 Amazing Facts About Famous Comic Strips
 27 Awesome Vintage Photos of Moms
+27 Awesomely Staged Roller Coaster Photos
 27 Bits of Wisdom from 2012 Commencement Addresses
 27 Buildings Shaped Like Food That's Sold There
 27 Cowboy Slang Terms for Things You Eat and Drink
@@ -2021,6 +2112,7 @@ $50,000 Tuition Giveaway Winners Announced!
 29 Years Ago: Apple Unveils the Mac
 3 American Border Disputes You Probably Never Studied
 3 Animals (Other Than Birds) That Mimic Human Speech
+3 Animals on the Baseball Field
 3 Arrested Development Quizzes to Celebrate The Bluth Family's (Possible?) Return
 3 Artists Who Were Really Bad at Their Art
 3 Awesome Social Impact Products
@@ -2085,6 +2177,7 @@ $50,000 Tuition Giveaway Winners Announced!
 30 Famous People With Law Degrees
 30 Minutes of Return of the Jedi Raw Footage
 30 Pixar Easter Eggs to Look for Next Time
+30 Presidential Nicknames—Explained!
 30 Teams, 5 Minutes: An NBA Challenge
 30 Teams, 5 Minutes: An NHL Challenge
 30 Things Turning 30 This Year
@@ -2101,10 +2194,13 @@ $50,000 Tuition Giveaway Winners Announced!
 31 Famous People Who Married Their First Cousins
 31 Flavors (and then some)
 31 Old Timey Slang Terms for "Informant"
+31 Things You Might Not Know About What’s Happening!!
 31 Unbelievable High School Mascots
+32 Car Name Origins
 32 Famous People Rejected by SNL
 32 Vintage Photos of People Having a Merry Christmas
 33 Fascinating Stories Behind Famous Songs
+33 Fun Facts About Buffy the Vampire Slayer
 33 Fun Facts About Colleges
 33 Unusual Majors Your College Probably Didn't Offer
 35 Classic Baseball Cards and What They're Worth Today
@@ -2117,6 +2213,7 @@ $50,000 Tuition Giveaway Winners Announced!
 36 of the Geekiest Tattoos from Comic-Con 2011
 37 Odd College Mascots
 37 Vintage Travel Posters From the Library of Congress
+38 Bleak Photos of Abandoned Shopping Malls
 38 Common Spelling and Grammar Errors
 38 Essential facts about Frankenstein (Fact #37: He's on a postage stamp?!)
 38 Facts on Frankenstein (Including the Aerosmith song it inspired and the reason the Munsters never got sued)
@@ -2132,6 +2229,7 @@ $50,000 Tuition Giveaway Winners Announced!
 4 Animals That Ran for Mayor (and Won!)
 4 Animals You Can Only Find in Zoos
 4 Atomic-Themed 1950s Beauty Queens
+4 Awesome Things Harper Lee Did After Mockingbird
 4 BR, 2 BA, 1 Ghost: What the Law Says About Selling Haunted Houses
 4 Benefits of Writing By Hand
 4 Big Differences Between Canadian and American Thanksgiving
@@ -2209,6 +2307,7 @@ $50,000 Tuition Giveaway Winners Announced!
 4 People With Super Memory
 4 Pieces of Modern Art and a Monkey
 4 Places That Will Never See a Club Med
+4 Playing Card FAQs Answered
 4 Poisonous Birds
 4 Presidential In-Laws Who Made the Move to Washington
 4 Presidents (and one VP) Humbled at National Parks
@@ -2271,6 +2370,7 @@ $50,000 Tuition Giveaway Winners Announced!
 40 Years Ago, Iran Was Hit by the Deadliest Blizzard in History
 408 Hot Air Balloons
 41 Brand Names Given to Drugs in The Wire
+41 Brand Names People Use as Generic Terms
 41 of History's Weirdest Pets
 42 Facts About Jackie Robinson
 42 Idiom Origins Explained
@@ -2281,8 +2381,12 @@ $50,000 Tuition Giveaway Winners Announced!
 45 Facts for Presidents' Day
 45 Favorites From the Amazing Fact Generator
 45 Odd Facts About U.S. Presidents
+45 Wonderful Illustrations of Sea Life From 1868
+45 Years Ago Today, Mister Rogers Saved Public Television
 46 State Fairs and What Makes Them Special
 46 Things I Learned Making Mister Rogers & Me
+47 Charming Facts About Famous Children's Books
+48 Famous People With Surprising Hobbies
 48 Movie Line Rhymes
 48 Things You Didn't Know Had Names
 49 Hoaxes People Actually Believed
@@ -2306,6 +2410,7 @@ $50,000 Tuition Giveaway Winners Announced!
 5 Artists Reportedly Held at Gunpoint by Phil Spector
 5 Athletes Who Struggled as Politicians
 5 Automotive Brands That Came Back from the Dead
+5 Awe-Inspiring Teachers of Yore
 5 Awesome Facts About the Atlas Moth
 5 Awesomely NSFW Mini-Games
 5 Awful Saturday Night Live Hosts of the '70s
@@ -2324,6 +2429,7 @@ $50,000 Tuition Giveaway Winners Announced!
 5 Bold Proposals For Cleaning Up Space Junk
 5 Books Dictated From Beyond the Grave
 5 Books That Probably Won't Be Adapted into Movies
+5 Boring Subjects Translated Into Clickbait Headlines
 5 Bowl Games With Peculiar Corporate Sponsors
 5 Brazen Examples of Price Fixing
 5 Candidates for the First Rock 'n' Roll Song
@@ -2358,6 +2464,7 @@ $50,000 Tuition Giveaway Winners Announced!
 5 Cruises for the geek in all of us
 5 Cults We Feel OK With
 5 Curious Coincidences Between the Phillies' World Series Wins
+5 DIY Projects to Defend Your Home From Invaders
 5 Dangerously Popular Holiday Toys
 5 Dates You Won't Find on Your Calendar
 5 Deadly Animals That Might Just Save Your Life
@@ -2369,6 +2476,7 @@ $50,000 Tuition Giveaway Winners Announced!
 5 Drinking Stories That Put Yours To Shame
 5 Dumb Moments in TV Careers
 5 Early Film Adaptations of Books You Might Not Know About
+5 Early Seinfeld Stand-Up Clips for His 60th Birthday
 5 Easy Tips for Better Hair (From the Early 1900s)
 5 Election Day Superstitions
 5 Extremely Emo Scientific Phenomena
@@ -2405,6 +2513,7 @@ $50,000 Tuition Giveaway Winners Announced!
 5 Forgotten Drug Fads
 5 Forgotten Fairy Tales from the Brothers Grimm
 5 Forgotten Founding Fathers
+5 Game Show Controversies That Weren’t in Quiz Show
 5 Geniuses Who Renounced Their Work
 5 Ghosts Haunting The Sports World
 5 Graffiti Artists You Should Know
@@ -2431,11 +2540,13 @@ $50,000 Tuition Giveaway Winners Announced!
 5 Infamous Female Spies
 5 Innovative Ways to Encourage Safer Sex
 5 Inspiring People Living With Polio
+5 Interesting Stories That Involve Pat Sajak
 5 Interesting Study Abroad Destinations
 5 Interesting Tributes to Ronald Reagan
 5 Inventions That Enhanced Laziness
 5 Island Vacations for the Truly Intrepid, Pt 2
 5 Jaw-dropping Interviews
+5 Jeopardy! Questions That Stumped (Fictional) Geniuses
 5 Jobs With Epic Championship Tournaments
 5 Large Structures That Have Been Moved Short Distances
 5 Last-Minute Charitable Gifts
@@ -2520,6 +2631,7 @@ $50,000 Tuition Giveaway Winners Announced!
 5 Questions: "Ash" at the Beginning
 5 Questions: "Ata" Boy
 5 Questions: "Bass" Ackwards
+5 Questions: "Bo" Knows
 5 Questions: "Booker", Danno
 5 Questions: "Boot"y Call
 5 Questions: "Born" Again
@@ -2545,6 +2657,7 @@ $50,000 Tuition Giveaway Winners Announced!
 5 Questions: "Don" Go Away, I'm No Good for You
 5 Questions: "Don" Look Now
 5 Questions: "Drop" Everything!
+5 Questions: "Dum"my Up
 5 Questions: "Express"way
 5 Questions: "FREE" ANSWERS
 5 Questions: "Fair" Enough
@@ -2579,6 +2692,7 @@ $50,000 Tuition Giveaway Winners Announced!
 5 Questions: "Liv" for Today
 5 Questions: "Lobo"tomy
 5 Questions: "Lock" It Up
+5 Questions: "Mallo" Out
 5 Questions: "Mid"Season Finale
 5 Questions: "Mix" Tape
 5 Questions: "Mob" Mentality
@@ -2618,6 +2732,7 @@ $50,000 Tuition Giveaway Winners Announced!
 5 Questions: "Shor" 'Nuff
 5 Questions: "Sic" and Tired
 5 Questions: "Slim" Chance
+5 Questions: "Spoon" Fed
 5 Questions: "Star" Collector
 5 Questions: "Stick" It
 5 Questions: "Strip" Tease
@@ -2838,6 +2953,7 @@ $50,000 Tuition Giveaway Winners Announced!
 5 Questions: Am I Blue?
 5 Questions: American Idol
 5 Questions: American Idol Names
+5 Questions: Among My Souvenirs
 5 Questions: An "Ax"e to Grind
 5 Questions: An Esther Tester
 5 Questions: An Explosive Quiz
@@ -3124,6 +3240,7 @@ $50,000 Tuition Giveaway Winners Announced!
 5 Questions: Climb Ev'ry Mountain
 5 Questions: Climbing Up
 5 Questions: Close the Door, I'm Dressing
+5 Questions: Clueless
 5 Questions: Coal "Mine"rs Rescue
 5 Questions: Cock-a-Doodle Deux
 5 Questions: Coffee Talk
@@ -3157,7 +3274,9 @@ $50,000 Tuition Giveaway Winners Announced!
 5 Questions: Crown Rack of Trivia
 5 Questions: Cruller and Unusual Punishment
 5 Questions: Crunch Time
+5 Questions: Cry Me a "River"
 5 Questions: Cry Me a River
+5 Questions: Cumula "Vista"
 5 Questions: Cup o' Davis
 5 Questions: Cup o' Joey
 5 Questions: Cuppa Joe
@@ -3654,6 +3773,7 @@ $50,000 Tuition Giveaway Winners Announced!
 5 Questions: Howlin' Trivia
 5 Questions: Huff
 5 Questions: Hungry Hungry Trivia
+5 Questions: Hyphenated
 5 Questions: I "Saw" That!
 5 Questions: I Am A D.J.
 5 Questions: I Am Woman
@@ -3677,6 +3797,7 @@ $50,000 Tuition Giveaway Winners Announced!
 5 Questions: I Saw the Light
 5 Questions: I Sawyer Again Last Night
 5 Questions: I Smell a Rat (and other Rodents)!
+5 Questions: I Thought You Were Dale
 5 Questions: I WANT CANDY
 5 Questions: I Wa-Wa-Wa-Wa-Wonder
 5 Questions: I Wanna Be Elected
@@ -3750,6 +3871,7 @@ $50,000 Tuition Giveaway Winners Announced!
 5 Questions: Is There a Doctor in the House?
 5 Questions: Is it Dark in Here?
 5 Questions: Isn't It Romantic?
+5 Questions: Isn't It a P"ity"?
 5 Questions: Isn't That "Special"?
 5 Questions: It All Comes "Don" to You
 5 Questions: It All Ends with the "IRS"
@@ -3806,6 +3928,7 @@ $50,000 Tuition Giveaway Winners Announced!
 5 Questions: It's a Good Thing
 5 Questions: It's a Killer
 5 Questions: It's a Long, Long Quiz
+5 Questions: It's a Mistake
 5 Questions: It's a Platter Matter
 5 Questions: It's a Three Ring Quiz
 5 Questions: It's a Three-For-All
@@ -3920,6 +4043,7 @@ $50,000 Tuition Giveaway Winners Announced!
 5 Questions: Last Minute "Shop"ping
 5 Questions: Last of the Cast
 5 Questions: Lather, Rinse, Repeat
+5 Questions: Laura
 5 Questions: Law and Order
 5 Questions: Leaf It Alone
 5 Questions: Leaps and "-ounds"
@@ -3974,6 +4098,7 @@ $50,000 Tuition Giveaway Winners Announced!
 5 Questions: Look for the Union Label...
 5 Questions: Looking Forward to 20"12"!
 5 Questions: Losers!
+5 Questions: Lost in Space
 5 Questions: Love "Thy" Neighbor
 5 Questions: Love Me Tenderloin
 5 Questions: Love That Lava
@@ -4054,6 +4179,7 @@ $50,000 Tuition Giveaway Winners Announced!
 5 Questions: Mighty Big Words
 5 Questions: Mile High
 5 Questions: Milking It
+5 Questions: Milton
 5 Questions: Mind Your Peas
 5 Questions: Mind the Gap
 5 Questions: Mini Business
@@ -4107,6 +4233,7 @@ $50,000 Tuition Giveaway Winners Announced!
 5 Questions: NAME THAT RAG
 5 Questions: NAME THE COLLEGE MASCOT
 5 Questions: NAMING NAMES
+5 Questions: NATO Alphabet
 5 Questions: NATURALLY SPEAKING
 5 Questions: NEAR MRS.
 5 Questions: NEARLY A HUNDRED
@@ -4230,6 +4357,7 @@ $50,000 Tuition Giveaway Winners Announced!
 5 Questions: Office Space
 5 Questions: Oh Say, Can You Seymour?
 5 Questions: Oh So European
+5 Questions: Oh Very "Young"
 5 Questions: Oh, Boy!
 5 Questions: Oh, Deer
 5 Questions: Oh, Man
@@ -4244,7 +4372,9 @@ $50,000 Tuition Giveaway Winners Announced!
 5 Questions: On Target
 5 Questions: On Tour
 5 Questions: On a Lark
+5 Questions: On the "Casey"
 5 Questions: On the "Fly"
+5 Questions: On the "Fritz"
 5 Questions: On the "Wagon"
 5 Questions: On the Air
 5 Questions: On the Button
@@ -4442,6 +4572,7 @@ $50,000 Tuition Giveaway Winners Announced!
 5 Questions: ROYAL FLUSH
 5 Questions: RUN, RUN, RUDOLPH
 5 Questions: Rail Cars
+5 Questions: Railroad Cars
 5 Questions: Raising Cane
 5 Questions: Rank and File
 5 Questions: Rapper's Delight
@@ -4636,6 +4767,7 @@ $50,000 Tuition Giveaway Winners Announced!
 5 Questions: Sons of Anarchy
 5 Questions: Sorry, Charlie
 5 Questions: Sounds? Zounds!
+5 Questions: Soup's On
 5 Questions: Souped Up
 5 Questions: Sour Mash
 5 Questions: Sour Suite
@@ -4709,6 +4841,7 @@ $50,000 Tuition Giveaway Winners Announced!
 5 Questions: Surely You Chest
 5 Questions: Surveyor's Measure
 5 Questions: Survivor
+5 Questions: Swamped
 5 Questions: Sweeeet
 5 Questions: Sweeney Todd
 5 Questions: Sweet Emily
@@ -4868,6 +5001,7 @@ $50,000 Tuition Giveaway Winners Announced!
 5 Questions: The Letter "W"
 5 Questions: The Lost Quiz
 5 Questions: The Luckiest in the World
+5 Questions: The Monkees
 5 Questions: The Munsters
 5 Questions: The Naked Quiz
 5 Questions: The Name Noel
@@ -5014,6 +5148,9 @@ $50,000 Tuition Giveaway Winners Announced!
 5 Questions: Two & 1/2 Men
 5 Questions: Two First Names
 5 Questions: Ty One On
+5 Questions: Types of Glass
+5 Questions: Types of Grass
+5 Questions: Types of Powder
 5 Questions: Types of Wood
 5 Questions: U.S. Civil Rights Names & Places
 5 Questions: U.S. NAVY RANKS, INSIGNIAS & UNIFORMS
@@ -5421,9 +5558,11 @@ $50,000 Tuition Giveaway Winners Announced!
 5 Ways to Get Closer to Your Garbage
 5 Ways to Go Broke Getting Drunk
 5 Ways to Guarantee a Baby Boy (100 Years Ago)
+5 Ways to Save Newborns' Lives
 5 Weather Events Worth Chatting About
 5 Whiskeys That Make Good Father's Day Gifts
 5 Winter Sports The Olympics Are Missing
+5 Words That Trace Back to the Word "Mother"
 5 Writers Who Took Romantic Revenge in Print
 5 Writers with Gender-Bending Pseudonyms
 5 iPhone Apps to Help You Keep Your New Year's Resolutions
@@ -5434,6 +5573,7 @@ $50,000 Tuition Giveaway Winners Announced!
 5 of the Fiercest One-Liners in History
 5 of the Most Bizarre Auctions in History
 5 of the Most Expensive Bottles of Wine Ever Sold
+5 of the World's Unluckiest People
 5...4...3...2...1... A Brief History of the Times Square New Year's Eve Ball Drop
 50 Amazing Facts About the 50 States
 50 Amazing Facts for Our 50th Issue
@@ -5513,6 +5653,7 @@ $50,000 Tuition Giveaway Winners Announced!
 6 Comic Con-troversies
 6 Common Foods Re-Made With Bugs
 6 Common Myths About Sharks, Debunked
+6 Complicated Concepts Explained Using Kitchen Items
 6 Constitutional Amendments That Just Missed the Cut
 6 Controversial Christmas Carols
 6 Controversial Moments in the World of Breakfast Cereal
@@ -5631,12 +5772,14 @@ $50,000 Tuition Giveaway Winners Announced!
 6 People Who Tried to Steal Famous Documents
 6 People Who Went to Great Lengths for Their Pranks
 6 Pieces of Folksy Wisdom That Are Actually True
+6 Plants That Are Masters of Disguise
 6 Pop songs that rip off classical music
 6 Porn Sites Actually Safe for Work
 6 Predecessors to the Toilet
 6 Prehistoric Body Parts You Don’t See Anymore
 6 Presidential Siblings and the Headaches They Caused
 6 Prodigies With Pacifiers
+6 Products That Were Ahead of Their Time
 6 Professional Painters from the Animal Kingdom
 6 Promotions That Didn't Quite Work Out
 6 Questions About North Dakota's Oil Boom
@@ -5650,6 +5793,7 @@ $50,000 Tuition Giveaway Winners Announced!
 6 Reasons People Gave Up Their Super Bowl Rings
 6 Reasons Today's Olympic Swimmers are Breaking so many World Records
 6 Reasons Why James Lipton is the Coolest
+6 Recently Discovered Facts About Neanderthals
 6 Records the Dark Knight Won't Break
 6 Remarkable Medical Gadgets
 6 Remarkable Police Animals
@@ -5709,6 +5853,7 @@ $50,000 Tuition Giveaway Winners Announced!
 6 Towns That Claim Paul Bunyan as Their Own (and What They Should Be Bragging About Instead)
 6 Traits Humans Inherited From Fish
 6 Traits Humans Inherited from Monkeys
+6 Tricks the Home of the Future Will Master
 6 Twisted Kids' Trading Card Sets
 6 Tyrannical Bosses Far Worse Than Yours
 6 Unconventional Uses for the Tennis Ball
@@ -5729,6 +5874,7 @@ $50,000 Tuition Giveaway Winners Announced!
 6 Ways to Clean Up Space
 6 Ways to Compare the Candidates (Besides Electoral Votes)
 6 Ways to Decorate Easter Eggs
+6 Ways to Have a Lucky Baby
 6 Weird Animal Phenomena Investigated by Science
 6 Weird Gifts President Obama Has Received
 6 Weird Halloween Patents
@@ -5749,6 +5895,7 @@ $50,000 Tuition Giveaway Winners Announced!
 6,000 Cheesecakes & 7 Other Strange Robberies
 6,600 Miles Away: Bahraini Artists
 6-1=7
+60 Regional Foods You Shouldn't Eat Anywhere Else
 60 Second Review of iOS5
 60 Springsteen Facts for Bruce's 60th Birthday
 60% of People Can't Go 10 Minutes Without Lying
@@ -5769,6 +5916,7 @@ $50,000 Tuition Giveaway Winners Announced!
 7 Animals That Change Color Better Than Chameleons
 7 Animals That Smell Like Gourmet Jelly Beans
 7 Antiquated Illness Names and Their Meanings
+7 Art Forgers Who Made a Fortune From Knock-Offs
 7 Artifacts (Supposedly) Connected to St. Patrick
 7 Astonishing Roman Coliseum Fights
 7 Athletes Who Went Directly To Jail
@@ -5799,8 +5947,10 @@ $50,000 Tuition Giveaway Winners Announced!
 7 Comic Book Superpowers the World Can Do Without
 7 Common Words With Little-Known Relatives
 7 Companies That Fired Their Spokesmen
+7 Cool Tips for Chilling Out This Summer
 7 Crafty Zoo Escapes
 7 Creative Uses for Poop
+7 Creative Ways Modern Horror Films Get Rid of Cell Phones
 7 Curious Cases of Criminal Cats
 7 Curious Facts About 7 Dr. Seuss Books
 7 Dangerous Toys Kids Today Are Missing Out On
@@ -5868,7 +6018,10 @@ $50,000 Tuition Giveaway Winners Announced!
 7 Historic (and Seriously Unhealthy) Beauty Practices
 7 Historic Hollywood Landmarks
 7 Historical Bans on Smoking
+7 Historical Parallels to Game of Thrones
 7 Hollywood Ripoffs With Titles (and Posters, and Plots) You Won't Believe
+7 Home Comfort Items' Amazing Origins
+7 Home Improvements You Can Make in Less Than 10 Minutes
 7 Horrifying Aircraft Landings (in which no one died)
 7 Incredibly Specific Dating Sites
 7 Ingenious Hidden Spy Cameras
@@ -5901,6 +6054,7 @@ $50,000 Tuition Giveaway Winners Announced!
 7 More Superpowers The World Can Do Without
 7 More Unforgettable Local Characters
 7 More Zombie Animals
+7 Movie Monsters That Allegedly Represent Communism
 7 Movie Stars Who Really Were Heroes
 7 Movies With Backstage Antics That Inspired Other Films
 7 Must-Have Items from Rue McClanahan’s Estate Sale
@@ -5955,6 +6109,7 @@ $50,000 Tuition Giveaway Winners Announced!
 7 Silly Civic Wagers on Sports
 7 Simple Rules For How To Take A Nap
 7 Simple Rules For How to Take A Nap
+7 Simple Ways to Make Chores More Efficient
 7 Songs That Show Off Flangers & Phasers
 7 Songs for Inauguration Day and Other State Ceremonies
 7 Space Missions to Remember
@@ -6070,6 +6225,7 @@ $50,000 Tuition Giveaway Winners Announced!
 8 Bookstores in Barns
 8 Brilliant Halloween Costumes
 8 Brilliant Scientific Screw-ups
+8 Brilliant Tricks to Make Laundry Day Smarter
 8 Candidates for the Next New Nation
 8 Cat Breeds with Wild Roots
 8 Celebrities Arrested for Obscenity (and What It Was They Said or Did)
@@ -6121,12 +6277,15 @@ $50,000 Tuition Giveaway Winners Announced!
 8 Great TV Christmas Specials (But Not The Ones You're Probably Thinking)
 8 Great TV Columns Written by Kara Kovalchik
 8 Great Unfinished Masterpieces
+8 Heroic Cats
 8 Heroic U.S. Military Chaplains
 8 Historical Crossdressers: Women in a Man's World
 8 Historically Terrifying Viruses
 8 Horror Myths Debunked (or Confirmed!)
+8 How-To Books From 100 Years Ago That Are Still Useful
 8 Important Daguerreotype Photos
 8 Incredible Libraries in Asia
+8 Insanely Lucky Flea Market Finds
 8 Inspiring Stories About Runners
 8 Intriguing Pairs (and Trios) Who Died on the Same Day
 8 Inventions That Never Needed Updating
@@ -6299,6 +6458,7 @@ $50,000 Tuition Giveaway Winners Announced!
 9 Absurd Transportation Modes that Never Got into Gear
 9 Amazing Masters of Hyperrealism
 9 Amazing Portraits That Changed Art
+9 Animals That Can Live Longer Than You
 9 Awards You Don't Want to Win
 9 Baffling Movie Merchandise Tie-Ins
 9 Beloved Fictional Characters Who'd Have a Rough Time in the Real World
@@ -6308,6 +6468,7 @@ $50,000 Tuition Giveaway Winners Announced!
 9 Bizarre But Entertaining Card Games
 9 Bizarre Christmas Cards from the 1800s
 9 Bizarre Moments in Economic History
+9 Bizarre Weapons That Failed Spectacularly
 9 Bizarre and Beautiful Fancy Pigeons
 9 Books to Drop Everything and Read
 9 British Politicians & The Scandals That Ruined Them
@@ -6318,6 +6479,7 @@ $50,000 Tuition Giveaway Winners Announced!
 9 Colorful Phrases from Breaking Bad's Final Season
 9 Comedians Who Ran for Office (Including Some Who Won)
 9 Common Words That Come From Words for Heat
+9 Complicated Literary Movements Explained Simply
 9 Controversial Experiments In Rewilding
 9 Controversial Magazine Issues Too Inflammatory for Newsstands
 9 Copyrights That Were Donated to Charity
@@ -6348,6 +6510,7 @@ $50,000 Tuition Giveaway Winners Announced!
 9 Fascinating Historic Methods of Contraception
 9 Films Inspired By The Works of Oscar Wilde
 9 Films Punched up by Famous Screenwriters
+9 Fun Facts About the Schwa
 9 Fun Festivals Still to Come in January
 9 Fundraising Lessons From the World’s Weirdest Charity Stunts
 9 Game Show Stories Worth Retelling
@@ -6401,6 +6564,7 @@ $50,000 Tuition Giveaway Winners Announced!
 9 Other Things That Happened Christmas Day
 9 Passions that are Due for a Comeback
 9 People Who Did It Anyway
+9 People Who Just Did It Anyway
 9 People Who Killed JFK, According to Conspiracy Theorists
 9 People Who Knew They Could Do It
 9 People Who Refused to be Limited
@@ -6452,6 +6616,7 @@ $50,000 Tuition Giveaway Winners Announced!
 9 Tracks With Facts: An Independence Day Playlist
 9 Treats for Your Breaking Bad Party
 9 Unique Ambient Advertisements
+9 Unsolved Mysteries of the Wild West
 9 Unusual Things That Astronauts Brought to Space
 9 Very Rare (and Very Expensive) Video Game Cartridges
 9 Very Specific Rules From Real Libraries
@@ -6464,6 +6629,7 @@ $50,000 Tuition Giveaway Winners Announced!
 9 Ways to Enjoy Cadbury Creme Eggs
 9 Ways to Find Age Without a Calendar
 9 Weapons That Failed Spectacularly (and 1 That Possibly Didn’t)
+9 Weird Dance Crazes From '90s TV Shows
 9 Weird Ingredients Hiding in Your Makeup Bag
 9 Wild and Wonderful Jack-o-Lanterns
 9 Wonderful Local Characters
@@ -6493,6 +6659,7 @@ A Basketball Court Inside a Mountain
 A Beginner's Guide to Alternate Reality Games
 A Beginner's Guide to the Iron Dog
 A Beginner's Rugby Quiz
+A Beginning of the End
 A Belated Goodbye to Guiding Light
 A Better Kind of War
 A Bicycling Ron Burgundy and Daft Punk
@@ -6512,6 +6679,7 @@ A Brief History of "Battle of the Network Stars"
 A Brief History of "Choose Your Own Adventure"
 A Brief History of 7 Baby Basics
 A Brief History of 8 Epic Breakups
+A Brief History of Advanced Placement Exams
 A Brief History of Advent Calendars
 A Brief History of Black Friday
 A Brief History of Braces
@@ -6565,6 +6733,7 @@ A Brief History of Zubaz
 A Brief History of the 1947 Chocolate Candy Bar Strike
 A Brief History of the ATM
 A Brief History of the Absolutely Amazing "A"
+A Brief History of the Chocolate Chip
 A Brief History of the Congolese Space Program
 A Brief History of the Etch A Sketch
 A Brief History of the Goodyear Blimp
@@ -6735,6 +6904,7 @@ A Night at the Guggenheim
 A Nintendo Nuptial
 A No-Spoilers Review of Tonight's Game of Thrones Premiere
 A Note to Readers in the Raleigh/Durham/Chapel Hill Area
+A One Way Mission to Mars
 A One-Way Ticket to Mars
 A Paranormal Activity-Style Engagement...At Disneyland
 A Parrot’s First Flight
@@ -6769,6 +6939,7 @@ A Red Phone FAQ
 A Remote-Controlled Plane Flies Through New York City
 A Robot's Life
 A Roundup of Sharknado Tribute Art
+A Rube Goldberg Zipper-Zipping Machine
 A Rube Goldberg-inspired post about Rube Goldberg-inspired contraptions
 A Salute to Southpaws for Left-Handers' Day
 A Sampling of Niche Blogs
@@ -6806,6 +6977,7 @@ A Song of LEGO (Ice) and K'NEX (Fire)
 A Song of the South, Born in the North
 A Sound-Breaking Work of Staggering Genius: How Chuck Yeager Reached Supersonic Speed
 A Soundtrack for Prince William and Kate Middleton
+A Soviet Ghost Town in the Arctic Circle
 A Spanish Parisian in Mexico: Remedios Varo
 A Special Announcement for iPhone-Owning Readers
 A Special Deal for Our Twitter Friends! (Test)
@@ -6832,6 +7004,7 @@ A Tour of the Peabody Hotel
 A Tour of the Solar System
 A Town of Storybook Houses and How They Came to Be
 A Trading Card Quiz
+A Treasure Trove of Parasitic Wasps
 A Treasure Trove of Science Videos
 A Tree Grows in Los Angeles
 A Tree Grows in Sitka
@@ -6924,6 +7097,7 @@ ANEO Web Camera
 AO K XBA
 AOL Fixes Everything in 1995
 ASCENT: Celebrating the Space Shuttle
+ASCII Art is Back
 Aaah! Real Monsters: The Science Behind the Legends
 Aaahh!!! Real Monsters: The Quiz
 Abandoned Space Junk in the Swamps of Florida
@@ -6968,6 +7142,7 @@ Add cold water, make hot rice!
 Addendum to 'Calling All Photographers!'
 Addicted to the White Stuff
 Addictive Drugs That Are Actually Pesticides
+Adding Cartoons to Real Life
 Adidas Takes Running to the Next Level with the New Springblade
 Admiring the Michigan Wilderness
 Admit Vice, Win Book (Extended Through Tonight)
@@ -6975,6 +7150,7 @@ Adobe Marketing Cloud Deciphers Those Clicks
 Adorable Agoutis Have Good Reason to Go to Bed Early
 Adorable Animal Halloween Costumes
 Adorable Kids With Obsolete Technology
+Adorably Perplexed Kids React to Old Computers
 Adorably Perplexed Kids React to Rotary Phones
 Adorably Sleepy Hedgehogs
 Adorably Strange Animal Pairings
@@ -7010,6 +7186,7 @@ Airing TONIGHT on PBS - NOVA: What Are Dreams?
 Airing TONIGHT: The Pluto Files
 Airing Tomorrow on PBS: OBJECTIFIED, a Documentary About Things
 Airing Tonight: "The Colony" on Discovery
+Airlifting a Rhino
 Airlines That Never Reached Their Cruising Altitude
 Airport Codes
 Aitches
@@ -7018,6 +7195,7 @@ Al Gore's Nobel Prize Acceptance Speech
 Al Gore's Office?
 Alabama
 Alabama's Visitors' Locker Room Is Called The Fail Room
+Alan Shepard's Voyage to Space
 Alanis Irony: Nobel Winner Dies Days Before Award Given
 Alarming Situations
 Alaska!
@@ -7130,12 +7308,14 @@ Amazing things removed from the human body
 Amazingly Realistic Digital Artwork
 Amazingly Well-Researched Star Trek Trivia
 Amazon's E-Book Vision: "Kindle"
+Ambitious
 Amenities Available at the Original "Big Rock Candy Mountain"
 America's Cleanest Restrooms (and a Super Toilet on sale?)
 America's Dirtiest Hotels
 America's Drunkest Cities
 America's First Yoga Scandal
 America's Funniest Design Bloopers
+America's Hidden Bars
 America's Jiminy Crickett: The Ted Turner Story
 America's Largest Cities A to Z
 America's Most Haunted: Six Seriously Spooky Sites
@@ -7492,10 +7672,12 @@ Ask a Question and Win This Book!
 Ask the Internet
 Ask the Terminator Anything
 AskOxford's Ask The Experts
+Assassins Prepare Amid Rumors of Serbian Coup
 Astounding Tricks With Sticks
 Astronauts Goofing Around
 Astronauts running low on oxygen? No problem, they've got urine.
 At The Leaning Tower, It's All About Perspective
+At Volvo, Every Design Starts With People
 At the Edge of the Earth
 At the Libraries
 At the Libraries: 20 Brilliant Bookcases
@@ -7714,6 +7896,7 @@ Band Reunions
 Bandit
 Bank Robbery Ain't What it Used to Be
 Banksy’s 11 Most Complicated Works
+Banned For Life
 Banned From SNL for Rocking Too Hard
 Banned in Iran: the Mullet
 Banned in the U.S.A: A Bookish Quiz
@@ -7724,6 +7907,7 @@ Barber Time
 Barbershop of Horrors: 5 Hairstyle Origins
 Barbie, 50 Years Later
 Barkley the Cat
+Barry Clifford on Finding the Santa Maria—and Why The Story Isn't Over Yet
 Barry Schwartz: The Paradox of Choice
 Bart Simpson's Blackboard
 Bartending With Fire, Eggs, and Science to Impress Your Friends
@@ -7940,6 +8124,7 @@ Biometric Security --- worth it?
 Bios on Official SNL Page surprisingly Harsh
 Biosphere 2 as it Stands Today
 Birds Playing Electric Guitars
+Birds Steer Clear of Invisible Roads
 Birds of a Feather, Flocking Together! (granted, unhappily)
 Birds on Wires
 Birds-of-Paradise
@@ -7975,6 +8160,7 @@ Blow Huge Bubbles With Baby Shampoo
 Blowing Bubblegum Bubbles in Slo-Mo
 Blue People
 Blue Rats Walk Again
+Blue Sky Art
 Blue eyes: the allure and the science
 Bluegrass Covers
 BlöödHag: Seattle's Edu-Core Death Metal Library Rockers
@@ -9270,6 +9456,7 @@ Brr-rr-ain Game
 Bruce Jenner, John Wayne and a Newborn Baby: 18 Curious Draft Picks
 Bruce Lee’s “Green Hornet” Screen Test
 Brutal Early Reviews of 20 Classic 20th-Century Novels
+Brutally Honest Fan Mail From an 8-Year-Old
 Bubble Trouble: The Not-So-Sweet History of Champagne
 Buckle Up On Election Day (And 5 More Lessons Political Scientists Have Learned)
 Bud Bowl: Game Recaps
@@ -9408,12 +9595,14 @@ Can You Fire the Pope?
 Can You Get Rich Betting on the Weather?
 Can You Handle The Tooth? 10 Things You Didn't Know About Teeth
 Can You Legally Marry A Dead Person?
+Can You Really Be Left Brained or Right Brained?
 Can You Really Go Blind Staring at a Solar Eclipse?
 Can You Really Tell How Close Lightning is by Listening for Thunder?
 Can You Tattoo a Corpse? And Four Other Fascinating Facts About Death
 Can You Top This? Most Amazing High School Mascot
 Can a Blood Test Diagnose Concussions?
 Can a Foil Hat Keep People (or Aliens) from Reading Your Thoughts?
+Can a Foil Hat Keep People From Reading Your Thoughts?
 Can a Robot Love Story Make You Cry?
 Can a bearded President ever win again?
 Can brain damage help you quit smoking?
@@ -9499,10 +9688,12 @@ Catching Up With 6 Exercise Gurus
 Catching Up With 9 Advertising Icons
 Catching Up With The Flu: 20th Century Pandemics
 Catching Up With The Plague
+Catching a Foul Ball In Your Beer
 Catching the Heart of America: Andrew Wyeth
 Catchy Japanese Kid's Beer Commercial
 Caterpillars Who Defend Themselves
 Catholic Saint or New Orleans Saint?
+Cats Crieth "Nau Nau" And Other Early Modern Animal Sounds
 Cats, Rock Stars United in Hatred of Laser Pointers
 Caught on Camera: An Amoeba Eating Human Cells Alive
 Ceasefire in the Balkans, French War Council Approves Plan XVII
@@ -9599,6 +9790,7 @@ Child Burial Customs Around the World
 Child-Designed Dolls
 Children and consciousness
 Children and money
+Children's Books Get A Makeover
 Children's Books for Children: The History of Little Golden Books
 Chilly Willy
 Chimo: Canada's Attempt at a New National Greeting
@@ -9632,6 +9824,7 @@ Cinco por Cinco: 5 Fun Facts About Cinco de Mayo
 Cinema stumper: Match the movie with its gory death scene
 Cities Made From Clothing
 Clarence
+Classic Art with Cats
 Classic Atari 2600 Video Games
 Classic Feynman Physics Lectures Free Online, Courtesy of Bill Gates
 Classic Goosebumps Book or Cheesy Horror Film?
@@ -9924,12 +10117,14 @@ Curiosity's Landing - Best Video Yet
 Curious, Bizarre & Storied State Symbols
 Curiouser and Curiouser: An Alice in Wonderland Quiz
 Curling Term or Quidditch Term?
+Currencies Around the World
 Current College Quarterback or Romance Novel Leading Man?
 Cursed Superman: Amedeo Modigliani
 Cursing God: Mark Rothko
 Customer Disservice, Obscure Talents and Youth Sports
 Customizable Videos to Feed Your Ego
 Cut it out!
+Cute Internet Mascots
 Cute Little Cthulhu
 Cute Overload: Marcel the Shell With Shoes On
 Cute animal videos: the trifecta
@@ -10040,6 +10235,7 @@ December 5, 2007
 December 6, 2007
 December 7, 2007
 Decimal Time: How the French Made a 10-Hour Day
+Decipher These Mysterious Margin Notes and Win $1000
 Deciphering Initials
 Declare Yourself a Saint (And Win a Book About Your Peers)
 Decline of the repairman
@@ -10070,6 +10266,7 @@ Determining Migratory Patterns of Early Humans — With Earwax!
 Detroit: into the wild
 Deviled Egg Nog Mixmas
 Diagnosing the Social Media Blues
+Diagramming Dramatic Dialogue From Action Movies
 Diamond Kings of the Montreal Expos
 Diana Beltran Herrera Turns Paper Into Nature
 Diana's Early Press Problems (plus 9 other NY Times first mentions)
@@ -10234,6 +10431,7 @@ Digging for VHS Gold
 Digital Records Are Fading Fast
 Digitizing the Environment
 Diners' Club
+Dinnertime
 Dinos of the Desert
 Director Christopher Nolan Discusses Making His First Film, Following
 Directors Cut
@@ -10272,6 +10470,7 @@ Do Americans Actually Move to Canada After Elections?
 Do Animals Dream?
 Do Bees Really Die After They Sting You?
 Do Big Cats Also Love Catnip?
+Do Big Cats Bury Their Poop?
 Do Blind People Dream?
 Do Blind People See Things in Their Dreams?
 Do Cameras Really Add 10 Pounds?
@@ -10346,6 +10545,8 @@ Does Drinking Alcohol Really Keep You Warm When It's Cold Out?
 Does Drinking Kill Brain Cells?
 Does Eating Celery Really Result in Negative Calories?
 Does Eating Slowly Help You Lose Weight?
+Does Eating Yeast Before Boozing Mitigate Drunkenness?
+Does Every Rose Have Its Thorn?
 Does Exposure to Powerful Women Reduce Prejudice?
 Does Google Really Do That? A Google Tricks Quiz
 Does Hand Sanitizer Actually Work?
@@ -10440,6 +10641,7 @@ Dr. Strange Will Kill Us All
 Dr. Strangelove in Lego
 Dr. Visually's Automagical Facebook Monsterizer
 Dr. Who Sells Computers
+Dracula's Castle is For Sale
 Dragon Spotted Over Disney World
 Drawing Lives Through Magic: Keith Haring
 Drawing in Sand: Kseniya Simonova
@@ -10452,6 +10654,7 @@ Dreaming of Peace: Diego Rivera
 Dressed Down: 9 SNL Sketches Killed Before They Aired
 Dressing Up The Set
 Drink Up! The Stories Behind 11 Regional Soft Drinks
+Drink Whiskey Like George Washington
 Drinking Coffee Before the Alcohol?
 Drinking Games of Yore
 Drinking bleach: the details
@@ -10489,6 +10692,7 @@ Dustin Hoffman - Up Close & Personal
 Dyson Air Multiplier
 E is for End
 E. coli Vaccine Coming to Cows Near You
+E.B. White's Advice for Aspiring Authors
 E.O. Wilson - Lord of the Ants
 EDAR: Everyone Deserves A Roof
 EI, EI, Oh!
@@ -10638,6 +10842,8 @@ Every "Arrested Development" Chicken Dance
 Every "Itchy & Scratchy Show" Ever
 Every "One More Thing" from Steve Jobs
 Every City Is the Same
+Every Color Ever
+Every Country's Highest Valued Export
 Every Item in Nickelodeon's 1992 Time Capsule
 Every Jeopardy! Clue and Response, Ever*
 Every Photoshop Filter
@@ -10647,11 +10853,13 @@ Every Space Shuttle Launch in One Video
 Everybody Hurts (Even Crabs)
 Everybody's pillow fighting
 Everyman's guide to the orchestra - episode no. 1: the violin
+Everyone Say "Awww!"
 Everyone Wants to be Leia
 Everything Explained Through Flowcharts
 Everything I Never Wanted to Know About Barneys*
 Everything You Ever Wanted To Know About Albert Einstein
 Everything You Ever Wanted to Know About Animaniacs
+Everything You Need to Get Caught up on Judge Dredd Comics
 Everything You Need to Know About Norman Bates
 Everything You Need to Know about Joss Whedon's Much Ado About Nothing
 Everything is a Remix Part 3: Innovation and Creation
@@ -10962,6 +11170,7 @@ Finger-Painting, All Grown Up
 Fire + Tornado = Oh Jeez
 Fire Ants Build Lifeboat Out of Ants to Save the Queen
 Firefighting Beetles, Polite Phones and Even More Polite Primates
+Firefox Wants You to Shape the Future of the Web
 First Annual Flossy Awards
 First Balkan War Ends
 First Came Tecmo
@@ -10999,6 +11208,7 @@ Five great virals you may have missed in 2007
 Flags of the World (The Hard Ones)
 Flags of the World (The Striped Ones)
 Flamingos...The Gnomes Still Have Nothing On Them
+Flash Flood in China's Quankou Dong Cave
 Flex Appeal: The Father of Modern Bodybuilding
 Flight of the Conchords
 Flipper!
@@ -11129,6 +11339,7 @@ Free cars! Free cars!
 Free to Be...You and Me Turns 40
 Freedom in Speed: Alex Katz
 French Cheer British Royals on State Visit
+French Finalize War Plan with Fatal Flaws
 Fresh Perspectives: GOP Candidates
 Fresh Perspectives: Libya
 Friday (the 13th) Happy Hour
@@ -11285,8 +11496,10 @@ From the Year 2000: Conan on Success and Failure
 Frontline: The Choice 2008
 Frosty Cold Facts About Beer
 Frosty the Salesman
+Frozen + Thriller
 Frozen Waves. Or Maybe Not Waves. But Frozen Something.
 Frozen Yogurt Shop or Enemy from Legend of Zelda?
+Frozen as a Horror Movie
 Frying Eggs on the Road
 Full Band or Single Person?
 Full Metal Pocket
@@ -11313,6 +11526,7 @@ Fun With Magnetic Putty
 Fun With Screaming!
 Fun With Signs: The Lowercase L
 Fun With Time Lapse
+Fun With the Interactive Algonquian Language Map
 Fun collection of Tongue Twisters
 Fun with Electricity (Tesla Style!)
 Fun with Flags
@@ -11360,6 +11574,7 @@ Gadget Watch: Image Toasters
 Gadgets: The Infinitely Geared Bike
 Gag Me with a Gag: Practical Jokes
 Gag Reels from Star Trek: The Next Generation
+Galapagos Birds Beat Bloodsuckers with Pesticide-Lined Homes
 Galileo Mobility
 Gallagher, Gallagher Too & The Motorcycle Twins
 Game Show Prep: More Facts About Fresca
@@ -11389,6 +11604,7 @@ Geek-Jack
 GeekJack on the Crayola Studio
 Geeky and Green Furniture
 Geep: Behold the Sheep-Goat Chimera
+Gene Wilder on Wonka, Acting, and His Mother
 Generosity in the Middle of a Great Depression
 Genius behind Ramen stops stirring
 Genius on Tape!
@@ -11462,6 +11678,7 @@ Ghosts in Your Genes
 Ghosts of VP Debates Past
 Ghostwritten Essays and the Problem of Cheating
 Giant 3D Printer Uses Sand to "Print" Buildings
+Giant Beach Illusions
 Giant Koosh Ball vs. Liquid Nitrogen
 Giant Leopard Seal Brings Penguins to Photographer
 Giant Panda Facts!
@@ -11472,6 +11689,7 @@ Gifs Explained: Explosive Tickling
 Gift-Giving Strategies
 Gifts Perfect for the Holiday Host or Hostess
 Gifts for the Geek Home
+Giggle
 Gimme Shelter
 Gin, Sitcoms and the Cognitive Surplus
 Girl Can Say Any Word Backwards
@@ -11505,13 +11723,18 @@ Go Behind the Scenes of The Wizard of Oz's 3D Restoration
 Go Forth and Share: The Church of Filesharing
 Go Get It!
 Go Go Power Rangers
+Go Inside North Korea
 Go Mad Men Yourself
 Go Outside and Play Video Games
 Go Tell It On The Mountain: The Mistake Every Politician Should Remember
 Go the Distance
 Go the F*** to the Library
 Goats on a Tree
+Godzilla Arrives
+Godzilla's Urine
+Goin' South
 Going Back to Gotham
+Going Commando
 Going Down in History: Lois Mailou Jones
 Going Inside the Pixar Studios
 Going Ku Ku
@@ -11541,6 +11764,7 @@ Good Sports
 Good Times in Chicago
 Good, Clean Television
 GoodFellas: The 20th Anniversary Quiz
+Goofing Around with 100 Pounds of Magnetic Putty
 Google "Let it Snow"
 Google Celebrates UK's WWII Codebreakers
 Google Changes Image Search
@@ -11559,6 +11783,7 @@ Gorgeous Homes For True Book Lovers
 Gorgeous Imaginary Nature Scenes
 Gorgeous Photos of a Bar Made Entirely of Ice
 Gorgeous Short Film Made from Cassini Mission Footage
+Gorgeous Timelapse Video of Colorful Alaskan Nights
 Gorilla Expressions Could Point to the Origins of Human Laughter
 Got Questions for the Answer Man?
 Got Talent?
@@ -11661,6 +11886,7 @@ Greg Veis, YouTube Hunter: YouTube Turnip
 Greg Veis: You Tube Hunter Explores the Man Crush
 Greg Veis: You Tube Hunter Explores...Humor
 Gregory Brothers (Auto-Tune the News) Explain Their Success
+Grilled Cheese Delivered By Parachute
 Grinding Out A Living
 Grinding Peanut M&Ms in Extreme Slo-Mo
 Groceteria: Supermarket History
@@ -11782,10 +12008,12 @@ Happy 102nd Anniversary, Sexist NYC Smoking Ban!
 Happy 20th Birthday, Glorious Nation of Kazakhstan!
 Happy 27th Birthday, Nintendo Entertainment System
 Happy 300 Million America!
+Happy 40th Anniversary to Erno Rubik and His Cube
 Happy 50th Anniversary, Twilight Zone!
 Happy 50th, cargo cult
 Happy 70th Birthday, Paul Simon!
 Happy 75th Birthday, Batman!
+Happy 75th Birthday, Broadcast Television!
 Happy 80th Birthday Regis Philbin: The Quiz
 Happy 80th, William Shatner!
 Happy Ada Lovelace Day!
@@ -11825,6 +12053,7 @@ Happy Bubble Wrap Appreciation Day!
 Happy Canada Day! What Exactly Is Canada Day?
 Happy Franksgiving: Why FDR Rescheduled Turkey Day
 Happy Geckos
+Happy Geek Pride Day!
 Happy Hallowe'en!
 Happy Labor Day!
 Happy Leap Day!
@@ -11841,6 +12070,7 @@ Happy St. Urho's Day!
 Happy T-Shirt Tuesday!
 Happy Thanksgiving!
 Happy Thesaurus Day!
+Happy Towel Day, Hoopy Froods!
 Happy Virus Appreciation Day!
 Happy WiFi Day!
 Happy World Nutella Day!
@@ -11952,6 +12182,7 @@ Here Lies Harry Potter
 Here a crane, there a crane, everywhere a crane, crane
 Here's How Crazy-Long German Words are Made
 Here's What $315,000,000,000 in Gold Bars Looks Like
+Here's What Happens When Fish Get Drunk
 Here's What the First-Ever NCAA Tournament Looked Like
 Here's Your Jetpack
 Here's a Question
@@ -11982,7 +12213,9 @@ Hidden Passageways
 Hidden Video Game Characters
 Hide-and-Seek Cats
 High Class (and high price) Toilets
+High Gear
 High School Sports Teams
+High-Tech Father's Day Gifts...from 1994
 Highlights from Cricket's Strangest Matches
 Highlights from the Iowa State Fair
 Highway Havoc
@@ -12152,6 +12385,7 @@ How All 32 NFL Teams Got Their Names
 How All 50 States Got Their Names
 How American Are You?
 How Ancient Shark-Tooth Swords Uncovered Two Long-Lost Species
+How Andy Warhol's Amiga Art Was Recovered
 How Are Balloons Chosen for the Macy's Thanksgiving Day Parade?
 How Are Oscar Nominees Chosen?
 How Are Q Scores Calculated?
@@ -12180,6 +12414,7 @@ How Can US Citizens Legally Travel to Cuba?
 How Can You Avoid Offending People When Traveling Abroad?
 How Can You Get Better at Remembering Names?
 How Can You Prevent Jet Lag?
+How Can a Butterfly, Weighing No More Than a Feather, Fly Into the Wind?
 How CanCon Created The Guess Who
 How Carly Gloge is Changing the Face of Toys
 How Cereal Transformed American Culture
@@ -12203,6 +12438,7 @@ How Did 6 Feet Become the Standard Grave Depth?
 How Did ALF Work?
 How Did Caesarean Sections Get Their Name?
 How Did Cameron Get an Indoor Stadium? The Names Behind 12 College Arenas
+How Did Egyptians Move Heavy Rocks For The Pyramids?
 How Did Humans Learn to Paint in Three Dimensions?
 How Did Hypercolor Shirts Work?
 How Did King Edward VIII Meet Wallis Simpson?
@@ -12292,6 +12528,7 @@ How Did the Chicken Cross the Ocean?
 How Did the Donkey & Elephant Become Political Mascots?
 How Did the Duck Hunt Gun Work?
 How Did the Game Genie Work?
+How Did the New York Rangers Get Their Name?
 How Did the States in the USA Get Their Names?
 How Did the States in the USA Get Their Names? (Part II)
 How Did the States in the USA Get Their Names? (Part III)
@@ -12309,6 +12546,8 @@ How Do Cats Purr?
 How Do Companies Get Their Stock Symbols?
 How Do Computers Understand Speech?
 How Do Countries Choose Which Side They Drive On?
+How Do Dolphins Sleep Without Drowning?
+How Do Draft Picks Get Personalized Jerseys So Fast?
 How Do Fire Eaters Eat Fire?
 How Do Fireflies Glow?
 How Do Glowsticks Glow?
@@ -12332,6 +12571,7 @@ How Do Sword Swallowers Swallow Swords?
 How Do TV Sweeps Periods Work?
 How Do They Make the "Pope Smoke"?
 How Do Tongue Twisters Twist The Tongue?
+How Do Tornadoes Form?
 How Do Touchscreens Work?
 How Do Trick Candles Work?
 How Do Tsunamis Work?
@@ -12393,6 +12633,7 @@ How Ex-Presidents and Prime Ministers Make their Money
 How Ex-Vice Presidents Made Ends Meet
 How Ex-Vice Presidents Make Ends Meet
 How Fake Snow Works
+How Fans Followed Baseball Games Before TV or Radio
 How Far Can You Drive on Empty?
 How Far Does Mario Have to Run (and Swim) in Super Mario Bros.?
 How Fast Can You Go on a... Lawnmower?
@@ -12400,6 +12641,7 @@ How Fiber Works its Magic
 How Frozen Killed Prince Charming
 How George Steinbrenner Warmed to Seinfeld
 How George Washington’s Great-Grandniece Became Royalty
+How Giant Tesla Coils Work
 How Giraffes Helped Human Space Travel
 How Glenn Close’s Dad Stopped the Ebola Virus
 How Globes are Made
@@ -12496,6 +12738,7 @@ How Old is the Oldest Person You Know?
 How Olive Oil Might Save Our Oldest Buildings
 How One Dad Got Lawn Darts Banned
 How One Girl and Her Teddy Bear Saved a Baby Sloth
+How One Grieving Father Got Lawn Darts Banned
 How One Man Gamed "The Price is Right"
 How One Man Saved Bulgaria's Jews
 How One Man Solved a "Baroque" Mystery
@@ -12507,6 +12750,7 @@ How Pencils are Made
 How People Reacted to Computer Viruses in 1988
 How People of the '70s Pictured Space Colonies of the Future
 How Perfecting Bug Spray Could Save Millions of Lives
+How Philadelphia's Neighborhoods Got Their Names
 How Photographers Make Timelapse Videos
 How Photos of Tank Man Were Smuggled Out of China
 How Pittsburgh Got Its "H" Back
@@ -12547,6 +12791,7 @@ How Teddy Roosevelt Ended Up With Abe Lincoln’s Hair
 How The Los Angeles Dodgers Helped to Snuff Out Communism
 How Time Changes A Song: Billy Bragg's "A New England"
 How To (Re)Design an ATM
+How To Avoid Checking Email On Vacation
 How To Be A Local Character: Five Basic Examples
 How To Be An Alaskan Fisherman
 How To Be More Productive, Feel Calmer, And Learn To Paint Happy Little Trees
@@ -12700,6 +12945,7 @@ How the World's Greatest Game Designer Designs Games
 How the Yellow Kid Fueled the Pulitzer/Hearst Rivalry
 How the carrot/vision myth got started
 How to Appreciate an Evening at the Opera
+How to Be Entertaining: 10 Simple Instructions from 1904
 How to Be Handsome: 11 Really Terrible 19th-Century Beauty Tips
 How to Be Popular: 5 Helpful Films From the 1940s
 How to Beat Home Video Games (in 1982)
@@ -12759,6 +13005,7 @@ How to Hack into a Beehive
 How to Handle A Heckler
 How to Have a Lucid Dream
 How to Hire a Hitman: 11 Fascinating Search Suggestions From Google
+How to Host an Incredible Clambake
 How to Hug Lions
 How to Hunt for Truffles
 How to Kill Your Commute
@@ -12775,6 +13022,7 @@ How to Make Your Own Marshmallows
 How to Make a Cube Using Magnets and a Plastic Bag
 How to Make a Perfect Toast
 How to Make a Punch
+How to Make the Best Mocktail
 How to Master Archery
 How to Measure the Universe
 How to Move a Whole Town
@@ -12868,6 +13116,7 @@ How well do you know ALL the candidates?
 Howard Rheingold on Cooperation and Competition
 HubLove (Updated With Winners)
 Hubble Space Telescope: 20 Years of Awesome Science
+Hubble Turns 24
 Huey Lewis is back, and he's not happy.
 Huge Cyber Monday T-Shirt Sale!
 Huge T-Shirt Clearance Sale! Get up to 50% Off!
@@ -12892,6 +13141,7 @@ Hunting for Firefox Extensions
 Hunting with Dad
 Hurricane Relief
 Hurricane Sandy's Aftermath: Will Rats Take Over Manhattan?
+Hurricane Season 2014
 Hyper-Realistic Paintings
 Hyperlapse Videos
 Hyperrealistic Graffiti
@@ -12906,6 +13156,7 @@ I Dream of Steam
 I Feel What You're Saying: Hearing With Your Skin
 I Generate Far Too Much e-Waste
 I Hope They Have Cows: Marc Chagall
+I Lettered at State
 I Love Lucy Most!
 I Love Trash
 I Love Uke: 100 Years After Its First Wave of Popularity, the Ukulele is Back
@@ -13041,6 +13292,7 @@ If You Work at a Radio Station...
 If You'd Been Born 50 Years Earlier, Where Would You Have Worked?
 If You're Not Watching...
 If You've Always Wanted an Identical Twin...
+If Your Self-Driving Car Gets a Ticket, Should Google Pay?
 If a Foul Ball Hits You, Does the Team Owe You Anything?
 If dolphins are mammals and all mammals have hair, why aren't dolphins hairy?
 If the Cops Mistakenly Kick Down Your Door, Who Pays for the Damage?
@@ -13128,6 +13380,7 @@ In the Beginning: Why Can't it Be Out Already?!
 In the Beginning: Your prayers have been answered!
 In the Can: 6 Canned Foods We're Reluctant to Try
 In the Club?
+In the June Issue: How to Get Lucky!
 In the Lab With the World's Leading Laugh Scientist
 In the Market for Monster Supplies?
 In the Studio with Michael Stusser
@@ -13191,6 +13444,7 @@ Inside the Team That Cracked the Stuxnet Worm
 Inside the World of Fan Fiction
 Inside the World's Only Wildlife Forensics Lab
 Inside the actors of Studio 60
+Inspirational Chalkboard Art
 Inspirational: Carl Sagan and the Egyptian and Tunisian Revolutions
 Inspired by xkcd
 Inspiring BrontÃ«s: John Martin
@@ -13210,6 +13464,7 @@ International Beverages
 International Head Games: Turning Sweden Against the Soviets
 International Internet Memes
 International Renaissance Man: Nicholas Roerich
+Internet Activism Goes to Washington
 Internet Addiction in Asia
 Internet Age Jack-o-Lanterns
 Internet Bacon
@@ -13371,6 +13626,7 @@ It's Will, Jim, but not as we know him
 It's Your Art: The NYC Waterfalls
 It's a Bird, It's a Plane, It's a Terrible Movie
 It's a Girl!
+It's a Long, Long, Long Fly Ball
 It's a Steal! How Columbia House Made Money Giving Away Music
 It's a bird, it's a plane ... well, it's kind of both
 It's a long way down, kitty -- and that's a good thing
@@ -13517,8 +13773,10 @@ John Lennon Was a Crazy Cat Lady
 John Markoff on Front-Page Stories That Weren't
 John Moe's Pop-Song Correspondences
 John Oliver's First Night Hosting The Daily Show
+John Oliver's Last Week Tonight Rules
 John Ringling
 John Tyler's Grandson Discusses Still Being Alive
+John Wilkes Booth's Brother Saved Abe Lincoln's Son
 John and Hank Green Sell Out Carnegie Hall
 Johnny Cash and a Delightful New Child Star in Door-to-Door Maniac
 Johnny Cash on Sesame Street
@@ -13557,6 +13815,7 @@ Just Breathe
 Just Plain Bananas
 Just Some Very Strange Portraits of Barack Obama
 Just The Craziest 80s Action Movies Ever
+Just U and I
 Just add water! And flour. And art.
 Just in case we destroy civilization
 Just one second!
@@ -13592,6 +13851,7 @@ Keyboard + Dishwasher = It Works!
 Keys of the Keyboard Quiz
 Kicked to the Curb: 5 Romans in Exile
 Kicking It Old School: Kickball Rules From the 1920s
+Kickstart Reading Rainbow
 Kickstart This: A Documentary About Some Very Speedy Ex-Cons
 Kickstart This: Terminator the Second
 Kid Casting
@@ -13774,6 +14034,7 @@ Left or Right, It's All in Your Genes
 Left-Handers Day
 Legend of Zelda Song Performed on Wine Glasses
 Legend of Zelda Theme Played by Tesla Coils
+Legendary Tales About Andre the Giant
 Lego Masterpieces
 Lemons vs. Limes
 Lendle: A Book Sharing Site for Kindle Users
@@ -13849,6 +14110,7 @@ Life After Death - A Philosophical Discussion
 Life After Studio 60
 Life As A Snail
 Life Before Air Conditioning
+Life During Wartime
 Life Inside Hong Kong's Kowloon Walled City
 Life in Slow-Motion
 Life in the Fast Lane
@@ -13872,11 +14134,13 @@ Like a tapir, only even more bizarre
 Like, How Well Do You Remember Totally Rad 80s Fads??
 Lincoln Logs' Famous Inventor - and How Much He Sold Out For
 Linda Vista Revisited: East LA's Abandoned Hospital
+Lion Cubs Go Swimming
 Lip Balm Addiction: Are You in Recovery?
 Liquid Ass, Inflatable Toast, and Other Strange Items Available Now on Amazon.com
 Listen
 Listen and Compare: 15 Different Irish Accents
 Listen to James Joyce Read Ulysses
+Listen to a 1993 PC Boot Up
 Listen to a Quartet Sing While You Watch a Close-up of Their Vocal Cords
 Listen to the Band
 Listen to the Lost Voice of Rudolph Valentino
@@ -13907,6 +14171,7 @@ Live from Abbottabad
 Live from the Bus
 Live from the Iowa Caucus
 Live, Breaking News: Steve Wiebe Tries to Recapture Donkey Kong Record
+Live, Streaming Penguins!
 Liverpudlians
 Liverpudlians II
 Living History
@@ -13941,6 +14206,7 @@ Looking for something to do in Brooklyn tonight?
 Lorne Michaels talks SNL
 Losing Face: Five People Who Got New Ones
 Losing His Religion: The Incredible True Story of A Missionary Deconverted by the Tribe He Was Trying to Reach
+Losing It
 Lost Cell Phones: 7 Strange Stories
 Lost In Migration
 Lost In Translation: 5 Botched Business Messages
@@ -13952,6 +14218,7 @@ Lost Treasures from Around the World
 Lost in Translation Stumper
 Lost in Translation: The Lost Name Quiz
 Lotus 1-2-3, Three Decades On
+Lou Gehrig's Heartbreaking Letter of Optimism
 Louis C.K.'s Toilet Art
 Louisiana's Macabre St. Roch Chapel
 Love Actually
@@ -13965,6 +14232,7 @@ Lucky Group of the Week
 Lucky Number Seven(teen)
 Lumosity: Train Your Brain
 Lunch With Dad
+Lunchtime Lecture: How to Rebuild the World
 Lunchtime Quiz #1: A Spelling Bee
 Lunchtime Quiz Leftovers
 Lunchtime Quiz Reruns
@@ -14036,6 +14304,7 @@ Machines that Almost Fall Over
 Macintosh Development Stories: Folklore.org
 Macworld Speculations
 Macy's Thanksgiving Day Parade
+Mad John, WWII's Most Badass Soldier
 Mad Men
 Mad Men Theme + Nat "King" Cole's "Nature Boy" = Beautiful Jazz
 Mad Scientist of the Month: Who’s Afraid of Taylor Wilson?
@@ -14203,6 +14472,8 @@ Marvin Gaye, Detroit Lions Wide Receiver?
 Marvin Gaye’s What’s Going On
 Marvin Minsky on Emotion
 Marx Brothers Films
+Maryland's Amazing "Half-Boy"
+Massachusetts' Hannah Duston Memorial
 Massive Box Office Draws Whose Names You Don't Know
 Massive Wartime Decoys and Camouflage Operations
 Master Forger: Elmyr de Hory
@@ -14273,6 +14544,11 @@ Math Square #209
 Math Square #210
 Math Square #211
 Math Square #212
+Math Square #213
+Math Square #214
+Math Square #215
+Math Square #216
+Math Square #217
 Math explains the "beer goggles" effect
 Math in Nature
 Math is Beautiful: Fractal Art Contest
@@ -14289,6 +14565,7 @@ May the Fourth Be With You
 May the Mass x Acceleration Be With You
 May the tallest candidate win
 May we interest you in a Tetris Shower Stall?
+Maya Angelou Reads "And Still I Rise"
 Mayan body modifications
 Maybe They Meant The Sign Was Staying
 Mayor accidentally endorses sex line door-to-door
@@ -14311,6 +14588,7 @@ Meditation can change your mind, literally
 Meebo
 Meerkat Matriarchs Are Selfish Street Crossers
 Meerkat School
+Meet 10 Beautiful Spiders
 Meet 5 Pioneering Women
 Meet 9 Recovering Boston Explosion Victims
 Meet Beth
@@ -14334,6 +14612,7 @@ Meet the American Boas
 Meet the Awesome Artisan Behind this Nerd Herder Wallet
 Meet the Beer Fridge That Opens Only for Canadians
 Meet the Birmingham Office
+Meet the Nightmare-Inducing Goblin Shark
 Meet the Owl that Fishes with Feces
 Meet the Parents: 11 Dads of Famous Juniors
 Meet the Real Heisenberg
@@ -14440,6 +14719,7 @@ Mishugas: Time is Money Winner!
 Miss Cellania's Top 20 Weird News Stories of 2011
 Miss Cellania’s Top 20 Weird News Stories of 2012
 Miss Cellania’s Top 20 Weird News Stories of 2013
+Miss Cleo Speaks
 Miss Flame in the Bedroom with the Shoe: 4 Board Games that Changed With The Culture
 Miss Peregrine Book Trailer: Director's Cut!
 Miss Peregrine's Home for Peculiar Children: Chapter Three
@@ -14474,6 +14754,7 @@ Moe Szyslak: The Quiz
 Mohs' Hardness Scale
 Molecular Gastronomy for 4-Year-Olds
 Mollie Woodworth: Neuroscientist and Cheerleader
+Moltke Calls for War Without Delay
 Mom's the word: When sitcom stars start expecting
 Moments With Aloe Blacc: Orchestral Hip Hop
 Mona Lisa's Cholesterol Problem
@@ -14526,6 +14807,7 @@ More Minimalism
 More Name x in y Minutes Quizzes
 More Not-So-Famous Christmas Firsts
 More On the Apollo Guidance Computer from 1965
+More People Live Inside This Circle Than Outside It
 More Periodic Tableware
 More Photos of our Readers
 More Piratical pontificating
@@ -15753,6 +16035,7 @@ Mostly Terrible Advice for Daughters From Dads of Yore
 Mother Goose
 Mother Nature's Guide to Wild Medicine
 Mother Nature's Music
+Mother’s Day Cards for When You and Your Mom Have Issues
 Moths that sip on bird tears?
 Motor skills as mental lubricant?
 Motown Greats Singing German Versions of Their Hits
@@ -15763,6 +16046,7 @@ Mouthing Off: The Art of Prairie Home Companion's Fred Newman
 Move Over, Pig...Let's Get Heliophysical!
 Movie Magic
 Movie Math
+Movie Posters from an Alternate Universe
 Movie Quotes: Amistad, The Shawshank Redemption or Nurse Betty?
 Movie Quotes: Se7en, Ocean's Eleven or Twelve Monkeys?
 Movie Technology We Need
@@ -15789,6 +16073,7 @@ Movies you wish you'd never seen
 Movin' On Up!
 Movin' on up, or downright illin'?
 Moving Billboards: A Brief History of NASCAR Advertising"¨
+Moving Out
 Moving car, no driver, what could go wrong?
 Moving the Mona Lisa
 Moving with Cats
@@ -15892,6 +16177,7 @@ My one and only celebrity tribute to Hockessin, DE (and the surrounding areas)
 My one-minute documentary
 My pet moose
 Myers, Briggs, and the World's Most Popular Personality Test
+Myspace Tom's Instagram Adventures
 Mysterious skywriting portends inevitable doom?
 Mystery men
 Mystery of the moving rocks
@@ -15920,6 +16206,7 @@ NFL Longsnapper or VP Candidate?
 NFL Penalties (Vol. 1)
 NFL Penalties (Vol. 2)
 NFL Prospect Comes Out
+NHL Expansion and Relocation, 1942-Present
 NORAD Tracks Santa
 NOVA's Mind Over Money - TONIGHT at 8pm
 NOVA: Cracking the Maya Code
@@ -15931,6 +16218,7 @@ NYC's Isle of the Dead
 NYPD's Color of the Day
 Nail Clipping in Space
 Nailed It: 13 Amazingly Intricate Nail Designs
+Nailing Bike Thieves in San Francisco
 Naked Bears Need To Be Rubbed Down
 Naked and Nude: What's the Difference?
 Name A Mathematical Theorem After Your Loved One
@@ -15985,6 +16273,7 @@ Name Santa's Reindeer in 2 Minutes
 Name Stanley Kubrick's Films
 Name Texas' 20 Largest Cities
 Name That 007 Tune
+Name That 8-Bit Cat
 Name That Altered State
 Name That Cereal!
 Name That City
@@ -16370,6 +16659,7 @@ Nostalgia Remix Videos
 Not Fooling Anybody: Bizarre Retail Conversions
 Not Itchy
 Not Playing Around: 8 Lawsuits Involving Video Games
+Not Quite Connected
 Not Quite Medal-Worthy: 7 Winter Demonstration Sports
 Not Rock Hudson: Sol LeWitt
 Not Safe for Lunch: Attack of the Parasites
@@ -16713,6 +17003,7 @@ One Reason To Enjoy Our Special Thanksgiving Weekend Sale
 One Scary Film: COLLAPSE
 One Second in Every Nation
 One Sweet Severance Package & Other Tales of the ABA
+One Weird Trick Used to Build the Pyramids
 One Witness to the Lincoln Assassination Might Have Been Alive During Your Lifetime
 One Year Ago Today: Advertising, Remixed
 One Year Ago Today: Nerdcore Hip Hop Could Reign Supreme
@@ -16806,6 +17097,7 @@ Our Impromptu Dire Straits Trivia Contest
 Our Interview With Jeopardy! Champion Arthur Chu
 Our Interview with Hellboy Creator Mike Mignola
 Our Maxim-Approved Twitter Feed
+Our Military Can Take Godzilla
 Our Most Popular Stories Since September 14th
 Our Most Popular Stories in October
 Our Natural Sleep Cycle
@@ -16845,6 +17137,7 @@ Our Top 5 Stories of 2009
 Our Toxic Gulf
 Our Trivia Show in Birmingham is Tomorrow!
 Our Trivia Show is Coming to Birmingham!
+Our Trivia Show is Coming to San Francisco
 Our Weekend in Review: Decatur Book Festival & Dragon*Con
 Our Youngest Reader
 Our first $100 Challenge winner!
@@ -16880,6 +17173,7 @@ Pacman Graph
 Paddy Issues (and the best set of links on the web!)
 Paging All Linguists for a Caesarean Dissection
 Paging Dr. Freud: 8 Unusual Mental Illnesses
+Paid Maternity Leave Around the World
 Pain is Beauty: 10 Bizarre Facial Treatments
 Paint like Picasso!
 Painted Black: Robert Motherwell
@@ -16926,6 +17220,7 @@ Patton Oswalt's 8-minute "Star Wars" Filibuster
 Paul Erd?s, the Amphetamine-Popping Genius
 Paul McCartney's First Girlfriend
 Paul Otlet's "Universal Book" and Other Amazing Notions
+Paul Revere
 Pausing to remember...Beanie Babies
 Paw & Order: Animals on Trial
 Paying for your Attention
@@ -16968,12 +17263,14 @@ Perfectly Perplexing Paradox
 Perhaps You Only Think Testosterone Makes You Aggressive
 Periodic Tableware
 Perk Up: It's International Coffee Day!
+Permanent
 Permission to Sin: Why The 7 Deadlies Aren't So Terrible After All
 Pessimistic Pups
 Pest Pictures Ever
 Pet Rescue Stories
 Pet Sounds: 4 Animals That Could Really Talk
 Peter Cushing and His Miniature Soldiers
+Peter Tork of the Monkees
 Peter Ward on Mass Extinctions
 Pets or Meat?
 Petting a Panda
@@ -17234,6 +17531,7 @@ Pulp Fiction Facts
 Pump up the Crowd: Hollywood's Inflatable Extras
 Pumpkin Spice, Pumpkin Spice, Pumpkin Spice
 Pun of the week
+Pun-Off Champion Benjamin Ziek
 Punk be thy name
 Punny Business
 Puppies Wearing Hats Eating Bacon Sharing Facts
@@ -17265,6 +17563,7 @@ Putting the fun in funerals
 Puzzle in Honor of Flag Day
 Puzzle-Master Will Shortz on Table Tennis
 Pyrophonia: Music on Fire
+Pyura chilensis: The "Living Rock"
 PÃ¨re Corot
 Q&A: Emily Hagins and AJ Bowen, director and star of Grow Up, Tony Phillips
 Q&A: Jason Silva, Host of Brain Games
@@ -17625,6 +17924,7 @@ Robot easily solves Rubik's cube
 Robotic hand: play me some Beethoven
 Robots Get No Respect
 Rock & Roll Hall of Fame Sweepstakes Ends Tomorrow!
+Rock Bands Illustrated
 Rock Star Names (Kihntinued)
 Rocket Baby
 Rockin' Out with Animatronic Robots
@@ -17632,6 +17932,7 @@ Rockin' Rebuttals: 3 Non-Presidential Debates
 Rocking the House, the Kasbah and the Yurt
 Rocks that Rock: 8 Stone Giant Sites
 Rodent, or NOT a Rodent?
+Rodents on Turntables
 Rodin's Hands: Anna Golubkina
 Rodney Brooks Shows Off Awesome Robots
 Roger Connor, Home Run King
@@ -17646,6 +17947,7 @@ Roman Around
 Roman Battle Tactics (Jack's Social Studies Project)
 Roman if You Want To
 Ron Howard, Director
+Ron Popeil's Subliminal Messaging Machines
 Ron Swanson's Pyramid of Greatness or Mitt Romney's "No Apology"?
 Ronald Reagan and Drew Barrymore Recruiting Future Astronauts in 1984
 Ronald Reagan and His Six-Year-Old Pen Pal
@@ -17698,9 +18000,11 @@ SNEAK PEEK #5: Video Games Can Make You Rich!
 SNL Overlaps
 SNL Quiz redux
 SNL-Inspired Art
+SOLD! The Happy, Haunted Island of Poveglia
 SPECIAL SALE: All mental_floss Onesies are 10% Off, this week only!
 SUNDAY - "Great Migrations," the Latest Mega Nature Documentary
 SWARMANOID: Robots Doing Cool Stuff
+SWYST
 SXSW Q&A: Penny Lane, Director, Our Nixon
 SXSW: By the Numbers
 Saddest Christmas Ever (R.I.P. Borat)
@@ -17746,6 +18050,7 @@ Save yourself with these hangman puzzles
 Saved by the Bell Sports
 Saved by the Bell: Part 2
 Saving Gas the Low-Tech Way
+Saving Mothers' Lives, One Village at a Time
 Savion Glover: the best on tap
 Saw Songs
 Say Hello to the Tiniest Planet Ever Discovered
@@ -17977,6 +18282,7 @@ Shorts that don't suck, vol. 2
 Shorts that don't suck, vol. I
 Should I let my baby play in the sewer?
 Should Men Sit Down to Pee?
+Should We Ban Hop on Pop?
 Should You Wash New Clothes Before Wearing Them?
 Should lawyers be allowed to advertise?
 Should someone report this to the Humane Society?
@@ -18007,6 +18313,7 @@ Signs of the apocalypse, #1
 Signs of the apocalypse, #2
 Signs your HGH injections might be fake
 Signs, Signs, Everywhere a Sign
+Silence of the Newts
 Silence! (Technical Difficulties)
 Silent, perhaps. Deadly, most definitely.
 SimCityEDU: Gaming in the Classroom
@@ -18032,6 +18339,7 @@ Sitcom Surnames
 Sitcom-munication Breakdown: When Sitcoms Go Global
 Site Maintenance: Comments Turned Off
 Sites We Love: There, I Fixed It
+Six Cons
 Six Cool Plants I Would Find A Way To Kill
 Six Famous Walls
 Six Phantom Phenomena
@@ -18134,6 +18442,7 @@ So, Where'd You Go To College? (Movie Star Edition)
 Soap Opera Power Couple or Superheroes?
 Soaring to New Heights: Constantin Brancusi
 Soccer Flash
+Soccer's Long History as America's Sport of the Future
 Soda Pop Stop: 500 Flavors in One Store
 Soft Drink, Hard Quiz
 Soil Contains Elixir of Youth
@@ -18150,6 +18459,7 @@ Solve a Rubik's Cube - Juggling or Not
 Solve the mystery and score some Charles Todd
 Solving Cold Cases at the Detectives’ Lunch Club
 Solving a very serious problem: CAT TYPING!
+Some Animals Give Poison Presents
 Some Bats Call “Dibs” on Food
 Some Birds Benefit From Having Parasites
 Some Boxy Facts for Boxing Day!
@@ -18203,6 +18513,7 @@ Sorry, Folks: The Shocking Truth Behind those Three Kings
 Sorry, Kids
 Sorry, we're not making that these-boots pun
 Sorting Through the Words and Terms of '07
+Sound Effects Gone Wrong
 Sound like a genius (albeit a slightly geeky one)
 Sounds from Dangerous Places: Chernobyl
 Sounds like a few new vaccines are on the way
@@ -18276,6 +18587,7 @@ Spy Gadgets, Chocolate Art, and a Master Tiger Hunter
 Spy Pigeons and Other Great Moments in the History of Aerial Photography
 Spy Versus Spy: American Revolution Edition
 Square America
+Square Dances
 Squeezing 25 Hours into your Day
 Squirt Guns Predate the Civil War
 St. Patrick vs. Samuel L. Jackson
@@ -18304,6 +18616,8 @@ Star Trek: TNG Wardrobe & Makeup Tests
 Star Trek: Voyager's Photon Torpedo Problem
 Star Wars Behind The Scenes: 40 Rare Photos
 Star Wars Bloopers
+Star Wars Bloopers for Star Wars Day
+Star Wars Movie Trivia
 Star Wars Music (and More) as You've Never Heard It Before
 Star Wars Reference or WWII Reference?
 Star Wars Sound Effects Quiz
@@ -18460,6 +18774,7 @@ Subway Snaps
 Succeedblog Focuses on the Positive
 Success: and the roadmaps you can buy
 Successful Things You Were In On From the Beginning
+Such Overshadowing
 Sugar High
 Summer First Aid Tips
 Summer Solstice Celebrations
@@ -18473,6 +18788,7 @@ Super Bowl Host Cities (Other Than Miami)
 Super Bowl I Tickets Cost $12 and Still Didn't Sell Out
 Super Ear Man Bros.
 Super Mario Bros Speedrun on Top of a Building
+Super Mario Bros. 3 in 3 Minutes
 Super Mario Bros. Villain or Obscure Dinosaur?
 Super Mario Bros. in 5 Minutes
 Super Mario Brothers + Line Rider = Shenanigans
@@ -18508,6 +18824,7 @@ Surreal Knitting Art Photography
 Surreal, silent raves sweeping the world
 Surrounded by Death on Snake Island
 Survey Winners! (And Other Odds/Ends)
+Survival Kits: The Useful, the Cool, and the Ridiculous
 Survival Tips From Popular Mechanics
 Surviving Latin Words
 Surviving Lightning
@@ -18521,6 +18838,7 @@ Sweeeeeet!
 Sweet Action: 8 Big Bets Made by Famous People
 Sweet Halloween Treats from Jellio.com (one more day!)
 Sweet Halloween Treats from Jellio.com (the winner!)
+Sweet Honeysuckles
 Sweet Sixteen Coach or Teen Pop Star?
 Sweet Talk, Day Five: Popcorn Balls
 Sweet Talk, Day Four: M&M's
@@ -18603,6 +18921,7 @@ Take This Quiz... Before the Quiz Takes You!
 Take This mental_floss Reader Panel Survey!
 Take Your Best $hot: 4 Average Joe Millionaires
 Take a Brief Survey, Maybe Win Something!
+Take a Survey, Maybe Win a $50 Gift Card!
 Take me out to the matzoball game
 Take one down, pass it around
 Take the Very First SAT from 1926
@@ -18707,6 +19026,7 @@ Ten Things You Should Know About the Dictionary
 Ten Thousand Years Older: A Fascinating Short Documentary by Werner Herzog
 Ten Tiny Treasures: Artists and Their Miniatures
 Ten Years Ago Today, Apple Introduced the iPod
+Ten for Ten
 Ten on Todd
 Tennessee Williams
 Tennis Shoes (And Other Election Gimmicks)
@@ -18757,6 +19077,7 @@ That Other Time Someone Tried to Get the British to Eat Horses
 That Sinking Feeling
 That Snow Down South Is Fake, Say Conspiracy Theorists
 That Tattoo Doesn't Mean What You Think It Means
+That Time America Attacked the British Isles
 That Time Some Mental Patients Beat Cambridge’s Chess Team
 That Time They Found Those Bodies in Ben Franklin's Basement
 That Time in 1979 When the U.S. Government Defaulted
@@ -18778,6 +19099,7 @@ That's One Way to Respond to a Complaint Letter
 That's What It's For
 That's one cool ride
 That's why you've got a fork and knife
+The "Best Picture" Losers
 The "Best" TV Commercials of the 50s and 60s
 The "City of London" Lives Inside a Larger City Named London
 The "Enfant Terrible" of Austria: Egon Schiele
@@ -18830,6 +19152,7 @@ The 10 Most-Watched Series Finales Ever
 The 10 Richest Classical Composers
 The 10 Weirdest Pieces of Unclaimed Luggage
 The 10,000 Year Photograph
+The 100 Best B Movies
 The 100 Meter Dash of Salt
 The 100-Million-Year-Old Spider Attack Frozen in Time
 The 11 Best-Named Political Parties
@@ -19027,6 +19350,7 @@ The Accidental Birth of Wrapping Paper
 The Accidental Leftie: Sir Frederick Burton
 The Actor Inside R2-D2 Is Not a Fan of C-3PO
 The Actor Inside R2-D2 Was Not a Fan of the Guy in C-3PO
+The Actual Size of Greenland
 The Ad Council's Greatest Hits
 The Ads of The Economist
 The Adventures of Mr. Rat - Episode 1
@@ -19048,6 +19372,7 @@ The Amateur New York Subway Riding Committee
 The Amazing Balancing Dog
 The Amazing Fact Generator is the New Journalism
 The Amazing Life of Audie Murphy
+The Amazing PancakeBot
 The Amazing Stories of 6 Sudden Savants
 The Amazing Surfing Dog
 The Ambiguous Origins of the Hokey Pokey
@@ -19065,6 +19390,7 @@ The Anasazi Mystery
 The Ancient Websites of 8 Republican Presidential Candidates
 The Andy Kaufman of the Internet?
 The Angel Quiz
+The Animals of Chernobyl
 The Animaniacs' Greatest Hits
 The Antarctic zipper
 The Apple Puzzle
@@ -19092,6 +19418,7 @@ The Art of Steadicam
 The Art of the Jack-O-Lantern: More than just a pretty face!
 The Art-Forging Robot
 The Artist as Model: Alfred Rich for William Orpen
+The Assassins Cross the Border
 The Athlete Autobiography Quiz
 The Audubon Nature of a Few Great Cities...
 The Australian Town That Invented A Language
@@ -19133,6 +19460,7 @@ The Beauty of Space Photography
 The Bedroom Quirks of 10 Great Authors
 The Beer Launcher
 The Beginning and the End
+The Beginning of Suspended Human Animation
 The Belgian Plan to Give Beer to Schoolchildren
 The Bell Witch of Tennessee
 The Benefits of Grunting During Tennis
@@ -19141,6 +19469,7 @@ The Berenstain Bears and the Quick 10
 The Berenstain Bears and the mental_floss Quiz
 The Best 42 Second Film You'll See Today
 The Best Albums from Start to Finish
+The Best Bad PSA Ever Is a Rap From 1992
 The Best Baseball Players Ever, According to Richard Nixon
 The Best Dinosaur
 The Best Email Auto Reply Ever
@@ -19309,6 +19638,7 @@ The Comedic Guide to Surviving the Mayan Apocalypse
 The Comedy Legacy of Harold Ramis
 The Compact Disc Turns 29
 The Complete History of Teenage Mutant Ninja Turtles
+The Complicated Chinese Family Tree
 The Computer That Put Men on the Moon
 The Computing-Tabulating-Recording Company Turns 100
 The Concert for Bangladesh: The Quiz
@@ -19341,12 +19671,14 @@ The Creepy Beauty of China's Totally Uninhabited Cities
 The Criminal Lives of 5 Classical Musicians
 The Crisis of Credit, Visualized
 The Cupertino Effect: 11 Spell Check Errors that Made it to Press
+The Curious Case of the $2 Bill
 The Curious Case of the Flying Communist Bears
 The Curious Comedian with Amir Blumenfeld
 The Curious Origins of 9 Delicious Phrases
 The Curious Political Quote Quiz
 The Curious Tradition of Valentine's Day Hate Mail
 The Cute Show: a Show About Cute Things
+The Cycle of Prosperity
 The DOMA Decision
 The Dada of Us All: Man Ray
 The Daily Routines of Interesting People
@@ -19361,6 +19693,7 @@ The Dark Origins of 11 Classic Nursery Rhymes
 The Day John Lennon Became a Disc Jockey
 The Day The Mississippi River Ran Backward—and How It Led to The Trail Of Tears
 The Day the Music Died
+The Day the Royal Navy Ended its Daily Rum Ration
 The Days of Your Life (in Jelly Beans)
 The Dead Guy Interviews Strike Again
 The Dead Man's Switch
@@ -19458,6 +19791,7 @@ The Evolution of Bugs Bunny
 The Evolution of Facebook's Pronoun Problem
 The Evolution of Mr. Potato Head
 The Evolution of Rod Blagojevich's Favorite Phrase
+The Evolution of the Death Penalty
 The Evolution of the Inaugural Ball
 The Evolution of the Lightsaber
 The Ex Factor
@@ -19515,7 +19849,9 @@ The First Christmas Card Was Sent in 1843
 The First Computer Programmer: Ada Lovelace
 The First Earth Day in Boston, Philly, and NYC
 The First Episode of The Simpsons Aired 22 Years Ago Today
+The First Ever U.S. Speeding Violation
 The First Fade-Out
+The First Female Motorcyclist in D.C.
 The First Few Minutes of the Ferris Bueller TV Show
 The First Good News to Hit the Newsstands!
 The First Guests on 22 Late Night Talk Shows
@@ -19648,6 +19984,7 @@ The Great Celebrity Endorsement Quiz
 The Great Chicago Fire Wasn't Even the Biggest Fire That Day
 The Great Crab Migration
 The Great Down-Sell
+The Great Emu War of 1932
 The Great Gatsby as a 1987 Nintendo Game
 The Great Lakes...If they were on IMDB
 The Great Man of the Gray Lady
@@ -19659,6 +19996,7 @@ The Greatest Basketball Team You've Never Heard Of
 The Greatest Business Card in the World
 The Greatest Chicken Parade in the Land!
 The Greatest Dance Number Ever Filmed
+The Greatest Infographic of All Time
 The Greatest Interviews of All Time (at least according to The Guardian)
 The Greatest Interviews of All Time: Princess Diana with Martin Bashir
 The Greatest Interviews: F. Scott Fitzgerald Meets the New York Post
@@ -19713,6 +20051,7 @@ The High-Tech Exosuit That Takes Divers to 1000 Feet
 The Highest Compliment Maurice Sendak Ever Received
 The Highest-Grossing Movies of All Time
 The Highest-Rated Debates in History
+The Hilarious Netflix Bug
 The Hindenburg, Pre- and Post-Disaster
 The Hindu Milk Miracle
 The Historic Roots of 7 Styles of Brew
@@ -19732,6 +20071,7 @@ The History of Paint-by-Numbers
 The History of Presidential Turkey Pardoning
 The History of Roller Skating
 The History of Utensils (Spork Included)
+The History of the Hamburger
 The History of the Olympics, According to Wheaties Boxes
 The History of the Trapper Keeper
 The Hitchcock Recipe
@@ -19749,6 +20089,7 @@ The Human Centipede, Circa 1928
 The Human Clock
 The Human Sponge
 The HumanCar LMV Imagineâ„¢
+The Humble Early Days of the NFL Draft
 The Humble Origins of 11 Chain Restaurants
 The Hunting Strategies of Carnivorous Plants
 The Idea for the Fax Machine Has Been Around for 170 Years
@@ -19842,6 +20183,7 @@ The Land Where Old English Survives
 The Language Isaac Newton Invented
 The Language of Typography
 The Large Hadron Collider: What Could Possibly Go Wrong?
+The Largest Immigrant Population in Each State
 The Largest Record Collection in the World, Still for Sale
 The Largest Versions of 8 Delicious Foods
 The Last 'Frankenstorm': Video of the 1938 Nor'easter That Ravaged New England
@@ -20659,12 +21001,14 @@ The Law
 The LeBron James Sweepstakes
 The Least Addictive Mistake
 The Least Popular American Baby Names According to Early Records
+The Least-Remembered Countries in the World
 The Legacy of Nelson Mandela
 The Legacy of Sadako
 The Legacy of Twilight
 The Legality of Performing CPR
 The Legend of Sleepy Hollow
 The Legend of Undercover Elvis
+The Legend of Zelda Theme Played on Beer Bottles
 The Legend of the Lost Atari E.T. Games
 The Lego Lifestyle Home
 The Leica Freedom Train
@@ -20680,6 +21024,7 @@ The Letters of Last Resort
 The Lewis, the Witch and the Wardrobe
 The License Plate Game
 The Life And Times Of The MGM Lion
+The Life and Death of Spuds MacKenzie, the Original Party Animal
 The Life and Times of America's First Murderer
 The Life and Times of Deputy U.S. Marshal Bass Reeves
 The Life and Times of Hetty the Hoarder, the Witch of Wall Street
@@ -20760,6 +21105,7 @@ The Mathematical Pi Song
 The Mayan Apocalypse: By The Numbers
 The McHula Pineapple Burger That Almost Was
 The Meaning of the Word "Moot" is Moot
+The Meanings Behind the Symbols on 20 Beer Labels
 The Medical Background of Dr. Brown, Dr. Scholl, Dr. Martens and Dr Pepper
 The Medical Credentials of 7 Famous Doctors
 The Melancholy Deaths of Edward Gorey's Children
@@ -20975,6 +21321,7 @@ The Most Dangerous Book in the World
 The Most Dazzling Camouflage Ever
 The Most Decorated Winter Olympians in History
 The Most Depressing Day of the Year
+The Most Desirable College in Each State
 The Most Egregious Election in American History
 The Most Elaborate Music Video You'll Watch Today
 The Most Expensive Properties in 11 Special Edition Monopoly Games
@@ -20990,7 +21337,10 @@ The Most Influential Musician You’ve Never Heard Of
 The Most Interesting Comics of the Week
 The Most Interesting Conversation You've Overheard
 The Most Overrated Movies of All Time
+The Most Philadelphia Sentence
+The Most Photographed Places in the World
 The Most Popular Baby Names by State
+The Most Popular Baby Names in Each State for 2013
 The Most Popular Baseball Team by County
 The Most Popular Girl Names in Each State Since 1960
 The Most Popular Halloween Costumes (1985-1993)
@@ -21000,6 +21350,7 @@ The Most Popular Stories of 2009: #20 to #14
 The Most Popular TV Show Set in Each State
 The Most Prolific Fathers in History
 The Most Ridiculous Big Ticket Gift Ever
+The Most Selective School in Each State
 The Most Sobering Mistake in U.S. History
 The Most Terrifying Sim City of Them All
 The Most Unexpected Oscar Swag Ever
@@ -21016,11 +21367,13 @@ The Muppet Show, Sesame Street or Fraggle Rock?
 The Muppets Attempt to Sing "Danny Boy"
 The Muppets Celebrate Earth Day (in 1990)
 The Muppets Return "Again!" to Theaters in 2014
+The Music Journalism Debate
 The Music Lawsuits Quiz
 The Musical Stylings of Cookie Monster
 The Mysteries of Animal Hoarding
 The Mysteries of Kava
 The Mysterious Case of Santa Claus's Leaking Bones
+The Mysterious Holes in Indiana’s Sand Dunes
 The Mystery Behind Hemingway's Suicide
 The Mystery of Ann Bassett and Etta Place
 The Mystery of LA's Free-Fallin' Murder Rate
@@ -21052,6 +21405,7 @@ The Nazis Were on to Continental Drift Before Everyone Else
 The Neuroscience of Mona Lisa
 The New (and improved) Yorker piece on Wikipedia
 The New -Ism Finalists
+The New 9/11 Museum
 The New Benjamins
 The New Hipster Cities of America?
 The New Issue Is Out!
@@ -21071,6 +21425,7 @@ The Newest Members of the Toy Hall of Fame
 The News Media Merchandise Quiz
 The Newseum
 The Nicknames of All 32 World Cup 2014 Teams
+The Night Sky
 The Night Sky: 6 Hours of Stars
 The Night The Beatles Rocked Shea Stadium
 The Night They (Almost) Bombed Old Dixie Down
@@ -21244,6 +21599,7 @@ The Only 5 Books You Need to Read on the Kennedy Assassination
 The Only Footage of Mark Twain in Existence
 The Only Math Museum in the U.S. Just Opened
 The Open Letter-Off of '07
+The Orange Cave Crocodiles of Gabon
 The Orb Bluetooth Headset
 The Order of Things
 The Oregon County That's Not in the U.N.
@@ -21274,6 +21630,7 @@ The Origins of 10 Nicknames
 The Origins of 10 Winter Olympic Sports
 The Origins of 11 Big Box Stores
 The Origins of 11 Famous Star Trek Lines
+The Origins of 12 Horse-Related Idioms
 The Origins of 12 Supermarket Chains
 The Origins of 15 Beloved Playground Games
 The Origins of 15 Delightful Carnival Rides
@@ -21341,6 +21698,7 @@ The Perfect Chair for Goldilocks
 The Perfect Game of Putt-Putt
 The Perfect Paper Airplane
 The Perfect Rock 'N' Roll Cocktail
+The Perfect Time of Day to Do Everything
 The Periodic Table of The Muppets
 The Perks of the Presidency
 The Personal Items 6 Famous Dictators Left Behind
@@ -21410,6 +21768,7 @@ The Queen of Cool & the Sandman: The people who make our blue jeans
 The Quest For Cyborg Liberties
 The Quest for a Malaria Vaccine and the Man Who Risked Everything to Find It
 The Quest to Clone John Lennon
+The Quest to Save the Whooping Crane
 The Questionable Parenting Behind 5 Child Stars
 The Quick 10 - Suck on This: 10 Tidbits About Candy Canes
 The Quick 10, Sort Of: 10ish Famous People Related to Ben Franklin
@@ -22181,6 +22540,8 @@ The Sesame Street Song Quiz
 The Sesame Street/Muppet Show/Fraggle Rock Trivia Contest
 The Set of "The Shining" is Intentionally Impossible
 The Shared Lives of Unusually Close Twins
+The Shark Whisperer and Other Animal Whisperers
+The Shawshank Money Machine
 The Sheikh of Shampoo
 The Sherlock Holmes Handbook: How to Disguise Yourself
 The Sherlock Holmes Handbook: How to Fake Your Own Death
@@ -22236,6 +22597,7 @@ The Soviet Union Was Dissolved 20 Years Ago Today
 The Space Toilet
 The Space Where a Pirouette Meets a Silhouette
 The Spaghetti Harvest
+The Spanish Village “Kill Jews” Has Decided to Change its Name
 The Speediest Spaceships
 The Sperm Bank for Nobel Prize Winners
 The SpongeBob Squarepants Quiz
@@ -22271,12 +22633,14 @@ The Stories Behind 4 More Civic Organizations
 The Stories Behind 5 Familiar Voices
 The Stories Behind 5 Famous Exhumations
 The Stories Behind 5 Old American Brands
+The Stories Behind 6 Breakfast Mascots
 The Stories Behind 6 Famous Masks
 The Stories Behind 6 Famous Slogans
 The Stories Behind 6 Safety Precautions
 The Stories Behind 8 Back-to-School Essentials
 The Stories Behind 8 Championship Trophies
 The Stories Behind 9 Iconic TV Production Logos
+The Stories Behind All 50 State Quarters
 The Stories Behind Curiously Named Products
 The Stories Behind Donna Summer's Biggest Hits
 The Stories Behind Graduation Traditions
@@ -22295,6 +22659,7 @@ The Story of Pi
 The Story of SNL Stills
 The Story of Sriracha
 The Story of Stuff
+The Story of Sushi
 The Story of the Soaker
 The Strange Deaths of 20 Interesting People
 The Strange DÃ©cor of Wacky Roommates
@@ -22304,6 +22669,7 @@ The Strange World of Lab Mice
 The Strangest Soccer Match Ever Played
 The Straw that Saves Lives
 The Street Origins of Double Dare
+The Student Films of 20 Famous Directors
 The Stupidest Questions in Super Bowl History
 The Stupidest Things Our Readers Have Done
 The Subway Garden
@@ -22316,6 +22682,7 @@ The Super Villain Cat
 The Surprise Pizza Party
 The Surprising Last Words of 11 Entertainers
 The Surprising Origins of Child-Proof Lids
+The Surprising Origins of TV Character Names
 The Surprising Passions of 11 Brilliant People
 The Surprising Source of New York's First Environmental Problem
 The Surprising Voices Behind Cartoon Characters
@@ -22329,12 +22696,14 @@ The Sylvester Stallone Tough Guy Quiz
 The TV Sports Theme Song Quiz
 The Tablecloth That Looks Better With Spills
 The Tale of Two Toothbrushes
+The Talented Mr. Ripley
 The Taliesin Tragedy
 The Tall Tales of Tom Collins (and how the drink came about)
 The Tallest Building in Kraków is "Szkieletor," He-Man's Nemesis
 The Taman Shud Mystery
 The Tantrum-Throwing Alarm Clock
 The Technology of Phone Calls
+The Teeny Tiny History of the World
 The Ten Sickest Senators*
 The Terrible Weather on 6 Exoplanets
 The Terrorist and His Sweeper
@@ -22384,6 +22753,7 @@ The Time Winter Lasted A Decade
 The Time Zone Quiz
 The Time a Giant LEGO Man Invaded Dutch Shores
 The Tiny Island Where Men Have Their Own Language
+The Tiny Titanic
 The Tiny Transforming Robot That Can Turn Itself Into (Almost) Anything
 The Title Game: Einstein vs. Leonardo
 The Toadstool Exchange: An Examination of 5 Video Game Currencies
@@ -22393,6 +22763,7 @@ The Tonight Show With Conan O'Brien -- Two Weeks Later
 The Tonsillectomy: A Massive Pain in the Neck
 The Top 10 Gift Ideas in the mental_floss Store (Since Black Friday)
 The Top 10 Moments of 2013... in Play-Doh
+The Top 10 U.S. Cities by Population (1790-2010)
 The Top 100 Video Games, According to Time
 The Top 11 mental_floss Shirts of the Year
 The Top 13 Haunted Houses in the U.S.
@@ -22402,6 +22773,7 @@ The Top 20 Jewish Comedians of All-Time
 The Top 25 U.S. Magazines
 The Top 3 Gifts on Kids' Wish Lists: iPad, iPod Touch and iPhone
 The Top 5 mental_floss Quizzes of 2011
+The Top Language in Each State Besides English and Spanish
 The Top Nine Top Ten Lists
 The Top Rated Super Bowl Commercial Each Year
 The Top Top Albums
@@ -22464,6 +22836,7 @@ The Unfinished Tribute to Crazy Horse
 The United States Once Planned To Nuke The Moon
 The Uno
 The Untouchables 25th Anniversary Quiz
+The Upside To Attachment Anxiety
 The Upside of Swimming With Sharks
 The Upside-Down Illustrations of Peter Newell
 The Valley of Fire
@@ -22482,6 +22855,7 @@ The Visual Poetry of Corrupt Video
 The Voice of Houdini
 The Voice of Winnie the Pooh Calls Sick Kids in Character
 The Voices Behind 6 Classic Cereal Mascots
+The Volcano that Changed Everything
 The Voyage of Voyager 1
 The WASP Injector Knife
 The WWI Christmas Truce of 1914
@@ -22517,6 +22891,7 @@ The Weird City Name Quiz
 The Weird Historical Image Scavenger Hunt!
 The Weird History of Pogs
 The Weird Nicknames of 7 Spy Agency Headquarters
+The Weird Patent for a "Better" Mousetrap
 The Weird Science 25th Anniversary Quiz!
 The Weird Things That Some Bacteria Eat
 The Weird Week ending April 11th
@@ -22636,6 +23011,7 @@ The Worst Internship Possible
 The Worst Kickstarter Projects of 2013
 The Worst Movies Of 2013
 The Worst Parking Job in History
+The Worst Waiter of All Time
 The Writer Who Makes Knives
 The Wu-Tang Marketing Plan
 The X-Files X-Posed
@@ -22805,6 +23181,7 @@ These Jell-O Salad Ads Are Amazing
 These Jumpers Scream Geeky Baby Class
 These Rats Were Made for Walking
 These Spiders Use Unlikely Bodyguards
+These Videos of Paris in Motion are Mesmerizing
 These Were Our 10 Most Popular Stories in November
 These Wetsuits Could Make You Invisible to Sharks
 These animations will make you cry
@@ -22821,6 +23198,7 @@ They Own These Moves
 They Shouldn't Have Put a Ring on It: The NCAA and Ring Repossession
 They Were Who They Weren’t: 6 Audacious Impostors
 They like You, they really like You
+They're Such Sweet Sorrow
 They're blue, da ba dee, da ba die
 Thieves!
 Thingamajig Thursday: ????
@@ -22849,6 +23227,7 @@ Things Nobody Likes But You
 Things Nobody Told Me: Boy Scout Fashion
 Things Nobody Told Me: Brooklyn's Bizarre Team Names
 Things Not to Name Your Pet
+Things We Learned From Cartoon PSAs
 Things With Faces
 Things You Can Buy At Christie's Pop Culture Auction
 Things You Learned the Hard Way
@@ -22862,6 +23241,7 @@ Things considered a big deal in Europe but not in the States - Part 3: the Smart
 Things considered a big deal in Europe but not in the States - Part 4: Robbie
 Things could get ugly
 Think Different: Musicians' Brains
+Thinking Before Eating Makes Food More Enjoyable
 Thinking way outside the box
 Third Caption Contest Finalists!
 Third Caption Contest Winner!
@@ -23055,6 +23435,7 @@ Today's Book Giveaway: Oddly Titled Biographies
 Today's Contest: Other '90s TV Shows That Deserve Sequels
 Today's Giveaway: Get Clean and Geeky With Video Game Soap
 Today's Giveaway: Infunitum!
+Today's Google Doodle Celebrates Dorothy Hodgkin
 Today's Google Doodle: Diego Rivera
 Today's Lunchtime Quiz...
 Today's Newsletter
@@ -23066,10 +23447,12 @@ Toilet Humor
 Toilet Paper Dispensers
 Toilet Paper History: How America Convinced the World to Wipe
 Tom Wolfe or Teen Wolf?
+Tommy Wiseau's Batman
 Tommy Wiseau's New Bad Movie
 Tomorrow is the 11th!
 Tongue Length and Other Things You Should Know About Giraffes
 Tongue-o-vision
+Tonight Show Science
 Tonight on NOVA: "Japan's Killer Quake"
 Tonight on NOVA: Ghosts of Machu Picchu
 Tonight on PBS: DIRT! The Movie
@@ -23078,6 +23461,7 @@ Tonight on PBS: NOVA - Riddles of the Sphinx
 Tonight on Vice: Greenland is Melting
 Tonight's Giveaway: The Phonekerchief!
 Tonight: "Prophets of Science Fiction" Starts
+Tonight: All About Ann (Richards), on HBO
 Tonight: Don't Stop Believin' on PBS
 Tonight: Frozen Planet: Edge of the Earth
 Tonight: Our Three Stooges Marathon is Headed for Primetime!
@@ -23121,6 +23505,7 @@ Total Recall
 Totally inappropriate coloring books
 Touch Influences Decisions (Or: How to Save $350 on Your Next Car)
 Touching Moments in Baseball History
+Tour a Movie Set Online
 Tourist Remover Gets Rid of Pesky Stragglers
 Tournament of Genius: The Winner Is...
 Towels: the most useful items in the universe
@@ -23211,6 +23596,7 @@ Turing, ESPY or Grammy?
 Turkey Goes Cold Turkey
 Turkey Tracker: What to Watch (Online) This Thanksgiving
 Turks Retake Adrianople, Bulgaria Asks for Peace
+Turn Down, California
 Turn of the Century: Old Photos
 Turning Coffee Stains Into Art
 Turnpike Trivia
@@ -23262,6 +23648,7 @@ U.S. Cities with Two-Word Names
 U.S. Mean Center of Population Since 1790
 U.S. Military Operation or Brand of Cat Litter?
 U.S. Open Champion's Nickname or San Diego Bar?
+U.S. Population Distribution by Race
 U.S. Representative or Little Rascal?
 U2 and MLK
 U3-X Unicycle
@@ -23295,9 +23682,11 @@ Uncovering the Secrets of In-N-Out
 Undeniable Proof That Google Will Make Us All Cyborgs
 Under Old Management: A Giant List of 14 Changes at Starbucks
 Under the Sea: 5 Underwater Human Habitats
+Underground America: 7 Things You Could Be Standing on
 Underground Wonders
 Understanding Diner Lingo: 55 Phrases to Get You Started
 Understanding Sleep Paralysis
+Understanding Vaccination: The Cold Chain
 Understanding Vatican City
 Understanding Your Nerd
 Understanding the 2012 Nobel Prize in Physics (With a Cat)
@@ -23306,6 +23695,7 @@ Understanding the Debt Limit
 Understanding the Monty Hall Problem
 Understanding the Placebo Effect
 Underwater Grave Sites
+Unearthing Richard III: The Luckiest Find in History
 Unexpected Ad Jingles
 Unexpected, Unwelcome Visitors
 Unique
@@ -23315,6 +23705,7 @@ Universal Time
 Universally Accessible Treehouses
 University Shrugged: Duke ethics professor to launch for-profit college
 Unlawful Knowledge
+Unleash Your Inner Genius With Mike's Hard Lemonade
 Unplugged: Revisited (The Quiz)
 Unreal Reality Show Concepts
 Unsheets
@@ -23358,6 +23749,7 @@ VELCRO: The Humble Origins of the Greatest Thing to Ever Happen to My Sneakers
 VIII Random Facts About Henry VIII
 VP or MVP?
 Vacation to Mars: Antarctica's Dry Valleys
+Vachel Lindsay
 Valentine Gift Ideas
 Valentine's Day at the mental_floss Store
 Valley of the Ventriloquists
@@ -23470,6 +23862,7 @@ Vonnegut's Letter to His Family About His Imprisonment in Slaughterhouse Five
 Vortex Cannon Proves: Three Little Pigs Were Right
 Vote for the World's Ugliest Animal
 Vote for the next two mental_floss shirts!
+Vote on Which New Twitter Word to Put in the Dictionary
 Voyager 1 Has Left the Solar System!
 Vroom
 W(ow) W(ow) Worldometers
@@ -23480,6 +23873,7 @@ WENCESLAS: The Man, the Myth, the Christmas Carol
 WTF? Fun With Initials
 WWF Superstars Quiz
 WWF Superstars Quiz 2
+WWI Centennial: Irish Troubles
 WWI Centennial: The Conference of London Convenes
 WWII Bomb Discovered, Detonated in Munich
 Wacky (Okay, Classic) Book Ads
@@ -23530,6 +23924,7 @@ Was it a car or a cat I saw?
 Was the Ghostbusters Theme Stolen from Huey Lewis?
 Washing Your Hair in Space
 Washing Your Hands in the Bathroom
+Washing the Car Again
 Washington Didn't Sleep Here: A White House FAQ
 Washington Posed Here: Gilbert Stuart
 Washington's Shaky Search for a Second Chief Justice
@@ -23547,10 +23942,12 @@ Watch Every Episode of Home Run Derby (1960)
 Watch Everything That Happens Behind the Scenes of An Episode of SNL
 Watch Five Caterpillar Machines Play Jenga
 Watch Full-Length Troma Films on YouTube
+Watch Germans Try to Say the Word “Squirrel”
 Watch Liquid Boiling and Freezing at the Same Time
 Watch Mike Tyson Play Mike Tyson's Punch-Out!!
 Watch Out for Lorry
 Watch People Buy Guns N' Roses CDs and Tapes at Midnight in 1991
+Watch People Paint Ads on NYC Buildings
 Watch Sesame Street Take on The Hunger Games
 Watch Steve Ballmer Promote Windows 1.0
 Watch Steve Jobs Prep for His First TV Interview
@@ -23630,6 +24027,7 @@ We Want Your Nerdy/Adorable Childhood Photos
 We Want to See Your Tattoos! (And the Quick 10: 10 Famous Tattoo Artists)
 We Were Nominated for a Webby (and We Need Your Vote!)
 We Were on The Today Show !
+We Won Another Webby Award!
 We Won a Webby!
 We are how we die
 We hate to say we told you so
@@ -24124,6 +24522,7 @@ Welcome to Jurassic Park
 Welcome to Sealand
 Welcome to Secrets Week!
 Welcome to Sochi
+Welcome to the Body Farm
 Welcome to the Gun Show
 Welcome to the Peanut (Butter and Jelly) Gallery
 Welcome to the World, William Tyler Pearson!
@@ -24173,6 +24572,7 @@ What Are the Dangers of Blood Doping?
 What Are the Most Important Historical Sites in the World?
 What Are the Most Important Libraries in the World?
 What Are the Northern Lights?
+What Are the Santa Ana Winds?
 What Are the Seven Seas?
 What Are the World’s Most Prestigious Film Festivals?
 What Art Museums Are Can’t-Miss Visits?
@@ -24222,6 +24622,7 @@ What Do You Do With An Old Oil Rig?
 What Do You Floss With?
 What Do You Want to Learn More About This Year?
 What Do the Ms on M&M's Stand For, and How Do They Get Them on There?
+What Do the Ms on M&M's Stand For?
 What Do the Olympic Rings Mean?
 What Do the Words of the Mardi Gras Song Mean?
 What Does "Egghead" Mean?
@@ -24282,7 +24683,9 @@ What Happens If You Drive Off with the Gas Pump Nozzle Still in the Car?
 What Happens When You Clone Your Pet
 What Happens When You Get the Wind Knocked Out of You?
 What Happens When You Give 1000s of Stickers to 1000s of Kids?
+What Happens When You Pull The Emergency Brake On the Subway?
 What Happens When Your Money Dies
+What Happens if You Drive Away With the Nozzle?
 What Happens in Intercourse
 What Happens to Denver's Pre-Printed Championship Shirts?
 What Happens to Leftover Campaign Funds When a Candidate Drops Out?
@@ -24304,10 +24707,12 @@ What If? 19 Alternate Histories Imagining a Very Different World
 What Intentionally Misspelled Words Drive You Crazy?
 What Is Awesome?
 What Is Catnip & Why Are Cats Crazy For It?
+What Is El Niño?
 What Is Greenwich Mean Time?
 What Is Point Blank Range?
 What Is That? 9 Peculiar Artifacts of Yesteryear
 What Is a Blue Moon, and How Rare Is It?
+What Is a Photocopier?
 What Is an "October Surprise"?
 What Is the Iowa Straw Poll?
 What Is the Mystery Flavor of Dum Dums?
@@ -24315,6 +24720,7 @@ What It Takes to Be a Nation
 What James Cameron Found at the Deepest Known Point in the Ocean
 What Jesus looked like
 What Jingles Can't You Forget?
+What Jurassic World May Be
 What Kevin McCallister's Awful Family Is Doing Now
 What Killed The Dinner Party?
 What Kind of Dog Is That?
@@ -24324,12 +24730,14 @@ What Kind of Pinner Are You? The 8 Types on Pinterest
 What Kind of Tweeter R U? The 13 Types on Twitter
 What Legal Authority Does Judge Judy Have?
 What Lies Beneath: Libya's Great Manmade River
+What Made Nellie Bly Decide to Go Around the World?
 What Made People Think Dewey Defeated Truman?
 What Made The AK-47 So Popular?
 What Makes "Fancy Ketchup" So Fancy?
 What Makes "Psycho Killers" Tick?
 What Makes #2 Pencils So Special?
 What Makes Bloodhounds Such Great Tracking Dogs?
+What Makes Magic Shell So Magic?
 What Makes Our Brains Feel Trust?
 What Makes Simple Syrup Simple?
 What Makes Something an Antique?
@@ -24369,6 +24777,7 @@ What Should I Ask Scott Thompson?
 What Should I Ask the Mythbusters?
 What Should I Cover at Comic Con?
 What Should We Ask Bill Nye?
+What Side of the Road Countries Drive On
 What Side of the Road Do They Drive on?
 What Songs Give Good Workout?
 What Spelling Bee Word Tripped You Up?
@@ -24383,6 +24792,7 @@ What Two Dead Stars Reveal About Earth's Origins
 What Virtual Reality Looked Like in 1992
 What Was Marbury v. Madison? Who Were Roe & Wade?
 What Was Nixon's "Checkers Speech"?
+What Was Your Best (or Worst) Summer Job?
 What Was Your Best Subject?
 What Was Your Favorite Album When You Were 13?
 What Was Your Favorite Book Growing Up?
@@ -24451,9 +24861,11 @@ What is "People who are not Ken Jennings"?: Other Notable Jeopardy! Contestants
 What is Fortified Wine?
 What is Gaslighting?
 What is Martial Law?
+What is Pine Tar Used for Outside of Baseball?
 What is Proper Handshake Etiquette Around the World?
 What is Rubella?
 What is Salmonella & how did it get in my tomatoes?
+What is a Black Mass?
 What is a Mondegreen?
 What is a Pigeonhole?
 What is a Polar Vortex?
@@ -24562,6 +24974,7 @@ What's Your Proudest Fix-It Job?
 What's a BRAT diet?
 What's a Backronym?
 What's a Hoya?
+What's a Life Hack Everyone Should Know?
 What's a MacGuffin?
 What's a Million Dollars?
 What's a Trade Secret? (And What Would Happen if You Stole The Colonel's?)
@@ -24578,6 +24991,7 @@ What's new?
 What's next--the Million Father March?
 What's on Dasher, on Dancer, on Prancer, on Vixen? Mustard and relish!
 What's the Best BBQ You've Ever Had?
+What's the Best Fortune Cookie You've Ever Gotten?
 What's the Best Gag Gift You've Ever Given?
 What's the Best Movie of the Decade?
 What's the Best Opening Sentence Ever?
@@ -24593,6 +25007,7 @@ What's the Difference Between Antlers and Horns?
 What's the Difference Between Britain and England?
 What's the Difference Between Flotsam and Jetsam?
 What's the Difference Between Ketchup and Catsup?
+What's the Difference Between Seals and Sea Lions?
 What's the Difference Between Table Salt and Kosher Salt?
 What's the Difference Between a Street and a Road?
 What's the Difference between Churches, Chapels, and Cathedrals?
@@ -24600,6 +25015,7 @@ What's the Difference between Murder and Manslaughter?
 What's the Difference: Coke vs. Pepsi
 What's the Difference? Winter Olympic Sports
 What's the Difference?: Egg Roll vs. Spring Roll
+What's the Dumbest Way You've Injured Yourself?
 What's the Fastest You've Ever Finished a Book?
 What's the First Thing You Ever Bought Online?
 What's the Higgs Boson and Why Do We Care?
@@ -24668,6 +25084,7 @@ What’s the Difference Between Scotch, Whiskey and Bourbon?
 What’s the Difference Between a Boat and a Ship?
 What’s the Difference Between a Mammoth and a Mastodon?
 What’s the Difference Between a Stalactite and a Stalagmite?
+What’s the Difference Between “O” and “Oh”?
 What’s the Longest Prison Sentence Ever Received?
 What’s the Oldest Trick in the Book?
 What’s the Origin of Jack-O’-Lanterns?
@@ -24803,6 +25220,7 @@ Where Do Baby Carrots Come From?
 Where Do Hamsters Come From?
 Where Do Historical Reenactors Get Their Gear?
 Where Do Seedless Watermelons Come From?
+Where Do U.S. Coin Names Come From?
 Where Do You Do Your Best Thinking?
 Where Do You Go to the Bathroom During a Riot?
 Where Do the Clothes at Discount Stores Come From?
@@ -24862,6 +25280,7 @@ Which Item Has More Calories?
 Which One Isn't A Magazine?
 Which Ones Were Wigs? A Presidential Political Party Quiz
 Which State Has More People?
+Which State Has the Most State Pride?
 Which Witch is Which?
 Which ancient form of execution would you least prefer?
 Which came first, the chicken or the T-Rex?
@@ -25063,6 +25482,7 @@ Why Are Whole Foods Typically More Expensive Than Processed?
 Why Are the Academy Awards Statuettes Called Oscars?
 Why Are the Dutch So Good at Speed Skating?
 Why Are the Letters in ABC Order?
+Why Are “Rhyme” and “Rhythm” Spelled Like That?
 Why Aren't Bidets Common in the U.S.?
 Why Aren't There B Batteries?
 Why Aren't You Supposed to Wake a Sleepwalker?
@@ -25095,6 +25515,7 @@ Why Did Eating Horsemeat Become Taboo?
 Why Did Egyptian Pharaohs Wear False Beards?
 Why Did Humans Start Eating Cheese in the First Place?
 Why Did Kamikaze Pilots Wear Helmets?
+Why Did M*A*S*H Have A Laugh Track?
 Why Did NORAD Start Tracking Santa?
 Why Did People Wear Powdered Wigs?
 Why Did Pirates Wear Eye Patches?
@@ -25135,6 +25556,7 @@ Why Do Flamingos Stand On One Leg?
 Why Do Flocks of Geese Fly in a “V” Shape?
 Why Do Hollywood Movies Cost so Much to Make?
 Why Do I Shiver When I Pee?
+Why Do I Sometimes Scratch One Body Part and Feel It on Another?
 Why Do I Wake Up Right Before My Alarm Goes Off?
 Why Do Jews Eat Potato Pancakes During Hanukkah?
 Why Do Limbs "Fall Asleep"?
@@ -25163,10 +25585,12 @@ Why Do So Many Russian Drivers Have Dashboard Cams?
 Why Do Soap Operas Look Different From Other TV Shows?
 Why Do Some Birds Sing, While Others Caw?
 Why Do Some Clocks Use Roman Numeral IIII?
+Why Do Some Pitchers Throw Submarine Style? Why Don't More?
 Why Do Speed Skaters Use Such Weird Ice Skates?
 Why Do Spicy Foods Make Your Nose Run?
 Why Do Stars Twinkle?
 Why Do Students Dissect Frogs?
+Why Do Students Get Summers Off?
 Why Do The Lions & Cowboys Always Play On Thanksgiving?
 Why Do They Call It Trinidad AND Tobago?
 Why Do They Click That Board Thing Before Filming A Movie Scene?
@@ -25204,6 +25628,7 @@ Why Do We Say "The Butler Did It"?
 Why Do We Say “Pardon My French” When We Curse?
 Why Do We Scream "Geronimo" When Jumping From Things?
 Why Do We Sing the National Anthem at Sporting Events?
+Why Do We Sometimes Call Aluminum Foil "Tin Foil”?
 Why Do We Tan?
 Why Do We Toast to Celebrate?
 Why Do We Use Fresh-Squeezed Citrus in Cocktails?
@@ -25225,8 +25650,10 @@ Why Does 'Love' Mean 'Zero' in Tennis?
 Why Does 60-Degree Water Feel Colder Than 60-Degree Air?
 Why Does Alcohol Cause the Spins?
 Why Does Asparagus Make Your Pee Smell Funny?
+Why Does Bacon Smell So Good?
 Why Does Bad Weather Aggravate Old Injuries?
 Why Does Bottled Water Have an Expiration Date?
+Why Does Carbonation Make Drinks Taste Good?
 Why Does Everything Look Green Through Night Vision Goggles?
 Why Does Food Taste Bad After You Brush Your Teeth?
 Why Does Getting Hit in the Testicles Hurt So Much?
@@ -25262,11 +25689,13 @@ Why Does the Road Look Wet on Hot Days?
 Why Does the Shower Curtain Always Try to Get Me?
 Why Does the Snooze Button Only Give You 9 More Minutes of Sleep?
 Why Does the Sound of Running Water Make You Have to Pee?
+Why Does “Terrible” Mean Bad and “Terrific” Mean Good?
 Why Doesn't Spaghetti Break in Half?
 Why Dogs Hate Halloween
 Why Don't All Planes Leave Smoke Trails?
 Why Don't Cars Come with Ashtrays Anymore?
 Why Don't Human Cannonballs Die?
+Why Don't Octopuses Get Stuck to Themselves?
 Why Don't School Buses Have Seat Belts?
 Why Don't Spiders Get Stuck in Their Webs?
 Why Don't Valentine Hearts Look Like Real Hearts?
@@ -25316,6 +25745,7 @@ Why Isn't There Canned Broccoli?
 Why Isn’t Fish Considered Meat During Lent?
 Why Kafka Makes You Smarter
 Why Kickstarter, Creative Commons, and Creators Project Matter
+Why Libraries Matter
 Why Libraries Matter: Letters to the Children of Troy, Michigan (From 1971)
 Why Michael Jordan's Fancy New Sneakers Cost $5,000 Per Game
 Why Mommy is a Democrat, and other bedtime stories
@@ -25379,6 +25809,7 @@ Why do the Lions & Cowboys always play on Thanksgiving?
 Why do we sing the National Anthem at sporting events?
 Why does Cuba let the U.S. keep a military base on its soil?
 Why is 10:10 the Default Setting for Clocks and Watches?
+Why is Boston Called “Beantown”?
 Why is Charles Schulz in the Hockey Hall of Fame?
 Why is Chicago Called the "Windy City"?
 Why is Connecticut Called the “Nutmeg State”?
@@ -25397,6 +25828,7 @@ Why is Y Sometimes a Vowel?
 Why is a Fake Doctor Called a Quack?
 Why is a Game of Dice Called "Craps"?
 Why is it "Boilerplate text?"
+Why is it Called a "Radio Flyer"?
 Why is it so hard to balance on a bicycle that's not moving, and easy on one that is?
 Why is the Drinking Age 21?
 Why is the Flu Seasonal?
@@ -25445,6 +25877,7 @@ Will The Madden Curse Strike Again?
 Will There Be a Hurricane Sandy Baby Boom?
 Will This Be on the (Drug) Test? On Poppy Seeds and False Positives
 Will We Ever Be Able to Clone Dinosaurs?
+Will Wild Mice Use Running Wheels?
 Will Work For ... Nothing? People Who Declined Their Salaries
 Will Yelp Put Restaurant Chains Out of Business?
 Will a Nightcap Really Help You Sleep Better?
@@ -25612,6 +26045,7 @@ World War I Centennial: Turks Defeated at Kirk Kilisse and Kumanovo
 World War I Centennial: Wilson Takes The White House
 World War I Centennial: With Friends Like These...
 World's 10 largest nations will see Parkinson's cases double in 25 years
+World's Best Father?
 World's Coolest Rain Coat
 World's Oldest Person
 World's Ugliest Dog?
@@ -25754,6 +26188,7 @@ Your Camping Equipment's Fascinating History
 Your Cause in Lights: The Empire State Building's Tribute Policy
 Your College's Oddest Courses
 Your Company's Strangest Rules and Regulations
+Your Daily Brain-Soother: Swimming Feather Star
 Your Daily Mind-Blow: The Lumarca
 Your Fact Fix
 Your Famous Doppelganger
@@ -25892,3 +26327,5 @@ xkcd: the exclusive interview
 yAwn
 Íslendingabók: How Icelanders Avoid Incest and Find Celebrity Relatives
 ‘Tis and 10 Other Fun Proclitic Words
+“Mostly Sunny” vs. “Partly Cloudy": What’s the Difference?
+“The Balkans for the Balkan Peoples”

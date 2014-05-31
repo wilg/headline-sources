@@ -51,6 +51,7 @@
 "River" detection in text
 "Ruby developers need to stop using EventMachine. It's the wrong direction."
 "SQLite is not designed to replace Oracle. It is designed to replace fopen()."
+"Show us the legal case for executing a United States citizen without a trial."
 "Tap the spacebar with your phone." - Bump unveils new photo uploader
 "That's Why You Don't Have Any Friends."
 "The Best of edw519" is now free. Reverse Happy Birthday
@@ -171,6 +172,7 @@ $99 ARM-based PC runs either Ubuntu or Android
 2048 Numberwang
 2048 in 4D
 2048 – multiplayer
+2048, success and me
 21 Nested Callbacks
 23andMe raises $50M, cuts price to $99, sets goal of 1M genotyped customers
 24 Pull Requests - Giving little gifts of code for Christmas
@@ -265,6 +267,7 @@ $99 ARM-based PC runs either Ubuntu or Android
 9800 Feet Underground at Kidd Creek Mine in Northern Ontario, Canada
 99 Problems But Money Ain't One
 99Dresses (YC W12) wants to give women an infinite closet
+9m.no – Short URLs for the Unicode Age
 9th Circuit Appeals Court: 4th Amendment Applies At The Border
 A "Hacker's" Guide to the Bay Area
 A "Moneyball" statician predicted Jeremy Lin's success 2 years ago
@@ -303,6 +306,7 @@ A Comfy Helvetica frontpage for Hacker News
 A Conversation With Randall Munroe, the Creator of XKCD
 A Course in Machine Learning
 A Critique of Lavabit
+A Critique of “Don’t Fuck Up The Culture”
 A Crypto Challenge For The Telegram Developers
 A Dad’s Plea To Developers Of iPad Apps For Children
 A Dark Room - minimalist text-based game
@@ -324,6 +328,7 @@ A Guide to Stocks & Options for the Startup Entrepreneur (or Employee)
 A Guided Tour through the Fundamentals of Git
 A Hacker News For Ideas
 A Hacker's Replacement for Gmail
+A Hacker’s Guide to Git
 A Happy, Flourishing City With No Advertising
 A Healthy Diet For The Mind
 A High Frequency Trader's Apologia, Part 1
@@ -342,6 +347,7 @@ A Man. A Van. A Surprising Business Plan.
 A Material Point Method For Snow Simulation
 A Most Peculiar Test Drive
 A Most Peculiar Test Drive – Follow Up
+A Motion-Sensing Keyboard
 A Mysterious Patch Of Light Shows Up In The North Dakota Dark
 A New Car UI: How touch screen controls in cars should really work
 A New Look for Facebook
@@ -392,6 +398,7 @@ A Terrifying, Fascinating Timelapse of 30 Years of Human Impact on Earth
 A Testament to X11 Backwards Compatibility
 A Tor of the Dark Web
 A Tour Inside CloudFlare's Latest Generation Servers
+A Tour of Machine Learning Algorithms
 A Tutorial on Anonymous Email Accounts
 A VC-funded startup called WhosHere is trying to steal my social network
 A Very Unusual Camera That Emphasizes Time Over Space
@@ -470,6 +477,7 @@ A negative captcha
 A new Gmail inbox
 A new Light Table experience
 A new blog dedicated to Emacs
+A new book compiles knowledge necessary for society to recover after disaster
 A new breed of Chrome Apps
 A new era begins for Haskell
 A new kind of fractal?
@@ -557,7 +565,9 @@ AT&T Pretends It, Too, Will Build A 1 Gigabit Network
 AT&T Will Force Your Data Plan For Your Unlocked Out-of-Contract "Smart" Phone
 AT&T has a fiberoptic splitter copying our data to NSA
 AT&T to Acquire T-Mobile USA for $39 Billion
+AT&T to Buy DirecTV for $48.5 Billion
 AT&T's Rube Golbergian Web Form
+AT&T’s GigaPower plans turn privacy into a luxury that few would choose
 AWS Costs Cheat Sheet
 AWS Marketplace
 AWS OpsWorks - Flexible Application Management in the Cloud Using Chef
@@ -597,6 +607,7 @@ About the Reuters article
 About the security content of iOS 7.0.6
 About those vector icons
 Abrash on Valve: How I Got Here, What It's Like, and What I'm Doing
+Absolute Zero
 Abstract Ideas Don’t Deserve Patents
 Abusing Emoji in iOS and Your Mac
 Academic Torrents
@@ -610,12 +621,14 @@ Accuracy takes power: one man’s 3GHz quest to build a perfect SNES emulator
 Accurate remake of Pac-Man in JavaScript
 Acetaminophen and the War on Drugs (2009)
 Ack 2.0 has been released
+Ack is a grep-like tool, optimised for programmers
 Action and habit
 Active Admin - The missing administration framework for Ruby on Rails
 Actual Facebook Graph Searches
 Actually eat healthily for £1 per day
 Actually using Ed
 AdBlock Plus will soon allow "non-intrusive" ads by default
+AdBlock Plus’s effect on Firefox’s memory usage
 Adafruit's Trinket
 Adaptive Backgrounds – A jQuery plugin for extracting dominant colors
 Add recurring billing to your site. No coding, monthly fees, gateways. Code=HN
@@ -708,6 +721,7 @@ All Star Trek Episodes from Every Series to Stream on Netflix
 All The Cheat Sheets An Up To Date Web Designer Needs: CSS3, HTML5 and jQuery
 All Web Developers Should Stop Doing This Immediately
 All around the world, labour is losing out to capital
+All of Bach
 All of Einstein's writings are now online
 All of Iceland's public administrations moving towards open source
 All of life has been utterly, profoundly changed thanks to Facebook...
@@ -761,6 +775,7 @@ Amazon Will Pay You $5,000 to Quit Your Job
 Amazon WorkSpaces
 Amazon and the "profitless business model" fallacy
 Amazon founder Jeff Bezos calls for governments to end patent wars
+Amazon granted patent for taking photos against a white background
 Amazon in talks with HP to buy Palm
 Amazon kindle source code
 Amazon now loaning capital to sellers
@@ -779,6 +794,7 @@ Amazon.com criticising new iPad on homepage
 Amazon.com just closed my seller account. No warning, no details.
 Amazon: Ponzi Scheme or Wal-Mart of the Web? (2000)
 Amazon’s $23,698,655.93 book about flies
+Amazon’s Glacier secret: BDXL?
 Amazon’s Kindle Tablet Is Very Real. I’ve Seen It, Played With It.
 Amazon’s problem isn’t the outage, it’s the communication
 Amber Waves of Green
@@ -817,6 +833,7 @@ An HTML/CSS/JS code editor in 230+ bytes
 An Indian Inventor Disrupts The Period Industry
 An Interactive Guide To The Fourier Transform
 An Introduction to Data Mining
+An Introduction to Programming in Go
 An Introduction to Stock & Options for the Tech Entrepreneur or Startup Employee
 An Intuitive Guide to Linear Algebra
 An Open Letter From Internet Engineers to the U.S. Congress
@@ -825,6 +842,9 @@ An Open Letter to Apple on the Readability App rejection
 An Open Letter to Craig Newmark
 An Open Letter to HN from EFF, Demand Progress, and Cory Doctorow
 An Open Letter to the Chiefs of EMC and RSA
+An Opinionated Guide to Modern Java Development, Part 1
+An Opinionated Guide to Modern Java, Part 2
+An Opinionated Guide to Modern Java, Part 3: Web Development
 An USB plug that goes both ways
 An Unexpected Ass Kicking
 An Update from Elon Musk
@@ -849,6 +869,7 @@ An immutable operating system
 An inside look behind Romney's loss: An epic failure of its Orca big-data app
 An office with "library rules"
 An open MySQL bug receives a real Birthday cake
+An open letter on feminism in tech
 An open letter to Stripe: please come to Europe
 An unofficial alternative to the HN interface
 An update on Truecrypt
@@ -900,11 +921,13 @@ AngularJS Learning Resources
 AngularJS Tutorial: Learn to Build Modern Web Apps
 AngularJS versus Ember
 Anic - Faster than C, Safer than Java, Simpler than *sh
+Animals in the wild found to use running wheel if given the choice
 Animate.css - a bunch of plug-and-play CSS animations
 Animated Engines
 Animated Factorisation Diagrams
 Animated Vector Icons
 Animation to Explain CSS Triangles
+Anki – Powerful, intelligent flashcards
 Announcing Amazon ElastiCache - Managed Memcached
 Announcing Amber.js
 Announcing Backbone.js 1.0
@@ -921,6 +944,7 @@ Announcing Topaz: A New Ruby
 Announcing Wolfram Alpha Pro
 Announcing the Female Founders Conference (March 1)
 Announcing the First Beta Release of Persona
+Announcing the MIT Bitcoin Project
 Announcing the Safe, a Replacement for Convertible Notes
 Anonymous & Lulz Security Statement to the FBI
 Anonymous Austria leaks 2.8 GB Scientology Emails
@@ -947,6 +971,7 @@ Answering your questions about Heroku routing and web performance
 Anti-ageing compound set for human trials after turning clock back for mice
 Anti-foreword to the Unix haters handbook by dmr
 AntiSec leaks 1,000,001 Apple UDIDs, Device Names/Types
+Antibiotic resistance now 'global threat', WHO warns
 Antibiotic resistance: The last resort
 Antigua Government Set to Launch “Pirate” Website To Punish United States
 Antihydrogen Trapped For 1000 Seconds
@@ -964,6 +989,7 @@ App Engine charges $6,500 to update a ListProperty on 14.1 million entities
 App Store Pricing: Worth Less than a Cup of Coffee
 App store shenanigans
 App-pocalypse Now
+App.net State of the Union
 App.net funded with $500,000.
 AppGratis Is Nothing More Than A Black Hat Marketing Company
 AppGratis pulled from the App Store. Here’s the full story
@@ -980,6 +1006,7 @@ Apple Announces Plans to Initiate Dividend and Share Repurchase Program
 Apple Broke My iPhone, and Their Policies Prevent Them from Fixing It
 Apple CarPlay
 Apple Claims Mogenerator's Methods
+Apple Confirms Its $3 Billion Deal for Beats Electronics
 Apple Confirms That Its Dev Center Has Been Breached By Hackers
 Apple Dev Center outage
 Apple Developer Center still down
@@ -1061,6 +1088,7 @@ Apple's mind-bogglingly greedy and evil license agreement
 Apple's pinch-to-zoom patent invalidated by USPTO
 Apple's tribute to Steve Jobs, one year on.
 Apple, Facebook, Google, Microsoft and others launch webplatform.org
+Apple, Facebook, others defy authorities, notify users of secret data demands
 AppleCrate II: A New Apple II-Based Parallel Computer
 Apple’s Deleting iCloud Emails That Contain The Phrase 'Barely Legal Teens'
 Apple’s diabolical plan to screw your iPhone
@@ -1101,12 +1129,15 @@ Are we shooting ourselves in the foot with stack overflows?
 Are you a Facebook employee?
 Are you a technical person?
 Are you alone in San Francisco on Thanksgiving? Join Us
+Are you paid to look busy?
 Aren't you glad you didn't cite this webpage?
 Arm unveils 1mm x 1mm 32bit chip: "years of battery life"
 Armchair air crash investigator
+Arrakis
 Arrington, Race, and Silicon Valley
 Art of writing unmaintainable code.
 Arthur C. Clarke Predicts the Future in 1964 … And Kind of Nails It
+Articles Every Programmer Should Read
 Artificial Intelligence and What Computers Still Don't Understand
 Artillery is building a hardcore RTS with HTML5 and WebGL
 Arvind Kejriwal: I am a fortune teller and I can see India's future
@@ -1131,6 +1162,7 @@ Ask HN: Best books you read in 2012
 Ask HN: CTO wants me to leave
 Ask HN: Can we please slow down the stories about Edward Snowden?
 Ask HN: Desperate Python Hacker Seeking Help and Suggestions
+Ask HN: Do you have a side project you want to sell?
 Ask HN: Do you meditate? How/Why?
 Ask HN: Does anyone actually code at a hackathon?
 Ask HN: Does anyone know what's going on at Coinbase?
@@ -1189,7 +1221,9 @@ Ask HN: What are the good old ideas that still make money on the web?
 Ask HN: What are you working on and why is it cool?
 Ask HN: What book changed your life in 2013?
 Ask HN: What did the really successful programmers do differently?
+Ask HN: What do you do when your entire being opposes the task at hand?
 Ask HN: What happens to older developers?
+Ask HN: What is the most difficult tech/dev challenge you ever solved?
 Ask HN: What is your preferred Python stack for high traffic webservices?
 Ask HN: What programming blogs do you read daily?
 Ask HN: What source code is worth studying?
@@ -1232,8 +1266,10 @@ Ask HN: Who is hiring? (June 2013)
 Ask HN: Who is hiring? (March 2013)
 Ask HN: Who is hiring? (March 2014)
 Ask HN: Who is hiring? (May 2013)
+Ask HN: Who is hiring? (May 2014)
 Ask HN: Who is hiring? (October 2013)
 Ask HN: Who is hiring? (September 2013)
+Ask HN: Who wants to be hired?
 Ask HN: Who's Hiring? (February 2011 Edition)
 Ask HN: Who's Hiring? (January 2011 Edition)
 Ask HN: Why are a large proportion of legit posts being marked [dead]?
@@ -1286,6 +1322,7 @@ At work? Try this Hacker News homepage inspired by Node [SFW]
 Atari Sketches of Laptops and Wikipedia from 1982
 Atlassian Valued at $3.3 Billion
 Atom
+Atom Is Now Open Source
 Attacking Tor: how the NSA targets users' online anonymity
 Attorneys for Barrett Brown want case on linking to hacked material dismissed
 Audacity 2.0 Released
@@ -1321,6 +1358,7 @@ BBC Attacks the Open Web, GNU/Linux in Danger
 BBC To Delete 172 Websites Due to Budget Cuts, Geek Saves Them for $3.99
 BBC confronts Facebook troll
 BBC demands DRM for HTML5
+BPF: The Forgotten Bytecode
 Baby steps toward replacing Google Reader
 Baby's First Garbage Collector
 Back in the Django saddle
@@ -1340,6 +1378,7 @@ BackgroundCheck
 Backpacker stripped of tech gear at Auckland Airport
 Bada Bing, Bada Boom: Culture inside Bing
 Bag of hurt
+Baidu Hires Andrew Ng
 Baidu now accepts Bitcoin
 Baking Pi - Operating Systems Development
 Balancing text for better readability
@@ -1362,6 +1401,7 @@ Bash Shortcuts For Maximum Productivity
 Basic Data Structures and Algorithms in the Linux Kernel
 Basic Neural Network on Python
 Basics of Compiler Design
+Basics of Machine Learning
 Basics of Neural Networks with example codes and illustrations
 Batman's Real Story
 Battery Swap [video]
@@ -1423,11 +1463,13 @@ Better Rails errors
 Better bash in 15 minutes
 Betteridge's Law of Headlines
 Betty Weissman (mother of edw519) 1930-2011
+Betty – English-like interface for the command line
 Between a rock and a hard place – our decision to abandon the Mac App Store
 Beyond Helium
 Bezier Curves and Picasso
 Bfxr. Make sound effects for your games.
 Big Breakthroughs Come in Your Late 30s
+Big Cable says investment is flourishing, but their data says it's falling
 Big Data University: Free Database And Hadoop Courses
 Big Data's Big Problem: Little Talent
 Big News From Mars? Rover Scientists Mum For Now
@@ -1534,6 +1576,7 @@ Bootstrap 2.1 released
 Bootstrap 2.2.0 released
 Bootstrap 2.3 Released
 Bootstrap 3 RC1
+Bootstrap 3 Tips and Tricks
 Bootstrap 3 preview
 Bootstrap 3 released
 Bootstrap 3.0 Upcoming changes
@@ -1563,6 +1606,7 @@ Bradley Manning case stretches credibility of US computer fraud law
 Bradley Manning's Post-Sentencing Statement
 Bradley Manning’s Statement
 Braid, Super Meat Boy, and Lone Survivor Added to Humble Indie Bundle V
+Brain.js Demo – Train a neural network to recognize color contrast
 Brains of the Animal Kingdom: Research shows we've underestimated
 Bram Moolenaar responds to Neovim
 Brazil, Europe plan undersea cable to skirt U.S. spying
@@ -1587,6 +1631,7 @@ Bright Explosion on the Moon
 Brilliant or insane code?
 Brilliant use of CSS drop shadows
 Bring Back the 40-hour work week (March 2012)
+Bring Reading Rainbow Back
 Bring a stick man to life.
 Bringing Craigslist Back
 Brisbane floods: before and after
@@ -1599,6 +1644,7 @@ Bro pages: like man pages, but with examples only
 Broken Links
 Browser Market Pollution: IE[x] is the new IE6
 Browser Wars, the game
+Browserify handbook
 Browserver: a node.js HTTP server, in your browser
 Brubeck: A new Python web framework running on mongrel2
 Bruce Schneier has changed his PGP key to 4096 bits
@@ -1622,6 +1668,7 @@ Build a house for less than $5000
 Build groundbreaking technology at MemSQL (YC W11)
 Build muscle memory with your favorite editor
 Build your own Google TV using Raspberry Pi, Node.js and Socket.io
+Build your own drink mixing robot
 Build your own operating system
 Build your own private, encrypted, open-source Dropbox clone
 Building Firefox OS
@@ -1652,6 +1699,7 @@ Burned by Twitter, Developers Launch Distributed Microblogging Service
 Burner Phone
 Burnout
 Burnout - How it happened to me
+Burying the URL
 Business Ideas for 2014
 Business Models That Rocked 2010
 Business in a Box
@@ -1713,6 +1761,7 @@ CUDA grep
 Cable lacing on the Curiosity rover
 Cached OkCupid Article: Why You Should Never Pay For Online Dating
 Caching the uncacheable: CloudFlare's Railgun
+Cakebrew: The Mac App for Homebrew
 Calculus Revisited - a complete self-study calculus course from MIT OCW
 Calibre version 1.0 released
 California Police Arrest Man for Video Recording, then Kill his Dog
@@ -1737,6 +1786,7 @@ Campaign for a new HTTP Error code: 451 - Blocked for legal reasons
 CampusCred Seeking First Hire Engineer to Change the College Marketplace
 Can I delete my Skype account?
 Can Snowden be targeted using the Adobe breach?
+Can This Web Be Saved? Mozilla Accepts DRM, and We All Lose
 Can We Kill This Myth That The Internet Is A Wild West That Needs To Be Tamed?
 Can We Stop Drawing Trees on Top of Skyscrapers?
 Can a complete novice become a golf pro with 10,000 hours of practice?
@@ -1750,6 +1800,7 @@ Can you build beautiful sites with Twitter Bootstrap? Hell yes
 Can-Do vs. Can’t-Do Culture
 Canada Is About To Pass Sopa’s Evil Little Brother. Politely
 Canada ditches the penny
+Canada's Pitch to Tech Entrepreneur: We'll Pay 80% of Your Salaries
 Canada's Start-up Visa
 Canada's top court has overturned all restrictions on prostitution
 Canada’s vanishing tech sector
@@ -1813,6 +1864,7 @@ Children aren't born smart. They're made smart by conversation
 Chilling legal memo from Obama DOJ justifies assassination of US citizens
 China Blocks Web Access to The New York Times After Article
 China airs documentary proving military university is hacking U.S. targets
+China bans use of Windows 8 on government computers
 China lands Jade Rabbit robot rover on Moon
 China listening in on Skype - Microsoft assumes you approve
 China prepares to grow vegetables on Mars
@@ -1822,6 +1874,7 @@ China: High GDP, 64 million empty apartments.
 Chinese DIY Inventions
 Chinese Hackers Infiltrate New York Times Computers
 Chinese Infinite Magical Hard-Drive
+Chinese Number Websites
 Chinese company uses leaked photos to copy, patent iPhone 5 design
 Chinese firm Huawei controls net filter praised by PM
 Chinese government blocks Google.com, Gmail, Google+, Maps, Docs and more
@@ -1854,6 +1907,7 @@ Chrome gets date and time pickers
 Chrome has transcended version numbers
 Chrome now the most popular browser
 Chrome redirecting to blank.html on search
+Chrome's experiment of hiding the URL is great for security
 Chromebook
 Chromebox
 Chromebox, now for simpler and better meetings
@@ -1877,6 +1931,7 @@ Civilized Discourse Construction Kit
 Clang is now feature complete for C++14
 Class Hierarchies? Don't Do That
 Classic maths books reset with LaTeX on Project Gutenberg
+Claude Shannon demonstrates Theseus, a magnetic maze-solving mouse [video]
 Clayton Christensen: How MBA-driven Profit focus is Killing the U.S. Economy
 Clean Up Your Mess - A Guide to Visual Design for Everybody
 Clear Sans
@@ -1984,6 +2039,8 @@ Command line tools for web developers
 Command-line tools for data science
 Commercial freedom
 Commit that changed my life
+Common LibreSSL porting mistakes
+Common Python Mistakes
 Communicating Sequential Processes
 Companies that make money by distributing misleading versions of VLC
 Company backed by James Cameron & Google founders may mine asteroids
@@ -1996,6 +2053,7 @@ Comprehend Systems (YC W11) hiring frontend and backend engineers
 Compromised Linode, thousands of BitCoins stolen
 Computer Science in Vietnam
 Computer virus hits US Predator and Reaper drone fleet
+Computers are fast
 Concurrency is not Parallelism (it's better) - A talk by Rob Pike
 Condoleezza Rice Joins Dropbox’s Board As It Names New CFO, COO
 Confession of a Haskell Hacker
@@ -2024,6 +2082,7 @@ Console.fm - New social music site
 Console.log with style
 Consumer Reports Calls Tesla Model S The Best Car Of 2014
 Consumer key/secret for official Twitter clients
+Containers on the Google Cloud Platform
 Continuous Deployment
 Contributing to the F# Language, Library and Tools
 Convergence: complete HTML5 game
@@ -2043,6 +2102,8 @@ Copenhagen Suborbitals open-source private spacerocket will launch in an hour
 Copy-on-write B-tree finally beaten.
 Copyfight: EFF co-founder enters e-G8 "lion's den," rips into lions
 Copyright King: Why the "I Have a Dream" Speech Still Isn't Free
+Core Infrastructure Initiative
+CoreOS Beta Release
 Cornell Ergonomics Web finds standing desks present their own issues
 Cornell Will Reveal Secret Academic Journal Pricing
 Corner Office: Dennis Crowley
@@ -2079,6 +2140,7 @@ Create diagrams in the browser
 Create web apps in JavaScript right from your browser
 Creating Shazam in Java
 Creating a Radial Menu in CSS
+Creative Cloud outage leaves Adobe users unable to work
 Creative usernames and Spotify account hijacking
 Creator Of The X-Plane Flight Simulator Seeks Help Fighting A Patent Troll
 Creator of "Dirty Jobs" Mike Rowe testifies to Congress
@@ -2204,6 +2266,7 @@ Dear Googles: G+/YouTube Anschluss – you've done outed me
 Dear HN "Who's Hiring" responders
 Dear ICO, Sue Us
 Dear Internet: It's no Longer OK Not to Know How Congress Works
+Dear Internet: Let’s Demo The Slow Lane
 Dear Internet: Take the reset buttons off your damn forms
 Dear John Carmack.
 Dear MG Siegler, Are you seriously upset about your photo?
@@ -2255,6 +2318,7 @@ DecryptoCat
 Deep C
 Deep C and C++ (2011)
 Deep Inside: A Study of 10,000 Pornstars and Their Careers
+Deep Intellect: Inside the mind of the octopus
 Defeated
 Defending Privacy at the U.S. Border: A Guide for Travelers Digital Devices
 Defining Property
@@ -2290,6 +2354,7 @@ Design Tricks Facebook Uses To Affect Your Privacy Decisions
 Design for Developers
 Design is Horseshit
 Design patterns explained in Javascript
+Designer Duds
 Designers, how do we get you guys to contribute to open source projects?
 Designing GitHub for Mac
 Designing GitHub for Windows
@@ -2306,6 +2371,7 @@ Detroit DIYer cooks up stronger, lighter steel, shames scientists
 Detroit in Ruins
 Dev-Team to Steve Jobs
 DevDocs
+Developer Anxiety, we’re not alone
 Developer CEO vs Sales Guy CEO
 Developer Income Report #16
 Developer and Power Users Tool List for Windows
@@ -2365,6 +2431,7 @@ Distribution of colors in movie posters between 1914 and 2012
 Distrusting git
 Ditch Starbucks and work at the library
 DivX Now Installs Malware
+Divide Your Rent Fairly
 Divine intervention: Google's Nexus 7 is a fantastic $200 tablet
 Dizzying but invisible depth
 Django 1.3 released
@@ -2405,6 +2472,7 @@ Docracy Terms of Service Tracker
 Doctorow: The coming war on general-purpose computation
 Doctors and dentists tell patients, "all your review are belong to us"
 Does America need a Pirate Party?
+Does Google Have A Secret “Translate” Service?
 Does Gravity Travel at the Speed of Light? (1998)
 Does Steve Jobs know how to code?
 Does everyone hate MongoDB?
@@ -2420,6 +2488,7 @@ Dolphins Call Each Other By Name
 Domain Knowledge or a Lack Thereof
 Don Rosa: Why I Quit
 Don't Be A Free User
+Don't Become a Scientist (1999)
 Don't Buy the Snake Oil of Beamr Video
 Don't Call Yourself a Programmer
 Don't Copy-Paste from Website to Terminal
@@ -2437,6 +2506,7 @@ Don't distract new programmers with OOP
 Don't dumb girls down
 Don't give bullshit advice
 Don't make my eyes bleed: a rant about business plans by Neil Davidson
+Don't mess with Newegg
 Don't re-elect SOPA supporters on Tuesday
 Don't read TechCrunch
 Don't reinvent the scrollbar
@@ -2459,6 +2529,8 @@ Dont Worry Government, I Got This Porn Filter Sorted
 Donut math - How donut.c works
 Donut math: How donut.c works
 Don’t Be Evil: How Google Screwed a Startup
+Don’t Believe Anyone Who Tells You Learning To Code Is Easy
+Don’t Blame Big Cable. It’s Local Governments That Choke Broadband Competition
 Don’t Jump to Conclusions About the Killer
 Don’t Lie On Your Resume, But Lie Like Hell During Your Exit Interview
 Don’t believe everything you read
@@ -2488,9 +2560,11 @@ Download.com wrapping downloads
 Downloading Software Safely Is Nearly Impossible
 Downtime last Saturday
 Dr. Arjun Srinivasan: We’ve Reached “The End of Antibiotics, Period”
+Dragon V2 Unveil – Webcast
 Dragon has successfully achieved splashdown
 DragonBox: Algebra beats Angry birds
 DragonBox: Gaming children into learning algebra
+Dragon’s Lair – An Arcade Story
 Drawing as a programmer
 Dreamliner spells out "787" & Boeing logo over US during test flight
 Dress code: blue tie and male
@@ -2512,6 +2586,7 @@ Dropbox Lack of Security
 Dropbox Lied to Users about Data Security, Complaint to FTC Alleges
 Dropbox Said No To “Nine-Digit” Acquisition Offer From Steve Jobs
 Dropbox TOS Includes Broad Copyright License
+Dropbox Webhooks
 Dropbox acquires Hackpad (YC W12)
 Dropbox acquires Loom (YC W12)
 Dropbox and why you should invest in people
@@ -2531,6 +2606,7 @@ Drugs and the Meaning of Life (2011)
 Drunk scientists pour wine on superconductors and make an incredible discovery
 Drupal 7 Released
 Drupal's Golden Handcuffs
+Dual-touch smartphone design concept
 Dubai on Empty
 Duck Duck Go Passed 1mm Searches Per Day
 DuckDuckGo Architecture - 1 Million Deep Searches a Day and Growing
@@ -2687,6 +2763,7 @@ Empty London
 Enable tab-completion in the interactive interpreter by default
 Encrypted Chat Developer Detained, Interrogated at US Border
 Encryption is less secure than we thought
+End Mass Incarceration Now
 End of Inception decoded [video]
 End the N.S.A. Dragnet, Now
 Engineer's Guide to US Visas
@@ -2717,6 +2794,7 @@ Equations True Computer Science Geeks Should (at Least Pretend to) Know
 Eric Raymond: Why I think RMS is a fanatic, and why that matters
 Eric Schmidt: On April 4th I Will Step Down, Larry Page to be CEO
 Erik Meijer’s suggestions for further reading in functional programming
+Erlang and code style
 Erlang creator on how to get started and learning to program
 Erlang inventor: Why do we need modules and files?
 Erlang programmer’s view on Curiosity Rover software
@@ -2735,6 +2813,7 @@ Eugene Kaspersky: What Wired Is Not Telling You
 Eulerian Video Magnification for Revealing Subtle Changes in the World
 Europe drafts law to ban mobile roaming charges
 Europe's Web Of Debt
+Europe's top court: people have right to be forgotten on Internet
 European Court: Used software licenses may be resold.
 European Parliament passes net neutrality law
 European roaming charges will end in 2014
@@ -2834,8 +2913,11 @@ FBI struggles to seize 600,000 Bitcoins from alleged Silk Road founder
 FBI: Carrier IQ files used for "law enforcement purposes"
 FBI: If We Told You . . . (Part II)
 FBI: If you knew what your phone company tells us, you'd probably sue
+FCC approves plan to consider paid priority on Internet
 FDA Warning Letter to 23andMe
 FFmpeg and a thousand fixes
+FPV with Oculus Rift and a Quadcopter
+FSF condemns partnership between Mozilla and Adobe to support DRM
 FSF: Campaign against windows 8 "secure boot"
 FTL: Advanced Edition
 Fabric Python with Cleaner API and Parallel Deployment
@@ -2924,6 +3006,7 @@ Facebook's New Feed
 Facebook's S-1 Filing
 Facebook's Three New Products
 Facebook's e-mail debacle: One 'bug' fix, but rollback impossible
+Facebook's git repo is 54GB
 Facebook's legal team bans developer of F.B. Purity from Facebook
 Facebook, Google, Zynga Ask Courts To Reject Patents On Abstract Ideas
 Facebook, I want my friends back
@@ -2973,6 +3056,7 @@ Faster-Than-Light Neutrino Puzzle Claimed Solved by Special Relativity
 Faster-than-light neutrino result may have been due to bad connection
 Fastest-growing YC S11 startup (3M monthly uniques) looking for 1st employee
 Fasting & Programming
+Fat JSON
 Father's homemade machine helps disabled son to walk (video)
 Favicon Cheatsheet
 Favorite Unix Commands
@@ -3014,6 +3098,7 @@ Find apartments by commute times
 Fine, eBay. Here’s your $2. I hope you choke on it.
 Fingerprints are Usernames, not Passwords
 Finishing what Aaron Swartz started with PACER
+Fira Sans: a Free, Open Source Typeface Commissioned by Mozilla
 Fire Me, I Beg You
 Fire the workaholics (2008)
 Firebase Leaves Beta Today
@@ -3030,6 +3115,7 @@ Firefox 25 will get a major UI overhaul
 Firefox 26 is released
 Firefox 27 Released
 Firefox 28 Release Notes
+Firefox 29
 Firefox 4 is here
 Firefox 4, 5, 6 and 7 to be released before the end of 2011
 Firefox 5 is now officially released
@@ -3037,6 +3123,7 @@ Firefox 6 - WebSockets are back
 Firefox 8 is 20% faster than Firefox 5, matches Chrome 14
 Firefox Add-ons with the Slowest Start-up
 Firefox Beta 15 supports the new Opus audio format
+Firefox Developer Tools – Editable box model, Sublime Text keys
 Firefox Nightly Gets New Baseline JIT Compiler
 Firefox Now Scores 100% on Acid3 Test
 Firefox OS 1.3
@@ -3044,6 +3131,7 @@ Firefox OS devices officially released
 Firefox OS – video presentations and slides on the OS, WebAPIs
 Firefox Takes the Performance Crown From Chrome
 Firefox add-on with 7m downloads secretly tracks your browsing history
+Firefox and Flux: A New, Beautiful Browser is Coming
 Firefox debuts new developer toolbar
 Firefox finally plugs the leak
 Firefox fixes save gigabytes of memory on image-heavy pages
@@ -3069,6 +3157,7 @@ Fish don't know they're in water
 Fish shell 2.0
 Fish shell 2.1
 Fish: Finally, a command line shell for the 90s
+Fishing for Hackers: Analysis of a Linux Server Attack
 Fitbit, why can’t I have my data?
 Five Hundred and Seven Mechanical Movements
 Five Men Agree To Stand Directly Under An Exploding Nuclear Bomb
@@ -3122,6 +3211,7 @@ Flowplayer 5.0.0
 Fluid windows
 Fluid: A UI Prototyping Tool
 Flutter: $20 Wireless Arduino with 1 km range
+Flux Application Architecture
 Flux: Better Lighting for Your Mac
 Fly Like You're Rich With Social Flights (And Private Planes)
 Fly to 6 Continents in Style
@@ -3133,6 +3223,7 @@ Focus on building 10x teams, not on hiring 10x developers
 Fog of World
 Fold the DOM like paper
 Follow up to "The Unreasonable Effectiveness of C"
+Follow up to the investigation results
 Follow up to “Android graphics true facts”, or The Reason Android is Laggy
 Followup to "I bought more than 1 million Facebook data entries for $5"
 Folly - The Faceboook open source library
@@ -3143,6 +3234,7 @@ Food Practices Banned in Europe But Allowed in the US
 Fooling myself to work
 For 40 Years, This Russian Family Was Cut Off From All Human Contact
 For Google, iCloud Is Annoying; For Microsoft, It's A Humiliation
+For Hire: Dedicated Young Man With Down Syndrome
 For Thanksgiving, give your parents a treat: upgrade their browser
 For the Love of Money
 For the love of God, YC companies-to-be stop posting ambiguous job description
@@ -3179,6 +3271,7 @@ Framed For Selling Crack, Surveillance Video Helps Him Sue Police
 Frameworkless JavaScript
 France convicts Google Maps for unfair competition
 France outlaws hashed passwords...
+Fraudulent trading activity at Mt. Gox
 Fred Wilson's response to "Paul Graham's Letter to YC Companies"
 Free 5 Billion Page Web Index Now Available from Common Crawl Foundation
 Free Book: An Introduction to Programming in Go
@@ -3197,6 +3290,7 @@ Free Schnail Mail for life
 Free Textbooks on Machine Learning
 Free VMs of Windows to test older versions of IE
 Free Wordpress themes coming with a price
+Free Your Android
 Free beautiful UI elements for developers
 Free course on developing iPad applications from CMU's HCI institute
 Free email address validation API for web forms
@@ -3211,6 +3305,7 @@ FreeBSD 10 to use Clang, GCC will be deprecated
 FreeBSD 10.0 is here
 FreeBSD 10′s New Technologies and Features
 FreeBSD 9.1 Release Announcement
+Freelancer.com is destroying my life
 Freelancing: A 6-Month Retrospective
 French Court Allows Reverse Engineering of Skype Protocol
 French Gendarmerie: "Open source desktop lowers TCO by 40%"
@@ -3224,6 +3319,7 @@ Frighteningly Ambitious Startup Ideas
 From $0-100million with no sales people. Atlassian's commandments for startups.
 From 0 to 100k users in 72 hours: the full story behind Breakup Notifier
 From China, With Love
+From Gmail to Fastmail
 From MIT, a cure for all viruses?
 From Redmond with Love - IE team sends cake for FF4
 From Selling Scoops of Ice Cream to Founding ZeroCater
@@ -3376,12 +3472,14 @@ Ghost.py - a webkit web client written in python.
 Ghosts in the rom
 Gifpop.io – Print gifs with the magic of lenticular printing
 Gigabit Internet for $80
+Gimli Glider
 Ginzametrics (YC S10) is Hiring Rails Developers
 Girl Scouts to introduce game developer badge
 Girls Who Code
 Girls and Computers
 Girls and Software
 Git 1.8.0
+Git 2.0
 Git 2.0 changes push default to ‘simple’
 Git 2.0 release notes
 Git Cheatsheet
@@ -3466,8 +3564,10 @@ Glances - an easy CLI overview of your system (CPU, mem, I/O)
 Glare from London 'fryscraper' blamed for melting cars
 Glass
 Glenn Greenwald is leaving The Guardian
+Glenn Greenwald: The NSA tampers with US-made routers
 Glitch Is Closing
 Global Internet slows after 'biggest attack in history'
+Global heatmap of cycling and running routes
 Gluglug X60 Laptop now certified to Respect Your Freedom
 Glyphr - HTML5 based font editor
 Gmail Glitch Is Causing 1000s Of Emails To Be Sent To One Man’s Hotmail Account
@@ -3495,6 +3595,7 @@ Go Concurrency Patterns: Pipelines and cancellation
 Go Daddy No Longer Supports SOPA
 Go Performance Tales
 Go Pro on a soaring eagle [video]
+Go Read: One Year with Money and App Engine
 Go Rocks - How Can We Avoid Something This Bad In The Future?
 Go and Assembly
 Go as an alternative to Node.js for Very Fast Servers
@@ -3506,6 +3607,8 @@ Go read: fast Google Reader clone in AngularJS with Go on App Engine
 Go to Trial - Crash the Justice System
 Go turns three
 Go version 1 is released
+Go's power is in emergent behavior
+Go: Best Practices for Production Enviroments
 Go: Severe memory problems on 32bit Linux
 GoDaddy Faces boycott over SOPA support
 GoDaddy Released My Personal Information to a Spammer Troll
@@ -3559,6 +3662,7 @@ Google Abandons Open Standards for Instant Messaging
 Google Account Recovery Vulnerability
 Google Acquires Boston Dynamics
 Google Acquires Seven Robot Companies, Wants Big Role in Robotics
+Google AdSense leak?
 Google Address Sanitizer ("compile-time valgrind") to be part of GCC 4.8
 Google Admits Handing over European User Data to US Intelligence Agencies
 Google Already had a Like Button (and other redundancy)
@@ -3618,6 +3722,7 @@ Google Glass
 Google Glass - If I Had Glass
 Google Gravity
 Google Hangouts/GTalk glitch sends chats to wrong recipients
+Google Has Most of My Email Because It Has All of Yours
 Google Has Officially Penalized Rap Genius For Link Schemes
 Google I/O 2011 Countdown clock
 Google I/O 2012
@@ -3633,6 +3738,8 @@ Google Labs no more
 Google Launches Ingress, a Worldwide Mobile Alternate Reality Game
 Google Loses Access to Twitter Stream, Suspends Realtime Search
 Google Maps Floor Plans
+Google Maps Has Forsaken Us
+Google Maps Mania Blog is Dropping Google Maps
 Google Maps One-Hand Zoom on iPhone
 Google Maps becomes the App Store’s most popular free app in 7 hours
 Google Maps for iOS
@@ -3663,6 +3770,7 @@ Google Search Referrers Disappear In iOS 6
 Google Search is only 18% Search
 Google Security Team Member on NSA: "Fuck These Guys"
 Google Set to Release iOS Maps App Tonight
+Google Shames Slow U.S. ISPs With Its New YouTube Video Quality Report
 Google Shares Experience of Using Ubuntu in their Offices
 Google Singleton Detector
 Google Spanner's Most Surprising Revelation: NoSQL is Out and NewSQL is In
@@ -3726,6 +3834,7 @@ Google has killed Android (the brand)
 Google has lowered the price of the Nexus 4 by $100
 Google humans.txt
 Google indexes Stack Overflow at a rate of 10 requests per second
+Google is Breaking the Internet
 Google is FUBAR
 Google is about to learn a tough lesson
 Google is defragging Android
@@ -3740,6 +3849,7 @@ Google made my son cry
 Google maps 8bit quest mode. A setup for 4/1 perhaps?
 Google maps cut prices by 88%
 Google now treats .io as a gccTLD
+Google offering $1M prize for a much smaller power inverter
 Google open sources "Contracts for Java"
 Google open sources key piece of Street View technology
 Google open sourcing voice and video engine for the web
@@ -3796,6 +3906,7 @@ Google's Kenyan ripoff?
 Google's Nexus 4 smartphone sells out in the US in 50 minutes
 Google's Shell Style Guide
 Google's Street View computer vision can beat reCAPTCHA with 99% accuracy
+Google's XSS game
 Google's campaign for a free and open internet
 Google's data centers are guarded by stormtroopers
 Google's dropping H.264 in Chrome is not a step backward for openness.
@@ -3894,6 +4005,7 @@ Growing From $5,000 to $25,000 in MRR
 Grubwithus (YC W11) Brings Strangers Together Over Social Meals
 Guardian Frontend – Source for the Guardian's responsive site
 Guerrilla guide to CNC machining, mold making, and resin casting
+Guide to Landing Page Optimization
 Guide to Programming Clojure For Beginners
 Guido van Rossum's Performance tips for Python
 Guido van Rossum: Before Python
@@ -3917,6 +4029,7 @@ HBO cuts the cord, brings streaming-only service to Europe
 HD 555 to HD 595 mod (or: how Sennheiser cripples cheaper headphones)
 HIV-Infected Infant Cured With Early Use of AIDS Drugs
 HKSAR Government issues statement on Edward Snowden
+HN Hiring
 HN Plays 2048
 HN Podcast #1: Kickstarter, Raspberry Pi, And Instagram
 HN is 6 today. Here's traffic since the beginning
@@ -3957,6 +4070,7 @@ HTTP 2.0: GTFO (General Termination of Future Operations)
 HTTP 308 Incompetence Expected
 HTTP Security headers you should be using
 HTTP Status Code for Legally-restricted Resources
+HTTP/2.0 – Please admit defeat
 HTTPie: A cURL-like tool for humans
 HabitRpg: A habit building app that treats your life like a game
 Hack Hardware with inPulse (YC W11) - Fall intern
@@ -4025,6 +4139,7 @@ Half-Life 2 released for Steam on Linux
 Halide, a language for image processing and computational photography
 Halo Creator Unveils Its Next Masterpiece, a Persistent Online World
 Ham Sandwich Nation: Due Process When Everything Is a Crime
+Hamming, "You and Your Research" (1995) [video]
 Handbook of Text manipulation on Unix
 Handling Growth with Postgres
 Handsontable - Excel-like table editor in HTML & jQuery
@@ -4052,6 +4167,7 @@ Hashify.me - store entire website content in the URL
 Hashify: what becomes possible when one is able to store documents in URLs?
 Haskell Lenses In Pictures
 Haskell powered companies
+Haskell tutorial for C programmers
 Haskell web programming (a simple tutorial)
 Haste language
 Hastebin
@@ -4066,6 +4182,8 @@ Hawala
 He got 1%, we can't hire him
 Head of Marketing (Employee #1) @ YC Startup
 Heading Out on Your Own: 31 Life Skills in 31 Days
+Headphones and Earphones Benchmarking Test Files
+Headroom.js – hide your header on scroll
 Heart Surgery in India for $1,583 Costs $106,385 in U.S.
 Heartbleed
 Heartbleed Update v3
@@ -4077,10 +4195,13 @@ Hello Backbone.js - A step-by-step tutorial
 Hello Chrome, it’s Firefox calling
 Hello Downloader
 Hello Firefox, this is Chrome calling
+Hello from 1978
+Hello, Stranger
 Hello. I'm a compiler
 HelloFax (YC W11): Sign And Send Faxes From Your Browser, Without The Hassle
 HelloFax (w2011) is seeking its first hire. Help make the world paper free.
 HelloRun - A WebGL 3D Game
+Help EFF test Privacy Badger, our new browser extension for privacy
 Help Fight Patent Trolls – Support the SHIELD Act
 Help HN: Developer laid off 5 days before Christmas, have kids
 Help Kiera with her legal bills
@@ -4143,6 +4264,7 @@ Hikikomori: Why are so many Japanese men refusing to leave their rooms?
 Hilarious HN Spoof
 Hillbilly Tracking of Low Earth Orbit Satellites
 HipChat is now free for teams of 5 users or fewer
+HipChat making a comeback. Free for unlimited users
 Hipmunk for the iPhone - here's how we built it
 Hipmunk now indicates which flights have Wi-Fi
 Hipster (like Path) uploads your address book emails to its servers
@@ -4161,6 +4283,7 @@ Homeowner forecloses on Wells Fargo office, becomes folk hero
 Honest Android Games
 Honestly.com – Not acting so honestly
 Honeywell Files Patent Lawsuit Against Smart Thermostat Developer Nest
+Hoodie – Fast web app development
 Hoodie: very fast web app development
 Horseshit - Joshua Topolsky responds to MG & Gruber
 Hosni Mubarak finally steps down
@@ -4181,6 +4304,7 @@ How (not) to write Factorial in Java
 How 1 HN post compelled me to leave Intuit and create a new startup for startups
 How 30 days without social media changed my life
 How A $19 Million Movie Makes $150 Million - And Still Isn't Profitable
+How A Lawsuit Over Hot Coffee Helped Erode the 7th Amendment
 How A Pull Request Rocked My World
 How AT&T, Verizon, and Comcast are working together to screw you
 How Academia and Publishing are Destroying Scientific Innovation
@@ -4189,6 +4313,7 @@ How Advertisers Convinced Americans They Smelled Bad
 How AirBnB Became a Billion Dollar Company
 How Amazon’s ambitious new push for same-day delivery will destroy local retail
 How Americans Die
+How Apple Cheats
 How Apple Sidesteps Billions in Taxes
 How Apple Works
 How Apple and Amazon Security Flaws Led to My Epic Hacking
@@ -4289,6 +4414,7 @@ How I attacked a fellow student
 How I attacked myself using Google and I ramped up a $1000 bandwidth bill
 How I automated the boring parts of life
 How I built a Hacker News mobile web app
+How I bypassed 2-Factor-Authentication on Google, Facebook, Yahoo, LinkedIn
 How I coached a basketball team in Afghanistan and what went wrong
 How I coded in 1985
 How I compiled TrueCrypt 7.1a for Win32 and matched the official binaries
@@ -4321,6 +4447,7 @@ How I sent 300k emails through Github's API in a matter of minutes
 How I spend my first 5 minutes on a server
 How I thought I wanted to become a digital nomad
 How I went from $100-an-hour programming to $X0,000-a-week consulting
+How I wrote Game Programming Patterns
 How I've Made 200,000$ in the iOS Education Market - Figures
 How Ink Is Made
 How Instacart (YC S12) Hacked YC
@@ -4329,6 +4456,7 @@ How I’m Making Five-Figures A Month Off Bootstrapped Products
 How Japanese Kids Learn To Multiply
 How Karma Should Be Measured
 How Khan Academy is using machine learning to assess student mastery
+How LEDs are Made
 How Lavabit Melted Down
 How Linux 3.6 Nearly Broke PostgreSQL
 How Lisp is Going to Save the World
@@ -4342,6 +4470,7 @@ How Much Does a Single Search Cost Google?
 How Much Is an Astronaut's Life Worth?
 How Much Money I Made From Side Projects In 2010
 How Much Surveillance Can Democracy Withstand?
+How Munich switched 15,000 PCs from Windows to Linux
 How My Popular Site was Banned by Google
 How My School and District Failed its Students
 How My Start-Up Failed
@@ -4372,6 +4501,7 @@ How Software Companies Die by Orson Scott Card (1995)
 How SoundCloud built its new single-page main website using Backbone.js
 How Spotify Works
 How Steve Jobs handles trolls (WWDC 1997)
+How Steve Wozniak Wrote BASIC for the Original Apple From Scratch
 How Studying Body Language Changed the Way I Socialize
 How Stuxnet was deciphered
 How Super Mario Bros. 3 was made
@@ -4424,10 +4554,12 @@ How a 19-Year-Old Raised $5 Million to Revolutionize Search
 How a 3 week business trip to the US got reduced to 3 hours
 How a Boat-Plane Hybrid Shattered the Sound Barrier of Sailing
 How a Car Engine Works
+How a Florida kid’s “stupid app” saved his family’s home
 How a Google Headhunter’s E-Mail Unraveled a Massive Net Security Hole
 How a Light Saber Works
 How a Math Genius Hacked OkCupid to Find True Love
 How a Mexican Drug Cartel Makes Its Billions
+How a Raccoon Became an Aardvark
 How a banner ad for H&R Block appeared on Apple.com without Apple’s OK
 How a big movie studio (unfairly) forced a student to give up his senior thesis
 How a computer boots up
@@ -4451,6 +4583,7 @@ How cork is made
 How crackers ransack passwords like “qeadzcwrsfxv1331”
 How did academic publishers acquire these feudal powers?
 How did the New York Times manage to spend $40 million on its pay wall?
+How did we get so busy?
 How do GameShark/GameGenie codes work?
 How do I “think in AngularJS” if I have a jQuery background?
 How do keys work? Explained in one Gif
@@ -4461,6 +4594,7 @@ How does Trello access the user's clipboard?
 How far can you overhang blocks?
 How far the once-mighty SourceForge has fallen
 How fast could you travel across the U.S. in the 1800s?
+How fast is PDF.js?
 How fast is the Internet at Google? Mind blowing.
 How github was hacked
 How in-app purchases have destroyed the game industry
@@ -4568,6 +4702,7 @@ How to Save 90% on your S3 Bill
 How to Sell your Company
 How to Spread The Word About Your Code
 How to Tango with Django: A Python Django Tutorial
+How to Tell Someone’s Age When All You Know Is Her Name
 How to Think
 How to Train Your Brain to Remember Everything
 How to Write Good iOS Apps
@@ -4646,8 +4781,10 @@ How to stop Time Warner Cable sucking at Youtube
 How to stop feeling lonely
 How to stop hospitals from killing us
 How to take advantage of Redis just adding it to your stack
+How to talk to an open source project as a large scale or interesting user
 How to tell your mother and bosses why they should protest surveillance
 How to terminate your worst enemy's Dropbox account for only $795
+How to throttle the FCC to dial up modem speeds
 How to trap a whistleblower
 How to travel around the world for a year
 How to travel around the world for a year (2011)
@@ -4708,6 +4845,7 @@ I Am Worried About The Future Of Python
 I Am a Bad Developer
 I Bought A Firetruck
 I Bought An Apartment To Rent Out On Airbnb
+I Broke My Phone’s Screen, and It Was Awesome
 I Can Be Just As Capable. Let Me.
 I Can Crack Your App With Just A Shell (And How To Stop Me)
 I Crashed a Wall Street Secret Society
@@ -4839,6 +4977,7 @@ I wrote BozoCrack to show why plain MD5 is a horrible way to hash passwords.
 I wrote the Anarchist Cookbook in 1969. Now I see its premise as flawed
 I'd like to use the web my way, thank you very much Quora
 I'll tell you why movie revenue is dropping...
+I'm About as Good as Dead: The End of Xah Lee
 I'm Building a GitHub for Writers
 I'm Giving Up Reading for a Year
 I'm Not Japanese
@@ -5104,6 +5243,7 @@ Interactive SICP
 Interactive map of Linux kernel
 Interactive visualization of commute times for all US cities
 Interesting C code
+Interesting Data Sets for Statistics
 Interesting Windows Desktop UI Concept
 Interesting but lesser known data structures
 Interesting new Unix commands/binaries in OS X Mountain Lion
@@ -5124,11 +5264,13 @@ Interviewing as a Front-End Engineer in San Francisco
 Intro to Social Hacking: How we lowered our cancellation rate by 90%
 Introducing "Python for Android"
 Introducing /run
+Introducing ASP.NET vNext
 Introducing AWS Elastic Beanstalk
 Introducing Amazon Cloud Drive
 Introducing Amazon Silk
 Introducing Amazon Simple Email Service
 Introducing Android Studio
+Introducing Anonymous Login and an Updated Facebook Login
 Introducing Backer: crowd funding for features
 Introducing Bing Code Search for C#
 Introducing BitTorrent Torque
@@ -5152,6 +5294,7 @@ Introducing HelloSign for Gmail
 Introducing Instapaper 4.0 for iPad and iPhone
 Introducing Login and Pay with Amazon
 Introducing Michael Abrash, Oculus Chief Scientist
+Introducing Moto E and Moto G with 4G LTE: Smart phones priced for all
 Introducing Mozilla Firefox Accounts
 Introducing Mozilla Persona, An Identity System for the Web
 Introducing Neo900
@@ -5165,6 +5308,7 @@ Introducing Pow, a zero-configuration Rack server for Mac OS X
 Introducing Prompt. Nice SSH for iOS.
 Introducing Prose: A Content Editor for GitHub
 Introducing Quip
+Introducing Socket.io 1.0
 Introducing Sodium, a new cryptographic library
 Introducing Stripe UK
 Introducing Syte, An open sourced personal site that has social integrations
@@ -5189,6 +5333,7 @@ Introducing the New GitHub Graphs
 Introducing the Rails API Project
 Introducing the Redesigned Bitbucket
 Introducing the USB Stick of Death
+Introducing the WebKit FTL JIT
 Introducing the new compose in Gmail
 Introducing the ‘mozjpeg’ Project
 Introduction to A*
@@ -5227,6 +5372,7 @@ Is Google building a hulking floating data center in SF Bay?
 Is Haskell the Cure?
 Is IE9 a modern browser?
 Is Intelligence Self-Limiting?
+Is It Better to Rent or Buy?
 Is It Journalism, or Just a Repackaged Press Release? Here's a Tool to Help
 Is My MacBook Pro Always Listening?
 Is Psychology About to Come Undone?
@@ -5241,6 +5387,7 @@ Is it OK to hold credit card numbers in cookies, Santander?
 Is it better to turn up the volume in the software or on the speakers?
 Is it hard to build a web app that makes at least $1000 a month?
 Is it normal to get hundreds of break-in attempts per day?
+Is it possible to apply CSS to half of a character?
 Is it true that you can't tweet "Get Better."?
 Is speed reading really possible?
 Is the Toilet Free?
@@ -5264,6 +5411,8 @@ It is cheaper to fly to US than buy Adobe software in Australia
 It takes three years to build a business
 It's 2012 and your kids have an iPhone - Do you know where they are? I do.
 It's 2012, HTML5 is awesome, and I'm surfing a PDF
+It's Adventure Time
+It's Different for Girls
 It's More Important to Be Kind Than Clever
 It's OK for Apple to block Firefox, but wrong when Microsoft does it
 It's Playtime - Light Table Playground released
@@ -5343,6 +5492,7 @@ Japan's Strict Building Codes Saved Lives
 Japanese breakthrough will make wind power cheaper than nuclear
 Jason Fried: Why I Run a Flat Company
 Java 7 is now available
+Java 8 Features
 Java 8 Lambdas
 Java 9 with GPU processing, Java 10 will be all-OOP without primitives
 Java Hangs When Converting 2.2250738585072012e-308
@@ -5371,6 +5521,7 @@ Jeff Bezos Finds Apollo 11 Rockets
 Jeff Bezos commissioning a giant clock to last 10,000 years.
 Jeff Bezos on Post purchase
 Jekyll 1.0 Released
+Jekyll 2.0.0 is released
 Jenkin developers accidentally do "git push --force" to over 150 repos on github
 Jeopardy Champion Ken Jennings Q&A about IBM Watson
 Jeremy Hammond sentenced to 10 years for Stratfor leak
@@ -5449,6 +5600,7 @@ Joyent: 54+ hours of downtime
 JsDelivr – The advanced open source public CDN
 JsPDF - HTML5 PDF generator
 JsPlumb
+Jsfmt – Like Gofmt, but for JavaScript
 Json ⊄ js
 Judge Allows Sony to Unmask Anyone Who Visited GeoHot Site
 Judge Alsup knows how to play a bluff
@@ -5483,6 +5635,7 @@ Just Delete Me
 Just Delete Me – A directory of direct links to delete your accounts
 Just Scroll
 Just how big are porn sites?
+Just press go: designing a self-driving vehicle
 Just the Facts: S&P's $2 Trillion Mistake
 JustFab.com JustFabulous Class Action Lawsuit (2011)
 Jwz: Google's pseudonym support "obvious bullshit"
@@ -5588,6 +5741,7 @@ Lamer News
 Langton's ant
 Lanyrd acquired by Eventbrite
 Lanyrd: From idea to exit – the story of our startup
+Laravel Forge – PHP Platforms On Linode, DigitalOcean, AWS, Rackspace
 Large Investment in OpenStreetMap from Knight Foundation
 Large-scale Amazon EC2 Outage
 Larry Page "providing free flu shots to all San Francisco bay area kids"
@@ -5668,6 +5822,7 @@ Learning from 20 years of personal analytics
 Learning from Twitter
 Learning to Code: The Roadmap I Wish I Had Been Given
 Leaving Github
+Leaving Go
 Leaving Google
 Leaving Google’s silo: Alternatives to Gmail, Talk, Calendar, and more
 Leaving Microsoft
@@ -5732,11 +5887,13 @@ Letter to MIT community regarding support of students behind ‘Tidbit’
 Let’s Build a Future Without Cars
 Let’s help Airbnb rebuild the bridge it just burned
 Let’s mug a startup founder
+Level3 is without peer, now what to do?
 LevelDB: A Fast Persistent Key-Value Store
 LevelDB: a fast and lightweight key/value database library
 Lexical Distance Among the Languages of Europe
 LibGDX 1.0 released
 LibreSSL
+LibreSSL – An OpenSSL replacement
 LibreSSL: FIPS mode is not coming back
 Libya Shuts Down Internet
 Libya turns off its internet: this time it's a flatline
@@ -5772,6 +5929,7 @@ Lime – Experimental Sublime Text clone
 Linda Liukas' Programming book for Children has Huge First Day on Kickstarter
 Linear algebra tutorial in four pages
 Link Bubble - A new browser for Android
+Link shorteners hurt the user experience and destroy the Web
 LinkedIn Intro: Doing the Impossible on iOS
 LinkedIn Is Acquiring Contacts Start-Up Rapportive (YC S10)
 LinkedIn Mobile Moved from Rails to Node: 27 Servers Cut and Up to 20x Faster
@@ -5790,6 +5948,7 @@ Linode launches native IPv6 support
 Linode turns 8; Disk space +25%
 Linode vs. DigitalOcean – performance benchmarks
 Linus Torvalds Answers Your Questions
+Linus Torvalds Receives 2014 IEEE Computer Pioneer Award
 Linus Torvalds now on GitHub
 Linus Torvalds on C++
 Linus Torvalds on Garbage Collection (2002)
@@ -5967,6 +6126,7 @@ MIT is a national treasure
 MIT professor's hack to recruit students
 MIT releases report on its actions in the Aaron Swartz case
 MIT scientist captures 90,000 hours of video of his son's first words, graphs it
+MIT's Scratch Team releases Scratch 2.0 editor and player as open source
 MIT's artificial leaf is ten times more efficient than the real thing (Wired UK)
 MITx Opens First Course for Enrollment
 MITx positions to offer certification for completing courses online
@@ -5994,6 +6154,7 @@ Mac OS X hidden features and nice tips & tricks
 Mac OSX Lion's scroll breaks the web
 Mac Pro
 Mac Pro gets half-assed “update”
+Mac keyboard shortcuts
 MacBook Air is enough for a work machine
 MacBook Pro gets Retina Display; MacBook Air updated with Ivy Bridge
 MacKenzie Bezos Writes Amazon Review for Jeff Bezos Biography
@@ -6008,6 +6169,7 @@ Macros in Python
 Maddox - I hope SOPA passes
 Maddox on Link-Baiting Aggregation Sites
 Magenta - "It is fully binary compatible with iPhone OS 5.0"
+Magic mirror: One way mirror with a monitor behind it
 Magnus Carlsen is World Chess Champion
 Mail-in-a-box: easy to set up modern SMTP/SMTPS server stack
 MailChimp now free up to 2000 subscribers
@@ -6032,6 +6194,7 @@ Making Friends Over 30 with Grubwithus
 Making GIFs From Video Files With Python
 Making Google’s CalDAV and CardDAV APIs available for everyone
 Making Love to Webkit
+Making Your Writing Work Harder For You
 Making Yourself a CEO
 Making a Physical Product
 Making a Ponyo boat
@@ -6082,6 +6245,7 @@ Mark Cuban makes Shark Tank remove equity clause in contract
 Mark Cuban: If you want to see more jobs created -- change patent laws
 Mark Cuban: What Business is Wall Street in?
 Mark Karpeles' blog hacked
+Mark Russinovich, Microsoft Critic, Is Now Building Azure
 Mark Zuckerberg addresses PRISM
 Mark Zuckerberg married
 Mark Zuckerberg on SNL (video)
@@ -6097,8 +6261,10 @@ Mars water surprise in Curiosity rover soil samples
 Martin Fowler on Software Patents
 Martin Gräßlin, KDE: "Good Bye, Ubuntu"
 Martin Luther King Jr. was wiretapped
+Marvel Comics API
 Mass-scale Cold Fusion either becomes reality or proved a scam today
 Massachusetts Governor Announces Plan to Abolish Noncompetes
+Massimo Vignelli, 1931-2014
 Massive 15-year Study finds no link between cell phones, cancer
 Massive New Surveillance Program Uncovered by Wall Street Journal
 Massive Number of Vulnerabilities Found in X.Org
@@ -6135,6 +6301,7 @@ Maxis Insider: SimCity Servers Not Necessary
 Maybe Americans aren't dumb enough to keep buying houses?
 Maybe buses should be free
 Mayor Bloomberg Will Learn How To Write Code In 2012
+Maze Tree
 Ma’am, Your Burger Has Been Paid For
 Mbox – A lightweight sandboxing mechanism
 McAfee’s Third World Travel Guide
@@ -6158,6 +6325,7 @@ Meet the New Super People
 Meet the Obama campaign's $250 million fundraising platform
 Meet the People Taking over Hacker News
 Meet the Private Companies Helping Cops Spy on Protesters
+Meet the algorithm that can learn “everything about anything”
 Meet the new Light Table
 Meet the tireless entrepreneur who squatted at AOL
 Meeting A Troll
@@ -6227,6 +6395,7 @@ Microsoft abandon Metro name due to legal challenge
 Microsoft and Google jointly sue a patent troll who has sued 397 companies
 Microsoft and Google to sue over US surveillance requests
 Microsoft and Xamarin partner
+Microsoft announces the Surface Pro 3
 Microsoft changes skype supernodes architecture to support wiretapping
 Microsoft confirms UEFI fears, locks down ARM devices
 Microsoft decides to automatically update Internet Explorer for everyone
@@ -6278,6 +6447,7 @@ MineCraftWebGL
 Minecraft creator says he’s canceled talks for Oculus Rift version
 Minimal wireframing tool - for free
 Minimalism: It Works
+Minimum Viable Block Chain
 Minimum Viable Personality
 Minimum Viable SEO
 Mining a 1993 game design for innovative game mechanics
@@ -6291,6 +6461,7 @@ Missing the Point of Promises
 Mission Creep: When Everything Is Terrorism
 Mistakes You Can’t Afford to Make with Stock Options
 Mixpanel: We're hiring and here's where we're at.
+Mkdown
 Mobile Boilerplate: a best practice baseline for your mobile Web app
 Mobile Operators Announce Commitment to Firefox OS
 Mobile UI Patterns
@@ -6332,6 +6503,7 @@ Mono Developers start their own company
 Monocle
 Monoprice Announces 27-Inch 2560 x 1440 Monitor for $390
 Monroe or Einstein? Instant eyesight check.
+Monthly revenue breakdown of PlentyOfFish's early days
 Moon
 Moot: Full House
 Moravec's paradox
@@ -6431,6 +6603,7 @@ My Email Canary
 My Evil Undead Credit Card
 My Experience in the Educational Apps Market – 2013 report
 My Experiences as a Female Software Engineer
+My Experiment Opting Out of Big Data Made Me Look Like a Criminal
 My Family’s Experiment in Extreme Schooling
 My Father's "Eviscerated" work - Son of J.R.R. Tolkien finally speaks out
 My Final Post
@@ -6447,6 +6620,7 @@ My Name Is Me - Supporting your freedom to choose the name you use online
 My National Security Letter Gag Order (2007)
 My Neighbor, Steve Jobs
 My Nerd Story
+My No-Soap, No-Shampoo, Bacteria-Rich Hygiene Experiment
 My Prime Factorization Sweater
 My Quest to Build the Ultimate Music Player
 My Raspberry Pi Thinks It's a Mainframe
@@ -6488,6 +6662,7 @@ My job is to watch dreams die
 My legitimate co.cc site was deleted from Google, what do I do?
 My life in Accenture before startups
 My low-paying, early-morning, exertion-requiring job
+My new favorite vim/tmux bug
 My offer to Google Reader
 My one talk with Marissa Mayer
 My open source API client was taken down by a phony DMCA complaint
@@ -6535,6 +6710,7 @@ NASAs Cassini spacecraft has delivered a glorious view of Saturn...
 NASDAQ:FB
 NBC Story about Hacking at Sochi is 100% Fraudulent
 NCombinator
+NES Dual Port RAM Interface
 NGINX takes 2nd place in Web Servers from Microsoft IIS
 NHS England patient data 'uploaded to Google servers', Tory MP says
 NIST "strongly" suggests dropping its own encryption standard
@@ -6646,7 +6822,9 @@ Netflix to lose Starz, its most valuable source of new movies
 Netflix uses FreeBSD 9.0
 Netherlands first country in Europe with net neutrality
 Netherlands makes net neutrality a law
+Network Neutrality
 Network Solutions Auto-Enroll: $1,850
+Neutralizing the iOS camera click sound through active sound cancellation
 Neutrino experiment affirms faster-than-light claim
 Neutrinos Faster Than Light, or FPGA artifacts?
 Nevada approves regulations for self-driving cars
@@ -6675,6 +6853,7 @@ New CSS Techniques and Tools
 New Chrome extension: block sites from Google’s web search results
 New Course: The Design of Everyday Things
 New Dropbox Pro plans
+New DuckDuckGo design
 New Firefox Command Line helps you develop faster
 New Garbage Collector
 New GitHub Logo
@@ -6701,10 +6880,12 @@ New YC Partner Investment Policy
 New Year's Resolution: Full Disk Encryption on Every Computer You Own
 New Year, New CEO for GitHub
 New York City gets a Software Engineering High School
+New York City photographed with the Game Boy Camera in 2000
 New York Underground
 New Zealand PM requests inquiry into illegal Megaupload wire tapping
 New Zealand bans some software patents
 New algorithm can dramatically streamline solutions to the ‘max flow’ problem
+New algorithm shakes up cryptography
 New attack plucks secrets from HTTPS-protected pages
 New axe design uses lever action to make splitting wood easier
 New banner ads push actual Google results to bottom 12% of the screen
@@ -6740,12 +6921,14 @@ Nexus 5
 Nexus 7, Made for Google Play
 Nexus: The best of Google, now in three sizes
 Nginx 1.0.0 is out
+Nginx 1.6.0 stable released
 Nginx Is Taking Over the Internet
 Nginx JSON hacks
 Nginx Plus
 Nginx doesn't suck at SSL after all
 Nginx established as a company
 Nginx for Developers: An Introduction
+Nginx has replaced Apache as the most used web server among the top 10,000 sites
 Nginx just became the most used web server among the top 1000 websites
 Nginx now supports Websockets
 Nginx security advisory (CVE-2013-2028)
@@ -6767,6 +6950,7 @@ NixOS - Declarative configuration OS
 Nmap 6 released after three years of work
 No Copyright Intended
 No Email
+No Exit
 No I won't sign your NDA, here's why.
 No Man’s Sky Is A Huge Procedurally Generated Sci-Fi Exploration Sim
 No More Callbacks: 10,000 Actors, 10,000 Threads, 10,000 Spaceships
@@ -6882,6 +7066,7 @@ ONO sells for $9.5 billion and nobody cares
 OOP Isn't a Fundamental Particle of Computing
 ORM is an anti-pattern
 OS X 10.9 Mavericks: The Ars Technica Review
+OS X Command Line Utilities
 OS X Isn't for Developers
 OS X Lion Now Available in the US Mac App Store
 OS X Mountain Lion: Data Loss via 'Save As'
@@ -6924,11 +7109,13 @@ Objective-C in The Cloud
 Objectivist C
 Oboe.js: reacting to Ajax/Rest quicker by not waiting for it to finish
 Observations from a Tipless Restaurant
+Observations of an Internet Middleman
 Obsession
 Occupy Portland's Dec 3rd Tactic to Neutralize Police
 Occupy Wall Street activists buy $15m of Americans' personal debt
 Ocean acidification due to carbon emissions is at highest for 300m years
 Octopress - A blogging framework for hackers
+Octotree: the missing GitHub tree view (Chrome extension)
 Oculus Joins Facebook
 Oculus Rift Will Change Your Gaming World
 Oculus Rift co-founder killed by gang trying to escape police
@@ -6937,6 +7124,7 @@ Oculus VR raises $75M
 Odd Things Happen When You Chop Up Cities and Stack Them Sideways
 Ode to the App Review team
 Off
+Off-Canvas Sidebar Transitions with CSS
 Office Hours With Paul Graham At TC Disrupt
 Office comparison: 37signals vs Zappos
 Official Hacker News T-Shirt
@@ -6990,6 +7178,7 @@ One Thousand Dollars an Hour
 One Way to Deal with Internet Thieves
 One Woman's Dangerous War Against the Most Hated Man on the Internet
 One Year After Quitting My Job
+One YouTube account's 77,000 mysterious videos
 One base class to rule them all.
 One cost engineers and product managers don't consider
 One hiring filter that works
@@ -7055,6 +7244,7 @@ OpenShift by Red Hat
 OpenSource Nano Quadcopter Kit
 OpenStreetMap creates and distributes free geographic data for the world
 OpenStreetMap gets new, easier to use in-browser editor
+OpenStreetMap is now navigation-ready
 OpenStreetMap: Welcome Apple
 OpenVim: Learn Vim in Your Browser
 OpenWorm: A Digital Organism In Your Browser
@@ -7072,12 +7262,14 @@ Oracle discontinues Ruby/Rails support for NetBeans
 Oracle gives up on OpenOffice after community forks the project
 Oracle knew about critical Java flaws since April
 Oracle v. Google - Judge Alsup Rules APIs Not Protected By Copyright
+Oracle wins appeal re Java API copyrightability [pdf]
 Oracle/Google jury finds Google infringed SSO but hangs on fair use
 Ordered List is a GitHubber
 Orin Kerr: Why I Am Representing Auernheimer Pro Bono on Appeal
 Orrick's Legal docs for startups
 Ortiz says suicide will not change handling of cases
 Osama bin Laden Is Dead
+Osmo
 Our 3d printer is better than yours
 Our Commitment to Trust & Safety
 Our Django Book is Launched
@@ -7093,6 +7285,7 @@ Our security auditor is an idiot. How do I give him the information he wants?
 Our tiny jQuery/Bootstrap rich text editor is now open-source
 Our unrealistic views of death, through a doctor’s eyes
 Our web development workflow is completely broken
+Outbox vs. USPS: How the Post Office Killed Digital Mail
 Outlawed by Amazon DRM
 Outrageous HSBC Settlement Proves the Drug War is a Joke
 Ouya Breaks Kickstarter Records
@@ -7108,6 +7301,7 @@ Oxfam: 85 richest people as wealthy as poorest half of the world
 Oxford announces new degree in Computer Science and Philosophy
 O’Reilly Media Has Lost Its Soul
 PDF Reader in JavaScript
+PDFium: Chrome’s PDF rendering engine is now open-source
 PEP 435 Accepted – Adding an Enum type to the Python standard library
 PEP 450: Adding A Statistics Module To The Standard Library
 PEP 8 Modernisation
@@ -7116,6 +7310,7 @@ PG: The Art of Funding a Startup is now free on Amazon
 PHP 5.3.3 hangs on numeric value 2.2250738585072011e-308
 PHP 5.4.0 released
 PHP Addiction
+PHP Next Generation
 PHP Sucks But I Like It
 PHP Sucks, But It Doesn't Matter
 PHP is much better than what you think
@@ -7140,8 +7335,10 @@ Page Weight Matters
 PageLever is hiring Ruby developers
 Paid Vacation? That’s Not Cool. You Know What’s Cool? Paid, Paid Vacation.
 Pain of the New: The Hobbit at 48 fps
+Pain we forgot
 Pair (YC W12) is a Path for the Two of Us
 Palantir and Prism: A Possible Link
+Panda 4.0: Why eBay lost many of its organic rankings
 Pandora Paid Over $1,300 for 1 Million Plays
 Pandora and Royalties
 Pandora doesn't hash their passwords
@@ -7163,6 +7360,7 @@ Pareidoloop: Faces generated at random
 Parse (S11) is hiring engineers.
 Parse (YC S11): A Heroku For Mobile Apps
 Parse launches JavaScript SDK: Parse for Websites
+Parsing English with 500 lines of Python (2013)
 Parsing Techniques - A Practical Guide
 Parsing: the solved problem that isn't
 Parsley.js: never write a single JavaScript line to validate your forms
@@ -7170,6 +7368,7 @@ Particle effects in JavaScript
 Pass: The standard unix password manager
 Passive Income Hacker vs Startup Guy
 Password Rules
+Passwords for JetBlue accounts cannot contain a Q or a Z
 Pastebin abused
 Patent 5,893,120 reduced to mathematical formulae
 Patent Troll Lodsys Settles for Nothing to Avoid Trial
@@ -7250,6 +7449,7 @@ Persona makes signing in easy for Gmail users
 Personal Fresh Air Desk
 Perspective - 2D/3D puzzle platformer
 Perspective: All of Earth's Water in a Single Sphere
+Pervasive Monitoring Is an Attack
 Pervasive myths about older software developers
 Peter Higgs: I wouldn't be productive enough for today's academic system
 Peter Norvig on a 45-year-old article about a checkers-playing program
@@ -7318,6 +7518,7 @@ Pixar’s Rules of Storytelling
 Pixel Art Tutorial
 Pixel Perfect map of china
 Pixel Shaders: Proposal for an Interactive Introduction to Graphics Programming
+Pixel graphics in terminal
 Pixel-fitting – how antialiasing can ruin your logos and icons
 Pixelmator 3.0
 Pixels don’t care
@@ -7403,8 +7604,10 @@ Poll: Is the number of polls getting out of hand on HN?
 Poll: Should HN display comment scores?
 Poll: Should we push the YC deadline back by a day because of the storm?
 Poll: Tech Bubble?
+Poll: Were you banned by AdSense? When in the cycle were you notified?
 Poll: What are your liked and disliked programming languages?
 Poll: What database does your company use?
+Poll: What database does your company/you use?
 Poll: What is your age?
 Poll: What is your current Stack Overflow reputation?
 Poll: What is your primary operating system
@@ -7430,6 +7633,7 @@ Portal’s physics engine rebuilt in 25KB—on a graphing calculator
 Portia, an open-source visual web scraper
 Porting Node to Windows With Microsoft’s Help
 Porting dl.google.com from C++ to Go
+Porting the Go compiler from C to Go
 Possible Governmental Backdoor Found ("case R2D2")
 Posterous acquired by Twitter
 Posterous cofounders create a replacement: Posthaven
@@ -7441,6 +7645,7 @@ PostgreSQL Basics by Example
 PostgreSQL Rising
 PostgreSQL Studio
 PostgreSQL as Schemaless Database [pdf]
+PostgreSQL partitioning explained
 PostgreSQL tips and tricks
 PostgreSQL: Jsonb has committed
 Postgres 9.2 will feature linear read scalability up to 64 cores
@@ -7453,9 +7658,11 @@ Power surges in Britain caused by millions of people making tea [video]
 Power user replacements for OS X default apps
 Powerchair: A dad hacks a wheelchair for his disabled 2-year-old son
 Practical Garbage Collection - Part 1: Introduction
+Practical Tmux
 Practical Typography
 PragDave: I'm on vacation, and I've deleted your message—really
 Pre-branded domain names for startups
+Pre-orders start today for Flame, the Firefox OS developer phone
 Predator Object Tracking Algorithm
 Predicting Google Product Shutdowns
 PredictionIO – A machine learning server
@@ -7485,6 +7692,7 @@ Principles of UI design
 Printable True Bugs Wait Posters
 Printers are spontaneously printing odd "SQL" strings
 Prism Break
+Privacy Badger
 Probabilistic Data Structures For Web Analytics And Data Mining
 Probabilistic Many-to-Many Relationships (with Bloom Filters)
 Probabilistic Programming & Bayesian Methods for Hackers
@@ -7509,6 +7717,7 @@ Programmers' Day
 Programmers' salaries at Google $250k (and up)
 Programming Cheat Sheets
 Programming Is Not for Everybody
+Programming Is a Dead End Job
 Programming Language Checklist
 Programming Language Development: The Past 5 Years
 Programming Languages Have Social Mores Not Idioms
@@ -7539,6 +7748,7 @@ Prosecutor as bully
 Prosecutor pursuing Aaron Swartz linked to suicide of another hacker
 Prostate cancer drug so effective trial stopped
 Protect IP Renamed E-Parasites Act; Would Create The Great Firewall Of America
+Protecting Net Neutrality and the Open Internet
 Protesters charged with 'Terrorism Hoax' for too much glitter on their banner
 Protip for salary seekers pt 2: Results from some mining of the H1-B database
 Protolol Jokes
@@ -7575,6 +7785,8 @@ PyPy's future directions
 Pycon 2012 Videos
 Pypy wants you - now's the time to start contributing to Pypy
 Pyret: A new programming language from the creators of Racket
+Python 3 can revive Python
+Python 3 is killing Python
 Python 3.2 Released
 Python 3.3.0 released
 Python 3.4.0 released
@@ -7631,6 +7843,7 @@ Quark: A secure Web Browser with a Formally Verified Kernel
 Question for PG/HN: Where do you think we stand on your list of "ideas"?
 Questions People Ask When I Tell Them I Own an Airplane
 Questions about Cameron’s ‘new’ porn-blocking
+Questions for Donald Knuth
 Questions to ask your potential employer
 Questions you’ll (probably) get asked at your YC interview
 Quick Nexus 7 Comments By Linus Torvalds
@@ -7639,8 +7852,10 @@ Quick tip for developers who use OS X
 QuickSilver for Mac Lives
 Quickly generate product screenshots in realistic environments
 Quickly navigate your filesystem from the command line
+Quill – An Open Source Rich Text Editor with an API
 Quine Relay
 Quora Blocks Startup Search Engines
+Quora in the next YC batch
 Quora vs. StackExchange: Why, Joel, Why?
 Quora’s Demise
 Quotes from 1995 Steve Jobs Interview
@@ -7670,6 +7885,7 @@ RSA Key Extraction via Low-Bandwidth Acoustic Cryptanalysis
 RSA finally comes clean: SecurID is compromised
 RSS Is Dying, and You Should Be Very Worried
 RSS Rant
+RSS: What Not Dying Looks Like
 RStudio,a new IDE for R
 Rabbit holes: Why being smart hurts your productivity
 Racism at a gaming company
@@ -7703,15 +7919,18 @@ Raising a moral child
 Rambling On [PHP] Internals
 Ramit Sethi and Patrick McKenzie on Getting Your First Consulting Client
 Rampant Abuse of Push Notifications Is Ruining Them For All Developers
+Ramsey Nasser's Arabic programming language artwork
 Rand Fishkin: Inbound Marketing for Startups
 Rand Paul filibustering over drones
 Random Startup Generator
 Rands in Repose: The Noise
 Rant: Backbone, Angular, Meteor, Derby
+Rap Genius Co-Founder Moghadam Fired
 Rap Genius is Back on Google
 RapGenius Growth Hack Exposed
 Raphters, a web framework for C
 Rapid DHCP: Or, how do Macs get on the network so fast?
+Rappers, Sorted by Size of Vocabulary
 Rapportive (YC S10) Has Been Acquired By LinkedIn
 Rare Cancer Seen In 41 Homosexuals (1981)
 Rare color film shows what London looked like in 1927
@@ -7742,6 +7961,7 @@ Real Life Model of M.C. Escher’s “Waterfall”
 Real Men Go to Sleep
 Realism in UI Design
 Realistic Skin Rendering in WebGL
+Realistic terrain in 130 lines of JavaScript
 Realtime Bitcoin Stats
 Realtime Responsive Typography Based on Viewing Distance via Webcam
 Realtime Three.js Coding
@@ -7809,6 +8029,7 @@ Redis: new disk storage to replace VM
 Redis: the AK-47 of databases
 Rediscovering the Rsync Algorithm
 Redline Smalltalk V1.0
+Refactored PHP engine makes Wordpress 20% faster
 Refactoring GitHub's Design
 Refining Ruby
 Reflections on Trusting Trust (Ken Thompson's Turing Award speech)
@@ -7831,6 +8052,7 @@ Remembering a relationship, one chat at a time
 Reminder: "Broken gets fixed, but shitty lasts forever"
 Remove Google Search History Before New Privacy Policy Takes Effect
 Remove any Site From Google (even if you don't control it)
+Removing User Interface Complexity, or Why React is Awesome
 Removing garbage collection from the Rust language
 Rendering Head in WebGL
 Rendering the world
@@ -7866,6 +8088,7 @@ Resistor hack turns a Nvidia GTX690 into a Quadro K5000 or Tesla K10
 ResizeMyBrowser
 Resolutions for programmers
 Responding to Wired's ad hominem hatchet job
+Responding to the Explosion of Student Interest in Computer Science [pdf]
 Responsible Disclosure Policy
 Responsive Web Design – Advanced Lesson
 Restoration of defocused and blurred images
@@ -7890,6 +8113,7 @@ Revel, high-productivity Go web framework modeled on Play Framework
 Revelations of N.S.A. Spying Cost U.S. Tech Companies
 Reversal: Australian Govt picks ODF doc standard over Microsoft
 Reverse Engineering a D-Link Backdoor
+Reverse Engineering for Beginners
 Reverse-Engineering Xkcd's 'Frequency'
 Reversing Bits in C
 Reversing Sinclair's amazing 1974 calculator hack - half the ROM of the HP-35
@@ -7978,6 +8202,7 @@ Ruby is too slow for programming competitions
 Ruby on Rails 4.0.0.beta1 released
 RubyMonk - ruby lessons right in your browser
 RubyMotion - Ruby for iOS
+RubyMotion 3.0 Sneak Peek: Android Support
 RubyMotion Goes 2.0 And Gets OSX Support, Templates and Plugins
 RubyWarrior - Bloc
 Rubygems.org AWS bill for Feb 2014 [pdf]
@@ -8002,6 +8227,7 @@ Russian programmer fights Goldman Sachs and wins one round
 Rust 0.10 released
 Rust 0.5 released
 Rust 0.9 released
+Rust by Example
 Rust is surprisingly expressive
 Rustboot: a 32 bit kernel written in Rust
 Ryan Bates launches RailsCasts Pro
@@ -8046,6 +8272,7 @@ SQL is Agile
 SQLite 3.8.0 Release with next-generation query planner
 SQLite improves performance with memory-mapped I/O
 SSH Key Audit on Github (required)
+SSH Kung Fu
 SSH Tricks
 SSH client in Google Chrome
 SSH productivity tips
@@ -8088,6 +8315,7 @@ Samurai: New Payment Gateway from FeeFighters
 San Francisco
 San Francisco, I Love You But You’re Bringing Me Down
 San Francisco’s Secret DC Grid
+SanDisk announces 4TB SSD, hopes for 8TB next year.
 Sane RSS usage
 Satellite Images of North Korea Prison Camps Find 200,000 Living as Slaves
 Satellite burns up following SpaceX rocket glitch
@@ -8121,6 +8349,7 @@ Scaling Mercurial at Facebook
 Scaling Pinterest - From 0 to 10s of Billions of Page Views a Month in Two Years
 Scaling lessons learned at Dropbox, part 1
 Scaling with MongoDB (or how Urban Airship abandoned it for PostgreSQL)
+Scammed
 Scenes from a militarized America
 Schema Migrations for Django
 Schema migrations merged into Django master
@@ -8130,6 +8359,7 @@ Schneier: The Dishonest Minority: Security and its Role in Modern Society
 School ditches rules and loses bullies
 School is a prison and damaging our kids
 School of Data - Learn how to find, process, analyze and visualize data
+School spyware in coursebooks
 Schoolchildren ordered indoors as air pollution cloaks Shanghai
 SciRuby
 Science has lost its way, at a big cost to humanity
@@ -8153,12 +8383,15 @@ Screw Hashbangs: Building the Ultimate Infinite Scroll
 Screw stigma. I’m coming out.
 Screw the power users
 Screw you. Pay me.
+Scribd and Quora considered harmful
+Script-injected "async scripts" considered harmful
 Scroogled (1997)
 Seagate just reinvented the disk interface using Ethernet
 Search leakage is not FUD. Google et al., please fix it.
 Search, Mad Men style: A complete IBM 362 Google interface in the browser
 Search: .lenght - Github
 SearchYC is shutting down
+Searching 20 GB/sec: Systems Engineering Before Algorithms
 Searching for Mark Pilgrim
 Searching the Internet for evidence of time travelers
 Seattle to deploy Gigabit fiber network
@@ -8198,6 +8431,7 @@ Senator Al Franken: No joke, Comcast trying to whack Netflix
 Senators skip classified briefing on NSA snooping to catch flights home
 Send Them Your Money: A Campaign to Send The RIAA/MPAA Billions
 Send a Facebook message to anyone's inbox, for free
+Send money to debit cards
 Send money with Gmail
 Send payouts with Stripe
 SendGrid Fires Company Evangelist After Twitter Fracas
@@ -8291,6 +8525,7 @@ Show HN: Automatic weekly meal planner, also plans your leftovers
 Show HN: Bateman, a stock trading system I'm working on
 Show HN: Beatbar - Media player that beats in the browser address bar
 Show HN: Beginning Android for iOS Developers
+Show HN: Betatype - A freelance site where clients pay $3,500 for prototypes
 Show HN: BigVideo.js
 Show HN: Bootswatch, free swatches for your Bootstrap site
 Show HN: BrainTripping - language model comedy
@@ -8352,6 +8587,7 @@ Show HN: HackerThings - Products for hackers
 Show HN: Hackershelf. Community curated collection of legally free books
 Show HN: Hacking a Raspberry Pi into a wireless airplay speaker
 Show HN: Heap is a new approach to analytics. Just capture everything
+Show HN: Hipster Domain Finder
 Show HN: Hosted Docker-as-a-Service on SSDs for $5
 Show HN: How I built a self-driving (RC) car.
 Show HN: How I turned an old book into a (barely) profitable website
@@ -8386,6 +8622,7 @@ Show HN: Instant Google Street View
 Show HN: Interactive SICP
 Show HN: Introducing Harp – A static web server with built in preprocessing
 Show HN: Iorad - the tutorial builder
+Show HN: Isomer – An isometric graphics library for HTML5 Canvas
 Show HN: JS library to make your website instant
 Show HN: KernType, a typography game made with Raphaël
 Show HN: Kerning.js — Take control of your web typography
@@ -8486,6 +8723,7 @@ Show HN: Themes for Bootstrap
 Show HN: This up votes itself
 Show HN: Tiled Text – a Different Approach to Editing Text
 Show HN: Tired of entering map directions on iPhone? I've streamlined it
+Show HN: Turn an email to a web page
 Show HN: UI Concept – Focus Transition
 Show HN: Untrusted, a JavaScript adventure game you play by modifying its source
 Show HN: Usability checklist – catch common problems before user testing
@@ -8510,6 +8748,7 @@ Show HN: Weekend project, Intro.js
 Show HN: What Do You Think Of My Resume?
 Show HN: What colour is your IP address?
 Show HN: When is good time to submit a story on HN?
+Show HN: Where Adblock+ injects 20K CSS rules, HTTPSB injects one
 Show HN: Who's Hiring? (postings mined from Twitter)
 Show HN: WideArea – an expandable textarea
 Show HN: Wit – Natural language for your app
@@ -8588,6 +8827,7 @@ Sir Patrick Moore, astronomer and broadcaster, dies aged 89
 Sir Tim Berners-Lee Stars in Olympic Opening Ceremony
 Sir Trevor Editor
 Siri meets Eliza
+Sistine Chapel
 Site plagiarizes blog posts, then files DMCA takedown on originals
 Site44 turns Dropbox folders into websites
 Sitting All Day: Worse For You Than You Might Think
@@ -8610,6 +8850,7 @@ Skype IP Lookup
 Skype account hijack technique may affect all users
 Skype backdoor confirmation
 Skype bug gives attackers root access to Mac OS X
+Skype group video calling becomes free
 Skype hands 16-year-old's personal information to IT company
 Skype options turn out to be worthless
 Skype protocol reverse engineered, source available
@@ -8671,8 +8912,10 @@ So I’m the guy who sent the t-shirt out as a thank you
 So Long and Thanks for all the Bits
 So You Want To Be A Breaker, Part 1: Web Security
 So You Want to Be a Security Expert
+So You Want to Write Your Own CSV code
 So You Want to be a Programmer
 So You'd Like to Make a Map using Python
+So You’re Not Desirable
 So very sad to hear about the passing of Ruby legend Jim Weirich
 So what happened to the HN server?
 So what's wrong with 1975 programming? (2008)
@@ -8689,10 +8932,12 @@ Software Architecture cheat sheet
 Software Businesses In 5 Hours A Week
 Software Inventory by Joel Spolsky
 Software in 2014
+Software of the Apollo guidance computer was hand-woven into rope core memory
 Software on Steam
 Software patent reform just died in the House
 Software will not be patentable in New Zealand
 Sol — a sunny little homemade virtual machine
+Solar Scare Mosquito
 Solar panel made with ion cannon is cheap enough to challenge fossil fuels
 Solar panels could destroy U.S. utilities, according to U.S. utilities
 Solar-Powered 3D Printer that Prints Glass from Sand
@@ -8713,9 +8958,11 @@ Some People Understand REST and HTTP
 Some advice from Jeff Bezos
 Some dark corners of C
 Some killjoys have removed the blink tag from Firefox
+Some of the work we did at Danger
 Some performance tweaks
 Some things I've learnt about programming
 Some things beginners might not know about Sublime Text
+Some thoughts on Go and Erlang
 Some web development tips from a former Digg developer
 Some weekend work that will (hopefully) enable more Egyptians to be heard
 Someone Just Leaked Obama's Rules for Assassinating American Citizens
@@ -8749,6 +8996,7 @@ Sorry, RSA, I'm just not buying it
 Sorry, this blog post is not available in your country.
 Sorry, your “cool” webapp is probably not going to make money
 Source Sans Pro: Adobe’s first open source font family
+Source code of ASP.NET
 South Africa's Nelson Mandela dies
 Soviet Venus Images
 Soylent Campaign
@@ -8767,6 +9015,7 @@ SpaceX Grasshopper Takes Off and Lands Vertically [video]
 SpaceX ISS launch webcast starts at 4:15 am EDT
 SpaceX Launch - Official Webcast
 SpaceX Successfully Completes First Mission to Geostationary Transfer Orbit
+SpaceX Successfully Soft-Landed Booster Rocket in the Atlantic
 SpaceX aims to put man on Mars in 10-20 years
 SpaceX headed to the ISS tomorrow
 SpaceX to fly to International Space Station in November
@@ -8851,6 +9100,7 @@ Stanford University Free Class: Design and Analysis of Algorithms I
 Stanford announces 16 free online courses for fall quarter
 Stanford bioengineer develops a 50-cent paper microscope
 Stanford researchers to open source model they say has nailed sentiment analysis
+Stanford study finds walking improves creativity
 Stanford to host more online classes
 Stanford's CS 101 course uses Javascript
 Stanford's online Machine Learning class now open for enrollment
@@ -8882,6 +9132,7 @@ Startup School 2012 Videos
 Startup School 2013 Doodles
 Startup School 2013 Videos Now Online
 Startup School 2013 – Live Stream
+Startup School is going global
 Startup Suicide -- Rewriting the Code
 Startup advice
 Startup developing HIV/AIDS vaccine is 2nd nonprofit accepted into Y Combinator
@@ -8894,6 +9145,7 @@ Startups Are Hard. So Work More, Cry Less, And Quit All The Whining
 Startups in stealth mode need one piece of advice.
 Startups should not use GoDaddy. Ever
 Startups, Fix Your "From" Field
+State of MetaFilter
 State paid $22K each for Internet routers
 Statement by Edward Snowden to human rights groups at Sheremetyevo airport
 Statement by Julian Assange after One Year in Ecuadorian Embassy
@@ -8905,6 +9157,7 @@ Statically Recompiling NES Games into Native Executables with LLVM and Go
 Statistical Formulas For Programmers
 Statistics Done Wrong – The woefully complete guide
 Status Chart: Your Personal Status Dashboard
+Stay Classy Makerbot
 Stay away from This* (thiswebhost.com)
 Stay-at-home dad
 Stealing Your Address Book
@@ -8993,6 +9246,7 @@ Stop externalising your life
 Stop motion video shot over 2 years with 288,000 jelly beans
 Stop reading this blog and learn something
 Stop the E-Parasite Act
+Stop the FCC from Breaking the Internet
 Stop the NSA "Fake Fix" Bill
 Stop validating email addresses with your complex regex
 Stop whining and start hiring remote workers
@@ -9077,6 +9331,7 @@ Supreme Court sides with student in case over textbooks
 Supreme Court: Natural Isolated DNA Not Patentable, Synthetic DNA Is [pdf]
 Surf Air: Unlimited Flights for $1k/mo
 Surface Pro 2
+Surface Pro 3
 Surface Pro versus MacBook Air: Who's being dishonest with storage space?
 Surfing the Modern Web with Ancient Browsers
 Surprise: People hate being forced to use Facebook
@@ -9100,7 +9355,9 @@ Swiss to vote on 2,500 franc basic income for every adult
 Switch to HTTPS Now, For Free
 Switching from Gmail to FastMail
 Switching to DuckDuckGo and Firefox
+Swype makes almost 4000 location requests every day
 Sydney tunnel water screen stop sign for oversized vehicles [video]
+Syncthing: Open Source Dropbox and BitTorrent Sync Replacement
 Syrian Internet Is Off The Air
 System for generic, decentralized, unstoppable Internet anonymity
 Systemic traffic jams caused by small groups of drivers, study says
@@ -9111,6 +9368,7 @@ T-Mobile Rocks
 T-Mobile to offer free unlimited international data, texts
 T-Shirt Printing API
 TDD is dead. Long live testing.
+TDD your API
 TED Talks joins Netflix's stable of streaming content
 TED and inequality: The real story
 TEDTalks as of 06.16.11
@@ -9131,6 +9389,7 @@ TWTR
 Tacocopter - Flying Robots Deliver Tacos To You
 Tacocopter Basics
 Tailgating YC
+Tails 1.0 is out
 Take Over The Galaxy with GitHub (DCPU16 support)
 Take a short break in a quiet place
 Take my money, HBO
@@ -9163,6 +9422,7 @@ Team Fortress 2 now free forever
 Tearable Cloth Simulation in JavaScript
 Tech companies, bristling, concede to government surveillance program
 Tech firms push back against White House efforts to divert NSA meeting
+Tech firms write to U.S. FCC to oppose 'net neutrality' plan
 Tech press misses Google/Amazon name grab
 Tech recruitment: how not to do it
 TechCrunch As We Know It May Be Over
@@ -9180,11 +9440,13 @@ Technorati's Tracy Williams is alive and safe in a local hospital
 Teen to government: Change your typeface, save millions
 Teenager Who Reads News Online? According to the DoJ, You May Be a Criminal
 Teeworlds for Mac, Windows, and Linux
+Tehran tracked, captured, studied, copied RQ-170
 Telegram - secure, free messaging
 Telegram protocol defeated. Authors are going to modify crypto-algorithm
 Telegram’s Cryptanalysis Contest
 Telescopictext
 Tell HN: Add ?share=1 to Quora URLs to display content without login
+Tell HN: Call your mom
 Tell HN: Flag PR "April fools pranks"
 Tell HN: Frustrated and feeling pretty useless at this point.
 Tell HN: How we bootstrapped to the #1 rated mattress on Amazon.com
@@ -9240,6 +9502,7 @@ Tesla's ingenious strategy
 Tesla: Not so easily bricked
 Tesla: a little bit Apple, a little bit Google, and about to be huge
 Tessel: The end of web development as we know it
+Test-induced design damage
 Testing 3 million hyperlinks, lessons learned
 Testing Benford's Law
 Testing like the TSA
@@ -9305,6 +9568,7 @@ The 7 Habits of Highly Overrated People
 The 99 percent
 The AI Systems of "Left 4 Dead" [pdf]
 The Absolute Beginner's Guide to Arduino
+The Absurdity of LinkedIn
 The Acceleration of Addictiveness vs Willpower, Productivity, and Flow
 The Amazing iOS 6 Maps
 The Amazon Kindle Cloud Reader is live
@@ -9366,9 +9630,11 @@ The CODE Keyboard
 The Cab Ride I'll Never Forget
 The Caging of America
 The Capacitive Button Cult Must Be Stopped
+The Case Against ISP Tolls
 The Case for Abolishing Patents (Yes, All of Them)
 The Case for Abolishing the DHS
 The Case for Formal Verification (2013)
+The Case for React.js and ClojureScript
 The Central Limit Theorem Visualized with D3
 The Chair
 The Challenge of Making Friends as an Adult
@@ -9403,6 +9669,7 @@ The Dangerous Mr. Khan
 The Dark Side of Hadoop
 The Dawn of Haiku OS
 The Day I Saw Van Gogh’s Genius in a New Light
+The Day I Started Lying to Ruth
 The Day Mandela Was Arrested, With A Little Help From the CIA
 The Day We Fight Back
 The Day our investors came to see the office
@@ -9414,6 +9681,7 @@ The Decline of the Mobile Web
 The Definitive Guide To Website Authentication
 The Department of Homeland Security Stole My Boat Today
 The Design Flaw That Almost Wiped Out an NYC Skyscraper
+The Design Of SQLite4
 The Design of LLVM
 The Disappointing Surprise From Apple
 The Disinformation
@@ -9461,6 +9729,7 @@ The Food Bubble (2010)
 The Forbidden Island
 The Forgotten Founder: A Silicon Valley Tale of Humiliation and Revenge
 The Founder Visa (again)
+The Fourier Transform and its Applications
 The Frameless Geodesic Dome I currently live in
 The Free Software Foundation is even more relevant now than before
 The Free Universal Construction Kit
@@ -9504,6 +9773,7 @@ The Hardware Renaissance
 The Heartbleed Bug
 The Heartbleed Challenge
 The Hidden Truths about Calories
+The Hitchhiker’s Guide to Python
 The Homely Mutt
 The Honey Launderers: Uncovering the Largest Food Fraud in U.S. History
 The Horrible Future of Social
@@ -9528,10 +9798,12 @@ The Inside Story of a Small Startup Acquisition
 The Instagram Architecture Facebook Bought for a Cool Billion Dollars
 The Intercept
 The Internet Explorer 6 Countdown
+The Internet Is Being Protected By Two Guys Named Steve
 The Internet Is a Surveillance State
 The Internet Just Made Microsoft Kill a Car for a Faster Horse
 The Internet Made Me Sad Today
 The Internet Map
+The Internet With A Human Face
 The Internet is a surveillance state
 The Internet is experiencing severe outages across North American and Asia
 The Internet mystery that has the world baffled
@@ -9577,9 +9849,11 @@ The Magic of strace
 The Magical Tech Behind Paper For iPad's Color-Mixing
 The Magna Carta Essay
 The Making of Warcraft, Part 2
+The Makings of a Great Logo
 The Man Who Broke Atlantic City
 The Man Who Built Catan
 The Man Who Inspired Jobs
+The Man Who Single-Handedly Converted a Washed-Out Land Into a 1,360 Acre Forest
 The Management Team - Guest Post From Joel Spolsky
 The Marco.org Review of John Siracusa’s Review of OS X 10.8 Mountain Lion
 The Massachusetts Software Tax
@@ -9591,6 +9865,7 @@ The Matrix in JavaScript in less than 600 bytes
 The Matt Cutts Debunking Flowchart
 The Mature Programmer
 The McDonald's Theory of Bad Ideas
+The Meaning of Life
 The Meditations of Marcus Aurelius
 The Merge Button
 The Meteoric Rise of DigitalOcean
@@ -9612,7 +9887,9 @@ The Mozilla Developer Network has a New Face
 The Mozilla Manifesto
 The Mt. Gox alleged insolvency document has been posted
 The MtGox 500
+The Multiple SQLite Problem
 The Mystery of 355/113
+The Mystery of Go, the Ancient Game That Computers Still Can’t Win
 The Mystery of the Creepiest Television Hack
 The Mystery of the Encrypted Gauss Payload
 The Myth of the Non-Technical Startup Employee
@@ -9621,6 +9898,7 @@ The NHS is selling your private data – here's the price list [pdf]
 The NSA Admits It Analyzes More People's Data Than Previously Revealed
 The NSA Can't Tell the Difference Between an American and a Foreigner
 The NSA Is Breaking Most Encryption on the Internet
+The NSA Is Recording Every Cell Phone Call in the Bahamas
 The NSA Reportedly Has Total Access To The Apple iPhone
 The NSA can store communications of US citizens for up to 5 years, sans warrant
 The NSA is Commandeering the Internet
@@ -9636,6 +9914,7 @@ The Navy’s newest warship is powered by Linux
 The Net Is a Waste of Time (1996)
 The Neuroscientist Who Discovered He Was a Psychopath
 The New AWS Command-Line Interface
+The New Aaron Swartz Documentary Looks Powerful. Here's the Trailer
 The New Apple Advantage
 The New Deal
 The New Firebase Security API
@@ -9755,6 +10034,8 @@ The San Francisco Exodus
 The Scam Wall Street Learned from the Mafia
 The Science Behind Honey’s Eternal Shelf Life
 The Scientific 7-Minute Workout
+The Scraping Problem and Ethics
+The Scroll Up Bar
 The Secret Document That Transformed China
 The Secret History of Kim Jung Il -- written by one of his high school teachers
 The Secret Ingredient In Your Orange Juice
@@ -9789,6 +10070,7 @@ The State of JavaScript - Brendan Eich
 The State of Version Control: an Infographic
 The State of the Art is Terrible
 The Steve Jobs I Knew
+The Story Behind the Worst Movie on IMDb
 The Story Of A Failed Startup And A Founder Driven To Suicide
 The Story Of Larry Page's Comeback
 The Story of 2 $1 Million Projects in 24 Hours
@@ -9812,6 +10094,7 @@ The Sweden Solar System
 The THX Sound
 The Tale of OpenGL vs. Direct3D
 The Tata AirPod: a car that runs on compressed air w/150-200km range
+The TeX tuneup of 2014 [pdf]
 The Technology Behind Convore
 The Terrifying Background of the Man Who Ran a CIA Assassination Unit
 The Tesla Gun
@@ -9821,6 +10104,7 @@ The Three Kinds of Laziness
 The Tim Cook memo: line by line
 The Tiniest GIF Ever
 The Top of My Todo List
+The Trade of the Century: When George Soros Broke the British Pound
 The Trello Tech Stack
 The Tricks Investors Use Against Founders
 The Trillion Dollar Website (a story of quantitative easing)
@@ -9906,6 +10190,7 @@ The coffeeshop fallacy
 The coming civil war over general purpose computing
 The complete guide to centering a div
 The conversation that led to Ruby being called Ruby
+The cost of Linux's page fault handling
 The cost of hand-to-mouth living
 The crushing lameness of April Fools Day on the Internet.
 The daily lunch delivery of India's dabbawallahs
@@ -9916,6 +10201,8 @@ The definitive guide to forms based website authentication
 The demise of the low level programmer
 The depth and breadth of Python
 The descent to C
+The desktop and the developer
+The desperate hustle as a way of life
 The detention of David Miranda was an unlawful use of the Terrorism Act
 The diagnosis
 The economic return of Iceland has proved that the joke was on Ireland
@@ -9941,12 +10228,15 @@ The front page of HN almost exactly 5 years ago
 The future Firefox UI
 The future is specific
 The future of Fiber
+The future of Unreal Tournament begins today
 The futures of Facebook and Google are embedded in these two images
 The game of life emulated in the game of life
 The genius and folly of MongoDB
 The girl with the ANSI tattoo
 The git parable
 The greatest Google Mail feature you may not be using
+The greatest bug I never fixed (2010)
+The greatest juggler alive quit to open a construction business
 The guy who made it so difficult to open your bag of potato chips
 The hardest computer game of all time
 The hum that helps to fight crime
@@ -9966,10 +10256,12 @@ The lactose-tolerance mutation
 The language of Vim
 The last day
 The last time I saw Steve Jobs
+The latest chapter for the self-driving car: mastering city street driving
 The legacy of Srinivasa Ramanujan
 The lightbulb reinvented
 The limits of Google’s openness
 The little ssh that (sometimes) couldn't
+The logic of Buddhist philosophy
 The long and sordid history of the user-agent HTTP header field
 The lost Van Jacobson paper that could save the Internet
 The machine's view of time, if nanoseconds were seconds
@@ -9996,9 +10288,11 @@ The new Digg
 The new Galaxy Note 3 is region-locked
 The new Git-scm.com
 The new Photosynth
+The new VirginAmerica.com
 The new sandbox: open-source and self-hosted
 The next SOPA
 The next generation of Instapaper
+The next version of DuckDuckGo
 The nightmarish SOPA hearings
 The official Blog of John McAfee
 The one HR benefit every startup should add
@@ -10015,6 +10309,7 @@ The power of the RSS reader
 The president is wrong: The NSA debate wouldn’t have happened without Snowden
 The price of a messy codebase: No LaTeX on the iPad
 The problem is we don't understand the problem
+The purpose of DRM is not to prevent copyright violations (2013)
 The quick website launch checklist
 The raster tragedy at low resolution (1997)
 The real reason people are mocking Color...
@@ -10033,9 +10328,11 @@ The secret button at pedestrian crossings
 The secret history of the about:jwz url
 The senators who say linking to certain sites should be a felony
 The shittiest project I ever worked on
+The shock of playing the Ouya, one year later
 The shutdown of library.nu
 The single most useful Emacs feature
 The slippery slope
+The slow death of purposeless walking
 The sociology of drinking
 The software development final exam: Algorithms and Data Structures
 The sound of the dialup, pictured
@@ -10058,9 +10355,11 @@ The unfortunate math behind consulting companies
 The universe is big. This big.
 The unofficial Google shell
 The unprofitable SaaS business model trap
+The user is drunk (2013) [video]
 The way people copy each other's linguistic style reveals their pecking order
 The weakest link by far is Apple
 The world's first HTML5 SIP client
+The worst year of my life
 The year 2000 illustrated in 1900
 Theranos
 There Are Giant Camera Resolution Test Charts Scattered Across the US
@@ -10105,6 +10404,7 @@ Think Stats, using python to learn stats
 Think Stats: Probability and Statistics for Programmers
 Think different about Jobs
 Thinking different. - A look into the mental illness of a hacker
+Thinking in Types
 Thinking of Selling on eBay using Paypal? Think Again
 Thinking the unthinkable
 Thirty Percent Feedback
@@ -10229,6 +10529,7 @@ Today I Briefed Congress on the NSA
 Today I saw the future
 Today is The Day We Fight Back
 Today my startup failed
+Today was the last day of Nokia as we knew it
 Today's Outage Post Mortem
 Tom Anderson: Google+ makes Google a better, more integrated set of services
 Tom Clancy has died
@@ -10278,6 +10579,7 @@ Trading Program Ran Amok, With No ‘Off’ Switch
 Transcribing Piano Rolls, the Pythonic Way
 Transcript of meeting between Julian Assange and Google CEO Eric Schmidt
 Transfer of Wikipedia sites from GoDaddy complete
+Transform any text into a patent application
 Transparent Bitcoin Ponzi scheme
 Transporting the CIA A-12 Blackbird to Area 51
 Trapperkeeper is a new Clojure framework for long-running applications, services
@@ -10289,6 +10591,7 @@ Treesaver.js - JavaScript library for creating magazine style layouts
 Trello celebrates One Million Users
 Trello is now half million strong
 Trello uses an icon font and so can you
+Tremor-cancelling spoon for Parkinson's tremors
 Trends that will create demand for an Unconditional Basic Income
 Trevor Perrin requests removal of NSA from IETF Crypto Review
 Tricky Programming Concepts Aren’t
@@ -10303,11 +10606,15 @@ Tron Legacy: how the special effects were done
 Trouble In the House of Google
 Troubled Startup Color Loses Cofounder Peter Pham
 True 8-bit Color Cycling with HTML5
+True Goodbye: ‘Using TrueCrypt Is Not Secure’
 True Scala complexity
 TrueCrypt Discrepancy
 TrueCrypt User Held in Contempt of Court
+TrueCrypt must not die
+TrueCrypt suggesting migration to BitLocker?
 Trust but Verify
 Trust is Fragile
+Truthcoin: Trustless, Decentralized Bitcoin Prediction Marketplace
 Try Haxe
 Try Hy
 Try Python, Ruby, Lua, Scheme, QBasic, Forth ...
@@ -10443,12 +10750,14 @@ US bugged Merkel's phone from 2002 until 2013, report claims
 US claims all .com and .net websites are in its jurisdiction
 US court rejects state-secrets defense in NSA surveillance case
 US customs blocking DVDs that depict "insurrection against the US"
+US cybercrime laws being used to target security researchers
 US debt visualized
 US employee 'outsourced job to China'
 US entertainment industry to Congress: make it legal for us to deploy rootkits
 US intelligence mining data from 9 US Internet companies in broad secret program
 US judge orders hundreds of sites "de-indexed" from Google, Facebook
 US makes Bitcoin exchange arrests
+US man finds lost mother in an isolated Amazon tribe
 US nearly detonated atomic bomb over North Carolina in 1961
 US patent chief to software patent critics: "Give it a rest already"
 US patent office rejects claims of Apple 'pinch to zoom' patent
@@ -10518,6 +10827,7 @@ Understanding database normalisation: a very short tutorial
 Understanding the Git Workflow
 Understanding the bin, sbin, usr/bin , usr/sbin split
 Understanding the code inside Tornado, the asynchronous web server
+Understanding web pages better
 Undo
 Unemployed game designer creates mind-blowing solar system explorer app
 Unfit for work
@@ -10574,6 +10884,7 @@ Users don't like social login
 Users of my iOS Game Teach Me a Lesson MIT Didn’t
 Uses for cURL
 UsesThis: Rob Pike
+Using Facebook Notes to DDoS any website
 Using HTML5/Canvas/Javascript to take screenshots
 Using ImageMagick to make sharp web-sized photographs
 Using Metadata to Find Paul Revere
@@ -10588,6 +10899,7 @@ Using git to manage a website
 Using prime numbers to make better backgrounds
 Using python and k-means to find dominant colors in images
 Using the HTML5 Fullscreen API for Phishing Attacks
+Using the wrong dictionary
 Using unix as your IDE
 V for Vendetta and the Rise of Anonymous - by Alan Moore
 VAXen, my children, just don't...
@@ -10602,6 +10914,7 @@ VMWare Screw Customers
 VMware launches Node.js, Rails and Spring PaaS
 VNC over gif
 VSRE: very short reply expected (netiquette)
+Vagrant Feature Preview: Docker-Based Development Environments
 Vagrant Share
 Value is created by doing
 Valve Employee Handbook
@@ -10622,6 +10935,7 @@ Valve working on 'Steam Box' gaming console with hardware partners
 Valve's GDC Talk: Porting Source to Linux [pdf]
 Valve's OpenGL debugger open-sourced
 Valve: Piracy Is More About Convenience Than Price
+Valve’s Design Process For Creating Half-Life (1999)
 Vandalised home puts pressure on Airbnb
 Vanilla JS, fast, lightweight, cross-platform framework!
 Variance
@@ -10703,6 +11017,7 @@ Visualizing Git Concepts with D3.js
 Visually stunning math concepts which are easy to explain
 ViziCities Dev Diary #1: Visualising Cities in 3D using WebGL
 Volvo Gave Away the Most Important Design They Ever Patented
+Volvo’s first self-driving cars now being tested live on public roads in Sweden
 Voronoi Polygonal Map Generation
 Vortex radio waves could boost wireless capacity “infinitely”
 Vote Now: Who Should Be TIME’s Person of the Year? Edward Snowden
@@ -10761,6 +11076,7 @@ Warsow 1.0 Released
 Was LinkedIn Scammed?
 Was Y Combinator Worth It?
 Washington Post to be sold to Jeff Bezos
+Washington state sues Kickstarted game creator who failed to deliver
 Washington voters approve legalized marijuana
 Watch 2013 Barack Obama Debate 2006 Joe Biden Over NSA Surveillance [video]
 Watch Me Make Mistakes
@@ -10774,8 +11090,10 @@ Watch what you store on SkyDrive–you may lose your Microsoft life
 Watchdog Report Says N.S.A. Program Is Illegal and Should End
 Water seems to flow freely on Mars
 Watsi (YC W13) raises $1.2M first-of-its-kind 'philanthropic seed round'
+Wayback Machine Hits 400,000,000,000
 We (unexpectedly) got 60K users in 60 hours - What we learned
 We Are Giving Ourselves Cancer
+We Are Now In Command of the ISEE-3 Spacecraft
 We Are the App Store
 We Found Our Son in the Subway
 We Have Luxurious Jobs but We Are Not Aware of It
@@ -10794,6 +11112,7 @@ We are in the AOL days of social networking
 We are not normal people
 We are sorry
 We are sorry to inform you
+We are throttling the FCC to dialup modem speeds until they pay us for bandwidth
 We call ourselves innovators, but most of us are really just iterators
 We don't know why lithium batteries work
 We expect too much of geeks
@@ -10808,6 +11127,7 @@ We need help with the disappearance of Security Researcher Dancho Danchev
 We now have an effective vaccine for Malaria
 We open-sourced 90 node.js modules at Browserling
 We paid $634 million for the Obamacare sites and all we got was this lousy 404
+We scraped the World Bank's website
 We should only work 25 hours a week, argues professor
 We spent a week making Trello boards load fast
 We stopped advertising on Facebook
@@ -10815,6 +11135,7 @@ We used to sleep twice each night
 We will try to stop fixing bugs in PHP
 We work a 4-day week and just raised $4.75m
 We work a 4-day week and just raised $4.75m (2012)
+We'd lose our security certificate if we allowed pasting
 We'll Be Circling Back
 We're Shutting Down and I'm Scared
 We're all remote: how we deal with a 100% remote dev team
@@ -10832,6 +11153,7 @@ Web Development: A Crazy World
 Web Framework Benchmarks
 Web Framework Benchmarks Round 4
 Web Framework Benchmarks Round 7
+Web Fundamentals: A handbook for best practices
 Web GL Ocean Simulation
 Web Giants Consider 'Nuclear Option' Blackout to Fight SOPA
 Web Intents - the future of web apps
@@ -10897,6 +11219,7 @@ What Coke Contains
 What Could Have Been Entering the Public Domain on January 1, 2011?
 What Could Have Entered the Public Domain on January 1, 2014
 What Did Not Happen At Mt. Gox
+What Do Animals See in a Mirror?
 What Do Cats See?
 What Does 200 Calories Look Like?
 What Dreams May Come
@@ -10908,6 +11231,7 @@ What Google knows about you
 What Google's Famous Cafeterias Can Teach Us About Health
 What Guide Books Tell Foreign Visitors to the U.S.
 What HN users don't mean to be
+What Happened at NewsGator
 What Happened to the Future?
 What Happens When A Twitter Client Hits The Token Limit
 What Happens When One of Your Coworkers Dies
@@ -10942,6 +11266,7 @@ What I've Learned About Smart People.
 What I've been up to for the past year
 What If Cars Were Rented Like We Hire Programmers?
 What If Drivers Were Hired Like Programmers?
+What If U.S. Cities Just Stopped Participating in the War on Drugs?
 What If We Paid Off The Debt? The Secret Government Report
 What If Your Emails Never Went to Gmail and Twitter Couldn't See Your Tweets?
 What It's Like To Be Ridiculed For Open Sourcing A Project
@@ -10950,6 +11275,7 @@ What It’s Really Like to Work at Google
 What I’ve learned from 35 years of wearing computerized eyewear
 What I’ve learned in 5 years of running a SaaS
 What Jeff Bezos Knew Back in 1997 That Made Amazon a Gorilla
+What Killed My Sister?
 What Larry Page really needs to do to return Google to its startup roots
 What Lucky People Do Different
 What Major World Cities Look Like at Night, Minus the Light Pollution
@@ -10969,10 +11295,12 @@ What They Don't Tell You About Public Speaking
 What Twitter could have been
 What We Don't Know About Spying on Citizens: Scarier Than What We Know
 What We Should Have Said To PG
+What Writing and Selling Software Was Like in the 80s
 What You Really Need Is A Market, Not An Idea
 What a 600,000-megapixel-wide picture looks like
 What a stupid idea
 What agile means to me (and why it never really works)
+What are common mistakes that new or inexperienced managers make?
 What are imaginary numbers?
 What are the lesser known but useful data structures?
 What are the most intellectually stimulating websites you know of?
@@ -10989,6 +11317,8 @@ What does "HREF" stand for? (2008)
 What does "it's a good start" really mean.
 What does $1265 of bugs look like?
 What does 0^0 equal? Why do mathematicians and high school teachers disagree?
+What does GCHQ know about our devices that we don't?
+What does a neural network actually do?
 What does one trillion dollars look like?
 What does randomness look like?
 What every programmer should know about memory, Part 1
@@ -11072,6 +11402,7 @@ What you could do if you were Google and had their databases
 What's Actually Wrong with Yahoo's Purchase of Summly
 What's Going On (on "Why Python, Ruby, and Javascript are Slow")
 What's In A GIF
+What's New in Mercurial 3.0
 What's That Programming Language?
 What's Tylenol Doing to Our Minds?
 What's a $4000 Suit Worth?
@@ -11091,12 +11422,14 @@ Whatever happened to the Hurd? – The story of the GNU OS
 Whatever works for you
 Whatever’s Best For The People, That’s What We Do
 WhatsApp is broken, really broken
+WhatsApplebee's: the premiere Applebee's-based social chat app
 What’s New In Python 3.4
 What’s Up With All These Changes in Rails?
 What’s up with ARM
 When "clever" goes wrong: how Etsy overcame poor architectural choices
 When A Daughter Dies
 When A Game Designer teaches a College Course: No Grading, just Levelling Up
+When AES(☢) = ☠ – a crypto-binary trick
 When Art, Apple and the Secret Service Collide: 'People Staring at Computers'
 When Did Americans Lose Their British Accents?
 When EC2 Hardware Changes Underneath You
@@ -11110,6 +11443,7 @@ When Should I Visit? - A 24 hour hack I made, what do you think?
 When Truth Survives Free Speech
 When We Lose Antibiotics, Here's Everything Else We'll Lose Too
 When Will We See Collisions for SHA-1?
+When a bad day gets worse – getting hacked twice in one day
 When free markets make it worse: new TLDs
 When half a million Americans died and nobody noticed
 When male CEOs have daughters, relative pay for women at their firms goes up
@@ -11146,6 +11480,7 @@ White House Tries to Prevent Judge From Ruling on Surveillance Efforts
 White House responds to Patent Petition
 White House: What's Blocking Innovation in America? My Answer: IP Laws
 Whitehouse.gov petition to veto SOPA
+Whitewood Under Siege: Wooden Shipping Pallets
 Who 'likes' my Virtual Bagels?
 Who Are We at War With? That’s Classified
 Who Does Facebook Think You Are Searching For?
@@ -11257,6 +11592,7 @@ Why I Dislike EC2
 Why I Don't Do Unpaid Overtime and Neither Should You
 Why I Don't Want to Learn Go
 Why I Don’t Buy the Quora Hype
+Why I Don’t Do CrossFit
 Why I Don’t Host My Own Blog Anymore
 Why I Dropped Out Of YC
 Why I Gave Up A Million Dollar Consultancy
@@ -11308,11 +11644,13 @@ Why I take sketch breaks instead of surfing the internet
 Why I think Rust is the "language of the future" for systems programming
 Why I use DuckDuckGo and You Should Too
 Why I want Bitcoin to die in a fire
+Why I was forced to shut down Lavabit
 Why I went from Python to Go (and not node.js)
 Why I went with them and not you: feedback to an interviewer
 Why I will never pursue cheating again
 Why I won't be using Groupon again.. A consumer perspective.
 Why I won't get a Google+ Custom URL
+Why I won’t work for Google
 Why I'd never work for Google, Twitter, or Facebook
 Why I'll be a solo founder next time
 Why I'm Betting On Julia
@@ -11365,6 +11703,7 @@ Why Nokia failed: 'Wasted 2,000 man years' on UIs that didn't work
 Why Non-engineers Think Engineers Are Better Off Joining Startups
 Why Not Haskell?
 Why O'Reilly Media doesn't use DRM
+Why Online Communities Decay Over Time
 Why Open Source misses the point of Free Software
 Why PHP Was a Ghetto
 Why Palantir Makes My Head Hurt
@@ -11378,6 +11717,7 @@ Why Puppet, Chef, Ansible aren't good enough
 Why Putting SSH On Another Port is a Good Idea
 Why Python Runs Slow, Part 1: Data Structures
 Why Python is Important for You
+Why Python is Slow: Looking Under the Hood
 Why Python, Ruby, and Javascript are Slow
 Why Quit? Because the other company has bigger monitors.
 Why Quora is in trouble
@@ -11401,6 +11741,7 @@ Why Stack Overflow in Portuguese?
 Why Starting Justin.tv Was A Really Bad Idea, But I’m Glad We Did It Anyway
 Why Startup Hubs Work
 Why T-shirts matter at tech companies
+Why TLS is called "TLS", not "SSL 3.1"
 Why Tarsnap doesn't use Glacier
 Why TechCrunch is boring, SAP is not, and the world has gone mad
 Why TechCrunch is over
@@ -11416,6 +11757,7 @@ Why Use Postgres
 Why Users Don’t Fill Out Sign Up Forms
 Why Vagrant?
 Why Valve? Or, what do we need corporations for..
+Why Van Halen's tour contract had a "no brown M&M's" clause
 Why Waiting Is Torture
 Why Wal-Mart Will Never Pay Like Costco
 Why Watching DVDs on Linux is Illegal in the USA
@@ -11511,6 +11853,7 @@ Why is C faster than Java: git vs JGit
 Why is European broadband faster and cheaper? Blame the government
 Why is Google so hysterically hypocritical about Bing using its public data?
 Why is Rick Santorum Using a Picture of 4Chan Founder Moot on His Website?
+Why is Stack Overflow so negative of late?
 Why is TeX still used? What are some good, modern alternatives?
 Why is Windows so slow?
 Why is git pull considered harmful?
@@ -11646,6 +11989,7 @@ Will Dropouts Save America?
 Will Google Kill my Blog on December 6th?
 Will It Optimize?
 Will Work for Food and Lodging
+Will you drown?
 Willem Pinckaers on Akamai's flawed OpenSSL allocator patch
 Williams: Master of the "Come From"
 WinJS: the Windows Library for JavaScript
@@ -11672,6 +12016,7 @@ Wireless devices go battery-free with new communication technique
 Wireshark is switching to Qt
 Wish I was here by Zach Braff
 With +1, Google Search Goes Truly Social — As Do Google Ads
+With IPO Hopes Fading, Square and Box Face Reality Of Commodity Products
 Wizard Modals for Bootstrap
 Wolfenstein 1D
 Wolfram Alpha Personal Analytics for Facebook
@@ -11679,6 +12024,7 @@ Wolfram Alpha doesn't "get it"
 Wolfram Language
 Woman Who Couldn’t Be Intimidated by Citigroup Wins $31 Million
 Woman removes SIM card from smart energy meter, uses $193k of 3G data
+Woman’s cancer killed by measles virus in trial
 Women Outnumber Men For The First Time In Berkeley’s Intro To Computer Science
 Women are rejecting marriage in Asia. The social implications are serious.
 Women, Tech Conferences and the Bullshit Surrounding It
@@ -11714,6 +12060,7 @@ Write More Classes
 Write any javascript code with just these characters: ()[]{}+
 Write hybrid CPU/GPU programs in Haskell
 Write your app in HTML5, upload it and get back app-store ready apps
+Write your first Linux kernel module
 Writing Clear, Concise, Sentences
 Writing Fast, Memory-Efficient JavaScript
 Writing Vim Plugins
@@ -11733,10 +12080,12 @@ XMPP creator's "Locker" -- personal social media aggregation platform
 Xcode 4.1 now available free from the Mac App Store
 Xcode now costs US$ 4.99
 Xcode, GCC, and Homebrew
+Xeer
 Xenia - An Xbox 360 emulator
 Xerox scanners and photocopiers randomly alter numbers in scanned documents
 Xiki: A shell console with GUI features.
 Xip.io - a magic domain name that provides wildcard DNS for any IP address
+Xip.io: Wildcard DNS for everyone
 Xkcd "Click and Drag" in a "map" interface
 Xkcd Password Generator
 Xkcd style graphs
@@ -11844,6 +12193,7 @@ You know, Google, the web already had this feature
 You might not need jQuery
 You should be using Google Analytics to log your startup's client-side errors
 You should blog even if you have no readers
+You shouldn’t use a spreadsheet for important work
 You win, RIM (An open letter to RIM's developer relations)
 You'll be dead soon - Carpe Diem
 You'll never be Chinese
@@ -11861,6 +12211,7 @@ YouTube Identifies Birdsong As Copyrighted Music
 YouTube Says Universal Had No ‘Right’ to Take Down Megaupload Video
 YouTube is going Live
 YouTube kills billions of video views faked by Music Industry
+YouTube to Acquire Videogame-Streaming Service Twitch for $1 Billion
 Young People Are Screwed: Here's How To Survive
 Young, Unemployed and Living on the Street
 Youngest Y Combinator Founders Launch MinoMonsters, The Pokemon Of Social Games
@@ -11929,6 +12280,7 @@ ZeroVM: lightweight containers based on Google Native Client
 Zerocoin: making Bitcoin anonymous
 Zip Bomb
 Zombie Startups
+Zombies once destroyed Japan's economy, now they're infecting China's
 Zoomquilt
 Zuck, Bill Gates, Jack Dorsey In Short Film To Inspire Kids To Learn How To Code
 Zuckerberg: If I Were Starting A Company Now, I Would Have Stayed In Boston
@@ -11954,6 +12306,7 @@ _why's site is updated
 agentzh's Nginx Tutorials
 btjunkie says goodbye
 dl.google.com now served by Go
+eBay customers’ personal data was compromised in March
 eBooks compiled from top StackOverflow topics/answers
 f.lux has been updated to a new version
 http://(Type any keyword here).jpg.to
@@ -11961,6 +12314,7 @@ iBooks DRM has been cracked.
 iBookstore rejects Holly Lisle's writing course because she mentions Amazon
 iCloud’s Real Purpose is to Kill Windows
 iMessage for Android
+iMessage purgatory
 iOS 6 Breaks the App Store
 iOS 7
 iOS 7 before and after screenshots
@@ -11993,9 +12347,13 @@ xkcd: Instagram
 Îñţérñåţîöñåļîžåţîöñ
 ØMQ: Mission Accomplished
 Ƀ — Universal Bitcoin Logo Alternative
+‘Alien’ creator H.R. Giger is dead
 ‘America has no functioning democracy at this moment’ – Jimmy Carter on NSA
 ‘Creepy Cameraman’ pushes limits of public surveillance
 ‘Functional Programming Principles in Scala’ starts today
+‘Solar’ jet fuel made out of air
+‘We Kill People Based on Metadata’
+“A Windows 7 deployment image was accidently sent to all Windows machines”
 “Accounts merged and now my files are gone”
 “But The Client Wants IE 6 Support”
 “Dear subscriber, you are registered as a participant in a mass disturbance.”

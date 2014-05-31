@@ -23,6 +23,7 @@ $99 Kindle Touch and $79 Kindle Classic: What You Should Know
 $99 Refurbished Kindle Price Points to Kindle 4 Launch
 'Buckliball' Represents New Class of Collapsible 3D Structures [Video]
 1,000,000-to-1 Contrast Ratio Cameras Help This Welding Hood Augment Reality
+10 Awesome Animal Self-Defense Mechanisms and Why They Work
 10 Bizarre Parasites That Infest Humans
 10 Clever Ways to Automate Your Online Life with ifttt
 10 Genes We Would Want from Animals
@@ -30,6 +31,7 @@ $99 Refurbished Kindle Price Points to Kindle 4 Launch
 10 Inventive New Uses For Obsolete Technology
 10 Lifehacks For Your Car and Driving Habits
 10 Niche Search Engines That Still Do Something Google Can't
+10 Places Directors Use To Fake New York City in Film
 10 Places Robots and A.I. are Hiding in Plain Sight
 10 Promising Technologies in 2014
 10 Scientific Cooking Tricks That’ll Make Your Life Easier
@@ -42,6 +44,7 @@ $99 Refurbished Kindle Price Points to Kindle 4 Launch
 10 Years of Roomba Hacks: From Magic Marker Art to Combat
 1080p Phones Mean New Challenges for Mobile Batteries in 2013
 11 Essential Tweaks for Your New Samsung Galaxy S5
+12 Key Principles of Animation - Illustrated
 14 Essential Tweaks to Perform on Your New Nexus 5 Smartphone
 15 Essential Tweaks to Perform on Your New 2013 Nexus 7
 15 Visual Effects Artists Share Their Favorite Effects Shots
@@ -64,6 +67,7 @@ $99 Refurbished Kindle Price Points to Kindle 4 Launch
 2D Animation in the Digital Era: Interview with Japanese Director Makoto Shinkai
 30 Years of the HP-12C, the Calculator That Never Quit
 32GB Asus Transformer Prime Tablet Launching in December
+34x25x36: The Making of the Modern Mannequin
 3D Microprinter Creates Sub-Millimeter Nanostructures
 3D Printed Implant Approved by FDA and Used to Replace Part of Man's Skull
 3D Printed Robohand Gives Five-Year Old a New Grip
@@ -195,6 +199,7 @@ Adam Savage's Mercury Spacesuit Replica
 Adam Savage's One Day Builds: Strandbeest Model Kit
 Adam Savage's SXSW 2014 Keynote: Art and Science
 Adam Savage's SXSW 2014 Keynote: Art and Technology
+Adam Savage, Aisha Tyler, and Chuck Klosterman Talk Nerd Fest
 Adam Savage, Phil Plait, and Veronica Belmont Talk Science
 Adam Unveils Wired's Comic-Con 2013 Robot
 Adam and John Landis on the Impact of Stop-Motion Pioneer Ray Harryhausen
@@ -214,6 +219,7 @@ Adobe Plans the Last Flash Plug-in for Ice Cream Sandwich
 Adobe Releases Monospaced Open Source Font: Source Code Pro
 Adobe Teases Incredible Deblurring Photoshop Feature [Video]
 Ads in Android's Notifications Pane: Why It's Happening and What to Do
+Advanced Materials Testing with Everyday Objects
 Aerial 3D Tech Excites the Air (and Imaginations) to Project Real 3D Images [Video]
 Aerofex's Tandem Duct Aerial Vehicle is a Working Hover Bike
 Air Power to Air Batteries: How Giant Caves Can Store Our Excess Energy
@@ -508,6 +514,7 @@ Apps of the Week: Off To A Rolling Start
 Apps of the Week: One Dollar, Bob
 Apps of the Week: Tiny Towering Inferno
 Apps of the Week: Whammies and Wolverines
+ArcAttack Explains How Giant Tesla Coils Work
 Arduino Due Makes a High-Powered Leap to a New Processor
 Arduino Yun Combines Leonardo Board with Linux and Wi-Fi
 Are Biometrics the Future of Passwords?
@@ -571,6 +578,8 @@ Beautiful Tomenosuke Blade Runner Blaster Build
 Bedphones Want You to Listen and Sleep in Comfort
 Before THX: The Cinema Shaking Technology of Sensurround
 Behind the Scenes at Kernerworks' Workshop
+Behind the Scenes at Sideshow Collectibles!
+Behind the Scenes at Weta Workshop
 Behind the Scenes at w00tstock with Adam Savage and Wil Wheaton
 Behind the Scenes of Adam Savage's One Day Box Build
 Behind the Scenes of Our MakerBot Store Visit
@@ -610,8 +619,10 @@ Biologists Grow the Next Wonder Material in a Vat of Algae
 Bionic Ear Combines Printed Cartilage and Better-Than-Human Hearing
 BitTorrent Bundle is Like Peer-to-Peer Shareware
 Bits to Atoms: 3D Modeling Best Practices for 3D Printing
+Bits to Atoms: 3D Printing Buckaroo Banzai's Jetcar
 Bits to Atoms: 3D Printing an Accurate Replica TARDIS
 Bits to Atoms: An Overview of Today's 3D Printing Technologies
+Bits to Atoms: How 3D Printing with Paper Works
 Bits to Atoms: Making a MintyBoost USB Charger
 Bits to Atoms: Your 3D Printing Software Options
 Bizarre Spycraft: The Most Questionable CIA Operations
@@ -632,6 +643,7 @@ Boeing Converts F-16 into Unmanned Aerial Target
 Boiled Potatoes Make Ten Times Better Batteries Than Raw
 Bone Conduction Audio Used for Talking Train Windows
 Books and Youtube Are Supplying Password Crackers with Billions of Passphrases
+Borrowing Cameras: How to Test Before You Buy?
 Boston Dynamics' 16 MPH Galloping Wildcat
 Boston Dynamics' Humanoid Robot: Petman
 Boston Dynamics' LS3 Robot Follows the Leader
@@ -662,6 +674,7 @@ Bringing Luster Back to the Grindhouse
 British Tech Show Builds a Holodeck for Battlefield 3 [Video]
 Building A Real Life-Size Wall-E Robot
 Building Ships In a Bottle
+Building The Wormhole Actualization Machine
 Building Windows 8: Windows Explorer
 Building a High-Speed Camera for the Masses
 Building a Third-Person Camera Rig - Step 1: Planning
@@ -845,6 +858,7 @@ Cardboard X Cassettes: How VHS Board Games Took Over '90s Living Rooms
 Cardboard X Circuitry: The Charm and Allure of Electronic Board Games
 Carpenter Builds Wooden Quadcopters
 Casey Neistat's The Dark Side of iPhone Lines
+Catching Thrown Objects Is Tough For Robots
 Catching Up with Six Months of Apps--Live!
 Celebrating Benoît Mandelbrot, The Father of Fractals
 Celebrating Rube Goldberg's "Soul-Deep Love" of Machinery
@@ -964,7 +978,9 @@ Demo of SpaceTop Interactive 3D Interface
 Designer Re-envisions Products Minus Bulky Packaging
 Designing The Next Generation Space Suit
 Designing a Fake Videogame for Television
+Designing a New Breed of Flying Disc
 Designing a Vinyl Toy, from Concept to Product
+Designing and Building an "Open-Hardware" Laptop
 Developer Boxes Give an Early Glimpse of Google TV 2.0
 Did You Pre-Order the iPhone 5?
 Diet Soda Gets You Drunk Faster in Mixed Drinks
@@ -1036,6 +1052,7 @@ Energy Accounting—Free Mobile Apps Use Up to 75% of Battery Drain on Ads
 Energy Harvester Demonstrates the Power of Vibrations
 Engineer Plans to Build 3D Pizza Printer with NASA Grant
 Engineering Facebook's Audio for Familiarity and Nostalgia
+Engineering Fires in The Fire Lab
 Enter the Ocho: Windows 8 Release Preview Impressions
 Etsy Questions Answered! - 4/30/2013
 European Space Agency Experiments with 3D Printing a Lunar Base
@@ -1086,6 +1103,7 @@ FCC Teardown Provides a Glimpse of Lytro's Light Field Sensor
 FIPEL Bulbs Could Outdo LEDs in Efficiency, Light Quality
 FORM 1 Stereolithography 3D Printer On Kickstarter
 FTL: Advanced Edition Adds More Space and an iPad Version
+Fabricating a Life-Size Foam Dinosaur Head
 Face Detection and Gestures May Complement Touchscreens
 Facebook Home Review: Not for Most People
 Facebook Home and The State of Android Home Screens
@@ -1095,6 +1113,7 @@ Failure to Test: Making a Fightstick More Friendly for Classic Arcade Games
 Faithful Replica of the Iconic 1960s 13.5" IBM Wall Clock
 Fascinating Photos of the White House Being Gutted and Rebuilt in 1950
 Father Philanthropy, Art Forger
+Favorite Cosplay at WonderCon 2014
 Fear PhotoStream: The State of Point-and-Shoot Cameras with Wi-Fi
 Felix Baumgartner's Point-of-View Jump Video
 Ferrofluids Are Beautiful and Amazing
@@ -1108,6 +1127,7 @@ Filming The Dark Knight with Scale Miniatures
 Filmmakers Choose Sides in Transition from Film to Digital
 Finally, We Know Why and How Tea Kettles Whistle
 Finding The Lost Art in Las Vegas Architecture
+FireFLY6: A Different Kind of RC Multi-Rotor
 Firefighting Robot Fights Shipboard Fires, 30 Minutes at a Time
 Firefox 5 Tweaks Idle Connections for Faster Page Loads
 Firefox 5 is Here, But is It Worth the Upgrade?
@@ -1153,6 +1173,7 @@ Four Best Android Photo App Alternatives to Instagram
 Four Minutes of Slow Motion Explosions
 Fox Limits TV Streaming for Non-Satellite Subscribers
 Fox Vs. the Jayne Hat - 4/23/2013
+Frank Reese Raises Heirloom Chickens
 Frederic Tudor's World-Changing Idea: Sell Ice
 Free App Stabilizes Video Recording on iPad and iPhone 4
 Free-to-Play Microsoft Flight Takes Off This Spring
@@ -1245,6 +1266,7 @@ Google Play App Roundup: Beach Buggy Blitz, Maluuba, and Rise of Glory
 Google Play App Roundup: Beautiful Timer, Pocket League Story 2, and Quell Memento
 Google Play App Roundup: Blimps, Smash Hit, and Out There
 Google Play App Roundup: Boomerang, Gelluloid, and Magic 2014
+Google Play App Roundup: Bright Weather, Portal/Half-Life 2, and Monument Valley
 Google Play App Roundup: CM Installer, Anomaly 2, and Snapy
 Google Play App Roundup: CallApp, Mass Effect Infiltrator, and Cartoon Wars 2
 Google Play App Roundup: Camera 2, Duolingo, and Forest of Doom
@@ -1259,6 +1281,7 @@ Google Play App Roundup: ES File Explorer, They Need To Be Fed 2, and Hills of G
 Google Play App Roundup: Educated Chicken-Riding Robbers
 Google Play App Roundup: Event Flow Calendar Widget, The Cave, and Aaaaaa!
 Google Play App Roundup: Falcon Pro, Locale, Sailboat Championship
+Google Play App Roundup: Fenix for Twitter, Abyss Attack, and Xcom: Enemy Unknown
 Google Play App Roundup: Field Trip, W.E.L.D.E.R., and Global Outbreak
 Google Play App Roundup: Floating Notifications, Crayon Physics Deluxe, and Color Zen
 Google Play App Roundup: Flyne, Pocket Harvest, and Burn the Lot
@@ -1289,6 +1312,7 @@ Google Play App Roundup: Opera Max, Colossatron, and GTA: San Andreas
 Google Play App Roundup: Oscura, Flipboard, and Peti
 Google Play App Roundup: Pandora, Pebble Universe, and Falcon for Twitter
 Google Play App Roundup: Paper Artist, Crazy Taxi, and Super Mega Worm
+Google Play App Roundup: Peek, OTTTD, and Blazin' Aces
 Google Play App Roundup: Photoshop Touch for Phones, Slingshot Racing, and Infinite
 Google Play App Roundup: Pixlr Express, Waking Mars, and Echofon
 Google Play App Roundup: Plants vs. Zombies 2, Power-Grid, and Dead Trigger 2
@@ -1330,7 +1354,9 @@ Google Play App Roundup: Twilight, Mosaique, and Carmageddon
 Google Play App Roundup: Type Machine, Colin McRae Rally, and Pathogen
 Google Play App Roundup: VSCO Cam, Assassin's Creed Pirates, and Clash of Puppets
 Google Play App Roundup: Valet, Into the Dead, and Epoch
+Google Play App Roundup: Versus, Bridge Constructor Medieval, and Flashout 2
 Google Play App Roundup: WarGames, Radiolab, and Spider-Man
+Google Play App Roundup: Yahoo News Digest, Icebreaker: A Viking Voyage, and CastleStorm
 Google Play App Roundup: Zombie Smash, Google Drive, and Pocket Academy
 Google Play App Roundup: Zombiewood, Solid Explorer, and Timeline Art Museum
 Google Plus Adds a Surprisingly Deep Free Photo Editing Suite [Video]
@@ -1372,6 +1398,7 @@ Google Street View Hyperlapse Project
 Google TV Gets a Major Software Update
 Google Takes Another Crack at Social with Google+
 Google Toolbar Bids Firefox Adieu
+Google Unveils Its Self-Driving Car Prototype
 Google Voice Android App Updated With Better Messaging/Prefetched Voicemail
 Google and NASA Start Quantum Artificial Intelligence Lab
 Google and NASA's Quantum Computer Explained
@@ -1398,6 +1425,7 @@ Grandpa Bill's Train Town
 Gravity: Spoilercast! - 11/5/2013
 Great Expectations—The New iPad Is a Great Upgrade, For Unexpected Reasons
 Great Inventions That Debuted At The World’s Fair
+Great Moments in Cinematic Visual Effects
 Great Pacific Garbage Patch Cleanup Concept Looks Like Underwater Skyscraper
 Grid 10 Tablet Drops to a Budget $299 Before Release
 Guillermo del Toro Built a Four-Story Robot Head for Pacific Rim
@@ -1438,6 +1466,7 @@ Hands-On with Avegant's Virtual Retinal Display Prototype
 Hands-On with Hauppauge HD PVR 2 Game Capture Device
 Hands-On with Lego's Upcoming Ultimate Collectors Series R2-D2
 Hands-On with Logitech's PowerShell iOS 7 Gamepad
+Hands-On with Parrot's Bebop Drone Quadcopter
 Hands-On with Sixense STEM VR Motion-Tracking System
 Hands-On with Technical Illusions' CastAR Augmented Reality Glasses
 Hands-On with The CastAR Augmented Reality Glasses
@@ -1447,6 +1476,7 @@ Hands-On with the Blackmagic Cinema Camera
 Hands-On with the Blossom One Limited Coffee Machine
 Hands-On with the Hario Electric Pour-Over Kettle
 Hands-On with the Lenovo Yoga 2 Pro
+Hands-On with the Onewheel Electric Skateboard
 Hands-On: Adobe Photoshop CS6 Beta
 Hands-On: Google Chrome OS "Aura" User Interface
 Hands-On: Oculus Rift Development Kit 2 Virtual Reality Headset
@@ -1576,6 +1606,7 @@ How Metal Birds Paint the Sky with Vapor
 How Microsoft is Handling App Sales in The Windows 8 Store
 How Microsoft's Windows Phone 7 Strategy Will Lower Hardware Costs
 How Modern Action Figures Are Prototyped
+How Modern Cars Can Be Hacked
 How Modernist Cuisine Photographs Cross-Section Cooking
 How Mozilla Plans to Optimize Firefox for Tablets
 How Much Charging Your Electronics Costs Per Year
@@ -1660,8 +1691,10 @@ How To Fix A Pair Of Broken Headphones
 How To Fold and Tweak a Great Paper Airplane
 How To Follow Along with NASA's Curiosity Rover Landing This Sunday
 How To Get Better Depth of Field Photos with Your Camera
+How To Get Into Hobby RC: Boats Boats Boats!
 How To Get Into Hobby RC: Car Basics and Monster Truckin'
 How To Get Into Hobby RC: Radios and Motors
+How To Get Into Hobby RC: The Phantom Menace
 How To Get Into Hobby RC: Upgrading Your Car and Batteries
 How To Get Started With iCloud Backups and Sync in iOS 5
 How To Get Started with 3D Modeling for 3D Printing
@@ -1674,6 +1707,7 @@ How To Improve Your Home with LED Lighting
 How To Make Animated GIFs Incredibly Easily with GifCam 2.0
 How To Make Better Use of Dropbox on Android
 How To Make Full Use of Your Android Phone's Voice Control
+How To Make Your Own Giant Papercraft Head
 How To Make the Most Out of Siri on Apple's iPhone 4S
 How To Make the Most of Android 4.2 Jelly Bean On Your Phone
 How To Manage the SD Card on Android Phones Like a Pro
@@ -1783,6 +1817,7 @@ Improving Your Gin & Juice, With Science!
 In 1983, Chinese Food Came with a Side of Robot Disco
 In Search of Scanlines: The Best CRT Monitor for Retro Gaming
 In-Depth with Sony's New NEX-F3 Mirrorless Interchangeable Lens Camera
+Incredible 3D-Printed Model of San Francisco
 Inflatable Robots, Engineers, and The Hope For a Better World
 Influential Movies - 3/5/2013
 Infrared Jammer Kit Renders Remote Controls Helpless
@@ -2013,6 +2048,7 @@ Living With Glass: Everyone Else Is Into Glass
 Living with Glass: Picking Up and Learning to Use Google's Project Glass Explorer Edition
 Living with Photography: "The Mechanical Prophylactic"
 Living with Photography: Adobe Lightroom 5 Review
+Living with Photography: Angling the Plane of Focus
 Living with Photography: Big Budget vs. D-I-Y Camera Strap
 Living with Photography: Choosing Your Drive Mode
 Living with Photography: DSLR Defeated
@@ -2135,6 +2171,16 @@ Maker Faire 2013: Programmable LED Shades
 Maker Faire 2013: Roy the Animatronic Robot
 Maker Faire 2013: The Nautilus Desert Submarine
 Maker Faire 2013: The Open Clock Project
+Maker Faire 2014: Adam Savage's 10 Commandments of Making
+Maker Faire 2014: How Quantum Levitation Works
+Maker Faire 2014: How RC Model Submarines Work
+Maker Faire 2014: Multi-Rotors Battle in Game of Drones
+Maker Faire 2014: Real Armor for Cats and Mice
+Maker Faire 2014: RoboCop ED-209 Life-Size Replica
+Maker Faire 2014: Talking Drones with 3D Robotics
+Maker Faire 2014: Titanoboa, the Giant Robot Snake
+Maker Faire 2014: We Make Papercraft Big Head Costumes!
+Maker Faire 2014: Zooming into GigaPixel Macro Photos
 Maker Interview: Harrison Krix of Volpin Props
 Maker Profile: Alejandro Palandjoglou's Affordable CNC Chairs
 Maker Profile: Bill Doran's Punished Props
@@ -2195,11 +2241,14 @@ MakerBot Mystery Build: Line Waiting
 MakerBot Mystery Build: Make Mine Neat
 MakerBot Mystery Build: Mind Your Manners
 MakerBot Mystery Build: Mr. Rogers Would Approve
+MakerBot Mystery Build: Needs One Penny
 MakerBot Mystery Build: Nemo's Friend
 MakerBot Mystery Build: Not Included
 MakerBot Mystery Build: OK to Go
 MakerBot Mystery Build: On The Rocks
+MakerBot Mystery Build: Orderly
 MakerBot Mystery Build: Plastic, Not Tin
+MakerBot Mystery Build: Propped Up
 MakerBot Mystery Build: Refinement
 MakerBot Mystery Build: Run of the Mill
 MakerBot Mystery Build: Running Cool
@@ -2212,6 +2261,7 @@ MakerBot Mystery Build: Something Isn't Quite Right Here
 MakerBot Mystery Build: Sorting It Out
 MakerBot Mystery Build: Spare a Hand
 MakerBot Mystery Build: Spinning and Winning
+MakerBot Mystery Build: Stay Fresh
 MakerBot Mystery Build: Swear To Me
 MakerBot Mystery Build: Swing the Sword
 MakerBot Mystery Build: Tech Support
@@ -2272,8 +2322,10 @@ Meet Nathan Sawaya, LEGO Brick Artist and Master Model Builder
 Meet Othermill, a Desktop CNC Milling Machine
 Meet Phil Tippett and his Mad God
 Meet Robyn Sue and Her Liquid Nitrogen Ice Cream Machine
+Meet Roman Mars, Creator of 99% Invisible
 Meet SNOPA--Legislation to Protect Your Facebook Account From Potential Employers
 Meet Squee, The First Robot Squirrel
+Meet Terry Pappas, Ex-NASA and SR-71 Blackbird Pilot
 Meet Vomiting Larry, a Robot that Vomits for Science
 Meet e-David, The Smart Painting Robot
 Meet the 3Doodler, a 3D Printing Pen on Kickstarter
@@ -2289,6 +2341,7 @@ Metabones "Speed Booster" Lens Adapter
 Mickey Adds Extra Megapixels to the iPad's Camera
 Mickey Mouse in Vietnam, By Lee Savage and Milton Glaser
 Micro Four Thirds Standard Expands with Lens Partners and a 4K Camera
+Microsoft Announces Surface Pro 3
 Microsoft Announces Xbox SmartGlass to Compete with Apple's Airplay
 Microsoft Builds Its Own Take on the Hotel Room of the Future [Video]
 Microsoft Cares About How You'll Hold Your Windows 8 Tablet
@@ -2382,6 +2435,7 @@ Mu Folding Plug is an Innovative Design for the U.K. Power Plug
 Multiple Sourced-Reports Peg Apple Event for September 12th
 Museum of Science Fiction Hoping to Open in 2017
 Music Distributor Pulls 200 Small Labels from Spotify and Rdio
+My 10 Commandments for Makers
 My 10 Rules for Success
 My CES 2014 in Photos
 My Dad, My Inspiration. Happy Father's Day
@@ -2567,6 +2621,7 @@ OnLive Desktop Streams Windows 7 to iPads
 One Day Builds: Adam Savage Demonstrates Weathering Tricks
 One Day Builds: Adam Savage Makes a Blade Runner Blaster Carrying Case
 One Day Builds: Adam Savage's Traveling Beaver Box
+One Day Builds: Adam's Custom Multi-Tool Belt Holster
 One Day Builds: Customizing Adam's Hero Sword
 One Day Builds: Han Solo's DL-44 Blaster from Star Wars
 One Drug May Shrink Many Tumors
@@ -2705,6 +2760,7 @@ Plutonium-238 Shortage Threatens Future Deep-Space Probes
 Point of Impact: When Bullets Hit Plexiglass
 Popcorn: It Tastes Great and Is Surprisingly Good For You
 Portable Powerhouses: 13-inch MacBook Air vs Sony VAIO Z
+Potpourri - 5/12/2014
 Power Amplifier Technology Hopes to Increase Battery Efficiency
 Power Glove: Using Temperature Regulation to Hack Your Body
 Power Toys: Awesome Souped-Up Childrens Toys
@@ -2712,6 +2768,7 @@ Practical Effects Masters on the Pros and Cons of CGI
 Practical Special Effects - 8/6/2013
 Precision Gear Porn: Why Mechanical Wrist Watches are so Cool (and Pricey)
 Predicting the Ethical Dilemmas of Fully Autonomous Cars
+Premium Member State of the Union + Q&A w/ Will & Norm
 Premium: Adam Reacts to the Zero Theorem Trailer
 Premium: Behind the Scenes with Adam Savage at SXSW
 Premium: Building a Cardboard Kinetic Creatures Kit
@@ -2734,6 +2791,7 @@ Premium: Will and Norm Build Their SteamOS Boxes
 Premium: Will and Norm Geek Out at the Mondo Gallery
 Premium: Will and Norm Visit the Game of Thrones Exhibit
 Prepare for a Rush of Ultrabooks at CES 2012
+Preserving The Sound and Music of Horror Films
 Preview Ubuntu On Your Nexus Smartphones and Tablets This Thursday
 Preview the Technical Papers of SIGGRAPH Asia 2012
 Professional Photographers Share the Stories Behind Their Worst Photographs
@@ -2758,6 +2816,7 @@ Public Domain Day Highlights What Could Have Been Free
 Punished Props' StarCraft II Ghost Rifle
 Purdue Team Sets Record for World's Largest Rube Goldberg Machine
 Purported 2048x1536 iPad 3 Display Spotted--Now Who's Making It?
+Quadcopter Fun Flight Fridays #1
 Quadrocopters Build a Mock Skyscraper for Architecture Test
 Qualcomm Brings Clarity to Mobile Processor Branding
 Qualcomm Still Serious about Mirasol Color E-Ink Displays
@@ -2904,11 +2963,14 @@ Real World Portal: The Physics Behind the Exploratorium's Giant Mirror
 Recommended Essential Camera Cleaning Gear
 Recovering the Voice of Alexander Graham Bell from a 19th Century Recording
 Recreating the Cray Supercomputer
+Recreating the Original Star Wars Y-Wing Model
 Red Pop Adds a Physical Camera Button to the iPhone 4
 Regarding Steve
 Regarding The iPad Mini's Non-Retina Screen and Upgrades
 Regarding that "iPhone Plus" Speculation
+Regenerating Plastic Grows Back After Damage
 Remember the Nokia 3310
+Remembering The Opening Day of Star Wars
 Reminder: Apply to Be Adam's Assistant!
 Reminder: Don't Miss the Solar Eclipse Sunday Afternoon!
 Reminder: Watch Felix Baumgartner's Supersonic Freefall Now
@@ -2964,6 +3026,7 @@ Rise of the Planet of the Apes - Bonobos Start Using Tools
 Rob Flickenger's Working Tesla Gun
 RoboRoach Kickstarter Brings Up the Ethics of Experimenting on Bugs
 Robotic Bird Successfully Lands and Perches on Human Hand
+Robots Add Physical Controls to Large Touchscreens
 Robots Fail to Steal Dog Loyalty Away From Humans
 Robugtix's Spider Robot Is Terrifyingly Realistic
 Rock, Paper, Scissors Robot Uses High Speed Camera To Win Every Time
@@ -3114,6 +3177,7 @@ Show and Tell: Guts of Glory Boardgame
 Show and Tell: H.R. Giger's Alien Diaries
 Show and Tell: Hot Toys Iron Man Mark VII 1/6 Scale Figure
 Show and Tell: How Wide is It?
+Show and Tell: Intel's NUC Mini PC
 Show and Tell: Japanese Papercrafts
 Show and Tell: Just the Tips
 Show and Tell: LEGO Mystery Build
@@ -3121,6 +3185,7 @@ Show and Tell: LEGO Mystery Build #2
 Show and Tell: LEGO Mystery Build #3
 Show and Tell: LEGO Mystery Build #4
 Show and Tell: LEGO Mystery Build #5
+Show and Tell: LEGO Mystery Build #6
 Show and Tell: Mechanical FlipBook Kit
 Show and Tell: More Kirk Than Sulu
 Show and Tell: Never Do Anything Small
@@ -3129,8 +3194,11 @@ Show and Tell: Our Favorite LED Light Bulb
 Show and Tell: Our Favorite Pencil
 Show and Tell: Papercraft Architectural Models
 Show and Tell: Podcasts in the Shower
+Show and Tell: Prototype Boba Fett
 Show and Tell: Putting Old Glass to Work
+Show and Tell: RC Nano-Quadcopter
 Show and Tell: Rollin' Rollin' Rollin'
+Show and Tell: Romo 2.0 Telepresence Robot
 Show and Tell: Roost Laptop Stand
 Show and Tell: Sansaire Sous Vide Immersion Circulator
 Show and Tell: Settlers of Catan Boards
@@ -3143,6 +3211,7 @@ Show and Tell: The Writer's Best Friend
 Show and Tell: Tron Arcade Cabinet Miniature Model
 Show and Tell: Your Very Own Sad Keanu
 Showdown: Amazon Kindle Fire vs. Five 7-Inch Tablets
+Sideshow Collectibles Behind the Scenes: Sculpting and Painting
 Sideshow Collectibles Booth Tour at Comic-Con 2013
 Sifteo Brings Gaming to 1.5 Inch NFC Blocks in September
 Sight Unseen: How Astronomers Discover Massive Far-Away Objects
@@ -3150,6 +3219,7 @@ Sign This Petition: Taxpayer Funded Research Should be Freely Available Online
 Sim City in Real Life: The Insights of Quantitatitive Urbanism
 SimCity vs. The Suburban Sprawl
 Simple Baseball Cap HUD Built Using Smartphone, Rubber Bands
+Simulating and Modeling the Hidden Cosmos
 Simulation Shows What Traffic Intersections May Look Like with Autonomous Cars [Video]
 Simulation of 9 Billion Years of Cosmic History
 Siri On OS X: Will Most Users Even Care?
@@ -3214,6 +3284,7 @@ Sony's New Full-Frame E-Mount Cameras
 Sony's PlayStation 4 Announcement: Only the Interesting Stuff
 Sony's PlayStation Vita: Smart Phone or 3DS Competitor?
 Sony's RX100 Mark II Gets All The Right Upgrades
+Sony's RX100 Mark III Compact Camera
 Sony's VAIO Z and The Unfortunate Pitfalls of Iterative Design
 Sony's Wi-Fi Camera Play is More Half-Hearted Than Hail Mary
 Sony's Xperia Tablet Z is 6.9mm Thick
@@ -3228,6 +3299,7 @@ SpaceX Grasshopper Test Scares Cows
 SpaceX Grasshopper's 744m Takeoff Test
 SpaceX Prepares For Manned Commercial Spaceflight
 SpaceX Successfully Tests Controlled Rocket Reentry
+SpaceX's Falcon 9 Reusable Rocket Rises to 1000m
 SpaceX's Grasshopper Rocket Hops 840 Feet
 Spacetime Cloak: Using Mirrors To Create Holes in...Time?
 Spaceworthy: The Cartridge Inside the Fisher Space Pen
@@ -3255,6 +3327,7 @@ Stanley Kubrick Exhibit at The LACMA
 Star Trek Into Darkness Sweded Trailer
 Star Trek x Space Invaders 3D Chalk Art
 Star Trek: Into Darkness Starship Models from Quantum Mechanix
+Star Wars Casting - Captain America SPOILERCAST - 5/6/2014
 Star Wars Despecialized Edition Gets a Remastered Release
 Star Wars Featurette: The Birth of the Lightsaber
 Star Wars Lego Barrel Organ Plays Star Wars Theme
@@ -3303,6 +3376,7 @@ T-Mobile Buys Into Android Tablets with $200 SpringBoard
 T-Mobile Wins $3 Billion and Spectrum in AT&T Breakup
 T-Mobile to Carry iPhone 5, Starting April 12th
 TDK Demos Transparent OLED Display for Smart Phones
+TED Talk: Matthew Carter's Typefaces
 TED Talks Give Us Liquid Metal Tech and Cooperative Quadrocopters [Video]
 TED-Ed Talk: The Life of an Astronaut
 TED-Ed: How Big is the Ocean?
@@ -3320,6 +3394,7 @@ Target Tries to Fight Against Amazon Price Matching, "Showrooming"
 Taste or Tenacity: Why Daredevils Dish on Extreme Foods
 Tasting Astronaut Coffee with David Chang and Traci Des Jardins
 Tasting Astronaut Food: Inside NASA's Space Food Systems Laboratory
+Tattoo Machine in Slow Motion
 Teaching Hollywood How To Hack
 Ted Talk: The Art of Creating Awe in Special Effects
 Teleporting a Person to Space Would Take Approximately 4.85 Quadrillion Years
@@ -3352,9 +3427,11 @@ Testing: DJI Phantom 2 Vision+ Quadcopter Drone
 Testing: Gaming on the Nvidia Shield
 Testing: Google Chromecast Streaming
 Testing: Google Nexus 5 vs. HTC One vs. Nexus 4
+Testing: HTC One (M8) Android Smartphone
 Testing: HTC One Google Play Edition
 Testing: Lenovo Yoga 11S Ultrabook
 Testing: Lenovo Yoga 2 Pro Ultrabook
+Testing: Life with a Smart Lock
 Testing: Logitech G502 Proteus Core Gaming Mouse
 Testing: Logitech PowerShell Controller for iOS
 Testing: Microsoft Surface 2 as Tablet
@@ -3363,6 +3440,7 @@ Testing: Nexus 7 (2013) Performance
 Testing: Pencil Bluetooth iPad Stylus
 Testing: Piloting the Helimax 1SQ Mini Quadcopter
 Testing: Salomon XA Pro Hiking Shoes
+Testing: Samsung Galaxy S5 Smartphone
 Testing: Sony a7 Full-Frame Mirrorless Camera
 Testing: The New Nexus 7's Battery Life
 Testing: Transporter Private Cloud Storage
@@ -3401,6 +3479,7 @@ The Art of Photogrammetry: How To Take Your Photos
 The Art of Photogrammetry: Introduction to Software and Hardware
 The Art of Photogrammetry: Replicating Hellboy’s Samaritan Pistol!
 The Art of Sculpting Ice
+The Art of Vinyl Record Mastering
 The Art of the Cinematic Car Chase
 The Awesome Robot Battles of ComBots Cup 2012
 The Bay Area, Stabilized and Shot in 4K
@@ -3418,6 +3497,7 @@ The Best Android Phone for Your Network (September 2011)
 The Best Android Phones of 2012
 The Best Android Smartphone for Your Network (April 2012)
 The Best Android Smartphone for Your Network (April 2013)
+The Best Android Smartphone for Your Network (April 2014)
 The Best Android Smartphone for Your Network (August 2012)
 The Best Android Smartphone for Your Network (August 2013)
 The Best Android Smartphone for Your Network (December 2011)
@@ -3450,11 +3530,14 @@ The Best Bike Lock Today
 The Best Bluetooth Keyboard Today
 The Best Bluetooth On-Ear or Over-Ear Headphones
 The Best Budget Laptop Today
+The Best Business Laptop Today
 The Best Cat Video on the Internet: Henri 2, Paw de Deux
+The Best Cheap Camera Under $200
 The Best Cheap In-Ear Headphones are $12
 The Best Compact Camera for Less Than $450
 The Best Computer Speakers Today
 The Best Dash Cam For Your Car Costs $60
+The Best Drone Videos We’ve Seen So Far
 The Best Entry-Level DSLR Today
 The Best External Desktop Hard Drive Today
 The Best Fitness Tracker Today
@@ -3507,6 +3590,7 @@ The Best and Worst Trends in Modern Web Design
 The Best and Worst of Android App Design
 The Best and Worst of Bootleg Star Wars Toys
 The Best iPhone 5 Battery Case is the Lenmar Meridian
+The Best microSD Card Today
 The Best microSD Card: SanDisk Ultra
 The Biggest Computer Hacks of All Time
 The Biggest War Machines Ever Made
@@ -3602,6 +3686,7 @@ The LEGO House Museum to Open in 2016
 The Las Vegas Star Trek Experience You Never Saw
 The Lasting Legacy of the DIVX Disc
 The Legacy of Japan's Giant Robot Sci-Fi Shows
+The Legend of I Am Legend
 The Lessons Learned from Testing Digital Cinema Cameras
 The Lies We Tell Our Kids - A Bunch of Dads - 12/5/2013
 The Light Switch's Elegantly Simple Design
@@ -3633,7 +3718,9 @@ The Mechanical Mixologists of BarBot 2013
 The Mechanics of Modern Autonomous Quadrocopters
 The Mechanics of a Pull-Up
 The Moon is Never Alone
+The Moons of Mars Explained
 The Most Awe-Inspiring Photos from New York's Second Avenue Subway Construction Project
+The Most Comfortable Ergonomic Keyboard Today
 The Most Common Passwords and How To Improve Yours
 The Most High-Tech Haunted Houses
 The Most Telling Features of iOS 6 and OS X Mountain Lion
@@ -3677,6 +3764,7 @@ The Physics of Landing a 1080 Skateboarding Trick
 The Physics of a Near-Lightspeed Baseball Throw
 The Planetarium Projector Museum's Collection
 The Point of Painting Magnets on Ants for Science
+The Pontiac Silverdome, Vacant Since 2012
 The Potential Pitfalls of Overusing Antibacterial Soap
 The Practical Differences Between Various Camera Sensor Sizes [Video]
 The Prius Bike Invites You to Shift Gears with Your Mind
@@ -3713,6 +3801,7 @@ The Science of Strike-Anywhere Matches
 The Science of Tintype Photography
 The Scientific Test for Hotness
 The Search for Promethus: Cavemen Wielded Fire a Million Years Ago
+The Search for the Perfect Desk—Redesigning
 The Searzall Supercharges Your Kitchen Blowtorch
 The Second Annual Big Live Live Show Live is TOMORROW!
 The Secret Life of the Pigeon
@@ -3758,6 +3847,7 @@ The Technical and Cost Challenges Facing LED Bulbs
 The Technologies Casinos Use to Catch Cheaters
 The Technology Behind Timeless Radio Voices
 The Technology and Psychology of Screenwriting Tools
+The Teddy Bear and Our Shifting Relationship with the Natural World
 The Tragic Tale of Art Lebedev's Optimus Popularis Keyboard
 The Tricorder Project Gives You the Plans to Build Your Own Star Trek Tricorder
 The True History of the Distant Future
@@ -3788,6 +3878,7 @@ The Volpin Project: A Detour in Rapture
 The Volpin Project: Building The Halo Needler
 The Weird Science Behind Feline Clipnosis
 The Weirdest Experiments Scientists Performed On Themselves
+The Weirdest Things The US Government Keeps Underground
 The Wii U Console: A Radical Hardware Shift for Nintendo
 The Woman Who Recorded 35 Years of News on 140,000 Tapes
 The WonderCon 2013 Cosplay Gallery (500+ Photos)
@@ -3795,7 +3886,9 @@ The WonderCon 2014 Cosplay Gallery (580 Photos)
 The Work of Artist Zina Nicole Lahr
 The Work of Ralph Bakshi: Animation Provocateur
 The World's "First" Recognized Cyborg Hears Colors
+The Zoidberg Project Completed and Revealed!
 The Zoidberg Project, Part 10: Mold Finishing and Foam Latex
+The Zoidberg Project, Part 11: Animatronics
 The Zoidberg Project, Part 1: Introductions
 The Zoidberg Project, Part 2: How To Make a Life Cast
 The Zoidberg Project, Part 3: Making a Mold Jacket and Eye Blanks
@@ -3992,10 +4085,12 @@ Watch the Birth of a Book [Video]
 Watch the Windows 8 Consumer Preview Keynote and Software Demos
 Watch this Realistic CGI Human Eye
 Waterproofing Electronics: Gimmick or Underused Feature?
+We Are Made of Dead Stars
 We Miss You Buddy...
 We Require More Minerals: Space Mining for Science and Profit
 We Shouldn't Be Afraid of Facial Recognition and Other Amazing Technology
 We Went to SXSW - 3/18/2014
+We're Back from Maker Faire!
 We're Travelling The Rest of This Week
 Web Users Still Love to Type in www.Facebook.com
 Weird Cooking: Steaming and Poaching in the Dishwasher and Coffee Maker
@@ -4012,6 +4107,7 @@ What Astronauts Do When There’s Nothing to Do
 What Chromium and WebKit Mean for Android's Browser
 What Device Makers Can Learn From Android Failures
 What Ditching the Desktop Would Mean for Windows 8 on ARM
+What Do You Look For In a Perfect Desk?
 What Evil Drove The Car?
 What Features Android Tablets Need to Overtake the iPad
 What Google's Self-Driving Car Sees
