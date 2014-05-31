@@ -1,1 +1,1 @@
-update: bundle exec bin/headline-sources batch_to_database
+update: bundle exec bin/headline-sources batch --db

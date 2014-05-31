@@ -36,7 +36,16 @@ module HeadlineSources
     end
 
     desc "batch", "batch fetch new items from all sources"
+    method_option :database, :default => false, type: :boolean, aliases: "--db"
     def batch
+      if options[:database]
+        batch_to_database
+      else
+        batch_to_file
+      end
+    end
+
+    def batch_to_file
       pids = []
       Source.all.each do |source|
         begin
@@ -50,6 +59,17 @@ module HeadlineSources
       end
       puts "Parent process (pid #{Process.pid}), waiting on fetchers #{pids.join(', ')}."
       Process.wait
+    end
+
+    def batch_to_database
+      Source.all.each do |source|
+        puts "Fetching source #{source.name}".cyan
+        begin
+          source.fetcher(ActiveRecordStore).fetch!({start_at: 0, write_progress: false})
+        rescue StandardError
+          puts "Error occured on source '#{source.name}'".red
+        end
+      end
     end
 
     desc "format", "reformat existing headlines from all sources"
