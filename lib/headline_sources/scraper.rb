@@ -4,7 +4,7 @@ module HeadlineSources
   class Scraper < Fetcher
 
     def perform_partial_fetch!
-      puts "#{@progress}   |   #{new_headlines_this_run} new   |   #{formatted_headlines.length} total"
+      puts "#{@progress}   |   #{new_headlines_this_run} new   |   #{@dup_count} dups"
       @progress = initial_progress if @progress == 0
       @progress = scrape_page_and_progress(@progress)
     rescue Exception => e
@@ -39,7 +39,7 @@ module HeadlineSources
       puts url.cyan
       @nokogiri_document = Nokogiri::HTML(html_for_url(url))
       @nokogiri_document.css(headline_css_selector).each do |link|
-        add_headline! link.content
+        add_headline! Headline.new(link.content)
       end
     end
 

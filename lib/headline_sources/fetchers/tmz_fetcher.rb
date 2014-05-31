@@ -6,7 +6,7 @@ module HeadlineSources
     def scrape_page(i)
       doc = Nokogiri::HTML(open("http://www.tmz.com/page/#{i}/"))
       doc.css('article a.headline').each do |link|
-        add_headline! link.content.gsub(/\s+/, ' ').chomp.strip
+        add_headline! Headline.new(link.content.gsub(/\s+/, ' ').chomp.strip)
       end
     end
 
