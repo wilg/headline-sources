@@ -4,6 +4,7 @@ module HeadlineSources
 
   module DB
     class SourceHeadline < ActiveRecord::Base
+      validates :name_hash, uniqueness: {scope: :source_id}
     end
   end
 
@@ -27,22 +28,25 @@ module HeadlineSources
     end
 
     def add_headlines!(source_id, headlines)
-      deduplicated = headlines.reject{|h| DB::SourceHeadline.exists?(name_hash: h.hash, source_id: source_id) }
-      if deduplicated.length > 0
-        deduplicated.each do |h|
-          headline = DB::SourceHeadline.new({
-            name_hash:    h.hash,
-            name:         h.name,
-            url:          h.url,
-            published_at: h.date,
-            fetcher:      'headline-sources-active-record',
-            source_id:    source_id,
-            author:       h.author,
-            section:      h.section,
-          })
-          headline.save!
+      deduplicated = []
+        headlines.uniq{|h| h.hash}.each do |h|
+          begin
+            headline = DB::SourceHeadline.new({
+              name_hash:    h.hash,
+              name:         h.name,
+              url:          h.url,
+              published_at: h.date,
+              fetcher:      'headline-sources-active-record',
+              source_id:    source_id,
+              author:       h.author,
+              section:      h.section,
+            })
+            headline.save!
+            deduplicated << h
+          rescue => e
+            puts e.message.red
+          end
         end
-      end
       deduplicated
     end
 
