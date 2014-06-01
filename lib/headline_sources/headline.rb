@@ -1,7 +1,7 @@
 module HeadlineSources
   class Headline
 
-    attr_accessor :name, :url, :date
+    attr_accessor :name, :url, :date, :author
 
     def self.headline_hash(name)
       name.parameterize.gsub('-', '')

@@ -1,4 +1,4 @@
-require 'rss'
+require 'feedjira'
 require 'open-uri'
 require "headline_sources/fetcher"
 
@@ -6,15 +6,14 @@ module HeadlineSources
   class RSSFetcher < Fetcher
 
     def perform_partial_fetch!
-      [feed_url].flatten.each do |url|
-        open(url) do |rss|
-          feed = RSS::Parser.parse(rss)
-          feed.items.each do |item|
-            h = Headline.new(item.title)
-            h.url  = item.link
-            h.date = item.pubDate
-            add_headline! h
-          end
+      feeds = Feedjira::Feed.fetch_and_parse([feed_url].flatten)
+      feeds.values.each do |feed|
+        feed.entries.each do |entry|
+          h = Headline.new(entry.title)
+          h.url  = entry.url
+          h.date = entry.published
+          h.author = entry.author
+          add_headline! h
         end
       end
       :done
