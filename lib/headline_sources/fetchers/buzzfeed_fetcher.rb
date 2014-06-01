@@ -1,17 +1,10 @@
 require "headline_sources/scraper"
 
 module HeadlineSources
-  class BuzzfeedFetcher < Scraper
+  class BuzzfeedFetcher < RSSFetcher
 
-    def scrape_page(i)
-      doc = Nokogiri::HTML(open("http://www.buzzfeed.com/plugin/midcolumn/v:1.0/p:#{i}"))
-      doc.css('h3 a span').each do |link|
-        add_headline! Headline.new(link.content)
-      end
-      doc2 = Nokogiri::HTML(open("http://www.buzzfeed.com/index/paging?p=#{i}"))
-      doc2.css('hgroup h2 a').each do |link|
-        add_headline! Headline.new(link.content)
-      end
+    def feed_url
+      'http://www.buzzfeed.com/index.xml'
     end
 
   end
