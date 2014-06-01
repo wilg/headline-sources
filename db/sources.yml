@@ -227,3 +227,8 @@ r_funny:
   name: r/funny
   category: Reddit
   default: false
+wired:
+  name: Wired
+  category: Tech
+  default: false
+  url: http://wired.com
