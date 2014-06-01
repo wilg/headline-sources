@@ -29,7 +29,7 @@ module HeadlineSources
     def add_headlines!(source_id, headlines)
       deduplicated = headlines.reject{|h| DB::SourceHeadline.exists?(name_hash: h.hash, source_id: source_id) }
       if deduplicated.length > 0
-        headlines.each do |h|
+        deduplicated.each do |h|
           headline = DB::SourceHeadline.new(name_hash: h.hash, name: h.name, url: h.url, published_at: h.date, fetcher: 'headline-sources-active-record', source_id: source_id)
           headline.save!
         end
