@@ -9,11 +9,12 @@ module HeadlineSources
     method_option :progress, type: :numeric, aliases: "-p"
     method_option :push_through_repeats, type: :boolean, default: false, aliases: "-r"
     method_option :push_through_failures, type: :boolean, default: false, aliases: "-f"
+    method_option :database, :default => false, type: :boolean, aliases: "--db"
     def fetch(source)
       $stdout.sync = true
 
       begin
-        fetcher = Source.find(source).fetcher
+        fetcher = Source.find(source).fetcher(options[:database] ? ActiveRecordStore : FileStore)
       rescue StandardError
         puts "Couldn't find the source '#{source}'".red
         return
