@@ -109,7 +109,7 @@ module HeadlineSources
     def add_headline!(headline)
       original_name = headline.name
       headline.name = format_headline(headline.name)
-      if is_valid?(original_name)
+      if is_valid?(original_name) && headline.hash.present?
         @batch << headline
       end
     end
