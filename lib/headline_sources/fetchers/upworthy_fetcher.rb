@@ -3,11 +3,12 @@ require "headline_sources/scraper"
 module HeadlineSources
   class UpworthyFetcher < Scraper
 
-    def scrape_page(i)
-      doc = Nokogiri::HTML(open("http://www.upworthy.com/page/#{i}"))
-      doc.css('.nugget-info h3 a').each do |link|
-        add_headline! link.content
-      end
+    def url_for_progress(i)
+      "http://www.upworthy.com/page/#{i}"
+    end
+
+    def headline_css_selector
+      '.nugget-info h3 a'
     end
 
   end

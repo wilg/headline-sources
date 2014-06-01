@@ -10,7 +10,10 @@ module HeadlineSources
         open(url) do |rss|
           feed = RSS::Parser.parse(rss)
           feed.items.each do |item|
-            add_headline! item.title
+            h = Headline.new(item.title)
+            h.url  = item.link
+            h.date = item.pubDate
+            add_headline! h
           end
         end
       end

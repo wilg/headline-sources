@@ -3,11 +3,12 @@ require "headline_sources/scraper"
 module HeadlineSources
   class TheblazeFetcher < Scraper
 
-    def scrape_page(i)
-      doc = Nokogiri::HTML(open("http://www.theblaze.com/stories/page/#{i}/"))
-      doc.css('.story.blog-post h5').each do |link|
-        add_headline! link.content
-      end
+    def url_for_progress(i)
+      "http://www.theblaze.com/stories/page/#{i}/"
+    end
+
+    def headline_css_selector
+      '.story.blog-post h5'
     end
 
   end

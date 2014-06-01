@@ -17,7 +17,7 @@ module HeadlineSources
       puts "Scraping listing after #{@progress} | #{@headlines.length} headlines found"
       listing = @reddit.get_listing(subreddit: subreddit, t: 'all', page: 'top', sort: 'top', limit: 100, after: @progress)
       listing['data']['children'].each do |item|
-        add_headline! item['data']['title']
+        add_headline! Headline.new(item['data']['title'])
         @progress = item['data']['name']
       end
     end

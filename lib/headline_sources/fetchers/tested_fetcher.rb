@@ -3,11 +3,12 @@ require "headline_sources/scraper"
 module HeadlineSources
   class TestedFetcher < Scraper
 
-    def scrape_page(i)
-      doc = Nokogiri::HTML(open("http://www.tested.com/?&p=#{i}"))
-      doc.css('article header a.title').each do |link|
-        add_headline! link.content
-      end
+    def url_for_progress(i)
+      "http://www.tested.com/?&p=#{i}"
+    end
+
+    def headline_css_selector
+      'article header a.title'
     end
 
     def excluded_matches

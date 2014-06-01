@@ -3,11 +3,12 @@ require "headline_sources/scraper"
 module HeadlineSources
   class CollegeHumorFetcher < Scraper
 
-    def scrape_page(i)
-      doc = Nokogiri::HTML(open("http://www.collegehumor.com/articles/page:#{i}"))
-      doc.css('.caption h3 a').each do |link|
-        add_headline! link.content
-      end
+    def url_for_progress(i)
+      "http://www.collegehumor.com/articles/page:#{i}"
+    end
+
+    def headline_css_selector
+      '.caption h3 a'
     end
 
     def is_date_only?(headline)

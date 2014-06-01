@@ -3,11 +3,12 @@ require "headline_sources/scraper"
 module HeadlineSources
   class TheChiveFetcher < Scraper
 
-    def scrape_page(i)
-      doc = Nokogiri::HTML(open("http://thechive.com/page/#{i}/"))
-      doc.css('h2.post-title a').each do |link|
-        add_headline! link.content
-      end
+    def url_for_progress(i)
+      "http://thechive.com/page/#{i}/"
+    end
+
+    def headline_css_selector
+      'h2.post-title a'
     end
 
     def format_headline(headline)

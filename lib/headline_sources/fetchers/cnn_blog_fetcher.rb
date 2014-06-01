@@ -3,11 +3,12 @@ require "headline_sources/scraper"
 module HeadlineSources
   class CnnBlogFetcher < Scraper
 
-    def scrape_page(i)
-      doc = Nokogiri::HTML(open("http://news.blogs.cnn.com/page/#{i}/"))
-      doc.css('.cnnBlogContentTitle a').each do |link|
-        add_headline! link.content
-      end
+    def url_for_progress(i)
+      "http://news.blogs.cnn.com/page/#{i}/"
+    end
+
+    def headline_css_selector
+      '.cnnBlogContentTitle a'
     end
 
   end
