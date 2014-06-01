@@ -232,3 +232,8 @@ wired:
   category: Tech
   default: false
   url: http://wired.com
+foxnews:
+  name: Fox News
+  category: Opinion - Conservative
+  default: false
+  url: http://www.foxnews.com/
