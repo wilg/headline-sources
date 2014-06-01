@@ -8,12 +8,16 @@ module HeadlineSources
     def perform_partial_fetch!
       feeds = Feedjira::Feed.fetch_and_parse([feed_url].flatten)
       feeds.values.each do |feed|
-        feed.entries.each do |entry|
-          h = Headline.new(entry.title)
-          h.url  = entry.url
-          h.date = entry.published
-          h.author = entry.author
-          add_headline! h
+        if feed.respond_to?(:entries)
+          feed.entries.each do |entry|
+            if entry.title
+              h = Headline.new(entry.title)
+              h.url  = entry.url
+              h.date = entry.published
+              h.author = entry.author
+              add_headline! h
+            end
+          end
         end
       end
       :done
