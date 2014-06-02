@@ -127,7 +127,7 @@ module HeadlineSources
 
     def format_headline(headline)
       # Override me and call super!
-      headline.gsub(/\r/, " ").gsub(/\n/, " ").gsub(/\u00a0/, ' ').chomp.strip.squeeze(" ")
+      headline.gsub(/\r/, " ").gsub(/\n/, " ").gsub(/\u00a0/, ' ').chomp.strip.squeeze(" ").squish
     end
 
     def progress_file_path
