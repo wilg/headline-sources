@@ -201,7 +201,7 @@ guardian_blogs:
   default: false
 business_insider:
   name: Business Insider
-  category: News
+  category: Hypersensational
   default: true
 fivethirtyeight:
   name: FiveThirtyEight
@@ -233,7 +233,7 @@ r_funny:
   default: false
 wired:
   name: Wired
-  category: Tech
+  category: Geek
   default: false
   url: http://wired.com
 foxnews:
