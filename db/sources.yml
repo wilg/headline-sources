@@ -10,6 +10,10 @@ breitbart:
   name: Breitbart
   category: Opinion - Conservative
   default: false
+alternet:
+  name: Alternet
+  category: Opinion - Progressive
+  default: false
 newsbusters:
   name: NewsBusters
   category: Opinion - Conservative
