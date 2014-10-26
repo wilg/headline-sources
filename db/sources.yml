@@ -135,6 +135,10 @@ av_club:
   name: The A.V. Club
   category: Entertainment
   default: true
+hollywood_reporter:
+  name: The Hollywood Reporter
+  category: Entertainment
+  default: false
 college_humor:
   name: CollegeHumor
   category: Bro
