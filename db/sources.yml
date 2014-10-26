@@ -147,6 +147,10 @@ cracked:
   name: Cracked
   category: Hypersensational
   default: true
+viralnova:
+  name: Viralnova
+  category: Hypersensational
+  default: false
 bro_bible:
   name: BroBible
   category: Bro
