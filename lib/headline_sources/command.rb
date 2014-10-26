@@ -14,24 +14,29 @@ module HeadlineSources
       $stdout.sync = true
 
       begin
-        fetcher = Source.find(source).fetcher(options[:database] ? ActiveRecordStore : FileStore)
+        fetchers = Source.find(source).fetchers(options[:database] ? ActiveRecordStore : FileStore)
       rescue StandardError
         puts "Couldn't find the source '#{source}'".red
         return
       end
-      puts "Fetching with #{fetcher.class.to_s}".cyan
 
-      default_options = {push_through_repeats: options[:push_through_repeats], push_through_failures: options[:push_through_failures]}
+      fetchers.each do |fetcher|
 
-      if options[:progress]
-        puts "Starting at progress #{options[:progress]}.".green
-        fetcher.fetch!(default_options.merge({start_at: options[:progress], write_progress: false}))
-      elsif options[:continue] == true
-        puts "Continuing from last progress.".green
-        fetcher.fetch!(default_options)
-      else
-        puts "Starting at beginning.".green
-        fetcher.fetch!(default_options.merge({start_at: 0, write_progress: false}))
+        puts "Fetching with #{fetcher.class.to_s}".cyan
+
+        default_options = {push_through_repeats: options[:push_through_repeats], push_through_failures: options[:push_through_failures]}
+
+        if options[:progress]
+          puts "Starting at progress #{options[:progress]}.".green
+          fetcher.fetch!(default_options.merge({start_at: options[:progress], write_progress: false}))
+        elsif options[:continue] == true
+          puts "Continuing from last progress.".green
+          fetcher.fetch!(default_options)
+        else
+          puts "Starting at beginning.".green
+          fetcher.fetch!(default_options.merge({start_at: 0, write_progress: false}))
+        end
+
       end
 
     end
@@ -53,7 +58,9 @@ module HeadlineSources
           begin
             pids << Process.fork do
               puts "Forked #{source.name} onto pid #{Process.pid}".green
-              source.fetcher.fetch!({start_at: 0, write_progress: false})
+              source.fetchers.each do |fetcher|
+                fetcher.fetch!({start_at: 0, write_progress: false})
+              end
             end
           rescue StandardError
             puts "Error occured on source '#{source.name}'".red
@@ -67,7 +74,9 @@ module HeadlineSources
         Source.all.each do |source|
           puts "Fetching source #{source.name}".cyan
           begin
-            source.fetcher(ActiveRecordStore).fetch!({start_at: 0, write_progress: false})
+            source.fetchers(ActiveRecordStore).each do |fetcher|
+              fetcher.fetch!({start_at: 0, write_progress: false})
+            end
           rescue StandardError
             puts "Error occured on source '#{source.name}'".red
           end
@@ -80,7 +89,7 @@ module HeadlineSources
       Source.all.each do |source|
         begin
           puts "Reformatting #{source.name}".cyan
-          source.fetcher.reformat!
+          source.fetchers.first.reformat!
         rescue StandardError
           puts "Error occured on source '#{source.name}'".red
         end

@@ -31,9 +31,21 @@ module HeadlineSources
       @@all_sources ||= load_hash(YAML.load_file(File.expand_path("../../../db/sources.yml", __FILE__)))
     end
 
-    def fetcher(*args)
-      require "headline_sources/fetchers/#{id}_fetcher"
-      "headline_sources/#{id}_fetcher".camelize.constantize.new(*args)
+    def fetchers(*args)
+      go = true
+      fetchers = []
+      i = 0
+      while go == true
+        require "headline_sources/fetchers/#{id}_fetcher"
+        suffix = i == 0 ? '' : i + 1
+        begin
+          fetchers << "headline_sources/#{id}_fetcher#{suffix}".camelize.constantize.new(*args)
+        rescue NameError
+          go = false
+        end
+        i += 1
+      end
+      fetchers
     end
 
     def hash
