@@ -200,7 +200,7 @@ cnn_blog:
   category: News
   default: false
 guardian_blogs:
-  name: Guardian Blogs
+  name: The Guardian
   category: News
   default: false
 business_insider:
