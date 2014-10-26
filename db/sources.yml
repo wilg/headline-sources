@@ -14,6 +14,10 @@ alternet:
   name: Alternet
   category: Opinion - Progressive
   default: false
+rawstory:
+  name: The Raw Story
+  category: Opinion - Progressive
+  default: false
 newsbusters:
   name: NewsBusters
   category: Opinion - Conservative
