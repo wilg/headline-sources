@@ -1,22 +1,14 @@
 require "headline_sources/scraper"
 
 module HeadlineSources
-  class HuffpostBlogsFetcher < Scraper
+  class HuffpostBlogsFetcher < RSSFetcher
 
-    def initial_progress
-      Date.today
-    end
-
-    def next_progress(progress)
-      progress.prev_day
-    end
-
-    def url_for_progress(i)
-      "http://www.huffingtonpost.com/politics/the-blog/#{i.strftime("%Y/%m/%d")}/"
-    end
-
-    def headline_css_selector
-      '.entry_right h3 a'
+    def feed_url
+      [
+        "http://www.huffingtonpost.com/feeds/index.xml",
+        "http://www.huffingtonpost.com/feeds/news.xml",
+        "http://www.huffingtonpost.com/feeds/blog.xml"
+      ]
     end
 
   end

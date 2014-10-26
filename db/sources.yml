@@ -63,7 +63,7 @@ nypost:
   category: Opinion - Conservative
   default: false
 huffpost_blogs:
-  name: Huffington Post Blogs
+  name: Huffington Post
   category: Opinion - Progressive
   default: false
 thinkprogress:
