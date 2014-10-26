@@ -6,6 +6,10 @@ theblaze:
   name: The Blaze
   category: Opinion - Conservative
   default: false
+breitbart:
+  name: Breitbart
+  category: Opinion - Conservative
+  default: false
 newsbusters:
   name: NewsBusters
   category: Opinion - Conservative
