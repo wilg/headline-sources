@@ -196,7 +196,7 @@ tested:
   category: Geek
   default: false
 cnn_blog:
-  name: CNN News Blog
+  name: CNN
   category: News
   default: false
 guardian_blogs:
