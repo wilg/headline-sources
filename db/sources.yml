@@ -219,10 +219,6 @@ npr_two_way:
   name: NPR Two Way
   category: News
   default: false
-nytimes_lede:
-  name: New York Times Lede
-  category: News
-  default: false
 nytimes:
   name: New York Times
   category: News
