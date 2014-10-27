@@ -251,10 +251,12 @@ r_politics:
   name: r/politics
   category: Reddit
   default: false
+  dead: true
 r_funny:
   name: r/funny
   category: Reddit
   default: false
+  dead: true
 wired:
   name: Wired
   category: Geek
@@ -265,3 +267,8 @@ foxnews:
   category: Opinion - Conservative
   default: false
   url: http://www.foxnews.com/
+nytimes_lede:
+  name: New York Times Lede
+  category: News
+  default: false
+  dead: true
