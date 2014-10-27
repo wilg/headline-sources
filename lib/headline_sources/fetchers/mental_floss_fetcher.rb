@@ -1,7 +1,12 @@
 require "headline_sources/scraper"
 require 'json'
 module HeadlineSources
-  class MentalFlossFetcher < Scraper
+  class MentalFlossFetcher < RSSFetcher
+    def feed_url
+      "http://mentalfloss.com/rss.xml"
+    end
+  end
+  class MentalFlossFetcher2 < Scraper
 
     def url_for_progress(n)
       "http://www.mentalfloss.com/load_more/get_page/section?page=#{n}"

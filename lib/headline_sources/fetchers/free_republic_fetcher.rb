@@ -1,7 +1,12 @@
 require "headline_sources/scraper"
 
 module HeadlineSources
-  class FreeRepublicFetcher < Scraper
+  class FreeRepublicFetcher < RSSFetcher
+    def feed_url
+      "http://www.freerepublic.com/tag/*/feed.rss"
+    end
+  end
+  class FreeRepublicFetcher2 < Scraper
 
     def next_progress(progress)
       @nokogiri_document.css(".menus .pagination.menu a:last-child").first["href"].split("=").last

@@ -1,7 +1,12 @@
 require "headline_sources/scraper"
 
 module HeadlineSources
-  class HotAirFetcher < Scraper
+  class HotAirFetcher < RSSFetcher
+    def feed_url
+      "http://feeds.feedburner.com/hotair/main"
+    end
+  end
+  class HotAirFetcher2 < Scraper
 
     def url_for_progress(n)
       "http://hotair.com/headlines/page/#{n}/"

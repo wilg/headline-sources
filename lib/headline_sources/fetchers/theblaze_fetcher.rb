@@ -1,7 +1,12 @@
 require "headline_sources/scraper"
 
 module HeadlineSources
-  class TheblazeFetcher < Scraper
+  class TheblazeFetcher < RSSFetcher
+    def feed_url
+      ["http://www.theblaze.com/stories/feed/", "http://www.theblaze.com/feed/"]
+    end
+  end
+  class TheblazeFetcher2 < Scraper
 
     def url_for_progress(i)
       "http://www.theblaze.com/stories/page/#{i}/"

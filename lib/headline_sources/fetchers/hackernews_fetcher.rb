@@ -1,7 +1,12 @@
 require "headline_sources/scraper"
 
 module HeadlineSources
-  class HackernewsFetcher < Scraper
+  class HackernewsFetcher < RSSFetcher
+    def feed_url
+      "http://hnapp.com/api/items/rss/a817dd49f3fe75b6fc2764bd98b714f7"
+    end
+  end
+  class HackernewsFetcher2 < Scraper
 
     def initial_progress
       Date.today

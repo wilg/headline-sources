@@ -1,7 +1,12 @@
 require "headline_sources/scraper"
 
 module HeadlineSources
-  class AvClubFetcher < Scraper
+  class AvClubFetcher < RSSFetcher
+    def feed_url
+      "http://www.avclub.com/feed/rss/"
+    end
+  end
+  class AvClubFetcher2 < Scraper
 
     def url_for_progress(n)
       "http://www.avclub.com/search?page=#{n}"

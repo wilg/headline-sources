@@ -1,7 +1,12 @@
 require "headline_sources/scraper"
 
 module HeadlineSources
-  class ThinkprogressFetcher < Scraper
+  class ThinkprogressFetcher < RSSFetcher
+    def feed_url
+      "http://thinkprogress.org/feed/"
+    end
+  end
+  class ThinkprogressFetcher2 < Scraper
 
     def url_for_progress(i)
       "http://thinkprogress.org/page/5#{i}/"

@@ -1,7 +1,15 @@
 require "headline_sources/scraper"
 
 module HeadlineSources
-  class DrudgeReportFetcher < Scraper
+  class DrudgeReportFetcher < RSSFetcher
+    def feed_url
+      [
+        "http://www.drudgereportarchives.com/rss/popular.xml",
+        "http://www.drudgereportarchives.com/rss/recap.xml"
+      ]
+    end
+  end
+  class DrudgeReportFetcher2 < Scraper
 
     def url_for_progress(n)
       if n.to_i == 1

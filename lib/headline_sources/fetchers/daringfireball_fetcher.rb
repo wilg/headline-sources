@@ -1,7 +1,12 @@
 require "headline_sources/scraper"
 
 module HeadlineSources
-  class DaringfireballFetcher < Scraper
+  class DaringfireballFetcher < RSSFetcher
+    def feed_url
+      "http://daringfireball.net/feeds/main"
+    end
+  end
+  class DaringfireballFetcher2 < Scraper
 
     def initial_progress
       Date.today

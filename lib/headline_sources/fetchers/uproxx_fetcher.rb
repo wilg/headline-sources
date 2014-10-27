@@ -1,7 +1,12 @@
 require "headline_sources/scraper"
 
 module HeadlineSources
-  class UproxxFetcher < Scraper
+  class UproxxFetcher < RSSFetcher
+    def feed_url
+      "http://feeds.feedburner.com/uproxx/features"
+    end
+  end
+  class UproxxFetcher2 < Scraper
 
     def url_for_progress(n)
       "http://www.uproxx.com/page/#{n}/"

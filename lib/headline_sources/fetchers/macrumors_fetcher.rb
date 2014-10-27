@@ -1,7 +1,12 @@
 require "headline_sources/scraper"
 
 module HeadlineSources
-  class MacrumorsFetcher < Scraper
+  class MacrumorsFetcher < RSSFetcher
+    def feed_url
+      "http://feeds.macrumors.com/MacRumors-All"
+    end
+  end
+  class MacrumorsFetcher2 < Scraper
 
     def url_for_progress(n)
       "http://www.macrumors.com/#{n}/"
