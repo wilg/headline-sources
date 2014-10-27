@@ -1,7 +1,7 @@
 module HeadlineSources
   class Source
 
-    attr_accessor :name, :default, :id, :category
+    attr_accessor :name, :default, :id, :category, :dead
 
     def self.load_hash(hash)
       hash.map do |k, v|
@@ -10,6 +10,7 @@ module HeadlineSources
         s.name = v['name']
         s.category = v['category']
         s.default = !!v['default']
+        s.dead = !!v['dead']
         s
       end
     end
