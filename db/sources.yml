@@ -235,6 +235,10 @@ npr_two_way:
   name: NPR Two Way
   category: News
   default: false
+the_daily_beast:
+  name: The Daily Beast
+  category: News
+  default: false
 npr:
   name: NPR
   category: News
