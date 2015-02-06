@@ -6,6 +6,8 @@ module HeadlineSources
     class SourceHeadline < ActiveRecord::Base
       validates :name_hash, uniqueness: {scope: :source_id}
     end
+    class Source < ActiveRecord::Base
+    end
   end
 
   class ActiveRecordStore < Store
@@ -19,11 +21,22 @@ module HeadlineSources
         database: "headlines_development"
       }
       ActiveRecord::Base.establish_connection(conn)
+      dump_sources!
     end
 
     def close!
       if (ActiveRecord::Base.connection && ActiveRecord::Base.connection.active?)
          ActiveRecord::Base.connection.close
+      end
+    end
+
+    def dump_sources!
+      DB::Source.delete_all
+      Source.all.each do |source_obj|
+        DB::Source.new({
+          id: source_obj.id,
+          json: source_obj.to_json
+        }).save!
       end
     end
 

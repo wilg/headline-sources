@@ -57,5 +57,15 @@ module HeadlineSources
       id.eql?(other)
     end
 
+    def as_json(*args)
+      {
+        id: id,
+        name: name,
+        category: category,
+        default: default,
+        dead: dead,
+      }
+    end
+
   end
 end
