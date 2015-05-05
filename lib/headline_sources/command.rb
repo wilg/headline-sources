@@ -54,7 +54,7 @@ module HeadlineSources
     no_commands do
       def batch_to_file
         pids = []
-        Source.all.each do |source|
+        Source.all.shuffle.each do |source|
           begin
             pids << Process.fork do
               puts "Forked #{source.name} onto pid #{Process.pid}".green
@@ -71,7 +71,7 @@ module HeadlineSources
       end
 
       def batch_to_database
-        Source.all.each do |source|
+        Source.all.shuffle.each do |source|
           puts "Fetching source #{source.name}".cyan
           begin
             source.fetchers(ActiveRecordStore).each do |fetcher|
