@@ -7,17 +7,10 @@ require 'htmlentities'
 module HeadlineSources
   class RSSFetcher < Fetcher
 
-    attr_accessor :feeds, :set_id
-
-    def self.with_feeds(feeds, id)
-      f = new
-      f.feeds = feeds
-      f.set_id = id
-      f
-    end
+    attr_accessor :feeds, :preset_id
 
     def id
-      set_id ? set_id.to_s : super
+      preset_id ? preset_id.to_s : super
     end
 
     def perform_partial_fetch!

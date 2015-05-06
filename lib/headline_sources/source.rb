@@ -35,7 +35,12 @@ module HeadlineSources
 
     def fetchers(*args)
       go = true
-      fetchers = feeds.map{|f| RSSFetcher.with_feeds(f, id) }
+      fetchers = feeds.map do |f|
+        rss_fetcher = RSSFetcher.new(*args)
+        rss_fetcher.feeds = feeds
+        rss_fetcher.preset_id = id
+        rss_fetcher
+      end
       i = 0
       while go == true
         begin
