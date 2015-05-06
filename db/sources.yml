@@ -473,3 +473,8 @@ twistedsifter:
   category: Hypersensational
   rss_feeds:
   - http://twistedsifter.com/feed/
+knowmore:
+  name: Know More
+  category: Hypersensational
+  rss_feeds:
+  - http://knowmore.washingtonpost.com/feed/
