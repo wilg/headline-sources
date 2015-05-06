@@ -118,7 +118,6 @@ module HeadlineSources
       feeds = Feedbag.find(url)
       unless feeds.present?
         puts "Couldn't find any feeds."
-        return
       end
       feeds.each do |feed|
         puts "Found feed: #{feed}"
