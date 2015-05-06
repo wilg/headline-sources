@@ -330,3 +330,8 @@ laughingsquid:
   category: Entertainment
   rss_feeds:
   - http://feeds.laughingsquid.com/laughingsquid
+zimbio:
+  name: Zimbio
+  category: Entertainment
+  rss_feeds:
+  - http://www.zimbio.com/rss
