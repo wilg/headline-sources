@@ -1,6 +1,8 @@
 require 'feedjira'
 require 'open-uri'
 require "headline_sources/fetcher"
+require 'sanitize'
+require 'htmlentities'
 
 module HeadlineSources
   class RSSFetcher < Fetcher
@@ -22,6 +24,7 @@ module HeadlineSources
       feeds = Feedjira::Feed.fetch_and_parse([feed_url].flatten)
       feeds.values.each do |feed|
         if feed.respond_to?(:entries)
+          puts feed.url
           feed.entries.each do |entry|
             if entry.title
               h = Headline.new(entry.title)
@@ -40,6 +43,12 @@ module HeadlineSources
     def feed_url
       return @feeds if @feeds
       raise "Scraper not subclassed correctly"
+    end
+
+
+    def format_headline(headline)
+      @coder ||= HTMLEntities.new
+      @coder.decode(Sanitize.fragment(super))
     end
 
   end

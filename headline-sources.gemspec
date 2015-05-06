@@ -27,6 +27,8 @@ Gem::Specification.new do |spec|
   spec.add_dependency "activerecord"
   spec.add_dependency "pg"
   spec.add_dependency "feedjira"
+  spec.add_dependency "sanitize"
+  spec.add_dependency "htmlentities"
 
   spec.add_development_dependency "bundler", "~> 1.3"
   spec.add_development_dependency "rake"
