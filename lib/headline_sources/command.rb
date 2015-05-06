@@ -20,6 +20,11 @@ module HeadlineSources
         return
       end
 
+      if options[:database]
+        puts "Dumping sources to database.".cyan
+        ActiveRecordStore.dump_sources!
+      end
+
       fetchers.each do |fetcher|
 
         puts "Fetching #{fetcher.id} with #{fetcher.class.to_s}".cyan
@@ -71,6 +76,8 @@ module HeadlineSources
       end
 
       def batch_to_database
+        puts "Dumping sources to database.".cyan
+        ActiveRecordStore.dump_sources!
         Source.all.shuffle.each do |source|
           puts "Fetching source #{source.name}".cyan
           begin

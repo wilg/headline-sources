@@ -21,13 +21,19 @@ module HeadlineSources
         database: "headlines_development"
       }
       ActiveRecord::Base.establish_connection(conn)
-      dump_sources!
     end
 
     def close!
       if (ActiveRecord::Base.connection && ActiveRecord::Base.connection.active?)
          ActiveRecord::Base.connection.close
       end
+    end
+
+    def self.dump_sources!
+      s = new
+      s.open!
+      s.dump_sources!
+      s.close!
     end
 
     def dump_sources!
