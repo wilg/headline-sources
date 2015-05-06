@@ -363,3 +363,8 @@ mtv:
   name: MTV
   category: Entertainment
   rss_feeds: http://www.mtv.com/news/feed/
+mirror:
+  name: Mirror
+  category: News
+  rss_feeds:
+  - http://www.mirror.co.uk/rss.xml
