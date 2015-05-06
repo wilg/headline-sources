@@ -123,11 +123,6 @@ pitchfork:
   name: Pitchfork
   category: Entertainment
   default: true
-# Currently loads too slow
-# billboard:
-#   name: Billboard
-#   category: Entertainment
-#   default: false
 spin:
   name: Spin
   category: Entertainment
@@ -316,3 +311,12 @@ msnbc:
   category: News
   rss_feeds:
   - http://www.msnbc.com/feeds/latest
+vh1:
+  name: vh1
+  category: Entertainment
+  rss_feeds:
+  - http://blog.vh1.com/feed/
+  - http://www.vh1.com/celebrity/feed/
+  - http://www.bestweekever.tv/feed/
+  - http://www.vh1.com/rss/news/today_on_vh1.jhtml
+  - http://www.vh1.com/rss/news/movielatestcached.jhtml?partner=rssMozilla
