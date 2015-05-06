@@ -459,3 +459,7 @@ thoughtcatalog:
   category: Hypersensational
   rss_feeds:
   - http://thoughtcatalog.com/feed/
+elitedaily:
+  name: Elite Daily
+  category: Hypersensational
+  rss_feeds: http://elitedaily.com/feed/
