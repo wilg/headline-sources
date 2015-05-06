@@ -294,3 +294,12 @@ ryot:
   name: ryot
   rss_feeds:
   - http://www.ryot.org/feed
+time:
+  name: TIME
+  category: News
+  rss_feeds:
+  - http://newsfeed.time.com/feed/
+  - http://swampland.time.com/feed/
+  - http://techland.time.com/feed/
+  - http://lightbox.time.com/feed/
+  - http://lightbox.time.com/category/closeup/feed/
