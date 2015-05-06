@@ -1,13 +1,14 @@
 module HeadlineSources
   class Source
 
-    attr_accessor :name, :default, :id, :category, :dead
+    attr_accessor :name, :default, :id, :category, :dead, :feeds
 
     def self.load_hash(hash)
       hash.map do |k, v|
         s = new
         s.id = k.to_sym
         s.name = v['name']
+        s.feeds = ([v['rss_feeds']]).compact.flatten
         s.category = v['category']
         s.default = !!v['default']
         s.dead = !!v['dead']
@@ -34,14 +35,19 @@ module HeadlineSources
 
     def fetchers(*args)
       go = true
-      fetchers = []
+      fetchers = feeds.map{|f| RSSFetcher.with_feeds(f, id) }
       i = 0
       while go == true
-        require "headline_sources/fetchers/#{id}_fetcher"
-        suffix = i == 0 ? '' : i + 1
         begin
-          fetchers << "headline_sources/#{id}_fetcher#{suffix}".camelize.constantize.new(*args)
-        rescue NameError
+          require "headline_sources/fetchers/#{id}_fetcher"
+          suffix = i == 0 ? '' : i + 1
+          begin
+            fetchers << "headline_sources/#{id}_fetcher#{suffix}".camelize.constantize.new(*args)
+          rescue NameError
+            go = false
+          end
+        rescue LoadError => e
+          raise e unless fetchers.length > 0
           go = false
         end
         i += 1

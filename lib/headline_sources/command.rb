@@ -22,7 +22,7 @@ module HeadlineSources
 
       fetchers.each do |fetcher|
 
-        puts "Fetching with #{fetcher.class.to_s}".cyan
+        puts "Fetching #{fetcher.id} with #{fetcher.class.to_s}".cyan
 
         default_options = {push_through_repeats: options[:push_through_repeats], push_through_failures: options[:push_through_failures]}
 
