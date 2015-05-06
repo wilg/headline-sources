@@ -408,6 +408,7 @@ usatoday:
   - http://rssfeeds.usatoday.com/UsatodaycomMoney-TopStories
   - http://rssfeeds.usatoday.com/usatoday-TechTopStories
   - http://rssfeeds.usatoday.com/UsatodaycomTravel-TopStories
+  - http://ftw.usatoday.com/feed
 womenshealthmag:
   name: Women's Health
   category: Entertainment
