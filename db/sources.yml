@@ -368,3 +368,12 @@ mirror:
   category: News
   rss_feeds:
   - http://www.mirror.co.uk/rss.xml
+theindependent:
+  name: The Independent
+  rss_feeds:
+  - http://rss.feedsportal.com/c/266/f/3792/index.rss
+  - http://rss.feedsportal.com/c/266/f/3800/index.rss
+  - http://rss.feedsportal.com/c/266/f/3795/index.rss
+  - http://rss.feedsportal.com/c/266/f/464881/index.rss
+  - http://rss.feedsportal.com/c/266/f/3797/index.rss
+  - http://rss.feedsportal.com/c/266/f/3834/index.rss
