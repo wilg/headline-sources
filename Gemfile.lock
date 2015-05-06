@@ -28,11 +28,17 @@ GEM
       minitest (~> 5.1)
       thread_safe (~> 0.1)
       tzinfo (~> 1.1)
+    addressable (2.3.8)
     arel (5.0.1.20140414130214)
     builder (3.2.2)
     colorize (0.7.3)
     curb (0.8.5)
     dotenv (0.7.0)
+    faviconduit (0.1.0)
+      addressable
+      nokogiri
+    feedbag (0.9.5)
+      nokogiri (~> 1.0)
     feedjira (1.3.0)
       curb (~> 0.8.1)
       loofah (~> 2.0.0)
@@ -54,6 +60,7 @@ GEM
       mini_portile (= 0.6.0)
     pg (0.17.1)
     rake (10.1.1)
+    rmagick (2.15.0)
     sax-machine (0.2.1)
       nokogiri (~> 1.6.0)
     snoo (0.1.2)
@@ -69,5 +76,8 @@ PLATFORMS
 
 DEPENDENCIES
   bundler (~> 1.3)
+  faviconduit
+  feedbag
   headline_sources!
   rake
+  rmagick

@@ -109,6 +109,57 @@ module HeadlineSources
       end
     end
 
+    desc "add", "attempt to add a website to the list of fetchers"
+    def add_site(url)
+      puts url
+
+      # Find Feeds
+      require "feedbag"
+      feeds = Feedbag.find(url)
+      unless feeds.present?
+        puts "Couldn't find any feeds."
+        return
+      end
+      feeds.each do |feed|
+        puts "Found feed: #{feed}"
+      end
+
+      puts "ID for source:"
+      id = $stdin.gets.chomp
+
+      # Update YML
+      yaml_path = File.expand_path("../../../db/sources.yml", __FILE__)
+      current_sources = YAML.load_file(yaml_path)
+
+      current_sources[id] = (current_sources[id] || {}).merge({
+        "name" => id,
+        "rss_feeds" => feeds,
+      })
+
+      File.write(yaml_path, current_sources.to_yaml)
+
+      # Fetch Favicon
+      require 'faviconduit'
+      begin
+        fav = Faviconduit.get(url)
+        puts "Found favicon at #{fav.url}"
+      rescue Faviconduit::MissingFavicon
+        puts "favicon missing"
+      rescue Faviconduit::InvalidFavicon
+        puts "favicon invalid"
+      end
+
+      require 'rmagick'
+
+      if fav.data
+        img_path = File.expand_path("../../../app/assets/images/headline_sources/#{id}.png", __FILE__)
+        img = Magick::Image.from_blob(fav.data).first
+        File.write(img_path, img.to_blob { self.format = "png" })
+        "Saved favicon!"
+      end
+
+    end
+
     desc "populate_database", "copy everything from the FileStore into the ActiveRecordStore"
     def populate_database
       file_store = FileStore.new
