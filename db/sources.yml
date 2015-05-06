@@ -463,3 +463,8 @@ elitedaily:
   name: Elite Daily
   category: Hypersensational
   rss_feeds: http://elitedaily.com/feed/
+conservativehideout:
+  name: Conservative Hideout
+  category: Opinion - Conservative
+  rss_feeds:
+  - http://conservativehideout.com/feed/
