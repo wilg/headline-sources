@@ -325,3 +325,8 @@ hellogiggles:
   category: Entertainment
   rss_feeds:
   - http://hellogiggles.com/feed
+laughingsquid:
+  name: Laughing Squid
+  category: Entertainment
+  rss_feeds:
+  - http://feeds.laughingsquid.com/laughingsquid
