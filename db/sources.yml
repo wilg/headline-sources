@@ -399,7 +399,7 @@ nbcnews:
   - http://feeds.nbcnews.com/feeds/dailynightly
   - http://feeds.nbcnews.com/feeds/topstories
 usatoday:
-  name: usatoday
+  name: USA Today
   category: News
   rss_feeds:
   - http://rssfeeds.usatoday.com/usatoday-NewsTopStories
