@@ -13,7 +13,7 @@ module HeadlineSources
     end
 
     def fetch!(options = {})
-      saved_progress = YAML.load_file(progress_file_path)[id]
+      saved_progress = YAML.load_file(progress_file_path)[id] rescue nil
       options = {start_at: saved_progress, write_progress: true}.merge(options)
 
       @new_count = 0
@@ -135,7 +135,7 @@ module HeadlineSources
     end
 
     def write_progress
-      prog = YAML.load_file(progress_file_path)
+      prog = YAML.load_file(progress_file_path) rescue {}
       prog[id] = @progress
       File.open(progress_file_path, 'w') {|f| f.write prog.to_yaml }
     end
