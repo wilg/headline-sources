@@ -260,6 +260,10 @@ nytimes:
   name: New York Times
   category: News
   default: true
+latimes:
+  name: Los Angeles Times
+  category: News
+  rss_feeds: http://www.latimes.com/rss2.0.xml
 r_politics:
   name: r/politics
   category: Reddit
