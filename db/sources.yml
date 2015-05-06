@@ -391,3 +391,9 @@ telegraph:
   - http://www.telegraph.co.uk/travel/rss
   - http://www.telegraph.co.uk/technology/rss
   - http://www.telegraph.co.uk/motoring/rss
+nbcnews:
+  name: NBC Nightly News
+  category: News
+  rss_feeds:
+  - http://feeds.nbcnews.com/feeds/dailynightly
+  - http://feeds.nbcnews.com/feeds/topstories
