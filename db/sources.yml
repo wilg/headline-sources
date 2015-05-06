@@ -377,3 +377,17 @@ theindependent:
   - http://rss.feedsportal.com/c/266/f/464881/index.rss
   - http://rss.feedsportal.com/c/266/f/3797/index.rss
   - http://rss.feedsportal.com/c/266/f/3834/index.rss
+telegraph:
+  name: The Telegraph
+  category: News
+  rss_feeds:
+  - http://www.telegraph.co.uk/rss
+  - http://www.telegraph.co.uk/news/rss
+  - http://www.telegraph.co.uk/news/worldnews/rss
+  - http://www.telegraph.co.uk/sport/rss
+  - http://www.telegraph.co.uk/finance/rss
+  - http://www.telegraph.co.uk/comment/rss
+  - http://www.telegraph.co.uk/culture/rss
+  - http://www.telegraph.co.uk/travel/rss
+  - http://www.telegraph.co.uk/technology/rss
+  - http://www.telegraph.co.uk/motoring/rss

@@ -150,7 +150,7 @@ module HeadlineSources
 
       require 'rmagick'
 
-      if fav.data
+      if fav && fav.data
         img_path = File.expand_path("../../../app/assets/images/headline_sources/#{id}.png", __FILE__)
         path = Tempfile.new(["favicons", File.extname(URI.parse(fav.url).path)]).path
         File.open(path, 'w') do |file|
