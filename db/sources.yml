@@ -335,3 +335,13 @@ zimbio:
   category: Entertainment
   rss_feeds:
   - http://www.zimbio.com/rss
+stylebistro:
+  name: StyleBistro
+  category: Entertainment
+  rss_feeds:
+  - http://www.stylebistro.com/rss
+lonny:
+  name: Lonny
+  category: Entertainment
+  rss_feeds:
+  - http://www.lonny.com/rss
