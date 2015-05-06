@@ -479,3 +479,7 @@ knowmore:
   category: Hypersensational
   rss_feeds:
   - http://knowmore.washingtonpost.com/feed/
+boingboing:
+  name: Boing Boing
+  category: Geek
+  rss_feeds: http://boingboing.net/feed
