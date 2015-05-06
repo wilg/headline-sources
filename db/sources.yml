@@ -247,6 +247,15 @@ slate:
   name: Slate
   category: News
   rss_feeds: http://www.slate.com/all.fulltext.all.rss
+nymag:
+  name: New York Magazine
+  category: Entertainment
+  rss_feeds:
+    - http://feeds.feedburner.com/nymag/intelligencer
+    - http://feeds.feedburner.com/nymag/fashion
+    - http://feeds.feedburner.com/nymag/grubstreet
+    - http://feeds.feedburner.com/nymag/scienceofus
+    - http://feeds.feedburner.com/nymag/vulture
 nytimes:
   name: New York Times
   category: News
