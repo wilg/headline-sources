@@ -468,3 +468,8 @@ conservativehideout:
   category: Opinion - Conservative
   rss_feeds:
   - http://conservativehideout.com/feed/
+twistedsifter:
+  name: TwistedSifter
+  category: Hypersensational
+  rss_feeds:
+  - http://twistedsifter.com/feed/
