@@ -320,3 +320,8 @@ vh1:
   - http://www.bestweekever.tv/feed/
   - http://www.vh1.com/rss/news/today_on_vh1.jhtml
   - http://www.vh1.com/rss/news/movielatestcached.jhtml?partner=rssMozilla
+hellogiggles:
+  name: HelloGiggles
+  category: Entertainment
+  rss_feeds:
+  - http://hellogiggles.com/feed
