@@ -354,3 +354,8 @@ accesshollywood:
   name: Access Hollywood
   category: Entertainment
   rss_feeds: http://feeds.accesshollywood.com/AccessHollywood/LatestNews
+fastcompany:
+  name: Fast Company
+  category: Geek
+  rss_feeds:
+  - http://www.fastcompany.com/rss.xml
