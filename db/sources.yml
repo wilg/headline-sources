@@ -345,3 +345,8 @@ lonny:
   category: Entertainment
   rss_feeds:
   - http://www.lonny.com/rss
+thedailywhat:
+  name: The Daily What
+  category: Entertainment
+  rss_feeds:
+  - http://thedailywh.at/feed/
