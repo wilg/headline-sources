@@ -16,3 +16,5 @@ tmp
 .yardoc
 _yardoc
 doc/
+db/*.txt
+db/fetch_progress.yml
