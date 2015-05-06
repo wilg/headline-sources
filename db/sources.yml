@@ -243,6 +243,10 @@ npr:
   name: NPR
   category: News
   default: false
+slate:
+  name: Slate
+  category: News
+  rss_feeds: http://www.slate.com/all.fulltext.all.rss
 nytimes:
   name: New York Times
   category: News
