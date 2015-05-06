@@ -303,3 +303,11 @@ time:
   - http://techland.time.com/feed/
   - http://lightbox.time.com/feed/
   - http://lightbox.time.com/category/closeup/feed/
+people:
+  name: People
+  category: Entertainment
+  rss_feeds:
+  - http://rss.people.com/web/people/rss/topheadlines/index.xml
+  - http://rss.people.com/web/people/rss/photogalleries/index.xml
+  - http://rss.people.com/web/people/rss/tvwatch/index.xml
+  - http://rss.people.com/web/people/rss/pets/index.xml
