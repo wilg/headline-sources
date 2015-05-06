@@ -153,7 +153,11 @@ module HeadlineSources
 
       if fav.data
         img_path = File.expand_path("../../../app/assets/images/headline_sources/#{id}.png", __FILE__)
-        img = Magick::Image.from_blob(fav.data).first
+        path = Tempfile.new(["favicons", File.extname(fav.url)]).path
+        File.open(path, 'w') do |file|
+          file.write(fav.data)
+        end
+        img = Magick::Image.read(path).first
         File.write(img_path, img.to_blob { self.format = "png" })
         "Saved favicon!"
       end
