@@ -313,7 +313,7 @@ msnbc:
   rss_feeds:
   - http://www.msnbc.com/feeds/latest
 vh1:
-  name: vh1
+  name: VH1
   category: Entertainment
   rss_feeds:
   - http://blog.vh1.com/feed/
@@ -393,7 +393,7 @@ telegraph:
   - http://www.telegraph.co.uk/technology/rss
   - http://www.telegraph.co.uk/motoring/rss
 nbcnews:
-  name: NBC Nightly News
+  name: NBC News
   category: News
   rss_feeds:
   - http://feeds.nbcnews.com/feeds/dailynightly
