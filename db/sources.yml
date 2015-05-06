@@ -1,3 +1,4 @@
+---
 hackernews:
   name: Hacker News
   category: Geek
@@ -251,11 +252,11 @@ nymag:
   name: New York Magazine
   category: Entertainment
   rss_feeds:
-    - http://feeds.feedburner.com/nymag/intelligencer
-    - http://feeds.feedburner.com/nymag/fashion
-    - http://feeds.feedburner.com/nymag/grubstreet
-    - http://feeds.feedburner.com/nymag/scienceofus
-    - http://feeds.feedburner.com/nymag/vulture
+  - http://feeds.feedburner.com/nymag/intelligencer
+  - http://feeds.feedburner.com/nymag/fashion
+  - http://feeds.feedburner.com/nymag/grubstreet
+  - http://feeds.feedburner.com/nymag/scienceofus
+  - http://feeds.feedburner.com/nymag/vulture
 nytimes:
   name: New York Times
   category: News
@@ -289,3 +290,7 @@ nytimes_lede:
   category: News
   default: false
   dead: true
+ryot:
+  name: ryot
+  rss_feeds:
+  - http://www.ryot.org/feed
