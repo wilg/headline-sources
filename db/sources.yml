@@ -454,3 +454,8 @@ gamesradar:
   category: Geek
   rss_feeds:
   - http://www.gamesradar.com/all-platforms/news/rss/
+thoughtcatalog:
+  name: Thought Catalog
+  category: Hypersensational
+  rss_feeds:
+  - http://thoughtcatalog.com/feed/
