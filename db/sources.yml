@@ -413,3 +413,44 @@ womenshealthmag:
   category: Entertainment
   rss_feeds:
   - http://www.womenshealthmag.com/washpofeed
+ign:
+  name: IGN.com
+  rss_feeds: http://feeds.ign.com/ign/all
+  category: Geek
+gamespot:
+  name: GameSpot
+  category: Geek
+  rss_feeds: http://www.gamespot.com/feeds/mashup/
+n4g:
+  name: N4G
+  category: Geek
+  rss_feeds:
+  - http://n4g.com/rss/news?channel=&sort=latest
+  - http://n4g.com/rss/news?channel=&sort=today
+  - http://n4g.com/rss/news?channel=&sort=week
+theescapist:
+  name: The Escapist
+  category: Geek
+  rss_feeds:
+  - http://www.escapistmagazine.com/rss/news
+pcgamer:
+  name: PC Gamer
+  category: Geek
+  rss_feeds: http://www.pcgamer.com/rss/
+neoseeker:
+  name: Neoseeker
+  category: Geek
+  rss_feeds:
+  - http://www.neoseeker.com/feeds/news/?type=rss0.91
+  - http://www.neoseeker.com/feeds/articles/?type=rss0.91
+engadget:
+  name: Engadget
+  category: Geek
+  rss_feeds:
+  - http://www.engadget.com/rss.xml
+  - http://www.engadget.com/tag/@gaming/rss.xml
+gamesradar:
+  name: GamesRadar
+  category: Geek
+  rss_feeds:
+  - http://www.gamesradar.com/all-platforms/news/rss/
