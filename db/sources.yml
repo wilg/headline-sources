@@ -311,3 +311,8 @@ people:
   - http://rss.people.com/web/people/rss/photogalleries/index.xml
   - http://rss.people.com/web/people/rss/tvwatch/index.xml
   - http://rss.people.com/web/people/rss/pets/index.xml
+msnbc:
+  name: msnbc
+  category: News
+  rss_feeds:
+  - http://www.msnbc.com/feeds/latest
