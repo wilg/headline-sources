@@ -286,7 +286,8 @@ nytimes_lede:
   default: false
   dead: true
 ryot:
-  name: ryot
+  name: RYOT
+  category: Hypersensational
   rss_feeds:
   - http://www.ryot.org/feed
 time:
