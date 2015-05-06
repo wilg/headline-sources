@@ -397,3 +397,13 @@ nbcnews:
   rss_feeds:
   - http://feeds.nbcnews.com/feeds/dailynightly
   - http://feeds.nbcnews.com/feeds/topstories
+usatoday:
+  name: usatoday
+  category: News
+  rss_feeds:
+  - http://rssfeeds.usatoday.com/usatoday-NewsTopStories
+  - http://rssfeeds.usatoday.com/UsatodaycomSports-TopStories
+  - http://rssfeeds.usatoday.com/usatoday-LifeTopStories
+  - http://rssfeeds.usatoday.com/UsatodaycomMoney-TopStories
+  - http://rssfeeds.usatoday.com/usatoday-TechTopStories
+  - http://rssfeeds.usatoday.com/UsatodaycomTravel-TopStories
