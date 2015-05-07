@@ -483,3 +483,12 @@ boingboing:
   name: Boing Boing
   category: Geek
   rss_feeds: http://boingboing.net/feed
+9gag:
+  name: 9GAG
+  category: Hypersensational
+  rss_feeds:
+  - http://9gag-rss.com/api/rss/get?code=9GAG&format=2
+  - http://9gag-rss.com/api/rss/get?code=9GAGHot&format=2
+  - http://9gag-rss.com/api/rss/get?code=9GAGFresh&format=2
+  - http://9gag-rss.com/api/rss/get?code=9GAGGIF&format=2
+  - http://9gag-rss.com/api/rss/get?code=9GAGNSFW&format=2
