@@ -492,3 +492,8 @@ boingboing:
   - http://9gag-rss.com/api/rss/get?code=9GAGFresh&format=2
   - http://9gag-rss.com/api/rss/get?code=9GAGGIF&format=2
   - http://9gag-rss.com/api/rss/get?code=9GAGNSFW&format=2
+viralfury:
+  name: Viralfury
+  category: Hypersensational
+  rss_feeds:
+  - http://viralfury.com/feed/
