@@ -43,7 +43,19 @@ module HeadlineSources
       puts url.cyan
       @nokogiri_document = Nokogiri::HTML(html_for_url(url))
       @nokogiri_document.css(headline_css_selector).each do |link|
-        add_headline! Headline.new(link.content)
+        h = Headline.new(link.content)
+        h.url = if link['href']
+          if link['href'].start_with?("http")
+            link['href']
+          elsif headline_href_prefix
+            "#{headline_href_prefix}#{link['href']}"
+          else
+            nil
+          end
+        else
+          nil
+        end
+        add_headline! h
       end
     end
 
@@ -55,6 +67,10 @@ module HeadlineSources
     # Override this
     def headline_css_selector
       raise "Scraper not subclassed correctly"
+    end
+
+    def headline_href_prefix
+      nil
     end
 
   end
