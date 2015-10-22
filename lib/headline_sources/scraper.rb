@@ -36,6 +36,10 @@ module HeadlineSources
     # Override this or override url_for_progress and headline_css_selector
     def scrape_page(progress)
       url = url_for_progress(progress)
+      unless url
+        puts "Scraper has no more pages.".red
+        return
+      end
       puts url.cyan
       @nokogiri_document = Nokogiri::HTML(html_for_url(url))
       @nokogiri_document.css(headline_css_selector).each do |link|
