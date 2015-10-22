@@ -341,6 +341,7 @@ stylebistro:
   category: Entertainment
   rss_feeds:
   - http://www.stylebistro.com/rss
+  dead: true
 lonny:
   name: Lonny
   category: Entertainment
@@ -351,6 +352,57 @@ thedailywhat:
   category: Entertainment
   rss_feeds:
   - http://thedailywh.at/feed/
+  dead: true
+cheezburger:
+  name: Cheezburger
+  category: Entertainment
+  rss_feeds:
+  - http://feeds.feedblitz.com/icanhascheezburger
+  - http://feeds.feedblitz.com/AnimalCapshunz
+  - http://feeds.feedblitz.com/AnimalGifs
+  - http://feeds.feedblitz.com/DailySquee
+  - http://feeds.feedblitz.com/IHasAHotdog
+  - http://feeds.feedblitz.com/icanhascheezburger/ichclolcats
+  - http://feeds.feedblitz.com/ROFLrazzi
+  - http://feeds.feedblitz.com/HistoricLOLs
+  - http://feeds.feedblitz.com/SetPhasersToLol
+  - http://feeds.feedblitz.com/TotallyLooksLike
+  - http://feeds.feedblitz.com/failblog
+  - http://feeds.feedblitz.com/After12-PartyFailsAndAfterHoursHijinks
+  - http://feeds.feedblitz.com/AutoCowrecks
+  - http://feeds.feedblitz.com/DatingFails
+  - http://feeds.feedblitz.com/FailNation
+  - http://feeds.feedblitz.com/Failbooking
+  - http://feeds.feedblitz.com/MthruF
+  - http://feeds.feedblitz.com/MusicFails
+  - http://feeds.feedblitz.com/ParentingFails
+  - http://feeds.feedblitz.com/poorlydressed
+  - http://feeds.feedblitz.com/schooloffail
+  - http://feeds.feedblitz.com/ThereIFixedIt
+  - http://feeds.feedblitz.com/UgliestTattoos
+  - http://feeds.feedblitz.com/HackedIrl
+  - http://feeds.feedblitz.com/cringe
+  - http://feeds.feedblitz.com/Memebase
+  - http://feeds.feedblitz.com/AOT
+  - http://feeds.feedblitz.com/comixed
+  - http://feeds.feedblitz.com/FandomBase
+  - http://feeds.feedblitz.com/graphjam
+  - http://feeds.feedblitz.com/memebase/ragecomics
+  - http://feeds.feedblitz.com/SenorGif
+  - http://feeds.feedblitz.com/VeryDemotivational
+  - http://feeds.feedblitz.com/americana
+  - http://feeds.feedblitz.com/TheDailyWhat
+  - http://feeds.feedblitz.com/cheezburger/GeekUniverse
+  - http://feeds.feedblitz.com/CartoonsAnime
+  - http://feeds.feedblitz.com/cheezburger/DoctorWho
+  - http://feeds.feedblitz.com/cheezburger/GeekLife
+  - http://feeds.feedblitz.com/MyLittleBrony
+  - http://feeds.feedblitz.com/Pokememes
+  - http://feeds.feedblitz.com/pokememes
+  - http://feeds.feedblitz.com/VideoGamemes
+  - http://feeds.feedblitz.com/videogamecoverage
+  - http://feeds.feedblitz.com/GameofThrones
+  - http://feeds.feedblitz.com/TheWalkingDead
 accesshollywood:
   name: Access Hollywood
   category: Entertainment
@@ -373,12 +425,19 @@ theindependent:
   name: The Independent
   category: News
   rss_feeds:
+  - http://www.independent.co.uk/rss
   - http://rss.feedsportal.com/c/266/f/3792/index.rss
   - http://rss.feedsportal.com/c/266/f/3800/index.rss
   - http://rss.feedsportal.com/c/266/f/3795/index.rss
   - http://rss.feedsportal.com/c/266/f/464881/index.rss
   - http://rss.feedsportal.com/c/266/f/3797/index.rss
   - http://rss.feedsportal.com/c/266/f/3834/index.rss
+  - http://www.independent.co.uk/sport/olympics/?service=Rss
+  - http://www.independent.co.uk/sport/general/sailing/?service=Rss
+  - http://www.independent.co.uk/sport/tennis/?service=Rss
+  - http://www.independent.co.uk/arts-entertainment/music/?service=Rss
+  - http://www.independent.co.uk/sport/cricket/?service=Rss
+  - http://www.independent.co.uk/sport/general/rugby-league/?service=Rss
 telegraph:
   name: The Telegraph
   category: News
@@ -415,6 +474,7 @@ womenshealthmag:
   category: Entertainment
   rss_feeds:
   - http://www.womenshealthmag.com/washpofeed
+  dead: true
 ign:
   name: IGN.com
   rss_feeds: http://feeds.ign.com/ign/all
