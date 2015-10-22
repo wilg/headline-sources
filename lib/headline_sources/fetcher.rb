@@ -60,6 +60,7 @@ module HeadlineSources
               s = "    -> " + h.name
               if added.any?{|add| add.name == h.name}
                 puts s.green
+                puts "       #{h.url}" if h.url
               else
                 puts s.red
               end
