@@ -1,6 +1,7 @@
 module HeadlineSources
   require "thor"
   require 'colorize'
+  require 'uri'
 
   class CommandLine < Thor
 
@@ -130,8 +131,9 @@ module HeadlineSources
         puts "Found feed: #{feed}"
       end
 
-      puts "ID for source:"
-      id = $stdin.gets.chomp
+      uri = URI.parse(url)
+      id = uri.host.split(".")[-2]
+      puts "ID for source: #{id}"
 
       # Update YML
       yaml_path = File.expand_path("../../../db/sources.yml", __FILE__)
