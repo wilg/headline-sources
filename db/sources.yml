@@ -663,3 +663,13 @@ seventeen:
   - url: http://www.seventeen.com/landing-feed/?template=homepage&landingTemplate=standard&id=1&pageNumber={{n}}
     selector: ".landing-feed--story-title"
     href_prefix: http://www.seventeen.com
+us_weekly:
+  name: Us Weekly
+  rss_feeds:
+  - http://www.usmagazine.com/celebrity-news/rss
+  - http://www.usmagazine.com/celebrity-moms/rss
+  - http://www.usmagazine.com/celebrity-style/rss
+  - http://www.usmagazine.com/entertainment/rss
+  - http://www.usmagazine.com/celebrity-body/rss
+  - http://www.usmagazine.com/celebrity-beauty/rss
+  - http://www.usmagazine.com/gallery/hot-pics/rss
