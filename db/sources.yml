@@ -632,3 +632,8 @@ instyle:
   name: Instyle
   rss_feeds:
   - http://www.instyle.com/feeds/newsfeed.xml
+menshealth:
+  name: Men's Health
+  rules:
+  - url: http://www.menshealth.com
+    selector: ".article-title a"
