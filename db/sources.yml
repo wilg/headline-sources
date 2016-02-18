@@ -583,3 +583,40 @@ cosmosmagazine:
   name: Cosmos
   rss_feeds:
   - https://cosmosmagazine.com/rss.xml
+countryliving:
+  name: Country Living
+  rules:
+    url: http://www.countryliving.com
+    selector: ".landing-feed--story-title"
+ew:
+  name: Entertainment Weekly
+  rules:
+    url: http://www.ew.com/
+    selector: ".txtcont a"
+    text_selector: ".headline"
+playboy:
+  name: Playboy
+  rules:
+  - url: http://www.playboy.com
+    selector: article a
+    text_selector: ".title"
+  - urls:
+    - http://www.playboy.com/related/home/most-popular
+    - http://www.playboy.com/related/index/most-popular/galleries
+    - http://www.playboy.com/related/index/most-popular/videos
+    selector: li a
+    text_selector: p
+    href_prefix: http://www.playboy.com
+cosmopolitan:
+  name: Cosmopolitan
+  rules:
+  - url: http://www.cosmopolitan.com
+    selector: ".landing-feed--story-title"
+  - url: http://www.cosmopolitan.com/landing-feed/?template=homepage&landingTemplate=standard&id=1&pageNumber={{n}}
+    selector: ".landing-feed--story-title"
+    href_prefix: http://www.cosmopolitan.com
+gameinformer:
+  name: Game Informer
+  rss_feeds:
+  - http://www.gameinformer.com/feeds/TopFiveRSS.aspx?p=home
+  - http://www.gameinformer.com/feeds/TheFeedRSS.aspx
