@@ -81,15 +81,15 @@ huffpost_blogs:
   category: Opinion - Progressive
   default: false
   rss_feeds:
-    - http://feeds.huffingtonpost.com/huffingtonpost/raw_feed
-    - http://feeds.huffingtonpost.com/huffingtonpost/LatestNews
-    - http://feeds.huffingtonpost.com/huffingtonpost/TheBlog
-    - http://feeds.huffingtonpost.com/FeaturedPosts
-    - http://www.huffingtonpost.com/feeds/original_posts/index.xml
-    - http://www.huffingtonpost.com/wires/full_index.rdf
-    - http://www.huffingtonpost.com/feeds/index.xml
-    - http://www.huffingtonpost.com/feeds/news.xml
-    - http://www.huffingtonpost.com/feeds/blog.xml
+  - http://feeds.huffingtonpost.com/huffingtonpost/raw_feed
+  - http://feeds.huffingtonpost.com/huffingtonpost/LatestNews
+  - http://feeds.huffingtonpost.com/huffingtonpost/TheBlog
+  - http://feeds.huffingtonpost.com/FeaturedPosts
+  - http://www.huffingtonpost.com/feeds/original_posts/index.xml
+  - http://www.huffingtonpost.com/wires/full_index.rdf
+  - http://www.huffingtonpost.com/feeds/index.xml
+  - http://www.huffingtonpost.com/feeds/news.xml
+  - http://www.huffingtonpost.com/feeds/blog.xml
 thinkprogress:
   name: ThinkProgress
   category: Opinion - Progressive
@@ -683,3 +683,13 @@ us_weekly:
   - http://www.usmagazine.com/celebrity-body/rss
   - http://www.usmagazine.com/celebrity-beauty/rss
   - http://www.usmagazine.com/gallery/hot-pics/rss
+youngcons:
+  name: Young Conservatives
+  category: Opinion - Conservative
+  rss_feeds:
+  - http://www.youngcons.com/feed/
+westernjournalism:
+  name: Western Journalism
+  category: Opinion - Conservative
+  rss_feeds:
+  - http://www.westernjournalism.com/feed/
