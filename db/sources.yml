@@ -47,6 +47,7 @@ valleywag:
   name: Valleywag
   category: Geek
   default: false
+  dead: true
 drudge_report:
   name: Drudge Report
   category: Opinion - Conservative
@@ -183,6 +184,7 @@ defamer:
   name: Defamer
   category: Entertainment
   default: false
+  dead: true
 uproxx:
   name: Uproxx
   category: Entertainment
@@ -231,6 +233,7 @@ npr_two_way:
   name: NPR Two Way
   category: News
   default: false
+  dead: true
 the_daily_beast:
   name: The Daily Beast
   category: News
@@ -316,6 +319,7 @@ vh1:
   name: VH1
   category: Entertainment
   rss_feeds:
+  - http://www.vh1.com/news/feed/
   - http://blog.vh1.com/feed/
   - http://www.vh1.com/celebrity/feed/
   - http://www.bestweekever.tv/feed/
@@ -530,6 +534,7 @@ conservativehideout:
   category: Opinion - Conservative
   rss_feeds:
   - http://conservativehideout.com/feed/
+  dead: true
 twistedsifter:
   name: TwistedSifter
   category: Hypersensational

@@ -5,6 +5,7 @@ module HeadlineSources
 
     def feed_url
       %w[
+        http://www.npr.org/rss/rss.php?id=103943429
         http://www.npr.org/rss/rss.php?id=1001
         http://www.npr.org/rss/rss.php?id=100
         http://www.npr.org/rss/rss.php?id=1008
