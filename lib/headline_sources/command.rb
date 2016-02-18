@@ -140,7 +140,7 @@ module HeadlineSources
       current_sources = YAML.load_file(yaml_path)
 
       current_sources[id] = (current_sources[id] || {}).merge({
-        "name" => id,
+        "name" => id.humanize,
         "rss_feeds" => feeds,
       })
 
