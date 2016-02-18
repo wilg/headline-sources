@@ -693,3 +693,9 @@ westernjournalism:
   category: Opinion - Conservative
   rss_feeds:
   - http://www.westernjournalism.com/feed/
+nationalreview:
+  name: National Review
+  rules:
+  - url: http://www.nationalreview.com/
+    selector: ".homepage_item"
+    text_selector: .homepage_item_title
