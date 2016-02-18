@@ -48,6 +48,7 @@ module HeadlineSources
       rules.each do |rule_hash|
         rule_scraper = RuleScraper.new(*args)
         rule_scraper.hash = rule_hash.with_indifferent_access
+        rule_scraper.preset_id = id
         fetchers << rule_scraper
       end
 

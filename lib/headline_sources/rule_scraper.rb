@@ -3,7 +3,11 @@ require "headline_sources/scraper"
 module HeadlineSources
   class RuleScraper < Scraper
 
-    attr_accessor :hash
+    attr_accessor :hash, :preset_id
+
+    def id
+      preset_id ? preset_id.to_s : super
+    end
 
     def url_for_progress(n)
       if hash[:urls]
