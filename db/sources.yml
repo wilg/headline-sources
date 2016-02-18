@@ -637,3 +637,21 @@ menshealth:
   rules:
   - url: http://www.menshealth.com
     selector: ".article-title a"
+rollingstone:
+  name: Rolling Stone
+  rss_feeds:
+  - http://www.rollingstone.com/news.rss
+  - http://www.rollingstone.com/music.rss
+  - http://www.rollingstone.com/movies.rss
+  - http://www.rollingstone.com/culture.rss
+  - http://www.rollingstone.com/politics.rss
+  - http://www.rollingstone.com/sports.rss
+  - http://www.rollingstone.com/movies/reviews.rss
+  - http://www.rollingstone.com/music/albumreviews.rss
+  - http://www.rollingstone.com/music/songreviews.rss
+  - http://www.rollingstone.com/videos.rss
+  - http://www.rollingstone.com/randomnotes.rss
+  - http://www.rollingstone.com/contributor/peter-travers.rss
+  - http://www.rollingstone.com/contributor/rob-sheffield.rss
+  - http://www.rollingstone.com/contributor/david-fricke.rss
+  - http://www.rollingstone.com/contributor/tim-dickinson.rss
