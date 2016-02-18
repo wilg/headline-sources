@@ -19,7 +19,7 @@ module HeadlineSources
     end
 
     def headline_href_prefix
-      hash[:href_prefix]
+      hash[:href_prefix] || hash[:url]
     end
 
   end
