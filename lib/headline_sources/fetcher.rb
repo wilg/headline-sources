@@ -63,6 +63,7 @@ module HeadlineSources
                 puts "       #{h.url}" if h.url
               else
                 puts s.red
+                puts "       #{h.url}".red if h.url
               end
             end
           end

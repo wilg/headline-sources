@@ -1,7 +1,7 @@
 module HeadlineSources
   class Source
 
-    attr_accessor :name, :default, :id, :category, :dead, :feeds
+    attr_accessor :name, :default, :id, :category, :dead, :feeds, :rules
 
     def self.load_hash(hash)
       hash.map do |k, v|
@@ -9,6 +9,7 @@ module HeadlineSources
         s.id = k.to_sym
         s.name = v['name']
         s.feeds = ([v['rss_feeds']]).compact.flatten
+        s.rules = ([v['rules']]).compact.flatten
         s.category = v['category']
         s.default = !!v['default']
         s.dead = !!v['dead']
@@ -36,12 +37,20 @@ module HeadlineSources
     def fetchers(*args)
       go = true
       fetchers = []
+
       if feeds.length > 0
         rss_fetcher = RSSFetcher.new(*args)
         rss_fetcher.feeds = feeds
         rss_fetcher.preset_id = id
         fetchers << rss_fetcher
       end
+
+      rules.each do |rule_hash|
+        rule_scraper = RuleScraper.new(*args)
+        rule_scraper.hash = rule_hash.with_indifferent_access
+        fetchers << rule_scraper
+      end
+
       i = 0
       while go == true
         begin

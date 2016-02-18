@@ -13,6 +13,7 @@ else
   require "headline_sources/fetcher"
   require "headline_sources/reddit_fetcher"
   require "headline_sources/scraper"
+  require "headline_sources/rule_scraper"
   require "headline_sources/rss_fetcher"
 
   # Stores

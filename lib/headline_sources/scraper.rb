@@ -43,7 +43,16 @@ module HeadlineSources
       puts url.cyan
       @nokogiri_document = Nokogiri::HTML(html_for_url(url))
       @nokogiri_document.css(headline_css_selector).each do |link|
-        h = Headline.new(link.content)
+
+        name = link.content
+        if headline_text_selector
+          text_element = link.css(headline_text_selector).first
+          if text_element && text_element.content
+            name = text_element.content
+          end
+        end
+
+        h = Headline.new(name)
         h.url = if link['href']
           if link['href'].start_with?("http")
             link['href']
@@ -70,6 +79,10 @@ module HeadlineSources
     end
 
     def headline_href_prefix
+      nil
+    end
+
+    def headline_text_selector
       nil
     end
 
