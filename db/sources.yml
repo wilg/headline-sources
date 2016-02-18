@@ -538,15 +538,15 @@ conservativehideout:
 maxim:
   name: Maxim
   rss_feeds:
-    - http://www.maxim.com/.rss/full/
+  - http://www.maxim.com/.rss/full/
 american_rifleman:
   name: American Rifleman
   rss_feeds:
-    - http://www.americanrifleman.org/rss
+  - http://www.americanrifleman.org/rss
 bon_appetit:
   name: Bon Appétit
   rss_feeds:
-    - http://www.bonappetit.com/rss2
+  - http://www.bonappetit.com/rss2
 twistedsifter:
   name: TwistedSifter
   category: Hypersensational
@@ -575,3 +575,7 @@ viralfury:
   category: Hypersensational
   rss_feeds:
   - http://viralfury.com/feed/
+cookinglight:
+  name: Cooking Light
+  rss_feeds:
+    - http://feeds.cookinglight.com/CookingLight/latest
