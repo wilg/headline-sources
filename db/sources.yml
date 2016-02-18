@@ -655,3 +655,11 @@ rollingstone:
   - http://www.rollingstone.com/contributor/rob-sheffield.rss
   - http://www.rollingstone.com/contributor/david-fricke.rss
   - http://www.rollingstone.com/contributor/tim-dickinson.rss
+seventeen:
+  name: Seventeen
+  rules:
+  - url: http://www.seventeen.com
+    selector: ".landing-feed--story-title"
+  - url: http://www.seventeen.com/landing-feed/?template=homepage&landingTemplate=standard&id=1&pageNumber={{n}}
+    selector: ".landing-feed--story-title"
+    href_prefix: http://www.seventeen.com
