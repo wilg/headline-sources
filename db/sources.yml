@@ -535,6 +535,18 @@ conservativehideout:
   rss_feeds:
   - http://conservativehideout.com/feed/
   dead: true
+maxim:
+  name: Maxim
+  rss_feeds:
+    - http://www.maxim.com/.rss/full/
+american_rifleman:
+  name: American Rifleman
+  rss_feeds:
+    - http://www.americanrifleman.org/rss
+bon_appetit:
+  name: Bon Appétit
+  rss_feeds:
+    - http://www.bonappetit.com/rss2
 twistedsifter:
   name: TwistedSifter
   category: Hypersensational
