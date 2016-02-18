@@ -620,3 +620,11 @@ gameinformer:
   rss_feeds:
   - http://www.gameinformer.com/feeds/TopFiveRSS.aspx?p=home
   - http://www.gameinformer.com/feeds/TheFeedRSS.aspx
+goodhousekeeping:
+  name: Good Housekeeping
+  rules:
+  - url: http://www.goodhousekeeping.com
+    selector: ".landing-feed--story-title"
+  - url: http://www.goodhousekeeping.com/landing-feed/?template=homepage&landingTemplate=standard&id=1&pageNumber={{n}}
+    selector: ".landing-feed--story-title"
+    href_prefix: http://www.goodhousekeeping.com
