@@ -578,4 +578,8 @@ viralfury:
 cookinglight:
   name: Cooking Light
   rss_feeds:
-    - http://feeds.cookinglight.com/CookingLight/latest
+  - http://feeds.cookinglight.com/CookingLight/latest
+cosmosmagazine:
+  name: Cosmos
+  rss_feeds:
+  - https://cosmosmagazine.com/rss.xml
