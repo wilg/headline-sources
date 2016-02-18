@@ -6,8 +6,12 @@ module HeadlineSources
     attr_accessor :hash
 
     def url_for_progress(n)
-      return if n > 1 && !hash[:url].include?("{{n}}")
-      hash[:url].gsub("{{n}}", n.to_s)
+      if hash[:urls]
+        hash[:urls][n - 1]
+      else
+        return if n > 1 && !hash[:url].include?("{{n}}")
+        hash[:url].gsub("{{n}}", n.to_s)
+      end
     end
 
     def headline_css_selector
