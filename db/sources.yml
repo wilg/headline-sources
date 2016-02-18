@@ -628,3 +628,7 @@ goodhousekeeping:
   - url: http://www.goodhousekeeping.com/landing-feed/?template=homepage&landingTemplate=standard&id=1&pageNumber={{n}}
     selector: ".landing-feed--story-title"
     href_prefix: http://www.goodhousekeeping.com
+instyle:
+  name: Instyle
+  rss_feeds:
+  - http://www.instyle.com/feeds/newsfeed.xml
