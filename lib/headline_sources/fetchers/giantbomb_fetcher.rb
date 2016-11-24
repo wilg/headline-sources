@@ -1,14 +1,10 @@
 require "headline_sources/scraper"
 
 module HeadlineSources
-  class GiantbombFetcher < Scraper
+  class GiantbombFetcher < RSSFetcher
 
-    def url_for_progress(n)
-      "http://www.giantbomb.com/news/?page=#{n}"
-    end
-
-    def headline_css_selector
-      '.editorial.river h3'
+    def feed_url
+      "http://www.giantbomb.com/feeds/mashup/"
     end
 
     def excluded_matches
