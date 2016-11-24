@@ -725,3 +725,7 @@ munchies:
   name: Munchies
   rss_feeds:
   - https://munchies.vice.com/en/feed
+vice_sports:
+  name: Vice sports
+  rss_feeds:
+  - https://sports.vice.com/en_us/rss
