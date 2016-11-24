@@ -721,3 +721,7 @@ broadly:
   name: Broadly
   rss_feeds:
   - https://broadly.vice.com/en_us/rss
+munchies:
+  name: Munchies
+  rss_feeds:
+  - https://munchies.vice.com/en/feed
