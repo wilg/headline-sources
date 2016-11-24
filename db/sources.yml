@@ -316,10 +316,7 @@ people:
   name: People
   category: Entertainment
   rss_feeds:
-  - http://rss.people.com/web/people/rss/topheadlines/index.xml
-  - http://rss.people.com/web/people/rss/photogalleries/index.xml
-  - http://rss.people.com/web/people/rss/tvwatch/index.xml
-  - http://rss.people.com/web/people/rss/pets/index.xml
+  - http://people.com/feed/
 msnbc:
   name: msnbc
   category: News
@@ -621,9 +618,10 @@ cosmopolitan:
   name: Cosmopolitan
   rules:
   - url: http://www.cosmopolitan.com
-    selector: ".landing-feed--story-title"
-  - url: http://www.cosmopolitan.com/landing-feed/?template=homepage&landingTemplate=standard&id=1&pageNumber={{n}}
-    selector: ".landing-feed--story-title"
+    selector: ".full-item-title"
+    href_prefix: http://www.cosmopolitan.com
+  - url: http://www.cosmopolitan.com/ajax/infiniteload/?id=d50755a3-19da-4033-ba32-379374bf8486&class=CoreModels%5Csections%5CSectionModel&viewset=homepage&page={{n}}
+    selector: ".full-item-title"
     href_prefix: http://www.cosmopolitan.com
 gameinformer:
   name: Game Informer
