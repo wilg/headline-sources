@@ -11,6 +11,8 @@ breitbart:
   name: Breitbart
   category: Opinion - Conservative
   default: false
+  rss_feeds:
+  - http://feeds.feedburner.com/breitbart
 alternet:
   name: Alternet
   category: Opinion - Progressive
@@ -753,3 +755,369 @@ dailydot:
   name: Dailydot
   rss_feeds:
   - http://www.dailydot.com/feed/summary/latest/
+100percentfedup:
+  name: 100percentfedup
+  fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
+  rss_feeds:
+  - http://100percentfedup.com/feed/
+  - http://100percentfedup.com/inside-the-mind-of-a-trump-voter/feed/
+enduringvision:
+  name: Enduringvision
+  fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
+  rss_feeds:
+  - http://www.enduringvision.com/ev_rss.xml
+pakalertpress:
+  name: Pakalertpress
+  fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
+  rss_feeds:
+  - http://www.pakalertpress.com/feed/
+  - http://www.pakalertpress.com/feed/atom/
+21stcenturywire:
+  name: 21stcenturywire
+  fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
+  rss_feeds:
+  - http://21stcenturywire.com/feed/
+  - http://21stcenturywire.com/feed
+politicalblindspot:
+  name: Politicalblindspot
+  fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
+  rss_feeds:
+  - http://politicalblindspot.com/feed/
+70news:
+  name: 70news
+  fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
+  rss_feeds:
+  - https://70news.wordpress.com/feed/
+thefreethoughtproject:
+  name: Thefreethoughtproject
+  fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
+  rss_feeds:
+  - http://thefreethoughtproject.com/feed/
+abcnews_com_co:
+  name: abcnews.com.co
+  fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
+  rss_feeds:
+  - http://abcnews.com.co/feed/
+  - http://abcnews.com.co/news/feed/
+geoengineeringwatch:
+  name: Geoengineeringwatch
+  fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
+  rss_feeds:
+  - http://www.geoengineeringwatch.org/feed/
+  - http://www.geoengineeringwatch.org/feed/rss/
+  - http://www.geoengineeringwatch.org/feed/atom/
+  - http://www.geoengineeringwatch.org/vaxxed-director-dr-andrew-wakefield-a-discussion-with-dane-wigington/feed/
+  - http://geoengineeringwatch.org/?feed=rss2
+activistpost:
+  name: Activistpost
+  fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
+  rss_feeds:
+  - http://www.activistpost.com/feed
+  - http://www.activistpost.com/home/feed
+  - http://www.activistpost.com/feed/podcast
+addictinginfo:
+  name: Addictinginfo
+  fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
+  rss_feeds:
+  - http://addictinginfo.org/feed/
+govtslaves:
+  name: Govtslaves
+  fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
+  rss_feeds:
+  - http://govtslaves.info/feed/
+lincolnreport:
+  name: Lincolnreport
+  fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
+  rss_feeds:
+  - http://lincolnreport.com/feed
+  - http://lincolnreport.com/archives/118614/feed
+  - http://lincolnreport.com/?feed=linkfeed
+gulagbound:
+  name: Gulagbound
+  fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
+  rss_feeds:
+  - http://gulagbound.com/feed/
+anonews:
+  name: Anonews
+  fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
+  rss_feeds:
+  - http://www.anonews.co/feed/
+  - http://www.anonews.co/feed/rss/
+  - http://www.anonews.co/feed/atom/
+hangthebankers:
+  name: Hangthebankers
+  fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
+  rss_feeds:
+  - http://www.hangthebankers.com/feed/
+humansarefree:
+  name: Humansarefree
+  fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
+  rss_feeds:
+  - http://humansarefree.com/feeds/posts/default
+  - http://humansarefree.com/feeds/posts/default?alt=rss
+projectveritas:
+  name: Projectveritas
+  fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
+  rss_feeds:
+  - http://projectveritas.com/feed/
+huzlers:
+  name: Huzlers
+  fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
+  rss_feeds:
+  - http://huzlers.com/feed/
+  - http://huzlers.com/home/feed/
+bigpzone:
+  name: Bigpzone
+  fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
+  rss_feeds:
+  - http://TheRundownLive.com/feed/
+  - http://TheRundownLive.com/news/feed/
+realnewsrightnow:
+  name: Realnewsrightnow
+  fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
+  rss_feeds:
+  - http://realnewsrightnow.com/feed/
+bipartisanreport:
+  name: Bipartisanreport
+  fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
+  rss_feeds:
+  - http://bipartisanreport.com/feed/
+redflagnews:
+  name: Redflagnews
+  fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
+  rss_feeds:
+  - http://www.redflagnews.com/headlines-2016?format=RSS
+bizpacreview:
+  name: Bizpacreview
+  fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
+  rss_feeds:
+  - http://www.bizpacreview.com/feed
+  - http://www.bizpacreview.com/sitemap_index.xml
+infowars:
+  name: Infowars
+  fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
+  rss_feeds:
+  - http://www.infowars.com/feed/
+bluenationreview:
+  name: Bluenationreview
+  fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
+  rss_feeds:
+  - http://bluenationreview.com/feed/
+  - http://bluenationreview.com/home/feed/
+callthecops:
+  name: Callthecops
+  fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
+  rss_feeds:
+  - http://www.callthecops.net/feed/
+cap-news:
+  name: Cap-news
+  fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
+  rss_feeds:
+  - http://feeds2.feedburner.com/capnews
+christwire:
+  name: Christwire
+  fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
+  rss_feeds:
+  - http://christwire.org/feed/
+  - http://christwire.org/rss/feed
+  - http://christwire.org/feed
+chronicle:
+  name: Chronicle
+  fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
+  rss_feeds:
+  - http://chronicle.su/feed/
+civictribune:
+  name: Civictribune
+  fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
+  rss_feeds:
+  - http://civictribune.com/feed/
+libertyunyielding:
+  name: Libertyunyielding
+  fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
+  rss_feeds:
+  - http://libertyunyielding.com/feed/
+coasttocoastam:
+  name: Coasttocoastam
+  fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
+  rss_feeds:
+  - itpc://rss.premiereradio.net/coast/podcast.xml
+collective-evolution:
+  name: Collective-evolution
+  fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
+  rss_feeds:
+  - http://www.collective-evolution.com/feed/
+consciouslifenews:
+  name: Consciouslifenews
+  fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
+  rss_feeds:
+  - http://consciouslifenews.com/feed/
+thedailysheeple:
+  name: Thedailysheeple
+  fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
+  rss_feeds:
+  - http://www.thedailysheeple.com/feed
+thenewsnerd:
+  name: Thenewsnerd
+  fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
+  rss_feeds:
+  - http://www.thenewsnerd.com/feed/
+  - http://www.thenewsnerd.com/feed/rss/
+  - http://www.thenewsnerd.com/feed/atom/
+countdowntozerotime:
+  name: Countdowntozerotime
+  fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
+  rss_feeds:
+  - http://countdowntozerotime.com/feed/
+theuspatriot:
+  name: Theuspatriot
+  fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
+  rss_feeds:
+  - http://theuspatriot.com/feed/
+  - http://theuspatriot.com/feed/rss/
+  - http://theuspatriot.com/feed/atom/
+nationalreport:
+  name: Nationalreport
+  fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
+  rss_feeds:
+  - http://nationalreport.net/feed/
+  - http://nationalreport.net/feed/atom/
+creambmp:
+  name: Creambmp
+  fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
+  rss_feeds:
+  - http://creambmp.com/feed/
+naturalnews:
+  name: Naturalnews
+  fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
+  rss_feeds:
+  - http://www.naturalnews.com/rss.xml
+twitchy:
+  name: Twitchy
+  fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
+  rss_feeds:
+  - http://twitchy.com/feed/
+dailybuzzlive:
+  name: Dailybuzzlive
+  fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
+  rss_feeds:
+  - http://dailybuzzlive.com/feed/
+dailycurrant:
+  name: Dailycurrant
+  fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
+  rss_feeds:
+  - http://dailycurrant.com/feed/
+  - http://dailycurrant.com/feed
+newcenturytimes:
+  name: Newcenturytimes
+  fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
+  rss_feeds:
+  - http://newcenturytimes.com/feed/
+usasupreme:
+  name: Usasupreme
+  fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
+  rss_feeds:
+  - http://www.usasupreme.com/feed/
+dailywire:
+  name: Dailywire
+  fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
+  rss_feeds:
+  - http://www.dailywire.com/rss.xml
+news-hound:
+  name: News-hound
+  fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
+  rss_feeds:
+  - http://news-hound.com/feed/
+  - http://news-hound.com/feed/?post_type=news
+  - http://www.responsesource.com/sitemap_index.xml
+dcclothesline:
+  name: Dcclothesline
+  fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
+  rss_feeds:
+  - http://www.dcclothesline.com/feed/
+newsbiscuit:
+  name: Newsbiscuit
+  fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
+  rss_feeds:
+  - http://www.newsbiscuit.com/feed/
+  - http://www.newsbiscuit.com/feed/atom/
+dcgazette:
+  name: Dcgazette
+  fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
+  rss_feeds:
+  - http://thedcgazette.com/feed/
+veteranstoday:
+  name: Veteranstoday
+  fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
+  rss_feeds:
+  - http://www.veteranstoday.com/feed/
+derfmagazine:
+  name: Derfmagazine
+  fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
+  rss_feeds:
+  - http://feeds.derfmagazine.com/derf
+disclose:
+  name: Disclose
+  fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
+  rss_feeds:
+  - http://disclose.tv/rss/
+  - http://disclose.tv/rss/blogs/
+  - http://disclose.tv/rss/media/type/
+  - http://disclose.tv/rss/media/type/video/
+  - http://disclose.tv/rss/media/type/photo/
+  - http://disclose.tv/rss/media/type/audio/
+  - http://disclose.tv/rss/media/type/document/
+  - http://disclose.tv/rss/media/type/new/
+duffelblog:
+  name: Duffelblog
+  fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
+  rss_feeds:
+  - http://www.duffelblog.com/feed/
+  - http://www.duffelblog.com/feed/rss/
+  - http://www.duffelblog.com/feed/atom/
+  - http://www.duffelblog.com/homepage2/feed/
+witscience:
+  name: Witscience
+  fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
+  rss_feeds:
+  - http://witscience.org/feed/
+  - http://witscience.org/feed/rss/
+  - http://witscience.org/feed/atom/
+duhprogressive:
+  name: Duhprogressive
+  fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
+  rss_feeds:
+  - http://duhprogressive.com/~duhprogr/index.php?format=feed&type=rss
+  - http://duhprogressive.com/~duhprogr/index.php?format=feed&type=atom
+nodisinfo:
+  name: Nodisinfo
+  fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
+  rss_feeds:
+  - http://nodisinfo.com/feed/
+embols:
+  name: Embols
+  fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
+  rss_feeds:
+  - http://embols.com/feed/
+worldnewsdailyreport:
+  name: Worldnewsdailyreport
+  fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
+  rss_feeds:
+  - http://worldnewsdailyreport.com/feed/
+  - http://worldnewsdailyreport.com/news/feed/
+occupydemocrats:
+  name: Occupydemocrats
+  fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
+  rss_feeds:
+  - http://occupydemocrats.com/feed/
+  - http://occupydemocrats.com/feed/rss/
+  - http://occupydemocrats.com/feed/atom/
+zerohedge:
+  name: Zerohedge
+  fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
+  rss_feeds:
+  - http://feeds.feedburner.com/zerohedge/feed
+endingthefed:
+  name: Endingthefed
+  fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
+  rss_feeds:
+  - http://endingthefed.com/feed
