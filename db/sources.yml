@@ -709,3 +709,7 @@ waypoint:
   name: Waypoint
   rss_feeds:
   - http://waypoint.vice.com/en_us/rss
+noisey:
+  name: Noisey
+  rss_feeds:
+  - http://noisey.vice.com/en_us/rss
