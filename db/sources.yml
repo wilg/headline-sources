@@ -713,3 +713,11 @@ noisey:
   name: Noisey
   rss_feeds:
   - http://noisey.vice.com/en_us/rss
+motherboard:
+  name: Motherboard
+  rss_feeds:
+  - http://motherboard.vice.com/rss?trk_source=motherboard
+broadly:
+  name: Broadly
+  rss_feeds:
+  - https://broadly.vice.com/en_us/rss
