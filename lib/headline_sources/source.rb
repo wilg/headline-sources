@@ -1,7 +1,7 @@
 module HeadlineSources
   class Source
 
-    attr_accessor :name, :default, :id, :category, :dead, :feeds, :rules
+    attr_accessor :name, :default, :id, :category, :dead, :feeds, :rules, :fake_source
 
     def self.load_hash(hash)
       hash.map do |k, v|
@@ -13,6 +13,7 @@ module HeadlineSources
         s.category = v['category']
         s.default = !!v['default']
         s.dead = !!v['dead']
+        s.fake_source = v['fake_source']
         s
       end
     end
@@ -86,6 +87,7 @@ module HeadlineSources
         category: category,
         default: default,
         dead: dead,
+        fake_source: fake_source,
       }
     end
 
