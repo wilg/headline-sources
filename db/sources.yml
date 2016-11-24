@@ -729,3 +729,23 @@ vice_sports:
   name: Vice sports
   rss_feeds:
   - https://sports.vice.com/en_us/rss
+thecreatorsproject:
+  name: Thecreatorsproject
+  rss_feeds:
+  - http://thecreatorsproject.vice.com/rss
+thump:
+  name: Thump
+  rss_feeds:
+  - https://thump.vice.com/en_us/rss
+i-d:
+  name: I-d
+  rss_feeds:
+  - https://i-d.vice.com/en_us/rss
+tonic:
+  name: Tonic
+  rss_feeds:
+  - http://tonic.vice.com/en_us/rss
+fightland:
+  name: Fightland
+  rss_feeds:
+  - http://fightland.vice.com/rss
