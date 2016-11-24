@@ -698,4 +698,8 @@ nationalreview:
   rules:
   - url: http://www.nationalreview.com/
     selector: ".homepage_item"
-    text_selector: .homepage_item_title
+    text_selector: ".homepage_item_title"
+vice:
+  name: Vice
+  rss_feeds:
+  - http://www.vice.com/rss
