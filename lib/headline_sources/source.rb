@@ -30,9 +30,8 @@ module HeadlineSources
       all.sort_by{|s| s.category}.group_by{|s| s.category }
     end
 
-    @@all_sources = nil
     def self.all
-      @@all_sources ||= load_hash(YAML.load_file(File.expand_path("../../../db/sources.yml", __FILE__)))
+      @all_sources ||= load_hash(YAML.load_file(File.expand_path("../../../db/sources.yml", __FILE__)))
     end
 
     def fetchers(*args)
