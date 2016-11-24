@@ -190,6 +190,7 @@ gawker:
   name: Gawker
   category: Hypersensational
   default: false
+  dead: true
 defamer:
   name: Defamer
   category: Entertainment
@@ -564,6 +565,7 @@ knowmore:
   category: Hypersensational
   rss_feeds:
   - http://knowmore.washingtonpost.com/feed/
+  dead: true
 boingboing:
   name: Boing Boing
   category: Geek
@@ -586,6 +588,7 @@ cookinglight:
   name: Cooking Light
   rss_feeds:
   - http://feeds.cookinglight.com/CookingLight/latest
+  dead: true
 cosmosmagazine:
   name: Cosmos
   rss_feeds:
