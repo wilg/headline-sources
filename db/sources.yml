@@ -749,3 +749,7 @@ fightland:
   name: Fightland
   rss_feeds:
   - http://fightland.vice.com/rss
+dailydot:
+  name: Dailydot
+  rss_feeds:
+  - http://www.dailydot.com/feed/summary/latest/
