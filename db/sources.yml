@@ -703,3 +703,7 @@ vice:
   name: Vice
   rss_feeds:
   - http://www.vice.com/rss
+waypoint:
+  name: Waypoint
+  rss_feeds:
+  - http://waypoint.vice.com/en_us/rss
