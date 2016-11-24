@@ -584,6 +584,7 @@ viralfury:
   category: Hypersensational
   rss_feeds:
   - http://viralfury.com/feed/
+  dead: true
 cookinglight:
   name: Cooking Light
   rss_feeds:
