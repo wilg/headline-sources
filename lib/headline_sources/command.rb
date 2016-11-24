@@ -118,7 +118,7 @@ module HeadlineSources
     end
 
     desc "add", "attempt to add a website to the list of fetchers"
-    def add_site(url)
+    def add_site(url, id = nil)
       puts url
 
       # Find Feeds
@@ -132,7 +132,7 @@ module HeadlineSources
       end
 
       uri = URI.parse(url)
-      id = uri.host.split(".")[-2]
+      id ||= uri.host.split(".")[-2]
       puts "ID for source: #{id}"
 
       # Update YML
