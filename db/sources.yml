@@ -369,6 +369,8 @@ nytimes:
   name: New York Times
   category: News
   default: true
+  rss:
+  - https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
 latimes:
   name: Los Angeles Times
   category: News
