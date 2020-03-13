@@ -42,6 +42,7 @@ faith_it:
   name: FaithIt
   category: Opinion - Conservative
   default: false
+  dead: true
 lifehacker:
   name: Lifehacker
   category: Geek

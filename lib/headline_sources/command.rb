@@ -190,7 +190,7 @@ module HeadlineSources
       puts "ID for source: #{id}"
 
       # Update YML
-      current = get_config(id)
+      current = get_config(id) || {}
 
       update = {}
       update["name"] = id.humanize if current["name"].blank?
