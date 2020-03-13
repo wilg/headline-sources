@@ -1285,3 +1285,7 @@ abcnews:
   name: ABC News
   rss:
   - http://feeds.abcnews.com/abcnews/topstories
+prnewswire:
+  name: PR Newswire
+  rss:
+  - https://www.prnewswire.com/rss/news-releases-list.rss
