@@ -60,13 +60,16 @@ module HeadlineSources
     desc "check", "check which sources are working"
     method_option :halt_on_failure, :default => false, type: :boolean, aliases: "-i"
     method_option :skip, type: :array, aliases: "-s"
+    method_option :only, type: :array, aliases: "-o"
     method_option :dead_on_failure, type: :boolean, aliases: "--kill"
     def check
       working = []
       skips = options[:skip] || []
+      only = options[:only] || []
       Source.all.each do |source|
         next if source.dead
         next if skips.include?(source.id.to_s)
+        next if only.present? && !only.include?(source.id.to_s)
         puts "Checking source #{source.name} (#{source.id})".cyan
         begin
           source.fetchers(MemoryStore).each do |fetcher|

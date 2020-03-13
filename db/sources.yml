@@ -1272,3 +1272,12 @@ cnbc:
   name: CNBC
   rss:
   - https://www.cnbc.com/id/100003114/device/rss/rss.html
+wsj:
+  name: The Wall Street Journal
+  rss:
+  - https://feeds.a.dj.com/rss/RSSOpinion.xml
+  - https://feeds.a.dj.com/rss/RSSWorldNews.xml
+  - https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml
+  - https://feeds.a.dj.com/rss/RSSMarketsMain.xml
+  - https://feeds.a.dj.com/rss/RSSWSJD.xml
+  - https://feeds.a.dj.com/rss/RSSLifestyle.xml
