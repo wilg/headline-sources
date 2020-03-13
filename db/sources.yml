@@ -1289,3 +1289,7 @@ prnewswire:
   name: PR Newswire
   rss:
   - https://www.prnewswire.com/rss/news-releases-list.rss
+vanityfair:
+  name: Vanity Fair
+  rss:
+  - https://www.vanityfair.com/feed/rss
