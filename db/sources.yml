@@ -1353,3 +1353,7 @@ theintercept:
   name: The Intercept
   rss:
   - https://theintercept.com/sitemap_index.xml
+indarktimes:
+  name: In Dark Times
+  rss:
+  - https://www.indarktimes.com/feed/
