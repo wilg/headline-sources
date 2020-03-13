@@ -195,7 +195,7 @@ module HeadlineSources
 
       update = {}
       update["name"] = id.humanize if current["name"].blank?
-      update["rss"] = current_rss + feeds
+      update["rss"] = (current_rss || []) + (feeds || [])
 
       is_dead = update["rss"].blank?
       update["dead"] = true if is_dead
