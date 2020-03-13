@@ -23,6 +23,11 @@ alternet:
   name: Alternet
   category: Opinion - Progressive
   default: false
+  rss:
+  - https://www.alternet.org/feed/
+  - https://www.alternet.org/feed/atom/
+  - https://www.alternet.org/comments/feed/
+  - https://www.alternet.org/feed
 rawstory:
   name: The Raw Story
   category: Opinion - Progressive
@@ -31,6 +36,8 @@ newsbusters:
   name: NewsBusters
   category: Opinion - Conservative
   default: false
+  rss:
+  - https://www.newsbusters.org/blog/feed
 faith_it:
   name: FaithIt
   category: Opinion - Conservative

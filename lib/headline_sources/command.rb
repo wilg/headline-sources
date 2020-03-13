@@ -71,6 +71,10 @@ module HeadlineSources
         begin
           source.fetchers(MemoryStore).each do |fetcher|
             fetcher.fetch!({start_at: 0, write_progress: false, dry_run: true})
+            if fetcher.new_headlines_this_run.zero?
+              puts "Fetcher ran, but did not fetch any headlines. It may be broken.".red
+              raise
+            end
           end
           working << source.id
         rescue StandardError
