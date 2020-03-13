@@ -4,15 +4,15 @@ hackernews:
   category: Geek
   default: false
   rss:
-    - https://hnrss.org/newest
-    - https://hnrss.org/frontpage
+  - https://hnrss.org/newest
+  - https://hnrss.org/frontpage
 theblaze:
   name: The Blaze
   category: Opinion - Conservative
   default: false
   rss:
-    - http://www.theblaze.com/stories/feed/
-    - http://www.theblaze.com/feed/
+  - http://www.theblaze.com/stories/feed/
+  - http://www.theblaze.com/feed/
 breitbart:
   name: Breitbart
   category: Opinion - Conservative
@@ -40,7 +40,7 @@ lifehacker:
   category: Geek
   default: false
   rss:
-    - https://lifehacker.com/rss
+  - https://lifehacker.com/rss
 daringfireball:
   name: Daring Fireball Links
   category: Geek
@@ -54,7 +54,7 @@ gizmodo:
   category: Geek
   default: false
   rss:
-    - https://gizmodo.com/rss
+  - https://gizmodo.com/rss
 valleywag:
   name: Valleywag
   category: Geek
@@ -73,7 +73,7 @@ cns_news:
   category: Opinion - Conservative
   default: false
   rss:
-    - https://www.cnsnews.com/index.php/feed/blog
+  - https://www.cnsnews.com/index.php/feed/blog
 hot_air:
   name: HotAir
   category: Opinion - Conservative
@@ -88,8 +88,8 @@ sb_nation:
   category: Sports
   default: false
   rss:
-    - https://www.sbnation.com/rss/current.xml
-    - https://www.sbnation.com/rss/front-page/index.xml
+  - https://www.sbnation.com/rss/current.xml
+  - https://www.sbnation.com/rss/front-page/index.xml
 nypost:
   name: New York Post
   category: Opinion - Conservative
@@ -99,51 +99,51 @@ huffpost_blogs:
   category: Opinion - Progressive
   default: false
   rss:
-    - https://www.huffpost.com/section/front-page/feed
-    - https://www.huffpost.com/section/asian-voices/feed
-    - https://www.huffpost.com/section/black-voices/feed
-    - https://www.huffpost.com/section/books/feed
-    - https://www.huffpost.com/section/business/feed
-    - https://www.huffpost.com/section/celebrity/feed
-    - https://www.huffpost.com/section/college/feed
-    - https://www.huffpost.com/section/comedy/feed
-    - https://www.huffpost.com/section/crime/feed
-    - https://www.huffpost.com/section/arts/feed
-    - https://www.huffpost.com/section/divorce/feed
-    - https://www.huffpost.com/section/education/feed
-    - https://www.huffpost.com/section/entertainment/feed
-    - https://www.huffpost.com/section/green/feed
-    - https://www.huffpost.com/section/taste/feed
-    - https://www.huffpost.com/section/health/feed
-    - https://www.huffpost.com/section/huffpost-home/feed
-    - https://www.huffpost.com/section/huffpost-code/feed
-    - https://www.huffpost.com/section/huffpost-personal/feed
-    - https://www.huffpost.com/section/impact/feed
-    - https://www.huffpost.com/section/latino-voices/feed
-    - https://www.huffpost.com/section/media/feed
-    - https://www.huffpost.com/section/money/feed
-    - https://www.huffpost.com/section/own/feed
-    - https://www.huffpost.com/section/opinion/feed
-    - https://www.huffpost.com/section/parents/feed
-    - https://www.huffpost.com/section/politics/feed
-    - https://www.huffpost.com/section/fifty/feed
-    - https://www.huffpost.com/section/queer-voices/feed
-    - https://www.huffpost.com/section/relationships/feed
-    - https://www.huffpost.com/section/religion/feed
-    - https://www.huffpost.com/section/science/feed
-    - https://www.huffpost.com/section/sports/feed
-    - https://www.huffpost.com/section/style/feed
-    - https://www.huffpost.com/section/tv/feed
-    - https://www.huffpost.com/section/technology/feed
-    - https://www.huffpost.com/section/teen/feed
-    - https://www.huffpost.com/section/travel/feed
-    - https://www.huffpost.com/section/us-news/feed
-    - https://www.huffpost.com/section/video/feed
-    - https://www.huffpost.com/section/weddings/feed
-    - https://www.huffpost.com/section/weird-news/feed
-    - https://www.huffpost.com/section/healthy-living/feed
-    - https://www.huffpost.com/section/women/feed
-    - https://www.huffpost.com/section/worklife/feed
+  - https://www.huffpost.com/section/front-page/feed
+  - https://www.huffpost.com/section/asian-voices/feed
+  - https://www.huffpost.com/section/black-voices/feed
+  - https://www.huffpost.com/section/books/feed
+  - https://www.huffpost.com/section/business/feed
+  - https://www.huffpost.com/section/celebrity/feed
+  - https://www.huffpost.com/section/college/feed
+  - https://www.huffpost.com/section/comedy/feed
+  - https://www.huffpost.com/section/crime/feed
+  - https://www.huffpost.com/section/arts/feed
+  - https://www.huffpost.com/section/divorce/feed
+  - https://www.huffpost.com/section/education/feed
+  - https://www.huffpost.com/section/entertainment/feed
+  - https://www.huffpost.com/section/green/feed
+  - https://www.huffpost.com/section/taste/feed
+  - https://www.huffpost.com/section/health/feed
+  - https://www.huffpost.com/section/huffpost-home/feed
+  - https://www.huffpost.com/section/huffpost-code/feed
+  - https://www.huffpost.com/section/huffpost-personal/feed
+  - https://www.huffpost.com/section/impact/feed
+  - https://www.huffpost.com/section/latino-voices/feed
+  - https://www.huffpost.com/section/media/feed
+  - https://www.huffpost.com/section/money/feed
+  - https://www.huffpost.com/section/own/feed
+  - https://www.huffpost.com/section/opinion/feed
+  - https://www.huffpost.com/section/parents/feed
+  - https://www.huffpost.com/section/politics/feed
+  - https://www.huffpost.com/section/fifty/feed
+  - https://www.huffpost.com/section/queer-voices/feed
+  - https://www.huffpost.com/section/relationships/feed
+  - https://www.huffpost.com/section/religion/feed
+  - https://www.huffpost.com/section/science/feed
+  - https://www.huffpost.com/section/sports/feed
+  - https://www.huffpost.com/section/style/feed
+  - https://www.huffpost.com/section/tv/feed
+  - https://www.huffpost.com/section/technology/feed
+  - https://www.huffpost.com/section/teen/feed
+  - https://www.huffpost.com/section/travel/feed
+  - https://www.huffpost.com/section/us-news/feed
+  - https://www.huffpost.com/section/video/feed
+  - https://www.huffpost.com/section/weddings/feed
+  - https://www.huffpost.com/section/weird-news/feed
+  - https://www.huffpost.com/section/healthy-living/feed
+  - https://www.huffpost.com/section/women/feed
+  - https://www.huffpost.com/section/worklife/feed
 thinkprogress:
   name: ThinkProgress
   category: Opinion - Progressive
@@ -193,15 +193,14 @@ pitchfork:
   category: Entertainment
   default: true
   rss:
-    - http://pitchfork.com/rss/reviews/albums/
-    - http://pitchfork.com/rss/reviews/tracks/
-    - http://pitchfork.com/rss/reviews/best/albums/
-    - http://pitchfork.com/rss/reviews/best/reissues/
-    - http://pitchfork.com/rss/reviews/best/tracks/
-    - http://pitchfork.com/rss/news/
-    - http://pitchfork.com/rss/thepitch/
-    - http://pitchfork.com/rss/features/
-
+  - http://pitchfork.com/rss/reviews/albums/
+  - http://pitchfork.com/rss/reviews/tracks/
+  - http://pitchfork.com/rss/reviews/best/albums/
+  - http://pitchfork.com/rss/reviews/best/reissues/
+  - http://pitchfork.com/rss/reviews/best/tracks/
+  - http://pitchfork.com/rss/news/
+  - http://pitchfork.com/rss/thepitch/
+  - http://pitchfork.com/rss/features/
 spin:
   name: Spin
   category: Entertainment
@@ -301,21 +300,21 @@ cnn_blog:
   category: News
   default: false
   rss:
-    - http://rss.cnn.com/rss/cnn_topstories.rss
-    - http://rss.cnn.com/rss/cnn_world.rss
-    - http://rss.cnn.com/rss/cnn_us.rss
-    - http://rss.cnn.com/rss/money_latest.rss
-    - http://rss.cnn.com/rss/cnn_allpolitics.rss
-    - http://rss.cnn.com/rss/cnn_crime.rss
-    - http://rss.cnn.com/rss/cnn_tech.rss
-    - http://rss.cnn.com/rss/cnn_health.rss
-    - http://rss.cnn.com/rss/cnn_showbiz.rss
-    - http://rss.cnn.com/rss/cnn_travel.rss
-    - http://rss.cnn.com/rss/cnn_living.rss
-    - http://rss.cnn.com/rss/cnn_freevideo.rss
-    - http://rss.cnn.com/rss/cnn_studentnews.rss
-    - http://rss.cnn.com/rss/cnn_mostpopular.rss
-    - http://rss.cnn.com/rss/cnn_latest.rss
+  - http://rss.cnn.com/rss/cnn_topstories.rss
+  - http://rss.cnn.com/rss/cnn_world.rss
+  - http://rss.cnn.com/rss/cnn_us.rss
+  - http://rss.cnn.com/rss/money_latest.rss
+  - http://rss.cnn.com/rss/cnn_allpolitics.rss
+  - http://rss.cnn.com/rss/cnn_crime.rss
+  - http://rss.cnn.com/rss/cnn_tech.rss
+  - http://rss.cnn.com/rss/cnn_health.rss
+  - http://rss.cnn.com/rss/cnn_showbiz.rss
+  - http://rss.cnn.com/rss/cnn_travel.rss
+  - http://rss.cnn.com/rss/cnn_living.rss
+  - http://rss.cnn.com/rss/cnn_freevideo.rss
+  - http://rss.cnn.com/rss/cnn_studentnews.rss
+  - http://rss.cnn.com/rss/cnn_mostpopular.rss
+  - http://rss.cnn.com/rss/cnn_latest.rss
 guardian_blogs:
   name: The Guardian
   category: News
@@ -345,6 +344,14 @@ npr:
   name: NPR
   category: News
   default: false
+  rss:
+  - https://www.npr.org/rss/rss.php?id=1002
+  - https://www.npr.org/rss/rss.php?id=1001
+  - https://www.npr.org/rss/rss.php?id=1039
+  - https://www.npr.org/rss/rss.php?id=1032
+  - https://www.npr.org/rss/rss.php?id=3
+  - https://www.npr.org/rss/rss.php?id=2
+  - https://www.npr.org/rss/rss.php?id=35
 slate:
   name: Slate
   category: News
