@@ -1293,3 +1293,8 @@ vanityfair:
   name: Vanity Fair
   rss:
   - https://www.vanityfair.com/feed/rss
+seattletimes:
+  name: The Seattle Times
+  rss:
+  - https://www.seattletimes.com/feed/
+  - https://www.seattletimes.com/comments/feed/
