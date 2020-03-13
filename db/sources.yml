@@ -1109,6 +1109,9 @@ naturalnews:
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
   rss:
   - http://www.naturalnews.com/rss.xml
+  - https://www.naturalnews.com/rss.xml
+  - https://www.naturalnews.com/FeedlyRSS.xml
+  - https://www.naturalnews.com/AppleRSS.xml
 twitchy:
   name: Twitchy
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
@@ -1357,3 +1360,12 @@ indarktimes:
   name: In Dark Times
   rss:
   - https://www.indarktimes.com/feed/
+liberaladvocate:
+  name: The Liberal Advocate
+  rss:
+  - https://liberaladvocate.com/feed/
+worldtruth:
+  name: WorldTruth.tv
+  fake_source: https://www.benzinga.com/general/education/17/03/9108299/8-of-the-most-popular-fake-news-websites
+  rss:
+  - https://worldtruth.tv/feed/
