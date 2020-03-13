@@ -59,16 +59,26 @@ module HeadlineSources
 
     desc "check", "check which sources are working"
     method_option :halt_on_failure, :default => false, type: :boolean, aliases: "-i"
+    method_option :skip, type: :array, aliases: "-s"
     def check
+      working = []
+      skips = options[:skip] || []
       Source.all.each do |source|
-        puts "Checking source #{source.name}".cyan
+        next if source.dead
+        next if skips.include?(source.id.to_s)
+        puts "Checking source #{source.name} (#{source.id})".cyan
         begin
           source.fetchers(MemoryStore).each do |fetcher|
             fetcher.fetch!({start_at: 0, write_progress: false, dry_run: true})
           end
+          working << source.id
         rescue StandardError
           puts "Error occured on source '#{source.name}'".red
-          break if options[:halt_on_failure]
+          if options[:halt_on_failure]
+            puts "To try again while skipping successes, use this command:"
+            puts "bin/headline-sources check -i -s #{(skips + working).join(" ")}"
+            break
+          end
         end
       end
     end
@@ -157,7 +167,7 @@ module HeadlineSources
 
       current_sources[id] = (current_sources[id] || {}).merge({
         "name" => id.humanize,
-        "rss_feeds" => feeds,
+        "rss" => feeds,
       })
 
       File.write(yaml_path, current_sources.to_yaml)

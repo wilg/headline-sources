@@ -3,21 +3,21 @@ hackernews:
   name: Hacker News
   category: Geek
   default: false
-  rss_feeds:
+  rss:
     - https://hnrss.org/newest
     - https://hnrss.org/frontpage
 theblaze:
   name: The Blaze
   category: Opinion - Conservative
   default: false
-  rss_feeds:
+  rss:
     - http://www.theblaze.com/stories/feed/
     - http://www.theblaze.com/feed/
 breitbart:
   name: Breitbart
   category: Opinion - Conservative
   default: false
-  rss_feeds:
+  rss:
   - http://feeds.feedburner.com/breitbart
 alternet:
   name: Alternet
@@ -39,7 +39,7 @@ lifehacker:
   name: Lifehacker
   category: Geek
   default: false
-  rss_feeds:
+  rss:
     - https://lifehacker.com/rss
 daringfireball:
   name: Daring Fireball Links
@@ -53,7 +53,7 @@ gizmodo:
   name: Gizmodo
   category: Geek
   default: false
-  rss_feeds:
+  rss:
     - https://gizmodo.com/rss
 valleywag:
   name: Valleywag
@@ -72,6 +72,8 @@ cns_news:
   name: CNS News
   category: Opinion - Conservative
   default: false
+  rss:
+    - https://www.cnsnews.com/index.php/feed/blog
 hot_air:
   name: HotAir
   category: Opinion - Conservative
@@ -80,10 +82,14 @@ deadspin:
   name: Deadspin
   category: Sports
   default: false
+  rss: https://deadspin.com/rss
 sb_nation:
   name: SBNation
   category: Sports
   default: false
+  rss:
+    - https://www.sbnation.com/rss/current.xml
+    - https://www.sbnation.com/rss/front-page/index.xml
 nypost:
   name: New York Post
   category: Opinion - Conservative
@@ -92,16 +98,52 @@ huffpost_blogs:
   name: Huffington Post
   category: Opinion - Progressive
   default: false
-  rss_feeds:
-  - http://feeds.huffingtonpost.com/huffingtonpost/raw_feed
-  - http://feeds.huffingtonpost.com/huffingtonpost/LatestNews
-  - http://feeds.huffingtonpost.com/huffingtonpost/TheBlog
-  - http://feeds.huffingtonpost.com/FeaturedPosts
-  - http://www.huffingtonpost.com/feeds/original_posts/index.xml
-  - http://www.huffingtonpost.com/wires/full_index.rdf
-  - http://www.huffingtonpost.com/feeds/index.xml
-  - http://www.huffingtonpost.com/feeds/news.xml
-  - http://www.huffingtonpost.com/feeds/blog.xml
+  rss:
+    - https://www.huffpost.com/section/front-page/feed
+    - https://www.huffpost.com/section/asian-voices/feed
+    - https://www.huffpost.com/section/black-voices/feed
+    - https://www.huffpost.com/section/books/feed
+    - https://www.huffpost.com/section/business/feed
+    - https://www.huffpost.com/section/celebrity/feed
+    - https://www.huffpost.com/section/college/feed
+    - https://www.huffpost.com/section/comedy/feed
+    - https://www.huffpost.com/section/crime/feed
+    - https://www.huffpost.com/section/arts/feed
+    - https://www.huffpost.com/section/divorce/feed
+    - https://www.huffpost.com/section/education/feed
+    - https://www.huffpost.com/section/entertainment/feed
+    - https://www.huffpost.com/section/green/feed
+    - https://www.huffpost.com/section/taste/feed
+    - https://www.huffpost.com/section/health/feed
+    - https://www.huffpost.com/section/huffpost-home/feed
+    - https://www.huffpost.com/section/huffpost-code/feed
+    - https://www.huffpost.com/section/huffpost-personal/feed
+    - https://www.huffpost.com/section/impact/feed
+    - https://www.huffpost.com/section/latino-voices/feed
+    - https://www.huffpost.com/section/media/feed
+    - https://www.huffpost.com/section/money/feed
+    - https://www.huffpost.com/section/own/feed
+    - https://www.huffpost.com/section/opinion/feed
+    - https://www.huffpost.com/section/parents/feed
+    - https://www.huffpost.com/section/politics/feed
+    - https://www.huffpost.com/section/fifty/feed
+    - https://www.huffpost.com/section/queer-voices/feed
+    - https://www.huffpost.com/section/relationships/feed
+    - https://www.huffpost.com/section/religion/feed
+    - https://www.huffpost.com/section/science/feed
+    - https://www.huffpost.com/section/sports/feed
+    - https://www.huffpost.com/section/style/feed
+    - https://www.huffpost.com/section/tv/feed
+    - https://www.huffpost.com/section/technology/feed
+    - https://www.huffpost.com/section/teen/feed
+    - https://www.huffpost.com/section/travel/feed
+    - https://www.huffpost.com/section/us-news/feed
+    - https://www.huffpost.com/section/video/feed
+    - https://www.huffpost.com/section/weddings/feed
+    - https://www.huffpost.com/section/weird-news/feed
+    - https://www.huffpost.com/section/healthy-living/feed
+    - https://www.huffpost.com/section/women/feed
+    - https://www.huffpost.com/section/worklife/feed
 thinkprogress:
   name: ThinkProgress
   category: Opinion - Progressive
@@ -268,11 +310,11 @@ npr:
 slate:
   name: Slate
   category: News
-  rss_feeds: http://www.slate.com/all.fulltext.all.rss
+  rss: http://www.slate.com/all.fulltext.all.rss
 nymag:
   name: New York Magazine
   category: Entertainment
-  rss_feeds:
+  rss:
   - http://feeds.feedburner.com/nymag/intelligencer
   - http://feeds.feedburner.com/nymag/fashion
   - http://feeds.feedburner.com/nymag/grubstreet
@@ -285,7 +327,7 @@ nytimes:
 latimes:
   name: Los Angeles Times
   category: News
-  rss_feeds: http://www.latimes.com/rss2.0.xml
+  rss: http://www.latimes.com/rss2.0.xml
 r_politics:
   name: r/politics
   category: Reddit
@@ -314,12 +356,12 @@ nytimes_lede:
 ryot:
   name: RYOT
   category: Hypersensational
-  rss_feeds:
+  rss:
   - http://www.ryot.org/feed
 time:
   name: TIME
   category: News
-  rss_feeds:
+  rss:
   - http://newsfeed.time.com/feed/
   - http://swampland.time.com/feed/
   - http://techland.time.com/feed/
@@ -328,17 +370,17 @@ time:
 people:
   name: People
   category: Entertainment
-  rss_feeds:
+  rss:
   - http://people.com/feed/
 msnbc:
   name: msnbc
   category: News
-  rss_feeds:
+  rss:
   - http://www.msnbc.com/feeds/latest
 vh1:
   name: VH1
   category: Entertainment
-  rss_feeds:
+  rss:
   - http://www.vh1.com/news/feed/
   - http://blog.vh1.com/feed/
   - http://www.vh1.com/celebrity/feed/
@@ -348,39 +390,39 @@ vh1:
 hellogiggles:
   name: HelloGiggles
   category: Entertainment
-  rss_feeds:
+  rss:
   - http://hellogiggles.com/feed
 laughingsquid:
   name: Laughing Squid
   category: Entertainment
-  rss_feeds:
+  rss:
   - http://feeds.laughingsquid.com/laughingsquid
 zimbio:
   name: Zimbio
   category: Entertainment
-  rss_feeds:
+  rss:
   - http://www.zimbio.com/rss
 stylebistro:
   name: StyleBistro
   category: Entertainment
-  rss_feeds:
+  rss:
   - http://www.stylebistro.com/rss
   dead: true
 lonny:
   name: Lonny
   category: Entertainment
-  rss_feeds:
+  rss:
   - http://www.lonny.com/rss
 thedailywhat:
   name: The Daily What
   category: Entertainment
-  rss_feeds:
+  rss:
   - http://thedailywh.at/feed/
   dead: true
 cheezburger:
   name: Cheezburger
   category: Entertainment
-  rss_feeds:
+  rss:
   - http://feeds.feedblitz.com/icanhascheezburger
   - http://feeds.feedblitz.com/AnimalCapshunz
   - http://feeds.feedblitz.com/AnimalGifs
@@ -430,25 +472,25 @@ cheezburger:
 accesshollywood:
   name: Access Hollywood
   category: Entertainment
-  rss_feeds: http://feeds.accesshollywood.com/AccessHollywood/LatestNews
+  rss: http://feeds.accesshollywood.com/AccessHollywood/LatestNews
 fastcompany:
   name: Fast Company
   category: Geek
-  rss_feeds:
+  rss:
   - http://www.fastcompany.com/rss.xml
 mtv:
   name: MTV
   category: Entertainment
-  rss_feeds: http://www.mtv.com/news/feed/
+  rss: http://www.mtv.com/news/feed/
 mirror:
   name: Mirror
   category: News
-  rss_feeds:
+  rss:
   - http://www.mirror.co.uk/rss.xml
 theindependent:
   name: The Independent
   category: News
-  rss_feeds:
+  rss:
   - http://www.independent.co.uk/rss
   - http://rss.feedsportal.com/c/266/f/3792/index.rss
   - http://rss.feedsportal.com/c/266/f/3800/index.rss
@@ -465,7 +507,7 @@ theindependent:
 telegraph:
   name: The Telegraph
   category: News
-  rss_feeds:
+  rss:
   - http://www.telegraph.co.uk/rss
   - http://www.telegraph.co.uk/news/rss
   - http://www.telegraph.co.uk/news/worldnews/rss
@@ -479,13 +521,13 @@ telegraph:
 nbcnews:
   name: NBC News
   category: News
-  rss_feeds:
+  rss:
   - http://feeds.nbcnews.com/feeds/dailynightly
   - http://feeds.nbcnews.com/feeds/topstories
 usatoday:
   name: USA Today
   category: News
-  rss_feeds:
+  rss:
   - http://rssfeeds.usatoday.com/usatoday-NewsTopStories
   - http://rssfeeds.usatoday.com/UsatodaycomSports-TopStories
   - http://rssfeeds.usatoday.com/usatoday-LifeTopStories
@@ -496,96 +538,96 @@ usatoday:
 womenshealthmag:
   name: Women's Health
   category: Entertainment
-  rss_feeds:
+  rss:
   - http://www.womenshealthmag.com/washpofeed
   dead: true
 ign:
   name: IGN.com
-  rss_feeds: http://feeds.ign.com/ign/all
+  rss: http://feeds.ign.com/ign/all
   category: Geek
 gamespot:
   name: GameSpot
   category: Geek
-  rss_feeds: http://www.gamespot.com/feeds/mashup/
+  rss: http://www.gamespot.com/feeds/mashup/
 n4g:
   name: N4G
   category: Geek
-  rss_feeds:
+  rss:
   - http://n4g.com/rss/news?channel=&sort=latest
   - http://n4g.com/rss/news?channel=&sort=today
   - http://n4g.com/rss/news?channel=&sort=week
 theescapist:
   name: The Escapist
   category: Geek
-  rss_feeds:
+  rss:
   - http://www.escapistmagazine.com/rss/news
 pcgamer:
   name: PC Gamer
   category: Geek
-  rss_feeds: http://www.pcgamer.com/rss/
+  rss: http://www.pcgamer.com/rss/
 neoseeker:
   name: Neoseeker
   category: Geek
-  rss_feeds:
+  rss:
   - http://www.neoseeker.com/feeds/news/?type=rss0.91
   - http://www.neoseeker.com/feeds/articles/?type=rss0.91
 engadget:
   name: Engadget
   category: Geek
-  rss_feeds:
+  rss:
   - http://www.engadget.com/rss.xml
   - http://www.engadget.com/tag/@gaming/rss.xml
 gamesradar:
   name: GamesRadar
   category: Geek
-  rss_feeds:
+  rss:
   - http://www.gamesradar.com/all-platforms/news/rss/
 thoughtcatalog:
   name: Thought Catalog
   category: Hypersensational
-  rss_feeds:
+  rss:
   - http://thoughtcatalog.com/feed/
 elitedaily:
   name: Elite Daily
   category: Hypersensational
-  rss_feeds: http://elitedaily.com/feed/
+  rss: http://elitedaily.com/feed/
 conservativehideout:
   name: Conservative Hideout
   category: Opinion - Conservative
-  rss_feeds:
+  rss:
   - http://conservativehideout.com/feed/
   dead: true
 maxim:
   name: Maxim
-  rss_feeds:
+  rss:
   - http://www.maxim.com/.rss/full/
 american_rifleman:
   name: American Rifleman
-  rss_feeds:
+  rss:
   - http://www.americanrifleman.org/rss
 bon_appetit:
   name: Bon Appétit
-  rss_feeds:
+  rss:
   - http://www.bonappetit.com/rss2
 twistedsifter:
   name: TwistedSifter
   category: Hypersensational
-  rss_feeds:
+  rss:
   - http://twistedsifter.com/feed/
 knowmore:
   name: Know More
   category: Hypersensational
-  rss_feeds:
+  rss:
   - http://knowmore.washingtonpost.com/feed/
   dead: true
 boingboing:
   name: Boing Boing
   category: Geek
-  rss_feeds: http://boingboing.net/feed
+  rss: http://boingboing.net/feed
 9gag:
   name: 9GAG
   category: Hypersensational
-  rss_feeds:
+  rss:
   - http://9gag-rss.com/api/rss/get?code=9GAG&format=2
   - http://9gag-rss.com/api/rss/get?code=9GAGHot&format=2
   - http://9gag-rss.com/api/rss/get?code=9GAGFresh&format=2
@@ -594,17 +636,17 @@ boingboing:
 viralfury:
   name: Viralfury
   category: Hypersensational
-  rss_feeds:
+  rss:
   - http://viralfury.com/feed/
   dead: true
 cookinglight:
   name: Cooking Light
-  rss_feeds:
+  rss:
   - http://feeds.cookinglight.com/CookingLight/latest
   dead: true
 cosmosmagazine:
   name: Cosmos
-  rss_feeds:
+  rss:
   - https://cosmosmagazine.com/rss.xml
 countryliving:
   name: Country Living
@@ -641,7 +683,7 @@ cosmopolitan:
     href_prefix: http://www.cosmopolitan.com
 gameinformer:
   name: Game Informer
-  rss_feeds:
+  rss:
   - http://www.gameinformer.com/feeds/TopFiveRSS.aspx?p=home
   - http://www.gameinformer.com/feeds/TheFeedRSS.aspx
 goodhousekeeping:
@@ -654,7 +696,7 @@ goodhousekeeping:
     href_prefix: http://www.goodhousekeeping.com
 instyle:
   name: Instyle
-  rss_feeds:
+  rss:
   - http://www.instyle.com/feeds/newsfeed.xml
 menshealth:
   name: Men's Health
@@ -663,7 +705,7 @@ menshealth:
     selector: ".article-title a"
 rollingstone:
   name: Rolling Stone
-  rss_feeds:
+  rss:
   - http://www.rollingstone.com/news.rss
   - http://www.rollingstone.com/music.rss
   - http://www.rollingstone.com/movies.rss
@@ -689,7 +731,7 @@ seventeen:
     href_prefix: http://www.seventeen.com
 us_weekly:
   name: Us Weekly
-  rss_feeds:
+  rss:
   - http://www.usmagazine.com/celebrity-news/rss
   - http://www.usmagazine.com/celebrity-moms/rss
   - http://www.usmagazine.com/celebrity-style/rss
@@ -700,12 +742,12 @@ us_weekly:
 youngcons:
   name: Young Conservatives
   category: Opinion - Conservative
-  rss_feeds:
+  rss:
   - http://www.youngcons.com/feed/
 westernjournalism:
   name: Western Journalism
   category: Opinion - Conservative
-  rss_feeds:
+  rss:
   - http://www.westernjournalism.com/feed/
 nationalreview:
   name: National Review
@@ -715,104 +757,104 @@ nationalreview:
     text_selector: ".homepage_item_title"
 vice:
   name: Vice
-  rss_feeds:
+  rss:
   - http://www.vice.com/rss
 waypoint:
   name: Waypoint
-  rss_feeds:
+  rss:
   - http://waypoint.vice.com/en_us/rss
 noisey:
   name: Noisey
-  rss_feeds:
+  rss:
   - http://noisey.vice.com/en_us/rss
 motherboard:
   name: Motherboard
-  rss_feeds:
+  rss:
   - http://motherboard.vice.com/rss?trk_source=motherboard
 broadly:
   name: Broadly
-  rss_feeds:
+  rss:
   - https://broadly.vice.com/en_us/rss
 munchies:
   name: Munchies
-  rss_feeds:
+  rss:
   - https://munchies.vice.com/en/feed
 vice_sports:
   name: Vice sports
-  rss_feeds:
+  rss:
   - https://sports.vice.com/en_us/rss
 thecreatorsproject:
   name: Thecreatorsproject
-  rss_feeds:
+  rss:
   - http://thecreatorsproject.vice.com/rss
 thump:
   name: Thump
-  rss_feeds:
+  rss:
   - https://thump.vice.com/en_us/rss
 i-d:
   name: I-d
-  rss_feeds:
+  rss:
   - https://i-d.vice.com/en_us/rss
 tonic:
   name: Tonic
-  rss_feeds:
+  rss:
   - http://tonic.vice.com/en_us/rss
 fightland:
   name: Fightland
-  rss_feeds:
+  rss:
   - http://fightland.vice.com/rss
 dailydot:
   name: Dailydot
-  rss_feeds:
+  rss:
   - http://www.dailydot.com/feed/summary/latest/
 100percentfedup:
   name: 100percentfedup
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
-  rss_feeds:
+  rss:
   - http://100percentfedup.com/feed/
   - http://100percentfedup.com/inside-the-mind-of-a-trump-voter/feed/
 enduringvision:
   name: Enduringvision
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
-  rss_feeds:
+  rss:
   - http://www.enduringvision.com/ev_rss.xml
 pakalertpress:
   name: Pakalertpress
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
-  rss_feeds:
+  rss:
   - http://www.pakalertpress.com/feed/
   - http://www.pakalertpress.com/feed/atom/
 21stcenturywire:
   name: 21stcenturywire
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
-  rss_feeds:
+  rss:
   - http://21stcenturywire.com/feed/
   - http://21stcenturywire.com/feed
 politicalblindspot:
   name: Politicalblindspot
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
-  rss_feeds:
+  rss:
   - http://politicalblindspot.com/feed/
 70news:
   name: 70news
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
-  rss_feeds:
+  rss:
   - https://70news.wordpress.com/feed/
 thefreethoughtproject:
   name: Thefreethoughtproject
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
-  rss_feeds:
+  rss:
   - http://thefreethoughtproject.com/feed/
 abcnews_com_co:
   name: abcnews.com.co
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
-  rss_feeds:
+  rss:
   - http://abcnews.com.co/feed/
   - http://abcnews.com.co/news/feed/
 geoengineeringwatch:
   name: Geoengineeringwatch
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
-  rss_feeds:
+  rss:
   - http://www.geoengineeringwatch.org/feed/
   - http://www.geoengineeringwatch.org/feed/rss/
   - http://www.geoengineeringwatch.org/feed/atom/
@@ -821,254 +863,254 @@ geoengineeringwatch:
 activistpost:
   name: Activistpost
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
-  rss_feeds:
+  rss:
   - http://www.activistpost.com/feed
   - http://www.activistpost.com/home/feed
   - http://www.activistpost.com/feed/podcast
 addictinginfo:
   name: Addictinginfo
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
-  rss_feeds:
+  rss:
   - http://addictinginfo.org/feed/
 govtslaves:
   name: Govtslaves
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
-  rss_feeds:
+  rss:
   - http://govtslaves.info/feed/
 lincolnreport:
   name: Lincolnreport
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
-  rss_feeds:
+  rss:
   - http://lincolnreport.com/feed
   - http://lincolnreport.com/archives/118614/feed
   - http://lincolnreport.com/?feed=linkfeed
 gulagbound:
   name: Gulagbound
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
-  rss_feeds:
+  rss:
   - http://gulagbound.com/feed/
 anonews:
   name: Anonews
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
-  rss_feeds:
+  rss:
   - http://www.anonews.co/feed/
   - http://www.anonews.co/feed/rss/
   - http://www.anonews.co/feed/atom/
 hangthebankers:
   name: Hangthebankers
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
-  rss_feeds:
+  rss:
   - http://www.hangthebankers.com/feed/
 humansarefree:
   name: Humansarefree
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
-  rss_feeds:
+  rss:
   - http://humansarefree.com/feeds/posts/default
   - http://humansarefree.com/feeds/posts/default?alt=rss
 projectveritas:
   name: Projectveritas
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
-  rss_feeds:
+  rss:
   - http://projectveritas.com/feed/
 huzlers:
   name: Huzlers
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
-  rss_feeds:
+  rss:
   - http://huzlers.com/feed/
   - http://huzlers.com/home/feed/
 bigpzone:
   name: Bigpzone
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
-  rss_feeds:
+  rss:
   - http://TheRundownLive.com/feed/
   - http://TheRundownLive.com/news/feed/
 realnewsrightnow:
   name: Realnewsrightnow
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
-  rss_feeds:
+  rss:
   - http://realnewsrightnow.com/feed/
 bipartisanreport:
   name: Bipartisanreport
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
-  rss_feeds:
+  rss:
   - http://bipartisanreport.com/feed/
 redflagnews:
   name: Redflagnews
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
-  rss_feeds:
+  rss:
   - http://www.redflagnews.com/headlines-2016?format=RSS
 bizpacreview:
   name: Bizpacreview
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
-  rss_feeds:
+  rss:
   - http://www.bizpacreview.com/feed
   - http://www.bizpacreview.com/sitemap_index.xml
 infowars:
   name: Infowars
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
-  rss_feeds:
+  rss:
   - http://www.infowars.com/feed/
 bluenationreview:
   name: Bluenationreview
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
-  rss_feeds:
+  rss:
   - http://bluenationreview.com/feed/
   - http://bluenationreview.com/home/feed/
 callthecops:
   name: Callthecops
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
-  rss_feeds:
+  rss:
   - http://www.callthecops.net/feed/
 cap-news:
   name: Cap-news
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
-  rss_feeds:
+  rss:
   - http://feeds2.feedburner.com/capnews
 christwire:
   name: Christwire
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
-  rss_feeds:
+  rss:
   - http://christwire.org/feed/
   - http://christwire.org/rss/feed
   - http://christwire.org/feed
 chronicle:
   name: Chronicle
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
-  rss_feeds:
+  rss:
   - http://chronicle.su/feed/
 civictribune:
   name: Civictribune
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
-  rss_feeds:
+  rss:
   - http://civictribune.com/feed/
 libertyunyielding:
   name: Libertyunyielding
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
-  rss_feeds:
+  rss:
   - http://libertyunyielding.com/feed/
 coasttocoastam:
   name: Coasttocoastam
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
-  rss_feeds:
+  rss:
   - itpc://rss.premiereradio.net/coast/podcast.xml
 collective-evolution:
   name: Collective-evolution
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
-  rss_feeds:
+  rss:
   - http://www.collective-evolution.com/feed/
 consciouslifenews:
   name: Consciouslifenews
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
-  rss_feeds:
+  rss:
   - http://consciouslifenews.com/feed/
 thedailysheeple:
   name: Thedailysheeple
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
-  rss_feeds:
+  rss:
   - http://www.thedailysheeple.com/feed
 thenewsnerd:
   name: Thenewsnerd
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
-  rss_feeds:
+  rss:
   - http://www.thenewsnerd.com/feed/
   - http://www.thenewsnerd.com/feed/rss/
   - http://www.thenewsnerd.com/feed/atom/
 countdowntozerotime:
   name: Countdowntozerotime
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
-  rss_feeds:
+  rss:
   - http://countdowntozerotime.com/feed/
 theuspatriot:
   name: Theuspatriot
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
-  rss_feeds:
+  rss:
   - http://theuspatriot.com/feed/
   - http://theuspatriot.com/feed/rss/
   - http://theuspatriot.com/feed/atom/
 nationalreport:
   name: Nationalreport
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
-  rss_feeds:
+  rss:
   - http://nationalreport.net/feed/
   - http://nationalreport.net/feed/atom/
 creambmp:
   name: Creambmp
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
-  rss_feeds:
+  rss:
   - http://creambmp.com/feed/
 naturalnews:
   name: Naturalnews
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
-  rss_feeds:
+  rss:
   - http://www.naturalnews.com/rss.xml
 twitchy:
   name: Twitchy
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
-  rss_feeds:
+  rss:
   - http://twitchy.com/feed/
 dailybuzzlive:
   name: Dailybuzzlive
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
-  rss_feeds:
+  rss:
   - http://dailybuzzlive.com/feed/
 dailycurrant:
   name: Dailycurrant
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
-  rss_feeds:
+  rss:
   - http://dailycurrant.com/feed/
   - http://dailycurrant.com/feed
 newcenturytimes:
   name: Newcenturytimes
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
-  rss_feeds:
+  rss:
   - http://newcenturytimes.com/feed/
 usasupreme:
   name: Usasupreme
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
-  rss_feeds:
+  rss:
   - http://www.usasupreme.com/feed/
 dailywire:
   name: Dailywire
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
-  rss_feeds:
+  rss:
   - http://www.dailywire.com/rss.xml
 news-hound:
   name: News-hound
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
-  rss_feeds:
+  rss:
   - http://news-hound.com/feed/
   - http://news-hound.com/feed/?post_type=news
   - http://www.responsesource.com/sitemap_index.xml
 dcclothesline:
   name: Dcclothesline
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
-  rss_feeds:
+  rss:
   - http://www.dcclothesline.com/feed/
 newsbiscuit:
   name: Newsbiscuit
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
-  rss_feeds:
+  rss:
   - http://www.newsbiscuit.com/feed/
   - http://www.newsbiscuit.com/feed/atom/
 dcgazette:
   name: Dcgazette
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
-  rss_feeds:
+  rss:
   - http://thedcgazette.com/feed/
 veteranstoday:
   name: Veteranstoday
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
-  rss_feeds:
+  rss:
   - http://www.veteranstoday.com/feed/
 derfmagazine:
   name: Derfmagazine
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
-  rss_feeds:
+  rss:
   - http://feeds.derfmagazine.com/derf
 disclose:
   name: Disclose
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
-  rss_feeds:
+  rss:
   - http://disclose.tv/rss/
   - http://disclose.tv/rss/blogs/
   - http://disclose.tv/rss/media/type/
@@ -1080,7 +1122,7 @@ disclose:
 duffelblog:
   name: Duffelblog
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
-  rss_feeds:
+  rss:
   - http://www.duffelblog.com/feed/
   - http://www.duffelblog.com/feed/rss/
   - http://www.duffelblog.com/feed/atom/
@@ -1088,46 +1130,46 @@ duffelblog:
 witscience:
   name: Witscience
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
-  rss_feeds:
+  rss:
   - http://witscience.org/feed/
   - http://witscience.org/feed/rss/
   - http://witscience.org/feed/atom/
 duhprogressive:
   name: Duhprogressive
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
-  rss_feeds:
+  rss:
   - http://duhprogressive.com/~duhprogr/index.php?format=feed&type=rss
   - http://duhprogressive.com/~duhprogr/index.php?format=feed&type=atom
 nodisinfo:
   name: Nodisinfo
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
-  rss_feeds:
+  rss:
   - http://nodisinfo.com/feed/
 embols:
   name: Embols
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
-  rss_feeds:
+  rss:
   - http://embols.com/feed/
 worldnewsdailyreport:
   name: Worldnewsdailyreport
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
-  rss_feeds:
+  rss:
   - http://worldnewsdailyreport.com/feed/
   - http://worldnewsdailyreport.com/news/feed/
 occupydemocrats:
   name: Occupydemocrats
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
-  rss_feeds:
+  rss:
   - http://occupydemocrats.com/feed/
   - http://occupydemocrats.com/feed/rss/
   - http://occupydemocrats.com/feed/atom/
 zerohedge:
   name: Zerohedge
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
-  rss_feeds:
+  rss:
   - http://feeds.feedburner.com/zerohedge/feed
 endingthefed:
   name: Endingthefed
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
-  rss_feeds:
+  rss:
   - http://endingthefed.com/feed

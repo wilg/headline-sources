@@ -23,3 +23,19 @@ else
   require "headline_sources/stores/memory_store"
 
 end
+
+# https://github.com/feedjira/feedjira/issues/380
+module Feedjira
+  class Feed
+    class << self
+      def parse_last_modified(response)
+        lm = response.headers['last-modified']
+        DateTime.parse(lm).to_time unless lm.to_s.empty?
+      rescue StandardError => e
+        Feedjira.logger.warn { "Failed to parse last modified '#{lm}'" }
+        Feedjira.logger.debug(e)
+        nil
+      end
+    end
+  end
+end

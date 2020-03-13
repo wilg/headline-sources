@@ -8,7 +8,7 @@ module HeadlineSources
         s = new
         s.id = k.to_sym
         s.name = v['name']
-        s.feeds = ([v['rss_feeds']]).compact.flatten
+        s.feeds = ([v['rss']]).compact.flatten
         s.rules = ([v['rules']]).compact.flatten
         s.category = v['category']
         s.default = !!v['default']
