@@ -1080,6 +1080,7 @@ creambmp:
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
   rss:
   - http://creambmp.com/feed/
+  dead: true
 naturalnews:
   name: Naturalnews
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
@@ -1101,11 +1102,13 @@ dailycurrant:
   rss:
   - http://dailycurrant.com/feed/
   - http://dailycurrant.com/feed
+  dead: true
 newcenturytimes:
   name: Newcenturytimes
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
   rss:
   - http://newcenturytimes.com/feed/
+  dead: true
 usasupreme:
   name: Usasupreme
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
@@ -1123,6 +1126,7 @@ news-hound:
   - http://news-hound.com/feed/
   - http://news-hound.com/feed/?post_type=news
   - http://www.responsesource.com/sitemap_index.xml
+  dead: true
 dcclothesline:
   name: Dcclothesline
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
@@ -1161,6 +1165,7 @@ disclose:
   - http://disclose.tv/rss/media/type/audio/
   - http://disclose.tv/rss/media/type/document/
   - http://disclose.tv/rss/media/type/new/
+  dead: true
 duffelblog:
   name: Duffelblog
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
@@ -1187,11 +1192,13 @@ nodisinfo:
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
   rss:
   - http://nodisinfo.com/feed/
+  dead: true
 embols:
   name: Embols
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
   rss:
   - http://embols.com/feed/
+  dead: true
 worldnewsdailyreport:
   name: Worldnewsdailyreport
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
@@ -1215,6 +1222,7 @@ endingthefed:
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
   rss:
   - http://endingthefed.com/feed
+  dead: true
 theescapist:
   name: The Escapist
   category: Geek
