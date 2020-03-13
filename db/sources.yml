@@ -801,6 +801,7 @@ broadly:
   - https://broadly.vice.com/en_us/rss
 munchies:
   name: Munchies
+  dead: true
   rss:
   - https://munchies.vice.com/en/feed
 vice_sports:
@@ -809,10 +810,12 @@ vice_sports:
   - https://sports.vice.com/en_us/rss
 thecreatorsproject:
   name: Thecreatorsproject
+  dead: true
   rss:
   - http://thecreatorsproject.vice.com/rss
 thump:
   name: Thump
+  dead: true
   rss:
   - https://thump.vice.com/en_us/rss
 i-d:
@@ -856,11 +859,13 @@ pakalertpress:
   - http://21stcenturywire.com/feed
 politicalblindspot:
   name: Politicalblindspot
+  dead: true
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
   rss:
   - http://politicalblindspot.com/feed/
 70news:
   name: 70news
+  dead: true
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
   rss:
   - https://70news.wordpress.com/feed/
@@ -871,6 +876,7 @@ thefreethoughtproject:
   - http://thefreethoughtproject.com/feed/
 abcnews_com_co:
   name: abcnews.com.co
+  dead: true
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
   rss:
   - http://abcnews.com.co/feed/
@@ -886,6 +892,7 @@ geoengineeringwatch:
   - http://geoengineeringwatch.org/?feed=rss2
 activistpost:
   name: Activistpost
+  dead: true
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
   rss:
   - http://www.activistpost.com/feed
@@ -903,6 +910,7 @@ govtslaves:
   - http://govtslaves.info/feed/
 lincolnreport:
   name: Lincolnreport
+  dead: true
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
   rss:
   - http://lincolnreport.com/feed
@@ -922,11 +930,13 @@ anonews:
   - http://www.anonews.co/feed/atom/
 hangthebankers:
   name: Hangthebankers
+  dead: true
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
   rss:
   - http://www.hangthebankers.com/feed/
 humansarefree:
   name: Humansarefree
+  dead: true
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
   rss:
   - http://humansarefree.com/feeds/posts/default
