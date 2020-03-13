@@ -1345,3 +1345,7 @@ reason:
   rss:
   - https://reason.com/feed/
   - https://reason.com/latest/feed/
+truthdig:
+  name: Truthdig
+  rss:
+  - https://www.truthdig.com/rss-2
