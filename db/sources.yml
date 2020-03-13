@@ -57,6 +57,8 @@ macrumors:
   name: MacRumors
   category: Geek
   default: false
+  rss:
+  - http://feeds.macrumors.com/MacRumors-All
 gizmodo:
   name: Gizmodo
   category: Geek
@@ -76,6 +78,8 @@ free_republic:
   name: Free Republic
   category: Opinion - Conservative
   default: false
+  rss:
+  - http://www.freerepublic.com/tag/*/feed.rss
 cns_news:
   name: CNS News
   category: Opinion - Conservative
@@ -86,6 +90,7 @@ hot_air:
   name: HotAir
   category: Opinion - Conservative
   default: false
+  dead: true
 deadspin:
   name: Deadspin
   category: Sports
