@@ -1349,3 +1349,7 @@ truthdig:
   name: Truthdig
   rss:
   - https://www.truthdig.com/rss-2
+theintercept:
+  name: The Intercept
+  rss:
+  - https://theintercept.com/sitemap_index.xml
