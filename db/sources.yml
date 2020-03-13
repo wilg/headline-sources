@@ -1340,3 +1340,8 @@ politicususa:
   name: Politicus USA
   rss:
   - https://www.politicususa.com/feed
+reason:
+  name: Reason
+  rss:
+  - https://reason.com/feed/
+  - https://reason.com/latest/feed/
