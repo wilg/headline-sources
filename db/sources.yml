@@ -171,6 +171,7 @@ distractify:
   name: Distractify
   category: Hypersensational
   default: false
+  dead: true
 mashable:
   name: Mashable
   category: Hypersensational
@@ -178,6 +179,7 @@ mashable:
 sploid:
   name: Sploid
   category: Geek
+  dead: true
   default: false
 tmz:
   name: TMZ
