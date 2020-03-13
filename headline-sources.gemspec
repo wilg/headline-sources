@@ -30,9 +30,9 @@ Gem::Specification.new do |spec|
   spec.add_dependency "sanitize"
   spec.add_dependency "htmlentities"
 
-  spec.add_development_dependency "bundler", "~> 1.3"
+  spec.add_development_dependency "bundler"
   spec.add_development_dependency "rake"
   spec.add_development_dependency "faviconduit"
   spec.add_development_dependency "feedbag"
-  spec.add_development_dependency "rmagick"
+  spec.add_development_dependency "rmagick", ">= 4.1.0.rc2"
 end
