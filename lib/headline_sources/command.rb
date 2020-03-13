@@ -198,6 +198,11 @@ module HeadlineSources
       update["dead"] = true unless feeds.present?
       current.delete("dead") if feeds.present?
 
+      if current.blank? && !feeds.present?
+        puts "Not adding because no feeds were found."
+        return
+      end
+
       update_config(id, update)
 
       # Fetch Favicon
