@@ -390,11 +390,15 @@ wired:
   category: Geek
   default: false
   url: http://wired.com
+  rss:
+  - https://www.wired.com/feed/rss
 foxnews:
   name: Fox News
   category: Opinion - Conservative
   default: false
   url: http://www.foxnews.com/
+  rss:
+  - https://feeds.feedburner.com/foxnews/latest
 nytimes_lede:
   name: New York Times Lede
   category: News
