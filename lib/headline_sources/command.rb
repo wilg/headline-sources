@@ -189,7 +189,8 @@ module HeadlineSources
       end
 
       uri = URI.parse(url)
-      id ||= uri.host.split(".")[-2]
+      splituri = uri.host.split(".")
+      id ||= splituri[-2] == "co" ? splituri[-3] : splituri[-2]
       puts "ID for source: #{id}"
 
       # Update YML

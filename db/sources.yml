@@ -1369,3 +1369,9 @@ worldtruth:
   fake_source: https://www.benzinga.com/general/education/17/03/9108299/8-of-the-most-popular-fake-news-websites
   rss:
   - https://worldtruth.tv/feed/
+dailymail:
+  name: The Daily Mail
+  fake_source: https://www.youtube.com/watch?v=5eBT6OSr1TI
+  rss:
+  - https://www.dailymail.co.uk/ushome/index.rss
+  - https://www.dailymail.co.uk/articles.rss
