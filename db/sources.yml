@@ -411,8 +411,7 @@ ryot:
 time:
   name: Time
   category: News
-  rss:
-  - https://time.com/section/newsfeed/
+  dead: true
 people:
   name: People
   category: Entertainment
@@ -424,15 +423,9 @@ msnbc:
   rss:
   - http://www.msnbc.com/feeds/latest
 vh1:
-  name: VH1
+  name: Vh1
   category: Entertainment
-  rss:
-  - http://www.vh1.com/news/feed/
-  - http://blog.vh1.com/feed/
-  - http://www.vh1.com/celebrity/feed/
-  - http://www.bestweekever.tv/feed/
-  - http://www.vh1.com/rss/news/today_on_vh1.jhtml
-  - http://www.vh1.com/rss/news/movielatestcached.jhtml?partner=rssMozilla
+  dead: true
 hellogiggles:
   name: HelloGiggles
   category: Entertainment
@@ -519,6 +512,7 @@ accesshollywood:
   name: Access Hollywood
   category: Entertainment
   rss: http://feeds.accesshollywood.com/AccessHollywood/LatestNews
+  dead: true
 fastcompany:
   name: Fast Company
   category: Geek
@@ -537,19 +531,7 @@ theindependent:
   name: The Independent
   category: News
   rss:
-  - http://www.independent.co.uk/rss
-  - http://rss.feedsportal.com/c/266/f/3792/index.rss
-  - http://rss.feedsportal.com/c/266/f/3800/index.rss
-  - http://rss.feedsportal.com/c/266/f/3795/index.rss
-  - http://rss.feedsportal.com/c/266/f/464881/index.rss
-  - http://rss.feedsportal.com/c/266/f/3797/index.rss
-  - http://rss.feedsportal.com/c/266/f/3834/index.rss
-  - http://www.independent.co.uk/sport/olympics/?service=Rss
-  - http://www.independent.co.uk/sport/general/sailing/?service=Rss
-  - http://www.independent.co.uk/sport/tennis/?service=Rss
-  - http://www.independent.co.uk/arts-entertainment/music/?service=Rss
-  - http://www.independent.co.uk/sport/cricket/?service=Rss
-  - http://www.independent.co.uk/sport/general/rugby-league/?service=Rss
+  - https://www.independent.co.uk/us/rss
 telegraph:
   name: The Telegraph
   category: News
@@ -564,6 +546,7 @@ telegraph:
   - http://www.telegraph.co.uk/travel/rss
   - http://www.telegraph.co.uk/technology/rss
   - http://www.telegraph.co.uk/motoring/rss
+  dead: true
 nbcnews:
   name: NBC News
   category: News
@@ -602,11 +585,6 @@ n4g:
   - http://n4g.com/rss/news?channel=&sort=latest
   - http://n4g.com/rss/news?channel=&sort=today
   - http://n4g.com/rss/news?channel=&sort=week
-theescapist:
-  name: The Escapist
-  category: Geek
-  rss:
-  - http://www.escapistmagazine.com/rss/news
 pcgamer:
   name: PC Gamer
   category: Geek
@@ -671,14 +649,10 @@ boingboing:
   category: Geek
   rss: http://boingboing.net/feed
 9gag:
-  name: 9GAG
+  name: 9gag
   category: Hypersensational
-  rss:
-  - http://9gag-rss.com/api/rss/get?code=9GAG&format=2
-  - http://9gag-rss.com/api/rss/get?code=9GAGHot&format=2
-  - http://9gag-rss.com/api/rss/get?code=9GAGFresh&format=2
-  - http://9gag-rss.com/api/rss/get?code=9GAGGIF&format=2
-  - http://9gag-rss.com/api/rss/get?code=9GAGNSFW&format=2
+  rss: []
+  dead: true
 viralfury:
   name: Viralfury
   category: Hypersensational
@@ -1219,3 +1193,10 @@ endingthefed:
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
   rss:
   - http://endingthefed.com/feed
+theescapist:
+  name: The Escapist
+  category: Geek
+  rss:
+  - https://www.escapistmagazine.com/v2/feed/
+  - https://www.escapistmagazine.com/v2/comments/feed/
+  - https://www.escapistmagazine.com/v2/?feed=rss
