@@ -1260,3 +1260,7 @@ morningconsult:
   - https://morningconsult.com/feed/
   - https://morningconsult.com/comments/feed/
   - https://morningconsult.com/home-2-2/feed/
+csmonitor:
+  name: The Christian Science Monitor
+  rss:
+  - https://rss.csmonitor.com/feeds/all
