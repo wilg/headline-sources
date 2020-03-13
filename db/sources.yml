@@ -761,18 +761,13 @@ seventeen:
 us_weekly:
   name: Us Weekly
   rss:
-  - http://www.usmagazine.com/celebrity-news/rss
-  - http://www.usmagazine.com/celebrity-moms/rss
-  - http://www.usmagazine.com/celebrity-style/rss
-  - http://www.usmagazine.com/entertainment/rss
-  - http://www.usmagazine.com/celebrity-body/rss
-  - http://www.usmagazine.com/celebrity-beauty/rss
-  - http://www.usmagazine.com/gallery/hot-pics/rss
+  - https://www.usmagazine.com/feed/
 youngcons:
   name: Young Conservatives
   category: Opinion - Conservative
   rss:
   - http://www.youngcons.com/feed/
+  dead: true
 westernjournalism:
   name: Western Journalism
   category: Opinion - Conservative
