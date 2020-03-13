@@ -184,6 +184,9 @@ module HeadlineSources
         puts "favicon missing"
       rescue Faviconduit::InvalidFavicon
         puts "favicon invalid"
+      rescue Errno::ENOENT => e
+        puts "favicon invalid"
+        puts e
       end
 
       require 'rmagick'

@@ -757,6 +757,7 @@ seventeen:
   - url: http://www.seventeen.com/landing-feed/?template=homepage&landingTemplate=standard&id=1&pageNumber={{n}}
     selector: ".landing-feed--story-title"
     href_prefix: http://www.seventeen.com
+  dead: true
 us_weekly:
   name: Us Weekly
   rss:
