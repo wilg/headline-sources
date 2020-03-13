@@ -1310,3 +1310,13 @@ pjmedia:
   category: Opinion - Conservative
   rss:
   - https://pjmedia.com/feed-home/
+lifesitenews:
+  name: LifeSite
+  category: Opinion - Conservative
+  rss:
+  - https://www.lifesitenews.com/rss/global
+thefederalist:
+  name: The Federalist
+  category: Opinion - Conservative
+  rss:
+  - https://thefederalist.com/feed/
