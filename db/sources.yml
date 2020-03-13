@@ -666,7 +666,9 @@ knowmore:
 boingboing:
   name: Boing Boing
   category: Geek
-  rss: http://boingboing.net/feed
+  rss:
+  - http://boingboing.net/feed
+  - https://boingboing.net/feed
 9gag:
   name: 9gag
   category: Hypersensational
@@ -1334,3 +1336,7 @@ crooksandliars:
   name: Crooks and Liars
   rss:
   - http://feeds.crooksandliars.com/crooksandliars/YaCP
+politicususa:
+  name: Politicus USA
+  rss:
+  - https://www.politicususa.com/feed

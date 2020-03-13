@@ -194,7 +194,7 @@ module HeadlineSources
 
       # Update YML
       current = get_config(id) || {}
-      current_rss = current["rss"]
+      current_rss = [current["rss"]].flatten
 
       update = {}
       update["name"] = id.humanize if current["name"].blank?
