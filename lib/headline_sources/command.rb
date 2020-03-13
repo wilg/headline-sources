@@ -98,6 +98,7 @@ module HeadlineSources
       def batch_to_file
         pids = []
         Source.all.shuffle.each do |source|
+          next if source.dead
           begin
             pids << Process.fork do
               puts "Forked #{source.name} onto pid #{Process.pid}".green
@@ -117,6 +118,7 @@ module HeadlineSources
         puts "Dumping sources to database.".cyan
         ActiveRecordStore.dump_sources!
         Source.all.shuffle.each do |source|
+          next if source.dead
           puts "Fetching source #{source.name}".cyan
           begin
             source.fetchers(ActiveRecordStore).each do |fetcher|
