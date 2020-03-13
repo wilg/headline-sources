@@ -1375,3 +1375,39 @@ dailymail:
   rss:
   - https://www.dailymail.co.uk/ushome/index.rss
   - https://www.dailymail.co.uk/articles.rss
+miamiherald:
+  name: Miami Herald
+  rss:
+  - https://feeds.mcclatchy.com/miamiherald/sections/stories
+dnyuz:
+  name: DNyuz
+  rss:
+  - https://dnyuz.com/feed/
+theweek:
+  name: The Week
+  rss:
+  - https://theweek.com/rss.xml
+thesun:
+  name: The Sun
+  rss:
+  - https://www.thesun.co.uk/feed/
+militarytimes:
+  rss:
+  - http://feeds.feedburner.com/military-times/news/pentagon-congress
+  - http://feeds.feedburner.com/air-force-times/news/your-air-force
+  - http://feeds.feedburner.com/army-times/news/your-army
+  - http://feeds.feedburner.com/marine-corps-times/news/your-marine-corps
+  - http://feeds.feedburner.com/navy-times/news/your-navy
+  - http://feeds.feedburner.com/military-times/pay-benefits
+  - http://feeds.feedburner.com/military-times/veterans
+  - http://feeds.feedburner.com/military-times/education-transition
+  - http://feeds.feedburner.com/military-times/flashpoints
+  name: Military Times
+newsmax:
+  name: Newsmax
+  rss:
+  - https://www.newsmax.com/rss/Newsfront/16
+dailycaller:
+  name: Daily Caller
+  rss:
+  - http://dailycaller.com/feed/
