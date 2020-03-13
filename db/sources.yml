@@ -701,6 +701,7 @@ ew:
     url: http://www.ew.com/
     selector: ".txtcont a"
     text_selector: ".headline"
+  dead: true
 playboy:
   name: Playboy
   rules:
