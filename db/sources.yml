@@ -1320,3 +1320,17 @@ thefederalist:
   category: Opinion - Conservative
   rss:
   - https://thefederalist.com/feed/
+talkingpointsmemo:
+  name: Talking Points Memo
+  rss:
+  - http://talkingpointsmemo.com/feed/all
+  - http://talkingpointsmemo.com/feed/edblog
+motherjones:
+  name: Mother Jones
+  rss:
+  - https://www.motherjones.com/feed/
+  - http://feeds.feedburner.com/motherjones/feed
+crooksandliars:
+  name: Crooks and Liars
+  rss:
+  - http://feeds.crooksandliars.com/crooksandliars/YaCP
