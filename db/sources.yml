@@ -229,6 +229,10 @@ mommyish:
   name: Mommyish
   category: Misc.
   default: false
+  rss:
+  - https://www.mommyish.com/feed/
+  - https://www.mommyish.com/feed/rss/
+  - https://www.mommyish.com/comments/feed/
 mcsweenys:
   name: McSweeny's
   category: Misc.
@@ -245,6 +249,7 @@ hollywood_reporter:
 college_humor:
   name: CollegeHumor
   category: Bro
+  dead: true
   default: false
 the_chive:
   name: The Chive
@@ -338,6 +343,7 @@ business_insider:
   name: Business Insider
   category: Hypersensational
   default: true
+  rss: https://feeds2.feedburner.com/businessinsider
 fivethirtyeight:
   name: FiveThirtyEight
   category: News

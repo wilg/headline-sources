@@ -23,15 +23,4 @@ module HeadlineSources
       http://www.tmz.com/category/hot-vegas/rss.xml]
     end
   end
-
-  class TmzFetcher2 < Scraper
-
-    def scrape_page(i)
-      doc = Nokogiri::HTML(open("http://www.tmz.com/page/#{i}/"))
-      doc.css('article a.headline').each do |link|
-        add_headline! Headline.new(link.content.gsub(/\s+/, ' ').chomp.strip)
-      end
-    end
-
-  end
 end
