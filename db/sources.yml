@@ -1264,3 +1264,7 @@ csmonitor:
   name: The Christian Science Monitor
   rss:
   - https://rss.csmonitor.com/feeds/all
+baltimoresun:
+  name: Baltimore Sun
+  rss:
+  - http://www.baltimoresun.com/arcio/rss/category/latest/

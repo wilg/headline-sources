@@ -191,12 +191,16 @@ module HeadlineSources
 
       # Update YML
       current = get_config(id) || {}
+      current_rss = current["rss"]
 
       update = {}
       update["name"] = id.humanize if current["name"].blank?
-      update["rss"] = feeds if feeds.present?
-      update["dead"] = true unless feeds.present?
-      current.delete("dead") if feeds.present?
+      update["rss"] = current_rss + feeds
+
+      is_dead = update["rss"].blank?
+      update["dead"] = true if is_dead
+      update.delete("dead") unless is_dead
+      update.delete("rss") unless is_dead
 
       if current.blank? && !feeds.present?
         puts "Not adding because no feeds were found."
