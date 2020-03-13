@@ -407,17 +407,12 @@ nytimes_lede:
 ryot:
   name: RYOT
   category: Hypersensational
-  rss:
-  - http://www.ryot.org/feed
+  dead: true
 time:
-  name: TIME
+  name: Time
   category: News
   rss:
-  - http://newsfeed.time.com/feed/
-  - http://swampland.time.com/feed/
-  - http://techland.time.com/feed/
-  - http://lightbox.time.com/feed/
-  - http://lightbox.time.com/category/closeup/feed/
+  - https://time.com/section/newsfeed/
 people:
   name: People
   category: Entertainment
