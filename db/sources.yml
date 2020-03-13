@@ -725,6 +725,7 @@ cosmopolitan:
   - url: http://www.cosmopolitan.com/ajax/infiniteload/?id=d50755a3-19da-4033-ba32-379374bf8486&class=CoreModels%5Csections%5CSectionModel&viewset=homepage&page={{n}}
     selector: ".full-item-title"
     href_prefix: http://www.cosmopolitan.com
+  dead: true
 gameinformer:
   name: Gameinformer
   rss:
@@ -753,6 +754,7 @@ menshealth:
   rules:
   - url: http://www.menshealth.com
     selector: ".article-title a"
+  dead: true
 rollingstone:
   name: Rolling Stone
   rss:
