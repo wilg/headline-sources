@@ -148,10 +148,12 @@ thinkprogress:
   name: ThinkProgress
   category: Opinion - Progressive
   default: false
+  rss: https://archive.thinkprogress.org/links/feed.xml
 daily_kos:
   name: Daily Kos
   category: Opinion - Progressive
   default: false
+  rss: https://www.dailykos.com/blogs/main.rss
 distractify:
   name: Distractify
   category: Hypersensational
@@ -176,10 +178,12 @@ kotaku:
   name: Kotaku
   category: Geek
   default: false
+  rss: https://kotaku.com/rss
 polygon:
   name: Polygon
   category: Geek
   default: false
+  rss: https://www.polygon.com/rss/index.xml
 buzzfeed:
   name: BuzzFeed
   category: Hypersensational
@@ -188,6 +192,16 @@ pitchfork:
   name: Pitchfork
   category: Entertainment
   default: true
+  rss:
+    - http://pitchfork.com/rss/reviews/albums/
+    - http://pitchfork.com/rss/reviews/tracks/
+    - http://pitchfork.com/rss/reviews/best/albums/
+    - http://pitchfork.com/rss/reviews/best/reissues/
+    - http://pitchfork.com/rss/reviews/best/tracks/
+    - http://pitchfork.com/rss/news/
+    - http://pitchfork.com/rss/thepitch/
+    - http://pitchfork.com/rss/features/
+
 spin:
   name: Spin
   category: Entertainment
@@ -196,6 +210,7 @@ thegloss:
   name: The Gloss
   category: Misc.
   default: false
+  dead: true
 mommyish:
   name: Mommyish
   category: Misc.
@@ -212,6 +227,7 @@ hollywood_reporter:
   name: The Hollywood Reporter
   category: Entertainment
   default: false
+  dead: true
 college_humor:
   name: CollegeHumor
   category: Bro
@@ -224,6 +240,7 @@ cracked:
   name: Cracked
   category: Hypersensational
   default: true
+  rss: https://feeds.feedburner.com/CrackedRSS
 viralnova:
   name: Viralnova
   category: Hypersensational
@@ -240,6 +257,7 @@ upworthy:
   name: Upworthy
   category: Hypersensational
   default: true
+  rss: https://www.upworthy.com/feeds/feed.rss
 gawker:
   name: Gawker
   category: Hypersensational
@@ -258,18 +276,22 @@ hitfix:
   name: HitFix
   category: Entertainment
   default: false
+  dead: true
 mental_floss:
   name: Mental Floss
   category: Hypersensational
   default: false
+  rss: http://mentalfloss.com/rss.xml
 jezebel:
   name: Jezebel
   category: Entertainment
   default: true
+  rss: https://jezebel.com/rss
 io9:
   name: io9
   category: Geek
   default: true
+  rss: https://io9.gizmodo.com/rss
 tested:
   name: Tested
   category: Geek
@@ -278,6 +300,22 @@ cnn_blog:
   name: CNN
   category: News
   default: false
+  rss:
+    - http://rss.cnn.com/rss/cnn_topstories.rss
+    - http://rss.cnn.com/rss/cnn_world.rss
+    - http://rss.cnn.com/rss/cnn_us.rss
+    - http://rss.cnn.com/rss/money_latest.rss
+    - http://rss.cnn.com/rss/cnn_allpolitics.rss
+    - http://rss.cnn.com/rss/cnn_crime.rss
+    - http://rss.cnn.com/rss/cnn_tech.rss
+    - http://rss.cnn.com/rss/cnn_health.rss
+    - http://rss.cnn.com/rss/cnn_showbiz.rss
+    - http://rss.cnn.com/rss/cnn_travel.rss
+    - http://rss.cnn.com/rss/cnn_living.rss
+    - http://rss.cnn.com/rss/cnn_freevideo.rss
+    - http://rss.cnn.com/rss/cnn_studentnews.rss
+    - http://rss.cnn.com/rss/cnn_mostpopular.rss
+    - http://rss.cnn.com/rss/cnn_latest.rss
 guardian_blogs:
   name: The Guardian
   category: News
