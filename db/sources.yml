@@ -721,7 +721,6 @@ goodhousekeeping:
   - url: http://www.goodhousekeeping.com/landing-feed/?template=homepage&landingTemplate=standard&id=1&pageNumber={{n}}
     selector: ".landing-feed--story-title"
     href_prefix: http://www.goodhousekeeping.com
-  dead: true
 instyle:
   name: Instyle
   rss:
@@ -749,6 +748,7 @@ rollingstone:
   - http://www.rollingstone.com/contributor/rob-sheffield.rss
   - http://www.rollingstone.com/contributor/david-fricke.rss
   - http://www.rollingstone.com/contributor/tim-dickinson.rss
+  dead: true
 seventeen:
   name: Seventeen
   rules:
