@@ -200,7 +200,7 @@ module HeadlineSources
       is_dead = update["rss"].blank?
       update["dead"] = true if is_dead
       update.delete("dead") unless is_dead
-      update.delete("rss") unless is_dead
+      update.delete("rss") if is_dead
 
       if current.blank? && !feeds.present?
         puts "Not adding because no feeds were found."

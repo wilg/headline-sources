@@ -1268,3 +1268,7 @@ baltimoresun:
   name: Baltimore Sun
   rss:
   - http://www.baltimoresun.com/arcio/rss/category/latest/
+cnbc:
+  name: CNBC
+  rss:
+  - https://www.cnbc.com/id/100003114/device/rss/rss.html
