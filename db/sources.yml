@@ -26,7 +26,6 @@ alternet:
   rss:
   - https://www.alternet.org/feed/
   - https://www.alternet.org/feed/atom/
-  - https://www.alternet.org/comments/feed/
   - https://www.alternet.org/feed
 rawstory:
   name: The Raw Story
@@ -232,7 +231,6 @@ mommyish:
   rss:
   - https://www.mommyish.com/feed/
   - https://www.mommyish.com/feed/rss/
-  - https://www.mommyish.com/comments/feed/
 mcsweenys:
   name: McSweeny's
   category: Misc.
@@ -802,7 +800,6 @@ nationalreview:
   name: National Review
   rss:
   - https://www.nationalreview.com/feed/
-  - https://www.nationalreview.com/comments/feed/
 vice:
   name: Vice
   rss:
@@ -1115,6 +1112,7 @@ twitchy:
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
   rss:
   - http://twitchy.com/feed/
+  - https://twitchy.com/feed/
 dailybuzzlive:
   name: Dailybuzzlive
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
@@ -1252,13 +1250,11 @@ theescapist:
   category: Geek
   rss:
   - https://www.escapistmagazine.com/v2/feed/
-  - https://www.escapistmagazine.com/v2/comments/feed/
   - https://www.escapistmagazine.com/v2/?feed=rss
 morningconsult:
   name: Morning Consult
   rss:
   - https://morningconsult.com/feed/
-  - https://morningconsult.com/comments/feed/
   - https://morningconsult.com/home-2-2/feed/
 csmonitor:
   name: The Christian Science Monitor
@@ -1297,4 +1293,20 @@ seattletimes:
   name: The Seattle Times
   rss:
   - https://www.seattletimes.com/feed/
-  - https://www.seattletimes.com/comments/feed/
+freebeacon:
+  name: The Washington Free Beacon
+  category: Opinion - Conservative
+  rss:
+  - https://freebeacon.com/feed/
+  - https://freebeacon.com/home/feed/
+americanthinker:
+  name: American Thinker
+  category: Opinion - Conservative
+  rss:
+  - https://feeds.feedburner.com/americanthinker
+  - https://feeds.feedburner.com/AmericanThinkerBlog
+pjmedia:
+  name: PJ Media
+  category: Opinion - Conservative
+  rss:
+  - https://pjmedia.com/feed-home/
