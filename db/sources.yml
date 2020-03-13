@@ -694,6 +694,7 @@ countryliving:
   rules:
     url: http://www.countryliving.com
     selector: ".landing-feed--story-title"
+  dead: true
 ew:
   name: Entertainment Weekly
   rules:
