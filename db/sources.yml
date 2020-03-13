@@ -800,10 +800,9 @@ westernjournalism:
   - http://www.westernjournalism.com/feed/
 nationalreview:
   name: National Review
-  rules:
-  - url: http://www.nationalreview.com/
-    selector: ".homepage_item"
-    text_selector: ".homepage_item_title"
+  rss:
+  - https://www.nationalreview.com/feed/
+  - https://www.nationalreview.com/comments/feed/
 vice:
   name: Vice
   rss:
