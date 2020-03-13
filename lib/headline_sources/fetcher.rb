@@ -21,6 +21,7 @@ module HeadlineSources
 
       @push_through_repeats = true if options[:push_through_repeats] == true
       @push_through_failures = true if options[:push_through_failures] == true
+      @dry_run = true if options[:dry_run] == true
 
       @dont_write_progress = true if !saved_progress.nil? && options[:write_progress] == false
       @progress = options[:start_at] || 1
@@ -84,8 +85,11 @@ module HeadlineSources
           puts "*** Failed on #{@progress} (#{@failure_count} / #{FAILURE_LIMIT})".red
           puts e.to_s.red
           puts "Backtrace:\n\t#{e.backtrace.join("\n\t")}".red
+          raise e if @dry_run
           return if @failure_count >= FAILURE_LIMIT && !@push_through_failures
         end
+
+        break if @dry_run
       end
     end
 

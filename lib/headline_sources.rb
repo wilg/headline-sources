@@ -20,5 +20,6 @@ else
   require "headline_sources/stores/store"
   require "headline_sources/stores/file_store"
   require "headline_sources/stores/active_record_store"
+  require "headline_sources/stores/memory_store"
 
 end

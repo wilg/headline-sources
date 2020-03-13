@@ -57,6 +57,22 @@ module HeadlineSources
       end
     end
 
+    desc "check", "check which sources are working"
+    method_option :halt_on_failure, :default => false, type: :boolean, aliases: "-i"
+    def check
+      Source.all.each do |source|
+        puts "Checking source #{source.name}".cyan
+        begin
+          source.fetchers(MemoryStore).each do |fetcher|
+            fetcher.fetch!({start_at: 0, write_progress: false, dry_run: true})
+          end
+        rescue StandardError
+          puts "Error occured on source '#{source.name}'".red
+          break if options[:halt_on_failure]
+        end
+      end
+    end
+
     no_commands do
       def batch_to_file
         pids = []
