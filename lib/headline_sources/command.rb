@@ -60,6 +60,7 @@ module HeadlineSources
     desc "check", "check which sources are working"
     method_option :halt_on_failure, :default => false, type: :boolean, aliases: "-i"
     method_option :skip, type: :array, aliases: "-s"
+    method_option :dead_on_failure, type: :boolean, aliases: "--kill"
     def check
       working = []
       skips = options[:skip] || []
@@ -74,6 +75,9 @@ module HeadlineSources
           working << source.id
         rescue StandardError
           puts "Error occured on source '#{source.name}'".red
+          if options[:dead_on_failure]
+            update_config(source.id, {"dead" => true})
+          end
           if options[:halt_on_failure]
             puts "To try again while skipping successes, use this command:"
             puts "bin/headline-sources check -i -s #{(skips + working).join(" ")}"
@@ -115,6 +119,26 @@ module HeadlineSources
             puts "Error occured on source '#{source.name}'".red
           end
         end
+      end
+
+      def sources_path
+        File.expand_path("../../../db/sources.yml", __FILE__)
+      end
+
+      def get_config(source_id)
+        current_sources = YAML.load_file(sources_path)
+        current_sources[source_id.to_s]
+      end
+
+      def set_config(source_id, contents)
+        current_sources = YAML.load_file(sources_path)
+        current_sources[source_id.to_s] = contents
+        File.write(sources_path, current_sources.to_yaml)
+      end
+
+      def update_config(source_id, delta)
+        current = get_config(source_id) || {}
+        set_config(source_id, current.merge(delta))
       end
     end
 
@@ -162,18 +186,15 @@ module HeadlineSources
       puts "ID for source: #{id}"
 
       # Update YML
-      yaml_path = File.expand_path("../../../db/sources.yml", __FILE__)
-      current_sources = YAML.load_file(yaml_path)
+      current = get_config(id)
 
-      current = current_sources[id] || {}
       update = {}
       update["name"] = id.humanize if current["name"].blank?
       update["rss"] = feeds if feeds.present?
       update["dead"] = true unless feeds.present?
+      current.delete("dead") if feeds.present?
 
-      current_sources[id] = (current_sources[id] || {}).merge(update)
-
-      File.write(yaml_path, current_sources.to_yaml)
+      update_config(id, update)
 
       # Fetch Favicon
       require 'faviconduit'

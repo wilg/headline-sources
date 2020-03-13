@@ -946,6 +946,7 @@ projectveritas:
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
   rss:
   - http://projectveritas.com/feed/
+  dead: true
 huzlers:
   name: Huzlers
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
@@ -973,23 +974,26 @@ redflagnews:
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
   rss:
   - http://www.redflagnews.com/headlines-2016?format=RSS
+  dead: true
 bizpacreview:
   name: Bizpacreview
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
   rss:
   - http://www.bizpacreview.com/feed
   - http://www.bizpacreview.com/sitemap_index.xml
+  dead: true
 infowars:
   name: Infowars
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
   rss:
-  - http://www.infowars.com/feed/
+  - https://www.infowars.com/feed/custom_feed_rss
 bluenationreview:
   name: Bluenationreview
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
   rss:
   - http://bluenationreview.com/feed/
   - http://bluenationreview.com/home/feed/
+  dead: true
 callthecops:
   name: Callthecops
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
@@ -1007,6 +1011,7 @@ christwire:
   - http://christwire.org/feed/
   - http://christwire.org/rss/feed
   - http://christwire.org/feed
+  dead: true
 chronicle:
   name: Chronicle
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
@@ -1027,6 +1032,7 @@ coasttocoastam:
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
   rss:
   - itpc://rss.premiereradio.net/coast/podcast.xml
+  dead: true
 collective-evolution:
   name: Collective-evolution
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
@@ -1042,6 +1048,7 @@ thedailysheeple:
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
   rss:
   - http://www.thedailysheeple.com/feed
+  dead: true
 thenewsnerd:
   name: Thenewsnerd
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
@@ -1061,6 +1068,7 @@ theuspatriot:
   - http://theuspatriot.com/feed/
   - http://theuspatriot.com/feed/rss/
   - http://theuspatriot.com/feed/atom/
+  dead: true
 nationalreport:
   name: Nationalreport
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
