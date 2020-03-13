@@ -1254,3 +1254,9 @@ theescapist:
   - https://www.escapistmagazine.com/v2/feed/
   - https://www.escapistmagazine.com/v2/comments/feed/
   - https://www.escapistmagazine.com/v2/?feed=rss
+morningconsult:
+  name: Morning Consult
+  rss:
+  - https://morningconsult.com/feed/
+  - https://morningconsult.com/comments/feed/
+  - https://morningconsult.com/home-2-2/feed/
