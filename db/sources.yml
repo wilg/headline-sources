@@ -702,10 +702,15 @@ cosmopolitan:
     selector: ".full-item-title"
     href_prefix: http://www.cosmopolitan.com
 gameinformer:
-  name: Game Informer
+  name: Gameinformer
   rss:
-  - http://www.gameinformer.com/feeds/TopFiveRSS.aspx?p=home
-  - http://www.gameinformer.com/feeds/TheFeedRSS.aspx
+  - https://www.gameinformer.com/rss.xml
+  - https://www.gameinformer.com/news.xml
+  - https://www.gameinformer.com/previews.xml
+  - https://www.gameinformer.com/reviews.xml
+  - https://www.gameinformer.com/features.xml
+  - https://www.gameinformer.com/videos.xml
+  - https://www.gameinformer.com/gishow.xml
 goodhousekeeping:
   name: Good Housekeeping
   rules:
