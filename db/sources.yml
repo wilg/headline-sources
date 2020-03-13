@@ -3,10 +3,16 @@ hackernews:
   name: Hacker News
   category: Geek
   default: false
+  rss_feeds:
+    - https://hnrss.org/newest
+    - https://hnrss.org/frontpage
 theblaze:
   name: The Blaze
   category: Opinion - Conservative
   default: false
+  rss_feeds:
+    - http://www.theblaze.com/stories/feed/
+    - http://www.theblaze.com/feed/
 breitbart:
   name: Breitbart
   category: Opinion - Conservative
@@ -33,6 +39,8 @@ lifehacker:
   name: Lifehacker
   category: Geek
   default: false
+  rss_feeds:
+    - https://lifehacker.com/rss
 daringfireball:
   name: Daring Fireball Links
   category: Geek
@@ -45,6 +53,8 @@ gizmodo:
   name: Gizmodo
   category: Geek
   default: false
+  rss_feeds:
+    - https://gizmodo.com/rss
 valleywag:
   name: Valleywag
   category: Geek
