@@ -165,10 +165,13 @@ module HeadlineSources
       yaml_path = File.expand_path("../../../db/sources.yml", __FILE__)
       current_sources = YAML.load_file(yaml_path)
 
-      current_sources[id] = (current_sources[id] || {}).merge({
-        "name" => id.humanize,
-        "rss" => feeds,
-      })
+      current = current_sources[id] || {}
+      update = {}
+      update["name"] = id.humanize if current["name"].blank?
+      update["rss"] = feeds if feeds.present?
+      update["dead"] = true unless feeds.present?
+
+      current_sources[id] = (current_sources[id] || {}).merge(update)
 
       File.write(yaml_path, current_sources.to_yaml)
 

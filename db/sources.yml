@@ -692,6 +692,7 @@ playboy:
     selector: li a
     text_selector: p
     href_prefix: http://www.playboy.com
+  dead: true
 cosmopolitan:
   name: Cosmopolitan
   rules:
@@ -713,12 +714,14 @@ gameinformer:
   - https://www.gameinformer.com/gishow.xml
 goodhousekeeping:
   name: Good Housekeeping
+  dead: true
   rules:
   - url: http://www.goodhousekeeping.com
     selector: ".landing-feed--story-title"
   - url: http://www.goodhousekeeping.com/landing-feed/?template=homepage&landingTemplate=standard&id=1&pageNumber={{n}}
     selector: ".landing-feed--story-title"
     href_prefix: http://www.goodhousekeeping.com
+  dead: true
 instyle:
   name: Instyle
   rss:
