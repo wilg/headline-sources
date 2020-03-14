@@ -1639,3 +1639,28 @@ gamezone:
   rss:
   - https://www.gamezone.com/feed/
   - https://www.gamezone.com/home/feed/
+electrek:
+  name: Electrek
+  rss:
+  - https://electrek.co/feed/
+teslarati:
+  name: Teslarati
+  rss:
+  - https://www.teslarati.com/feed/
+  - https://www.teslarati.com/feed/rss/
+  - https://www.teslarati.com/feed/atom/
+  - https://www.teslarati.com/home/feed/
+  - https://www.teslarati.com/feed
+arstechnica:
+  name: Ars Technica
+  rss:
+  - http://feeds.arstechnica.com/arstechnica/index/
+express:
+  name: Express
+  rss:
+  - http://feeds.feedburner.com/daily-express-news-showbiz
+popularmechanics:
+  name: Popular Mechanics
+  rules:
+    url: https://www.popularmechanics.com/
+    selector: ".item-title"
