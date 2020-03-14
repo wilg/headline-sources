@@ -1562,3 +1562,8 @@ popcrunch:
   name: Popcrunch
   rss:
   - https://www.popcrunch.com/feed/
+gossiponthis:
+  name: Gossip On This
+  rules:
+    url: https://gossiponthis.com/
+    selector: ".entry-title a"
