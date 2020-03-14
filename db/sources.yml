@@ -1567,3 +1567,35 @@ gossiponthis:
   rules:
     url: https://gossiponthis.com/
     selector: ".entry-title a"
+celebdirtylaundry:
+  name: Celeb Dirty Laundry
+  rules:
+    url: https://www.celebdirtylaundry.com/
+    selector: ".entry-title a"
+celebitchy:
+  name: Cele|bitchy
+  rss:
+  - https://www.celebitchy.com/feed/
+egotastic:
+  name: Egotastic
+  rules:
+    url: http://www.egotastic.com/
+    selector: ".single-post a h1"
+hellomagazine:
+  name: Hello!
+  rss:
+  - https://www.hellomagazine.com/rss.xml
+infdaily:
+  name: INF Daily
+  rss:
+  - https://infdaily.com/feed/
+okmagazine:
+  name: OK! Magazine
+  rss:
+  - https://okmagazine.com/feed/
+starmagazine:
+  name: Star
+  rules:
+    url: https://www.starmagazine.com/
+    selector: ".news-item"
+    text_selector: ".promo-title"
