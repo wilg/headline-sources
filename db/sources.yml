@@ -1599,3 +1599,29 @@ starmagazine:
     url: https://www.starmagazine.com/
     selector: ".news-item"
     text_selector: ".promo-title"
+wesmirch:
+  name: WeSmirch
+  rss:
+  - http://www.wesmirch.com/feed.xml
+  - https://add.my.yahoo.com/rss?url=http://www.wesmirch.com/feed.xml
+  - https://fusion.google.com/add?feedurl=http://www.wesmirch.com/feed.xml
+techmeme:
+  name: Techmeme
+  rss:
+  - https://www.techmeme.com/feed.xml
+  - http://feeds.feedburner.com/TechmemeRideHome
+  - https://techmeme.com/techmeme-ride-home-feed
+wwtdd:
+  name: WWTDD
+  rules:
+    url: http://www.wwtdd.com/
+    selector: ".single-post h2 a"
+x17online:
+  name: X17online
+  rss:
+  - https://www.x17online.com/rss.xml
+elle:
+  name: Elle
+  rules:
+    url: https://www.elle.com/culture/celebrities/
+    selector: ".item-title"

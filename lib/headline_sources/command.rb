@@ -207,7 +207,7 @@ module HeadlineSources
       update["name"] = id.humanize if current["name"].blank?
       update["rss"] = ((current_rss || []) + (feeds || [])).reject(&:blank?).uniq
 
-      is_dead = update["rss"].blank?
+      is_dead = update["rss"].blank? && current["rules"].blank?
       update["dead"] = true if is_dead
       update.delete("dead") unless is_dead
       update.delete("rss") if is_dead
