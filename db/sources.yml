@@ -1530,3 +1530,27 @@ celebuzz:
   rules:
     url: https://celebuzz.com/
     selector: ".article-title a"
+celebritygossip:
+  name: Celebrity Gossip
+  rss:
+  - http://www.celebritygossip.com/feed/
+perezhilton:
+  name: Perez Hilton
+  rss:
+  - https://perezhilton.com/sitemap-news.xml
+pinkisthenewblog:
+  name: Pink Is The New Blog
+  rss:
+  - https://pinkisthenewblog.com/feed/
+dlisted:
+  name: Dlisted
+  rss:
+  - https://dlisted.com/feed/
+nydailynews:
+  name: NY Daily News
+  rss:
+  - http://www.nydailynews.com/cmlink/NYDN.News.rss
+  - http://www.nydailynews.com/cmlink/NYDN.News.National.rss
+  - http://www.nydailynews.com/cmlink/NYDN.News.World.rss
+  - http://www.nydailynews.com/cmlink/NYDN.News.Politics.rss
+  - http://www.nydailynews.com/cmlink/NYDN.News.Crime.rss
