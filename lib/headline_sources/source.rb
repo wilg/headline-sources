@@ -1,7 +1,7 @@
 module HeadlineSources
   class Source
 
-    attr_accessor :name, :default, :id, :category, :dead, :feeds, :rules, :fake_source
+    attr_accessor :name, :default, :id, :category, :dead, :feeds, :rules, :fake_source, :has_icon
 
     def self.load_hash(hash)
       hash.map do |k, v|
@@ -14,6 +14,7 @@ module HeadlineSources
         s.default = !!v['default']
         s.dead = !!v['dead']
         s.fake_source = v['fake_source']
+        s.has_icon = File.exist?(File.expand_path("../../../app/assets/images/headline_sources/#{k.to_s}.png", __FILE__))
         s
       end
     end
@@ -69,6 +70,10 @@ module HeadlineSources
         i += 1
       end
       fetchers
+    end
+
+    def has_icon?
+      @has_icon
     end
 
     def hash
