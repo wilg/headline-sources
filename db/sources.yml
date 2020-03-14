@@ -1554,3 +1554,11 @@ nydailynews:
   - http://www.nydailynews.com/cmlink/NYDN.News.World.rss
   - http://www.nydailynews.com/cmlink/NYDN.News.Politics.rss
   - http://www.nydailynews.com/cmlink/NYDN.News.Crime.rss
+wonkette:
+  name: Wonkette
+  rss:
+  - https://www.wonkette.com/feeds/feed.rss
+popcrunch:
+  name: Popcrunch
+  rss:
+  - https://www.popcrunch.com/feed/
