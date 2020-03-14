@@ -1453,3 +1453,69 @@ collider:
   name: Collider
   rss:
   - https://collider.com/feed/
+variety:
+  name: Variety
+  rss:
+  - https://variety.com/feed/
+  - https://spy.com/custom-feed/pmc-footer-feed/
+heroichollywood:
+  name: Heroic Hollywood
+  rss:
+  - https://heroichollywood.com/feed/
+screencrush:
+  name: ScreenCrush
+  rss:
+  - https://screencrush.com/feed/
+nerdist:
+  name: Nerdist
+  rss:
+  - https://nerdist.com/feed/
+  - https://nerdist.com/home/feed/
+theverge:
+  name: The Verge
+  rss:
+  - https://www.theverge.com/rss/index.xml
+  - https://www.theverge.com/rss/front-page/index.xml
+comingsoon:
+  name: ComingSoon.net
+  rss:
+  - https://www.comingsoon.net/feed
+digitaltrends:
+  name: Digital Trends
+  rss:
+  - https://www.digitaltrends.com/feed/
+geek:
+  name: Geek.com
+  rss:
+  - https://www.geek.com/feed/
+escapistmagazine:
+  name: Escapist Magazine
+  rss:
+  - https://www.escapistmagazine.com/v2/feed/
+  - https://www.escapistmagazine.com/v2/?feed=rss
+heavy:
+  name: Heavy.com
+  rss:
+  - https://heavy.com/feed/
+  - https://heavy.com/entertainment/feed/
+  - https://heavy.com/sports/feed/
+  - https://heavy.com/news/feed/
+  - https://heavy.com/tech/feed/
+  - https://heavy.com/games/feed/
+  - https://heavy.com/streaming/feed/
+  - https://heavy.com/tag/shopping/feed/
+  - https://heavy.com/gifts/feed/
+etonline:
+  name: Entertainment Tonight
+  rss:
+  - https://www.etonline.com/news/rss
+hollywoodlife:
+  name: Hollywood Life
+  rss:
+  - https://hollywoodlife.com/feed/
+  - https://stylecaster.com/feed/
+extratv:
+  name: ExtraTV.com
+  rss:
+  - https://feeds.extratv.com/atom
+  - https://feeds.extratv.com/tags/CelebrityNews/rss
