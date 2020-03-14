@@ -1625,3 +1625,17 @@ elle:
   rules:
     url: https://www.elle.com/culture/celebrities/
     selector: ".item-title"
+theconversation:
+  name: The Conversation
+  rss:
+  - https://theconversation.com/us/home-page/articles.atom
+  - https://theconversation.com/us/home-page/news.atom
+geekwire:
+  name: GeekWire
+  rss:
+  - https://www.geekwire.com/feed/
+gamezone:
+  name: GameZone
+  rss:
+  - https://www.gamezone.com/feed/
+  - https://www.gamezone.com/home/feed/
