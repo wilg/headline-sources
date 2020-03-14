@@ -1523,4 +1523,10 @@ nationalenquirer:
   name: National Enquirer
   rules:
     url: https://www.nationalenquirer.com/
-    selector: ".promo-title"
+    selector: ".postInLine a"
+    text_selector: ".promo-title"
+celebuzz:
+  name: Celebuzz
+  rules:
+    url: https://celebuzz.com/
+    selector: ".article-title a"
