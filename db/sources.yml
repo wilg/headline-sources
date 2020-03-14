@@ -1519,3 +1519,8 @@ extratv:
   rss:
   - https://feeds.extratv.com/atom
   - https://feeds.extratv.com/tags/CelebrityNews/rss
+nationalenquirer:
+  name: National Enquirer
+  rules:
+    url: https://www.nationalenquirer.com/
+    selector: ".promo-title"
