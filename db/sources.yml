@@ -1411,3 +1411,45 @@ dailycaller:
   name: Daily Caller
   rss:
   - http://dailycaller.com/feed/
+popmatters:
+  name: PopMatters
+  rss:
+  - https://www.popmatters.com/feeds/feed.rss
+popculturebrain:
+  name: pop culture brain
+  rss:
+  - https://popculturebrain.com/rss
+theringer:
+  name: The Ringer
+  rss:
+  - https://www.theringer.com/rss/index.xml
+  - https://www.theringer.com/rss/front-page/index.xml
+themarysue:
+  name: The Mary Sue
+  rss:
+  - https://www.themarysue.com/feed/
+thegrandnarrative:
+  name: The Grand Narrative
+  rss:
+  - https://thegrandnarrative.com/feed/
+  - https://thegrandnarrative.com/comments/feed/
+christandpopculture:
+  name: Christ and Pop Culture
+  rss:
+  - https://christandpopculture.com/feed/
+popsugar:
+  name: POPSUGAR
+  rss:
+  - https://www.popsugar.com/feed
+geektyrant:
+  name: GeekTyrant
+  rss:
+  - https://geektyrant.com/news?format=rss
+cinemablend:
+  name: CINEMABLEND
+  rss:
+  - https://feeds.feedburner.com/cinemablendallthing
+collider:
+  name: Collider
+  rss:
+  - https://collider.com/feed/

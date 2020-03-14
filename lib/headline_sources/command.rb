@@ -178,22 +178,26 @@ module HeadlineSources
 
     desc "add", "attempt to add a website to the list of fetchers"
     def add_site(url, id = nil)
-      puts url
-
-      # Find Feeds
-      require "feedbag"
-      feeds = Feedbag.find(url)
-      unless feeds.present?
-        puts "Couldn't find any feeds."
-      end
-      feeds.each do |feed|
-        puts "Found feed: #{feed}"
-      end
+      puts "Examining:       ".cyan + url
 
       uri = URI.parse(url)
       splituri = uri.host.split(".")
       id ||= splituri[-2] == "co" ? splituri[-3] : splituri[-2]
-      puts "ID for source: #{id}"
+      puts "Using ID:        ".cyan + id
+
+      # Find Feeds
+      require "feedbag"
+      feeds = Feedbag.find(url).reject do |feed|
+        next true if feed.include?("sitemap.xml")
+        next true if feed.include?("/comments/")
+        false
+      end
+      unless feeds.present?
+        puts "Couldn't find any feeds.".red
+      end
+      feeds.each do |feed|
+        puts "Found feed:      ".green + feed
+      end
 
       # Update YML
       current = get_config(id) || {}
@@ -209,7 +213,7 @@ module HeadlineSources
       update.delete("rss") if is_dead
 
       if current.blank? && !feeds.present?
-        puts "Not adding because no feeds were found."
+        puts "Not adding because no feeds were found.".red
         return
       end
 
@@ -219,13 +223,13 @@ module HeadlineSources
       require 'faviconduit'
       begin
         fav = Faviconduit.get(url)
-        puts "Found favicon at #{fav.url}"
+        puts "Found favicon:   ".green + fav.url
       rescue Faviconduit::MissingFavicon
-        puts "favicon missing"
+        puts "favicon missing".yellow
       rescue Faviconduit::InvalidFavicon
-        puts "favicon invalid"
+        puts "favicon invalid".yellow
       rescue Errno::ENOENT => e
-        puts "favicon invalid"
+        puts "favicon invalid".yellow
         puts e
       end
 
@@ -239,7 +243,7 @@ module HeadlineSources
         end
         img = Magick::Image.read(path).first
         File.write(img_path, img.to_blob { self.format = "png" })
-        "Saved favicon!"
+        "Favicon saved!".green
       end
 
     end
