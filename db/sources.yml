@@ -608,7 +608,9 @@ n4g:
 pcgamer:
   name: PC Gamer
   category: Geek
-  rss: http://www.pcgamer.com/rss/
+  rss:
+  - http://www.pcgamer.com/rss/
+  - https://www.pcgamer.com/rss
 neoseeker:
   name: Neoseeker
   category: Geek
@@ -1763,3 +1765,9 @@ cbsnews:
   rss:
   - https://www.cbsnews.com/latest/rss/main
   - https://www.cbsnews.com/latest/rss/strange
+ft:
+  name: Financial Times
+  rss:
+  - https://www.ft.com/rss/home
+  - https://www.ft.com/rss/home/international
+  - https://www.ft.com/news-feed
