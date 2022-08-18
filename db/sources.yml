@@ -1870,3 +1870,8 @@ comicbook:
   - https://comicbook.com/feed
   - https://comicbook.com/feed/rss
   - https://comicbook.com/rss
+vox:
+  name: Vox
+  rss:
+  - https://vox.com/rss/index.xml
+  - https://www.vox.com/rss/front-page/index.xml
