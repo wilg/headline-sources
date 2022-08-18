@@ -379,7 +379,6 @@ nymag:
   - http://feeds.feedburner.com/nymag/intelligencer
   - http://feeds.feedburner.com/nymag/fashion
   - http://feeds.feedburner.com/nymag/grubstreet
-  - http://feeds.feedburner.com/nymag/scienceofus
   - http://feeds.feedburner.com/nymag/vulture
 nytimes:
   name: New York Times
@@ -446,6 +445,7 @@ vh1:
 hellogiggles:
   name: HelloGiggles
   category: Entertainment
+  dead: true
   rss:
   - http://hellogiggles.com/feed
 laughingsquid:
@@ -537,6 +537,7 @@ fastcompany:
   - http://www.fastcompany.com/rss.xml
 mtv:
   name: MTV
+  dead: true
   category: Entertainment
   rss: http://www.mtv.com/news/feed/
 mirror:
@@ -548,7 +549,7 @@ theindependent:
   name: The Independent
   category: News
   rss:
-  - https://www.independent.co.uk/us/rss
+  - https://www.independent.co.uk/rss
 telegraph:
   name: The Telegraph
   category: News
@@ -631,7 +632,7 @@ thoughtcatalog:
 elitedaily:
   name: Elite Daily
   category: Hypersensational
-  rss: http://elitedaily.com/feed/
+  rss: https://www.elitedaily.com/rss
 conservativehideout:
   name: Conservative Hideout
   category: Opinion - Conservative
@@ -686,7 +687,7 @@ cookinglight:
 cosmosmagazine:
   name: Cosmos
   rss:
-  - https://cosmosmagazine.com/rss.xml
+  - https://cosmosmagazine.com/feed/
 countryliving:
   name: Country Living
   rules:
@@ -745,6 +746,7 @@ goodhousekeeping:
     href_prefix: http://www.goodhousekeeping.com
 instyle:
   name: Instyle
+  dead: true
   rss:
   - http://www.instyle.com/feeds/newsfeed.xml
 menshealth:
@@ -849,6 +851,7 @@ tonic:
   - http://tonic.vice.com/en_us/rss
 fightland:
   name: Fightland
+  dead: true
   rss:
   - http://fightland.vice.com/rss
 dailydot:
@@ -891,10 +894,10 @@ politicalblindspot:
   rss:
   - https://70news.wordpress.com/feed/
 thefreethoughtproject:
-  name: Thefreethoughtproject
+  name: The Free Thought Project
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
   rss:
-  - http://thefreethoughtproject.com/feed/
+  - https://thefreethoughtproject.com/.rss/full/
 abcnews_com_co:
   name: abcnews.com.co
   dead: true
@@ -903,14 +906,10 @@ abcnews_com_co:
   - http://abcnews.com.co/feed/
   - http://abcnews.com.co/news/feed/
 geoengineeringwatch:
-  name: Geoengineeringwatch
+  name: GeoEngineering Watch
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
   rss:
-  - http://www.geoengineeringwatch.org/feed/
-  - http://www.geoengineeringwatch.org/feed/rss/
-  - http://www.geoengineeringwatch.org/feed/atom/
-  - http://www.geoengineeringwatch.org/vaxxed-director-dr-andrew-wakefield-a-discussion-with-dane-wigington/feed/
-  - http://geoengineeringwatch.org/?feed=rss2
+  - https://www.geoengineeringwatch.org/feed/
 activistpost:
   name: Activistpost
   dead: true
@@ -921,11 +920,13 @@ activistpost:
   - http://www.activistpost.com/feed/podcast
 addictinginfo:
   name: Addictinginfo
+  dead: true
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
   rss:
   - http://addictinginfo.org/feed/
 govtslaves:
   name: Govtslaves
+  dead: true
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
   rss:
   - http://govtslaves.info/feed/
@@ -972,8 +973,7 @@ huzlers:
   name: Huzlers
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
   rss:
-  - http://huzlers.com/feed/
-  - http://huzlers.com/home/feed/
+  - https://huzlers.com/rss
 bigpzone:
   name: Bigpzone
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
@@ -982,6 +982,7 @@ bigpzone:
   - http://TheRundownLive.com/news/feed/
 realnewsrightnow:
   name: Realnewsrightnow
+  dead: true
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
   rss:
   - http://realnewsrightnow.com/feed/
@@ -1007,7 +1008,7 @@ infowars:
   name: Infowars
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
   rss:
-  - https://www.infowars.com/feed/custom_feed_rss
+  - https://www.infowars.com/rss/
 bluenationreview:
   name: Bluenationreview
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
@@ -1079,6 +1080,7 @@ thenewsnerd:
   - http://www.thenewsnerd.com/feed/atom/
 countdowntozerotime:
   name: Countdowntozerotime
+  dead: true
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
   rss:
   - http://countdowntozerotime.com/feed/
@@ -1159,12 +1161,14 @@ dcclothesline:
   - http://www.dcclothesline.com/feed/
 newsbiscuit:
   name: Newsbiscuit
+  dead: true
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
   rss:
   - http://www.newsbiscuit.com/feed/
   - http://www.newsbiscuit.com/feed/atom/
 dcgazette:
   name: Dcgazette
+  dead: true
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
   rss:
   - http://thedcgazette.com/feed/
@@ -1196,11 +1200,9 @@ duffelblog:
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
   rss:
   - http://www.duffelblog.com/feed/
-  - http://www.duffelblog.com/feed/rss/
-  - http://www.duffelblog.com/feed/atom/
-  - http://www.duffelblog.com/homepage2/feed/
 witscience:
   name: Witscience
+  dead: true
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
   rss:
   - http://witscience.org/feed/
@@ -1208,6 +1210,7 @@ witscience:
   - http://witscience.org/feed/atom/
 duhprogressive:
   name: Duhprogressive
+  dead: true
   fake_source: http://www.dailydot.com/layer8/fake-news-sites-list-facebook/
   rss:
   - http://duhprogressive.com/~duhprogr/index.php?format=feed&type=rss
@@ -1258,7 +1261,6 @@ morningconsult:
   name: Morning Consult
   rss:
   - https://morningconsult.com/feed/
-  - https://morningconsult.com/home-2-2/feed/
 csmonitor:
   name: The Christian Science Monitor
   rss:
@@ -1326,8 +1328,8 @@ thefederalist:
 talkingpointsmemo:
   name: Talking Points Memo
   rss:
-  - http://talkingpointsmemo.com/feed/all
-  - http://talkingpointsmemo.com/feed/edblog
+  - https://talkingpointsmemo.com/feed
+  - https://talkingpointsmemo.com/edblog/feed
 motherjones:
   name: Mother Jones
   rss:
@@ -1353,13 +1355,14 @@ truthdig:
 theintercept:
   name: The Intercept
   rss:
-  - https://theintercept.com/sitemap_index.xml
+  - https://theintercept.com/feed/?rss
 indarktimes:
   name: In Dark Times
   rss:
   - https://www.indarktimes.com/feed/
 liberaladvocate:
   name: The Liberal Advocate
+  dead: true
   rss:
   - https://liberaladvocate.com/feed/
 worldtruth:
@@ -1376,7 +1379,7 @@ dailymail:
 miamiherald:
   name: Miami Herald
   rss:
-  - https://feeds.mcclatchy.com/miamiherald/sections/stories
+  - https://feeds.mcclatchy.com/miamiherald/stories
 dnyuz:
   name: DNyuz
   rss:
@@ -1404,7 +1407,7 @@ militarytimes:
 newsmax:
   name: Newsmax
   rss:
-  - https://www.newsmax.com/rss/Newsfront/16
+  - https://www.newsmax.com/rss/Newsfront/16/
 dailycaller:
   name: Daily Caller
   rss:
@@ -1412,9 +1415,10 @@ dailycaller:
 popmatters:
   name: PopMatters
   rss:
-  - https://www.popmatters.com/feeds/feed.rss
+  - https://www.popmatters.com/feed
 popculturebrain:
   name: pop culture brain
+  dead: true
   rss:
   - https://popculturebrain.com/rss
 theringer:
@@ -1530,12 +1534,13 @@ celebuzz:
     selector: ".article-title a"
 celebritygossip:
   name: Celebrity Gossip
+  dead: true
   rss:
   - http://www.celebritygossip.com/feed/
 perezhilton:
   name: Perez Hilton
   rss:
-  - https://perezhilton.com/sitemap-news.xml
+  - https://perezhilton.com/feed/
 pinkisthenewblog:
   name: Pink Is The New Blog
   rss:
@@ -1585,6 +1590,7 @@ hellomagazine:
   - https://www.hellomagazine.com/rss.xml
 infdaily:
   name: INF Daily
+  dead: true
   rss:
   - https://infdaily.com/feed/
 okmagazine:
@@ -1601,8 +1607,6 @@ wesmirch:
   name: WeSmirch
   rss:
   - http://www.wesmirch.com/feed.xml
-  - https://add.my.yahoo.com/rss?url=http://www.wesmirch.com/feed.xml
-  - https://fusion.google.com/add?feedurl=http://www.wesmirch.com/feed.xml
 techmeme:
   name: Techmeme
   rss:
@@ -1616,6 +1620,7 @@ wwtdd:
     selector: ".single-post h2 a"
 x17online:
   name: X17online
+  dead: true
   rss:
   - https://www.x17online.com/rss.xml
 elle:

@@ -17,18 +17,29 @@ module HeadlineSources
     def perform_partial_fetch!
       [feed_url].flatten.peach do |url|
         puts url
-        xml = HTTParty.get(url, timeout: 5).body
-        feed = Feedjira.parse(xml)
-        if feed.respond_to?(:entries)
-          feed.entries.each do |entry|
-            if entry.title
-              h = Headline.new(entry.title)
-              h.url  = entry.url
-              h.date = entry.published
-              h.author = entry.author
-              add_headline! h
+        begin
+          res = HTTParty.get(url, timeout: 5)
+          xml = res.body
+          if xml.blank?
+            raise "Empty XML"
+          elsif res.code != 200
+            raise "HTTP Error #{res.code}"
+          end
+          feed = Feedjira.parse(xml)
+          if feed.respond_to?(:entries)
+            feed.entries.each do |entry|
+              if entry.title
+                h = Headline.new(entry.title)
+                h.url  = entry.url
+                h.date = entry.published
+                h.author = entry.author
+                add_headline! h
+              end
             end
           end
+        rescue
+          puts "Error fetching #{url}".red
+          puts $!.message.red
         end
       end
       :done
