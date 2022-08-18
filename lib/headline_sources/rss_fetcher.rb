@@ -15,7 +15,8 @@ module HeadlineSources
 
     def perform_partial_fetch!
       [feed_url].flatten.each do |url|
-        feed = Feedjira::Feed.fetch_and_parse(url)
+        xml = HTTParty.get(url).body
+        feed = Feedjira.parse(xml)
         if feed.respond_to?(:entries)
           puts feed.url
           feed.entries.each do |entry|
