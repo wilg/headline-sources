@@ -1689,3 +1689,7 @@ levernews:
   name: Levernews
   rss:
   - https://www.levernews.com/rss/
+siliconera:
+  name: Siliconera
+  rss:
+  - https://www.siliconera.com/feed/
