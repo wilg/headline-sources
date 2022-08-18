@@ -197,7 +197,12 @@ module HeadlineSources
 
       # Find Feeds
       require "feedbag"
-      feeds = Feedbag.find(url).reject do |feed|
+
+      nrm_url = url.end_with?("/") ? url.chop : url.to_s
+      feed_urls = [url, nrm_url, "#{nrm_url}/feed", "#{nrm_url}/feed/rss", "#{nrm_url}/feed/atom", "#{nrm_url}/rss", "#{nrm_url}/atom", "#{nrm_url}/feeds", "#{nrm_url}/feeds/rss", "#{nrm_url}/feeds/atom"]
+
+      feeds = feed_urls.map { |f| Feedbag.find(f) }.flatten.uniq
+      feeds = feeds.reject do |feed|
         next true if feed.include?("sitemap.xml")
         next true if feed.include?("/comments/")
         false

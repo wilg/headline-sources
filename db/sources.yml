@@ -1746,3 +1746,6 @@ fortune:
   name: Fortune
   rss:
   - https://fortune.com/rss
+  - https://www.fortune.com/feed/rss
+  - https://www.fortune.com/feed/atom
+  - https://www.fortune.com/rss
