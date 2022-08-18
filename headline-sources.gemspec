@@ -24,7 +24,7 @@ Gem::Specification.new do |spec|
   spec.add_dependency "thor"
   spec.add_dependency "activesupport", "< 5"
   spec.add_dependency "foreman"
-  spec.add_dependency "activerecord", "< 5"
+  spec.add_dependency "activerecord", "< 5", ">= 4.2.11.3"
   spec.add_dependency "pg"
   spec.add_dependency "feedjira"
   spec.add_dependency "sanitize"
