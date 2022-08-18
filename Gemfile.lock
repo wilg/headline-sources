@@ -2,8 +2,8 @@ PATH
   remote: .
   specs:
     headline_sources (0.0.1)
-      activerecord
-      activesupport
+      activerecord (< 5)
+      activesupport (< 5)
       colorize
       feedjira
       foreman
@@ -55,14 +55,16 @@ GEM
     json (1.8.6)
     loofah (2.0.2)
       nokogiri (>= 1.5.9)
-    mini_portile2 (2.4.0)
+    mini_portile2 (2.8.0)
     minitest (5.6.1)
     multi_xml (0.5.5)
-    nokogiri (1.10.9)
-      mini_portile2 (~> 2.4.0)
+    nokogiri (1.13.8)
+      mini_portile2 (~> 2.8.0)
+      racc (~> 1.4)
     nokogumbo (1.4.1)
       nokogiri
-    pg (0.18.1)
+    pg (1.4.3)
+    racc (1.6.0)
     rake (10.1.1)
     rmagick (4.1.0.rc2)
     sanitize (4.0.0)
@@ -90,7 +92,7 @@ DEPENDENCIES
   rmagick (>= 4.1.0.rc2)
 
 RUBY VERSION
-   ruby 2.4.9p362
+   ruby 2.7.6p219
 
 BUNDLED WITH
-   2.0.2
+   2.1.4
