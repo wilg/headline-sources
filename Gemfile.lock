@@ -10,6 +10,7 @@ PATH
       htmlentities
       nokogiri
       pg
+      pmap
       sanitize
       snoo
       thor
@@ -61,6 +62,7 @@ GEM
       mini_portile2 (~> 2.8.0)
       racc (~> 1.4)
     pg (1.4.3)
+    pmap (1.1.1)
     racc (1.6.0)
     rake (13.0.6)
     rmagick (4.1.0.rc2)

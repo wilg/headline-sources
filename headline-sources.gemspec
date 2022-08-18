@@ -29,6 +29,7 @@ Gem::Specification.new do |spec|
   spec.add_dependency "feedjira"
   spec.add_dependency "sanitize"
   spec.add_dependency "htmlentities"
+  spec.add_dependency "pmap"
 
   spec.add_development_dependency "bundler"
   spec.add_development_dependency "rake"

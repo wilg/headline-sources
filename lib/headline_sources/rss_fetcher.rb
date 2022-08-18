@@ -3,6 +3,7 @@ require 'open-uri'
 require "headline_sources/fetcher"
 require 'sanitize'
 require 'htmlentities'
+require 'pmap'
 
 module HeadlineSources
   class RSSFetcher < Fetcher
@@ -14,9 +15,9 @@ module HeadlineSources
     end
 
     def perform_partial_fetch!
-      [feed_url].flatten.each do |url|
+      [feed_url].flatten.peach do |url|
         puts url
-        xml = HTTParty.get(url).body
+        xml = HTTParty.get(url, timeout: 5).body
         feed = Feedjira.parse(xml)
         if feed.respond_to?(:entries)
           feed.entries.each do |entry|

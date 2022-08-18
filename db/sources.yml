@@ -106,8 +106,8 @@ nypost:
   category: Opinion - Conservative
   default: false
   rss:
-    - http://nypost.com/feed/
-    - http://pagesix.com/feed/
+  - http://nypost.com/feed/
+  - http://pagesix.com/feed/
 huffpost_blogs:
   name: Huffington Post
   category: Opinion - Progressive
@@ -367,13 +367,7 @@ npr:
   category: News
   default: false
   rss:
-  - https://www.npr.org/rss/rss.php?id=1002
-  - https://www.npr.org/rss/rss.php?id=1001
-  - https://www.npr.org/rss/rss.php?id=1039
-  - https://www.npr.org/rss/rss.php?id=1032
-  - https://www.npr.org/rss/rss.php?id=3
-  - https://www.npr.org/rss/rss.php?id=2
-  - https://www.npr.org/rss/rss.php?id=35
+  - https://feeds.npr.org/1001/rss.xml
 slate:
   name: Slate
   category: News
@@ -437,6 +431,7 @@ time:
 people:
   name: People
   category: Entertainment
+  dead: true
   rss:
   - http://people.com/feed/
 msnbc:
