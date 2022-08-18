@@ -18,3 +18,4 @@ _yardoc
 doc/
 db/*.txt
 db/fetch_progress.yml
+.DS_Store

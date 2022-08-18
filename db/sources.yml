@@ -427,6 +427,8 @@ time:
   name: Time
   category: News
   dead: true
+  rss:
+  - https://time.com/section/newsfeed/
 people:
   name: People
   category: Entertainment
@@ -1728,3 +1730,19 @@ economist:
   - https://www.economist.com/obituary/rss.xml
   - https://www.economist.com/graphic-detail/rss.xml
   - https://www.economist.com/economic-and-financial-indicators/rss.xml
+yahoo:
+  name: Yahoo News
+  rss:
+  - https://news.yahoo.com/rss
+beckernews:
+  name: Becker News
+  rss:
+  - https://beckernews.com/feed/
+bitcoinmagazine:
+  name: Bitcoin Magazine
+  rss:
+  - https://bitcoinmagazine.com/.rss/full/
+fortune:
+  name: Fortune
+  rss:
+  - https://fortune.com/rss
