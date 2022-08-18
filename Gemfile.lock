@@ -37,8 +37,9 @@ GEM
     faviconduit (0.1.0)
       addressable
       nokogiri
-    feedbag (0.9.5)
-      nokogiri (~> 1.0)
+    feedbag (0.10.1)
+      nokogiri (~> 1.8, >= 1.8.2)
+      open_uri_redirections (~> 0.2)
     feedjira (3.2.1)
       loofah (>= 2.3.1)
       sax-machine (>= 1.0)
@@ -61,6 +62,7 @@ GEM
     nokogiri (1.13.8)
       mini_portile2 (~> 2.8.0)
       racc (~> 1.4)
+    open_uri_redirections (0.2.1)
     pg (1.4.3)
     pmap (1.1.1)
     racc (1.6.0)
