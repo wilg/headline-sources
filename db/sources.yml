@@ -1671,3 +1671,21 @@ counterpunch:
   name: CounterPunch
   rss:
   - https://www.counterpunch.org/feed/
+jacobin:
+  name: Jacobin
+  rss:
+  - https://jacobin.com/feed/
+zooborns:
+  name: Zooborns
+  rss:
+  - https://www.zooborns.com/zooborns/atom.xml
+  - https://www.zooborns.com/zooborns/index.rdf
+  - https://www.zooborns.com/zooborns/rss.xml
+pinknews:
+  name: PinkNews
+  rss:
+  - https://www.pinknews.co.uk/feed/
+levernews:
+  name: Levernews
+  rss:
+  - https://www.levernews.com/rss/
