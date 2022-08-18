@@ -1771,3 +1771,102 @@ ft:
   - https://www.ft.com/rss/home
   - https://www.ft.com/rss/home/international
   - https://www.ft.com/news-feed
+propublica:
+  name: ProPublica
+  rss:
+  - https://www.propublica.org/feeds
+washingtonpolicy:
+  name: Washington Policy Center
+  rss:
+  - https://www.washingtonpolicy.org/rss
+rumble:
+  name: Rumble
+  rss:
+  - https://www.rumble.com/c/RockFeed
+westernjournal:
+  name: The Western Journal
+  rss:
+  - https://www.westernjournal.com/wp-json/wp/v2/pages/2594454
+  - https://www.westernjournal.com/feed
+  - https://www.westernjournal.com/feed/rss
+  - https://www.westernjournal.com/feed/atom
+  - https://www.westernjournal.com/rss
+  - https://www.westernjournal.com/atom
+thehill:
+  name: The Hill
+  rss:
+  - https://thehill.com/feed/
+  - https://thehill.com/feed
+  - https://thehill.com/feed/rss
+  - https://thehill.com/feed/atom
+  - https://thehill.com/rss
+  - https://thehill.com/atom
+  - https://thehill.com/feeds/rss
+  - https://thehill.com/feeds/atom
+soompi:
+  name: Soompi
+  rss:
+  - https://www.soompi.com/feed
+metro:
+  name: Metro.co.uk
+  rss:
+  - https://www.metro.co.uk/feed/
+  - https://www.metro.co.uk/entertainment/feed/
+  - https://www.metro.co.uk/lifestyle/feed/
+  - https://www.metro.co.uk/news/feed/
+  - https://www.metro.co.uk/tv-soaps/feed/
+  - https://www.metro.co.uk/feed
+  - https://www.metro.co.uk/feed/rss
+  - https://www.metro.co.uk/feed/atom
+  - https://www.metro.co.uk/rss
+  - https://www.metro.co.uk/atom
+  - https://www.metro.co.uk/feeds/rss
+  - https://www.metro.co.uk/feeds/atom
+cbc:
+  name: CBC.ca
+  rss:
+  - https://rss.cbc.ca/lineup/topstories.xml
+  - https://rss.cbc.ca/lineup/world.xml
+  - https://rss.cbc.ca/lineup/canada.xml
+  - https://rss.cbc.ca/lineup/politics.xml
+  - https://rss.cbc.ca/lineup/business.xml
+  - https://rss.cbc.ca/lineup/health.xml
+  - https://rss.cbc.ca/lineup/arts.xml
+  - https://rss.cbc.ca/lineup/technology.xml
+  - https://rss.cbc.ca/lineup/offbeat.xml
+  - https://rss.cbc.ca/lineup/sports.xml
+  - https://rss.cbc.ca/lineup/sports-mlb.xml
+  - https://rss.cbc.ca/lineup/sports-nba.xml
+  - https://rss.cbc.ca/lineup/sports-curling.xml
+  - https://rss.cbc.ca/lineup/sports-cfl.xml
+  - https://rss.cbc.ca/lineup/sports-nfl.xml
+  - https://rss.cbc.ca/lineup/sports-nhl.xml
+  - https://rss.cbc.ca/lineup/sports-soccer.xml
+  - https://rss.cbc.ca/lineup/sports-figureskating.xml
+  - https://rss.cbc.ca/lineup/canada-britishcolumbia.xml
+  - https://rss.cbc.ca/lineup/canada-kamloops.xml
+  - https://rss.cbc.ca/lineup/canada-calgary.xml
+  - https://rss.cbc.ca/lineup/canada-edmonton.xml
+  - https://rss.cbc.ca/lineup/canada-saskatchewan.xml
+  - https://rss.cbc.ca/lineup/canada-saskatoon.xml
+  - https://rss.cbc.ca/lineup/canada-manitoba.xml
+  - https://rss.cbc.ca/lineup/canada-thunderbay.xml
+  - https://rss.cbc.ca/lineup/canada-sudbury.xml
+  - https://rss.cbc.ca/lineup/canada-windsor.xml
+  - https://rss.cbc.ca/lineup/canada-kitchenerwaterloo.xml
+  - https://rss.cbc.ca/lineup/canada-toronto.xml
+  - https://rss.cbc.ca/lineup/canada-hamilton.xml
+  - https://rss.cbc.ca/lineup/canada-hamiltonnews.xml
+  - https://rss.cbc.ca/lineup/canada-montreal.xml
+  - https://rss.cbc.ca/lineup/canada-newbrunswick.xml
+  - https://rss.cbc.ca/lineup/canada-pei.xml
+  - https://rss.cbc.ca/lineup/canada-novascotia.xml
+  - https://rss.cbc.ca/lineup/canada-newfoundland.xml
+  - https://rss.cbc.ca/lineup/canada-north.xml
+  - https://rss.cbc.ca/lineup/thenational.xml
+comicbook:
+  name: ComicBook.com
+  rss:
+  - https://comicbook.com/feed
+  - https://comicbook.com/feed/rss
+  - https://comicbook.com/rss
