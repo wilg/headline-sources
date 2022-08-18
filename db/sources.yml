@@ -1693,3 +1693,38 @@ siliconera:
   name: Siliconera
   rss:
   - https://www.siliconera.com/feed/
+economist:
+  name: Economist
+  rss:
+  - https://www.economist.com/bagehots-notebook/rss.xml
+  - https://www.economist.com/bartleby/rss.xml
+  - https://www.economist.com/buttonwoods-notebook/rss.xml
+  - https://www.economist.com/charlemagnes-notebook/rss.xml
+  - https://www.economist.com/democracy-in-america/rss.xml
+  - https://www.economist.com/erasmus/rss.xml
+  - https://www.economist.com/free-exchange/rss.xml
+  - https://www.economist.com/game-theory/rss.xml
+  - https://www.economist.com/gulliver/rss.xml
+  - https://www.economist.com/kaffeeklatsch/rss.xml
+  - https://www.economist.com/prospero/rss.xml
+  - https://www.economist.com/the-economist-explains/rss.xml
+  - https://www.economist.com/the-world-this-week/rss.xml
+  - https://www.economist.com/letters/rss.xml
+  - https://www.economist.com/leaders/rss.xml
+  - https://www.economist.com/briefing/rss.xml
+  - https://www.economist.com/special-report/rss.xml
+  - https://www.economist.com/britain/rss.xml
+  - https://www.economist.com/europe/rss.xml
+  - https://www.economist.com/united-states/rss.xml
+  - https://www.economist.com/the-americas/rss.xml
+  - https://www.economist.com/middle-east-and-africa/rss.xml
+  - https://www.economist.com/asia/rss.xml
+  - https://www.economist.com/china/rss.xml
+  - https://www.economist.com/international/rss.xml
+  - https://www.economist.com/business/rss.xml
+  - https://www.economist.com/finance-and-economics/rss.xml
+  - https://www.economist.com/science-and-technology/rss.xml
+  - https://www.economist.com/books-and-arts/rss.xml
+  - https://www.economist.com/obituary/rss.xml
+  - https://www.economist.com/graphic-detail/rss.xml
+  - https://www.economist.com/economic-and-financial-indicators/rss.xml
