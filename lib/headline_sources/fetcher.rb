@@ -25,6 +25,7 @@ module HeadlineSources
 
       @dont_write_progress = true if !saved_progress.nil? && options[:write_progress] == false
       @progress = options[:start_at] || 1
+      @quiet = options[:quiet] == true
 
       perform_fetch!
 
@@ -56,7 +57,7 @@ module HeadlineSources
           @new_count += added.length
           @dup_count += @batch.length - added.length
 
-          unless ENV['FETCHER_QUIET'].to_i == 1
+          unless ENV['FETCHER_QUIET'].to_i == 1 || @quiet
             @batch.each do |h|
               s = "    -> " + h.name
               if added.any?{|add| add.name == h.name}

@@ -78,7 +78,7 @@ free_republic:
   category: Opinion - Conservative
   default: false
   rss:
-  - http://www.freerepublic.com/tag/*/feed.rss
+  - https://freerepublic.com/tag/*/feed.rss
 cns_news:
   name: CNS News
   category: Opinion - Conservative
@@ -101,11 +101,13 @@ sb_nation:
   default: false
   rss:
   - https://www.sbnation.com/rss/current.xml
-  - https://www.sbnation.com/rss/front-page/index.xml
 nypost:
   name: New York Post
   category: Opinion - Conservative
   default: false
+  rss:
+    - http://nypost.com/feed/
+    - http://pagesix.com/feed/
 huffpost_blogs:
   name: Huffington Post
   category: Opinion - Progressive
@@ -128,7 +130,6 @@ huffpost_blogs:
   - https://www.huffpost.com/section/taste/feed
   - https://www.huffpost.com/section/health/feed
   - https://www.huffpost.com/section/huffpost-home/feed
-  - https://www.huffpost.com/section/huffpost-code/feed
   - https://www.huffpost.com/section/huffpost-personal/feed
   - https://www.huffpost.com/section/impact/feed
   - https://www.huffpost.com/section/latino-voices/feed
@@ -219,6 +220,8 @@ spin:
   name: Spin
   category: Entertainment
   default: false
+  rss:
+  - https://www.spin.com/feed/
 thegloss:
   name: The Gloss
   category: Misc.

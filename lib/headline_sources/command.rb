@@ -73,7 +73,7 @@ module HeadlineSources
         puts "Checking source #{source.name} (#{source.id})".cyan
         begin
           source.fetchers(MemoryStore).each do |fetcher|
-            fetcher.fetch!({start_at: 0, write_progress: false, dry_run: true})
+            fetcher.fetch!({start_at: 0, write_progress: false, dry_run: true, quiet: true})
             if fetcher.new_headlines_this_run.zero?
               puts "Fetcher #{fetcher.class.to_s} ran, but did not fetch any headlines. It may be broken.".red
               raise

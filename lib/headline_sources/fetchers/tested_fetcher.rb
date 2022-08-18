@@ -26,18 +26,4 @@ module HeadlineSources
       "http://www.tested.com/feeds/"
     end
   end
-
-  class TestedFetcher2 < Scraper
-
-    include TestedExclusions
-
-    def url_for_progress(i)
-      "http://www.tested.com/?&p=#{i}"
-    end
-
-    def headline_css_selector
-      'article header a.title'
-    end
-
-  end
 end

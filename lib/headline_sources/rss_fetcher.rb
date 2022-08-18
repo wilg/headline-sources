@@ -15,10 +15,10 @@ module HeadlineSources
 
     def perform_partial_fetch!
       [feed_url].flatten.each do |url|
+        puts url
         xml = HTTParty.get(url).body
         feed = Feedjira.parse(xml)
         if feed.respond_to?(:entries)
-          puts feed.url
           feed.entries.each do |entry|
             if entry.title
               h = Headline.new(entry.title)
