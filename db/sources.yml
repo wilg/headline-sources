@@ -1749,3 +1749,17 @@ fortune:
   - https://www.fortune.com/feed/rss
   - https://www.fortune.com/feed/atom
   - https://www.fortune.com/rss
+inverse:
+  name: Inverse
+  rss:
+  - https://www.inverse.com/rss
+gq:
+  name: GQ
+  rss:
+  - https://www.gq.com/feed/rss
+  - https://www.gq.com/rss
+cbsnews:
+  name: CBS News
+  rss:
+  - https://www.cbsnews.com/latest/rss/main
+  - https://www.cbsnews.com/latest/rss/strange
